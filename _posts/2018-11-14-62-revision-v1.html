@@ -74,7 +74,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":208} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/R-B-Woodpecker-1.mp3"></audio><br />
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/R-B-Woodpecker-1.mp3"></audio><br />
 <figcaption>The raspy call of the Red-bellied Woodpecker</figcaption>
 </figure>
 <p><!-- /wp:audio --></p>

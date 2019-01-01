@@ -29,7 +29,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":252} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1120488.jpg" alt="" class="wp-image-252"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1120488.jpg" alt="" class="wp-image-252"/></figure>
 
 
 
@@ -45,7 +45,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":207} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/3-21-Pine-Warbler.mp3"></audio><br />
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/3-21-Pine-Warbler.mp3"></audio><br />
 <figcaption>Pine Warbler</figcaption>
 </figure>
 <p><!-- /wp:audio --></p>
@@ -68,7 +68,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":254} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1000139.jpg" alt="" class="wp-image-254"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1000139.jpg" alt="" class="wp-image-254"/></figure>
 
 
 
@@ -102,7 +102,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":255} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1050424.jpg" alt="" class="wp-image-255"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1050424.jpg" alt="" class="wp-image-255"/></figure>
 
 
 
@@ -118,7 +118,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":256} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1080358.jpg" alt="" class="wp-image-256"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1080358.jpg" alt="" class="wp-image-256"/></figure>
 
 
 
@@ -134,7 +134,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":257} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1090613.jpg" alt="" class="wp-image-257"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1090613.jpg" alt="" class="wp-image-257"/></figure>
 
 
 

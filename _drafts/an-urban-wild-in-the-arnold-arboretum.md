@@ -133,7 +133,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":197} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Wood-Thrush-2.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Wood-Thrush-2.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 

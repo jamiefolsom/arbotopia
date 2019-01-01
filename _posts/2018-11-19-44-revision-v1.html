@@ -36,7 +36,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":356} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Com-Loon.wav"></audio><br />
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Com-Loon.wav"></audio><br />
 <figcaption><br>Sound recording courtesy of LangElliott NatureSound Studio&nbsp;<br>&nbsp;</figcaption>
 </figure>
 <p><!-- /wp:audio --></p>

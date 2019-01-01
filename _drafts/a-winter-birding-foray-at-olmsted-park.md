@@ -37,7 +37,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":288} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1110518.jpg" alt="" class="wp-image-288"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1110518.jpg" alt="" class="wp-image-288"/></figure>
 
 
 
@@ -53,7 +53,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":289} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1070671.jpg" alt="" class="wp-image-289"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1070671.jpg" alt="" class="wp-image-289"/></figure>
 
 
 
@@ -123,7 +123,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":290} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1080665_1.jpg" alt="" class="wp-image-290"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1080665_1.jpg" alt="" class="wp-image-290"/></figure>
 
 
 
@@ -139,7 +139,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":287} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1090246-1.jpg" alt="" class="wp-image-287"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1090246-1.jpg" alt="" class="wp-image-287"/></figure>
 
 
 
@@ -155,7 +155,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":286} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/2-84-Winter-Wren.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/2-84-Winter-Wren.wav"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 

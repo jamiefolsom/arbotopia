@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":142} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1020388.jpg" alt="" class="wp-image-142"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1020388.jpg" alt="" class="wp-image-142"/></figure>
 
 
 
@@ -59,7 +59,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":222} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Red-eyed-Vireo-1.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Red-eyed-Vireo-1.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 
@@ -68,7 +68,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":118} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Warbling-vireo.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Warbling-vireo.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 
@@ -77,7 +77,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":223} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/E.Wood-pewee-1.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/E.Wood-pewee-1.wav"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 
@@ -164,7 +164,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":144} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1050177.jpg" alt="" class="wp-image-144"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1050177.jpg" alt="" class="wp-image-144"/></figure>
 
 
 
@@ -257,7 +257,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":145} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/Redbud.jpg" alt="" class="wp-image-145"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/Redbud.jpg" alt="" class="wp-image-145"/></figure>
 
 
 
@@ -283,7 +283,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":146} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/IMG_0381.jpg" alt="" class="wp-image-146"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/IMG_0381.jpg" alt="" class="wp-image-146"/></figure>
 
 
 

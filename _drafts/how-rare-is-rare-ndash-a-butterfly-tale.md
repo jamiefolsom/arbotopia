@@ -101,7 +101,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":234} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/Dutchmans-Pipe-Aristolochia-macrophylla-1112-88-A.jpg" alt="" class="wp-image-234"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/Dutchmans-Pipe-Aristolochia-macrophylla-1112-88-A.jpg" alt="" class="wp-image-234"/></figure>
 
 
 

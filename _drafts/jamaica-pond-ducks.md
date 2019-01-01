@@ -36,7 +36,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":269} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/IMG_3396.jpg" alt="" class="wp-image-269"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/IMG_3396.jpg" alt="" class="wp-image-269"/></figure>
 
 
 
@@ -52,7 +52,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":270} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P3090003.jpg" alt="" class="wp-image-270"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P3090003.jpg" alt="" class="wp-image-270"/></figure>
 
 
 
@@ -68,7 +68,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":271} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/Mallard-decoy.jpg" alt="" class="wp-image-271"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/Mallard-decoy.jpg" alt="" class="wp-image-271"/></figure>
 
 
 
@@ -84,7 +84,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":272} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1010006.jpg" alt="" class="wp-image-272"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1010006.jpg" alt="" class="wp-image-272"/></figure>
 
 
 
@@ -100,7 +100,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":57} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/image.jpeg" alt="" class="wp-image-57"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/image.jpeg" alt="" class="wp-image-57"/></figure>
 
 
 
@@ -116,7 +116,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":273} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1130205.jpg" alt="" class="wp-image-273"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1130205.jpg" alt="" class="wp-image-273"/></figure>
 
 
 
@@ -132,7 +132,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":274} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1030575.jpg" alt="" class="wp-image-274"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1030575.jpg" alt="" class="wp-image-274"/></figure>
 
 
 
@@ -142,7 +142,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":275} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1030573.jpg" alt="" class="wp-image-275"/><br />
+<figure class="wp-block-image"><img src="/images/2018/11/P1030573.jpg" alt="" class="wp-image-275"/><br />
 <figcaption>Two female Ruddies and a male (back) showing the more prominent white cheek patch and the bill beginning to develop the intense blue of a breeding duck.</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":276} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1160589.jpg" alt="" class="wp-image-276"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1160589.jpg" alt="" class="wp-image-276"/></figure>
 
 
 
@@ -176,7 +176,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":277} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1030595.jpg" alt="" class="wp-image-277"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1030595.jpg" alt="" class="wp-image-277"/></figure>
 
 
 
@@ -192,7 +192,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":278} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1220480.jpg" alt="" class="wp-image-278"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1220480.jpg" alt="" class="wp-image-278"/></figure>
 
 
 
@@ -208,7 +208,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":279} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1090216.jpg" alt="" class="wp-image-279"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1090216.jpg" alt="" class="wp-image-279"/></figure>
 
 
 
@@ -224,7 +224,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":283} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1170660-1.jpg" alt="" class="wp-image-283"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1170660-1.jpg" alt="" class="wp-image-283"/></figure>
 
 
 

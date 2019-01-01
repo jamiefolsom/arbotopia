@@ -85,7 +85,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":206} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Chipping-Sparrow-1.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Chipping-Sparrow-1.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 
@@ -106,7 +106,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":209} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/3-21-Pine-Warbler.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/3-21-Pine-Warbler.wav"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 

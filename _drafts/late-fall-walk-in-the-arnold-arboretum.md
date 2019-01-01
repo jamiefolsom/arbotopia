@@ -79,7 +79,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":314} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/2-28-Belted-Kingfisher.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/2-28-Belted-Kingfisher.wav"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 

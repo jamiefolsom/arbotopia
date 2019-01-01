@@ -37,7 +37,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":296} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1080186.jpg" alt="" class="wp-image-296"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1080186.jpg" alt="" class="wp-image-296"/></figure>
 
 
 

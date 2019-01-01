@@ -53,7 +53,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":389} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/Wood-Duck-f..jpg" alt="" class="wp-image-389"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/Wood-Duck-f..jpg" alt="" class="wp-image-389"/></figure>
 
 
 
@@ -133,7 +133,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":393} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/Black-2.jpg" alt="" class="wp-image-393"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/Black-2.jpg" alt="" class="wp-image-393"/></figure>
 
 
 
@@ -231,7 +231,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":276} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1160589-1024x839.jpg" alt="" class="wp-image-276"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1160589-1024x839.jpg" alt="" class="wp-image-276"/></figure>
 
 
 

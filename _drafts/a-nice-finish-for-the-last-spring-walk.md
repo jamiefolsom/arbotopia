@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":127} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1050239.jpg" alt="" class="wp-image-127"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1050239.jpg" alt="" class="wp-image-127"/></figure>
 
 
 
@@ -63,7 +63,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":196} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Warbling-vireo-1.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Warbling-vireo-1.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 
@@ -78,7 +78,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":119} --></p>
-<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1030005_1.jpg" alt="" class="wp-image-119"/></figure>
+<figure class="wp-block-image"><img src="/images/2018/11/P1030005_1.jpg" alt="" class="wp-image-119"/></figure>
 
 
 
@@ -110,7 +110,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":195} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/E.Wood-pewee.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/E.Wood-pewee.wav"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 
@@ -157,7 +157,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":197} --></p>
-<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Wood-Thrush-2.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Wood-Thrush-2.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
 
 
