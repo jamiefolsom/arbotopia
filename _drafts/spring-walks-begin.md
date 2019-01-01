@@ -1,0 +1,259 @@
+---
+layout: post
+status: draft
+title: Spring Walks Begin!
+author:
+  display_name: admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 104
+wordpress_url: https://arbotopia.com/?p=104
+date: '2018-11-13 17:13:44 -0500'
+categories:
+- Bird Walks
+- Avian
+- Arnold Arboretum
+- Plants &amp; Trees
+- Waterfowl
+- Mammals
+tags: []
+comments: []
+---
+<p><!-- wp:paragraph --></p>
+<p>Posted on&nbsp;<a href="https://web.archive.org/web/20180602142840/http://www.arbotopia.com/spring-walks-begin/">April 30, 2018</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The weather was&nbsp;quite different for the two spring bird walks I led this weekend; Saturday was sunny and quite warm but Sunday was cool and cloudy with occasional rain.&nbsp; The attendance was reflected by the weather; 46 on Saturday and 17 on Sunday.&nbsp; The locale for the first was the Arnold Arboretum, designed by Fredrick Law Olmsted, and the second was another Olmsted creation farther down the Emerald Necklace at&nbsp;<a href="https://web.archive.org/web/20180602142840/https://goo.gl/8ocH2s">Leverett Pond</a>&nbsp;and Olmsted Park.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>In the Arboretum we ticked off some resident birds as our large group moved down Meadow Road; Song Sparrow, Red-belied Woodpecker, Common Grackle and American Goldfinch.&nbsp; Here are&nbsp;some images&nbsp;of them:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":200} --></p>
+<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1280094.jpg" alt="" class="wp-image-200"/><br />
+<figcaption>A resident Song Sparrow, showing it&rsquo;s streaky breast coalescing into a central spot.</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:image {"id":128,"align":"right"} --></p>
+<div class="wp-block-image">
+<figure class="alignright"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1030156.jpg" alt="" class="wp-image-128"/><br />
+<figcaption>Male Red-bellied woodpecker</figcaption>
+</figure>
+</div>
+<p><!-- /wp:image --></p>
+<p><!-- wp:image {"id":1631} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/04/P1100068.jpg" alt="" class="wp-image-1631"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p style="text-align:center">The Common Grackle in some light is solid black, but can show a beautiful iridescence on the head setting off its white eyes.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":130} --></p>
+<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1080609.jpg" alt="" class="wp-image-130"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>American Goldfinches are rather drab in winter but the spring plumage is striking, often looking like warbler at first glance.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>My co-leader Brendan pointed out a Tree Swallow peeking out of a nest box that he had erected just a few weeks earlier:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1092} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1140750.jpg" alt="" class="wp-image-1092"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Male Tree Swallow inspecting a nest site.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>We proceeded to the ponds where there wasn&rsquo;t much action bird wise, but we did enjoy a few turtles:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1634} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/04/P1010865.jpg" alt="" class="wp-image-1634"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>This Eastern Painted Turtle emerged from the mud beneath Faxon Pond just a few weeks ago.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The three&nbsp;ponds created by Olmsted are the only major water feature in the park and can attract some unusual fauna; this mink was spotted there about a month ago</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1635} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/04/P1010692.jpg" alt="" class="wp-image-1635"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>American Mink. This member of the weasel family is uncommon away from rivers or other large bodies of water.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>We ascended to the top of Bussey Hill where we spent some time trying to tease out the calls of two recent spring arrivals; Chipping Sparrow:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:audio {"id":206} --></p>
+<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Chipping-Sparrow-1.mp3"></audio></figure>
+<p><!-- /wp:audio --></p>
+<p><!-- wp:paragraph --></p>
+<p>and&nbsp;and Pine Warbler:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:audio {"id":209} --></p>
+<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/3-21-Pine-Warbler.wav"></audio></figure>
+<p><!-- /wp:audio --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Sound recordings courtesy of Lang Elliott NatureSound Studio</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>We knew chippers were present&nbsp;because we saw them:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1290} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1120526.jpg" alt="" class="wp-image-1290"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Chipping Sparrow, a small sparrow with a plain whitish breast and a crisp rusty cap and eyeline is an early spring arrival.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I played a recording of the Pine Warbler and there was a response but at first I couldn&rsquo;t be sure which species was responding.&nbsp; A few minutes later as we moved along I did hear the shorter,&nbsp;softer&nbsp;trill of the warbler although we never saw it; too bad as it&rsquo;s good looking:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":134} --></p>
+<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1010227.jpg" alt="" class="wp-image-134"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Male Pine Warbler</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>As we began our return route I spied a Hermit Thrush which briefly teed up on a small tree allowing&nbsp;folks near me to see it.&nbsp; For those who missed it here is an image of this lovely early spring thrush as it passes through the area heading for breeding territory farther north:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":135} --></p>
+<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1040765.jpg" alt="" class="wp-image-135"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Hermit Thrush showing a white eye ring, brown back and rust colored tail which it often bobs up and down.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>We stopped at an area on the Bussey Hill slope where trillum bloom every spring; I thought it was too early but&nbsp;some were just opening from the bud stage:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1638} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/04/Large-flowered-Trillium-Trillium-grandiflorum.JPG.jpg" alt="" class="wp-image-1638"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Large-flowered Trillium Trillium grandiflorum</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>As we ended the Arboretum walk a keen eyed member spotted a robin on a nest;&nbsp; breeding season has begun!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1639,"align":"center"} --></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/04/P1100059.jpg" alt="" class="wp-image-1639"/></figure>
+</div>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Here is the list of birds we tallied on Saturday:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong>Arnold Arboretum</strong>, Suffolk, Massachusetts, US<br>Apr 28, 2018 8:00 AM &ndash; 10:00 AM<br>Comments: &nbsp;&nbsp;&nbsp;&nbsp;55-62. sunny. &nbsp;&nbsp;BBC walk, 45 participants<br>20 species</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Mallard &nbsp;2<br>Turkey Vulture &nbsp;1<br>Herring Gull &nbsp;2<br>Rock Pigeon (Feral Pigeon) &nbsp;1<br>Mourning Dove &nbsp;1<br>Red-bellied Woodpecker &nbsp;3<br>Northern Flicker &nbsp;2<br>Blue Jay &nbsp;1<br>Tree Swallow &nbsp;1<br>Hermit Thrush &nbsp;1<br>American Robin &nbsp;20<br>Pine Warbler &nbsp;1 heard<br>Chipping Sparrow &nbsp;4<br>Song Sparrow &nbsp;3<br>Northern Cardinal &nbsp;1<br>Red-winged Blackbird &nbsp;2<br>Brown-headed Cowbird &nbsp;5<br>Common Grackle &nbsp;15<br>American Goldfinch &nbsp;2<br>House Sparrow &nbsp;3</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>View this checklist online at&nbsp;<a href="https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45021462">https://ebird.org/view/checklist/S45021462</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>THE SECOND WALK</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>When I first looked at my favorite weather app on Sunday at 6:30 AM rain was predicted for 9:45.&nbsp; Perfect; the walk would just be ending!&nbsp; But by the time I got to our starting point in&nbsp;Brookline the update&nbsp;showed rain starting at 8 AM, just when we began.&nbsp; It was right, but fortunately the rain never became too heavy so those that showed up went home a bit cold but not too wet.&nbsp; The target bird for the Leverett Pond walk was the first one we saw:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":139} --></p>
+<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1010908.jpg" alt="" class="wp-image-139"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph {"align":"center"} --></p>
+<p style="text-align:center">Two female and a male Wood Duck.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The interesting history of these colorful ducks in the Emerald Necklace was discussed in a&nbsp;<a href="https://web.archive.org/web/20180602142840/http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/">previous blog</a>.&nbsp; Chances that these ducks will once again breed on this or another close by pond are excellent!&nbsp; We headed up along the Boston side of this pond that straddles&nbsp;the Boston/Brookline boundary and heard a Red-bellied Woodpecker:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:audio {"id":208} --></p>
+<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/R-B-Woodpecker-1.mp3"></audio></figure>
+<p><!-- /wp:audio --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Sound recording courtesy of Lang Elliott NatureSound Studio</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This call is so distinctive that you don&rsquo;t have to see the bird for a positive identification; nothing else sounds like it.&nbsp; We also picked up another woodpecker species nearby:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1643} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/04/P1010496.jpg" alt="" class="wp-image-1643"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Male Downy Woodpecker. This is the smallest and commonest woodpecker in this area.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>When the rain lessened we decided to go all the way up through Olmsted Park to Ward&rsquo;s Pond.&nbsp; The pond was empty of waterfowl, as it often is, but there was some activity in the nearby trees.&nbsp; Only a few saw the Eastern Phoebe before it flew off:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1644} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/04/P1000731.jpg" alt="" class="wp-image-1644"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Eastern Phoebe is a spring species that bobs or pumps it&rsquo;s tail, as do Palm Warbler and Hermit Thrush. It is a good field sign for quick identification.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>We also heard and saw several Tufted Titmouses (yes that&rsquo;s the official ornithological plural):&nbsp;</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":202} --></p>
+<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1280017.jpg" alt="" class="wp-image-202"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>The Tufted Titmouse, a year around bird in Boston, always reminds me of a miniature cardinal captured on black-and-white film.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The rain began in earnest again so we headed back to our cars.&nbsp; On the way we had a nice look at an adult Double-crested Cormorant on the pond:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":201} --></p>
+<figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1010986.jpg" alt="" class="wp-image-201"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Adult Double-crested Cormorant. Related to pelicans, these birds have a reptilian appearance.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I was about to declare that we would have to end the walk without seeing a migrant warbler when someone noticed some small birds moving about high in the trees against the gray sky. Yellow-rumped Warblers!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1647} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/04/P1120856.jpg" alt="" class="wp-image-1647"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Male Yellow-rumped Warbler. You have to look closely in this image to see the yellow patch above the tail, which defines it&rsquo;s name and also it&rsquo;s nickname- Butterbutt</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is far and away the commonest warbler seen early in the spring migration.&nbsp;&nbsp;They do not breed in Boston; most&nbsp;are passing through to northern New England and Canada but some breed in western Massachusetts.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Here is our list for Sundays walk:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Olmsted Park&ndash;Leverett Pond</strong>, Suffolk/Norfolk Counties,&nbsp;Massachusetts<br>Apr 29, 2018 8:00 AM &ndash; 9:30 AM<br>Comments: &nbsp;&nbsp;&nbsp;&nbsp;BBC walk 48-50. clouds and rain,&nbsp; 17 participants<br>19 species</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Canada Goose &nbsp;25<br>Wood Duck &nbsp;4<br>Mallard &nbsp;6<br>Double-crested Cormorant &nbsp;1<br>Red-tailed Hawk &nbsp;2<br>Herring Gull &nbsp;1<br>Red-bellied Woodpecker &nbsp;2<br>Downy Woodpecker &nbsp;1<br>Eastern Phoebe &nbsp;1<br>Blue Jay &nbsp;4<br>Tufted Titmouse &nbsp;2<br>American Robin &nbsp;20<br>European Starling &nbsp;4<br>Yellow-rumped Warbler &nbsp;6<br>Song Sparrow &nbsp;1<br>Northern Cardinal &nbsp;1<br>Red-winged Blackbird &nbsp;4<br>Common Grackle &nbsp;30<br>House Sparrow &nbsp;3</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>View this checklist online at&nbsp;<a href="https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45060984">https://ebird.org/view/checklist/S45060984</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This report was generated automatically by eBird v3 (<a href="https://web.archive.org/web/20180602142840/http://ebird.org/">http://ebird.org</a>)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Next weekend, weather permitting, I will be leading two walks in the Arnold Arboretum;</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li><strong>Saturday, May 5</strong></li>
+<li>Arnold Arboretum, Boston. Morning.</li>
+<li>A 90-minute walk suitable for beginners as well as more experienced birders. See the arboretum website<a href="https://web.archive.org/web/20180602142840/https://www.arboretum.harvard.edu/">&nbsp;http://www.arboretum.harvard.edu</a>&nbsp;for directions or to download a checklist of birds. Meeting location: Peters Hill Gate on Bussey Street 8:00 AM to 9:30 AM</li>
+<li><strong>Sunday, May 6</strong></li>
+<li>Bussey Brook Meadow, Arnold Arboretum, Boston. Morning.</li>
+<li>The Arboretum Park Conservancy and the BBC are sponsoring this 90-minute walk in the Bussey Brook area of the Arboretum. The walk is suitable for beginning birders as well as those more experienced. Meeting location: South Street gate to the Arboretum, on South Street, where there is limited parking. Also accessible from Forest Hills T Station path from Washington Street 8:00 AM to 9:30 AM</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Finally, On May 12th I will be doing the 2018 Bird-a-thon to support nature programs at&nbsp;Mass Audubon&rsquo;s Boston Nature Center.&nbsp;To learn more about that, and&nbsp;to support me and my team&nbsp; you can&nbsp;<a href="https://web.archive.org/web/20180602142840/https://goo.gl/sVXdFu">click here</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thanks, and Good Birding!<br></p>
+<p><!-- /wp:paragraph --></p>

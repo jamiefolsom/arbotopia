@@ -1,0 +1,149 @@
+---
+layout: post
+status: draft
+title: An Urban Wild in the Arnold Arboretum
+author:
+  display_name: admin
+  login: admin
+  email: ''
+  url: ''
+author_login: admin
+wordpress_id: 66
+wordpress_url: https://arbotopia.com/?p=66
+date: '2018-11-14 20:27:45 -0500'
+categories:
+- Bird Walks
+- Avian
+- Arnold Arboretum
+tags: []
+comments: []
+---
+<p><!-- wp:paragraph --></p>
+<p>Posted on&nbsp;<a href="https://web.archive.org/web/20160604143124/http://www.arbotopia.com/an-urban-wild-in-the-arnold-arboretum/">May 16, 2016</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>On Sunday May 15 I led a bird walk in&nbsp;<a href="https://web.archive.org/web/20160604143124/http://www.arbotopia.com/bussey-brook-meadow-and-the-arboretum-park-conservancy/">Bussey Brook Meadow</a>&nbsp;in the Arboretum. &nbsp;As usual, the walk was hosted by the&nbsp;<a href="https://web.archive.org/web/20160604143124/http://www.arboretumparkconservancy.org/">Arboretum Park Conservancy</a>&nbsp;(APC), an organization that is largely responsible for creating a safe connecting link from the Forest Hills MBTA Station to&nbsp;the South Street Gate into the main area&nbsp;of the AA. &nbsp;The APC continues to maintain, in conjunction with the Arnold administration, this very naturalized area. &nbsp;Currently they are part of a larger&nbsp;<a href="https://web.archive.org/web/20160604143124/http://www.walkuproslindale.org/weblog/2015/10/10/the-rozzie-arboretum-gateway-path/">community group</a>&nbsp;that is planning a new bike and walking path which would connect the Roslindale commuter rail station to the Forest Hills T, running along the railroad tracks&nbsp;and&nbsp;through Peters Hill and Bussey Brook Meadow. &nbsp;With some luck, and of course some public and private funding, this extension of Boston green space could be completed in two years!</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>But our business on Sunday was birds.&nbsp; 26 people turned out at 8 AM and we scoured the trees and bushy tangles of this urban wild trying for almost two hours to find them. This is spring migration so we wanted to see some warblers, but that turned out to be difficult. &nbsp;At the beginning of the walk we could see a lot of action high up in the trees just leafing out, but getting on the birds long enough to identify them was tough. &nbsp;All we could tick off was a Black and White Warbler:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":822} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080314.jpg" alt="P1080314" class="wp-image-822"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Black and White Warbler. This early migrant is most often seen climbing on the trunk and major tree limbs searching for insects.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Our only other warbler on the walk was the fairly common Yellow Warbler, which nests here. &nbsp;I think our best bird was a very cooperative Blue-gray Gnatcatcher. &nbsp;Someone first heard the high pitched nasal buzz of the bird, then we located it bouncing around in a vine-covered small tree.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1267} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1010489-copy.jpg" alt="P1010489 copy" class="wp-image-1267"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>The field marks for the Blue-gray Gnatcatcher are it&rsquo;s relatively long tail and distinct eye ring. As it&rsquo;s name suggests, it flits about catching tiny bugs.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The bird stayed close for some time giving everyone good looks. &nbsp;We later watched another bug-catching bird doing it&rsquo;s thing, an Eastern Kingbird:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":865} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2014/06/P1010595.jpg" alt="P1010595" class="wp-image-865"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Eastern Kingbird. This large flycatcher is easily identified by it&rsquo;s dark gray head and body, white breast and white-tipped tail.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>As the walk progressed we saw several of these birds. We also had another flycatcher, Eastern Phoebe, at the end of the walk.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1194} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1130796.jpg" alt="P1130796" class="wp-image-1194"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>The Eastern Phoebe is a very early migrant. Smaller than the Eastern Kingbird, it has a habit of bobbing it&rsquo;s tail, a good field mark.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>We saw and heard many Baltimore Orioles, a welcome spring visitor.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1268} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1120840.jpg" alt="P1120840" class="wp-image-1268"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Baltimore Oriole, male</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>On a scouting trip earlier in the week I located a new oriole nest just above the path, but today it couldn&rsquo;t be found; perhaps a victim to strong winds lately. &nbsp;We did however find an active robin nest, and watched two Mourning Doves building a nest as well. &nbsp;The diverse habitat of Bussey Brook Meadow and marsh provides nesting territory for at least two dozen species of birds. &nbsp;In addition, nest boxes erected there are regularly used by Tree Swallows; we watched a pair enter and leave one box:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1244} --></p>
+<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1140805.jpg" alt="P1140805" class="wp-image-1244"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>A male Tree Swallow pauses before entering the&nbsp;box</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>After the formal walk ended several of us walked down the edge of the meadow, along the route of the proposed Roslindale/Forest Hills path mentioned above. &nbsp;There we heard a Wood Thrush calling from the woods across the road on Hemlock Hill. &nbsp;What a lovely sound:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:audio {"id":197} --></p>
+<figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Wood-Thrush-2.mp3"></audio></figure>
+<p><!-- /wp:audio --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Sound recording courtesy of&nbsp;Lang Elliott NatureSound Studio</em></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Here is the list of birds we identified on a lovely Sunday morning walk:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Arnold Arboretum, Suffolk, Massachusetts, US</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>May 15, 2016 8:00 AM &ndash; 10:00 AM</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>32 species</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Red-tailed Hawk &nbsp;1</li>
+<li>Herring Gull &nbsp;2</li>
+<li>Mourning Dove &nbsp;6</li>
+<li>Chimney Swift &nbsp;3</li>
+<li>Red-bellied Woodpecker &nbsp;2</li>
+<li>Downy Woodpecker &nbsp;5</li>
+<li>Northern Flicker &nbsp;1</li>
+<li>Eastern Phoebe &nbsp;1</li>
+<li>Great Crested Flycatcher &nbsp;1</li>
+<li>Eastern Kingbird &nbsp;3</li>
+<li>Warbling Vireo &nbsp;1</li>
+<li>Red-eyed Vireo &nbsp;1</li>
+<li>Blue Jay &nbsp;7</li>
+<li>Tree Swallow &nbsp;2</li>
+<li>Black-capped Chickadee &nbsp;4</li>
+<li>Tufted Titmouse &nbsp;2</li>
+<li>White-breasted Nuthatch &nbsp;1</li>
+<li>Blue-gray Gnatcatcher &nbsp;1</li>
+<li>Wood Thrush &nbsp;1</li>
+<li>American Robin &nbsp;8</li>
+<li>Gray Catbird &nbsp;7</li>
+<li>European Starling &nbsp;5</li>
+<li>Black-and-white Warbler &nbsp;1</li>
+<li>Yellow Warbler &nbsp;1</li>
+<li>Chipping Sparrow &nbsp;2</li>
+<li>Song Sparrow &nbsp;7</li>
+<li>Northern Cardinal &nbsp;5</li>
+<li>Red-winged Blackbird &nbsp;6</li>
+<li>Common Grackle &nbsp;14</li>
+<li>Baltimore Oriole &nbsp;6</li>
+<li>American Goldfinch &nbsp;5</li>
+<li>House Sparrow &nbsp;4</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>View this checklist online at&nbsp;<a href="http://ebird.org/ebird/view/checklist?subID=S29674323">http://ebird.org/ebird/view/checklist?subID=S29674323</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This report was generated automatically by eBird v3 (<a href="https://web.archive.org/web/20160604143124/http://ebird.org/">http://ebird.org</a>)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The final spring walk in the Arnold Arboretum will take place next Saturday May 21st, beginning from the main gate in front of the Hunnewell Building at 8:00 AM. Hope to see you there.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Good birding!</p>
+<p><!-- /wp:paragraph --></p>
