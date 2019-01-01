@@ -20,7 +20,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20171112202846/http://www.arbotopia.com/2017-bird-a-thon-for-the-boston-nature-center/">May 15, 2017</a></p>
+<p>Posted on May 15, 2017</a></p>
 
 
 
@@ -36,7 +36,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1420} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171112202846im_/http://www.arbotopia.com/wp-content/uploads/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg" alt="Bay-breasted Warbler- Ted Bradford" class="wp-image-1420"/></figure>
+ <img src="https://web.archive.org/web/20171112202846im_/http://www.arbotopia.com/wp-content/uploads/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg" alt="Bay-breasted Warbler- Ted Bradford" class="wp-image-1420"/> 
 
 
 
@@ -52,7 +52,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":244} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1090246.jpg" alt="" class="wp-image-244"/></figure>
+ <img src="images/2018/11/P1090246.jpg" alt="" class="wp-image-244"/> 
 
 
 
@@ -68,7 +68,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":245} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1010004.jpg" alt="" class="wp-image-245"/></figure>
+ <img src="images/2018/11/P1010004.jpg" alt="" class="wp-image-245"/> 
 
 
 
@@ -84,7 +84,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":246} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1070121.jpg" alt="" class="wp-image-246"/></figure>
+ <img src="images/2018/11/P1070121.jpg" alt="" class="wp-image-246"/> 
 
 
 
@@ -106,7 +106,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":247} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1010062.jpg" alt="" class="wp-image-247"/></figure>
+ <img src="images/2018/11/P1010062.jpg" alt="" class="wp-image-247"/> 
 
 
 
@@ -122,7 +122,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":248} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1040384.jpg" alt="" class="wp-image-248"/></figure>
+ <img src="images/2018/11/P1040384.jpg" alt="" class="wp-image-248"/> 
 
 
 
@@ -144,7 +144,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":249} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1110338.jpg" alt="" class="wp-image-249"/></figure>
+ <img src="images/2018/11/P1110338.jpg" alt="" class="wp-image-249"/> 
 
 
 
@@ -160,7 +160,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":250} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1120818.jpg" alt="" class="wp-image-250"/></figure>
+ <img src="images/2018/11/P1120818.jpg" alt="" class="wp-image-250"/> 
 
 
 

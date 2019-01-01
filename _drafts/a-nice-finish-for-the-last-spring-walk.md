@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com/a-nice-finish-for-the-last-spring-walk/">May 22, 2016</a><a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a><a rel="noreferrer noopener" target="_blank" href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a><a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a></p>
+<p>Posted on May 22, 2016</a><a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a><a rel="noreferrer noopener" target="_blank" href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a><a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a></p>
 
 
 
@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":127} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1050239.jpg" alt="" class="wp-image-127"/></figure>
+ <img src="images/2018/11/P1050239.jpg" alt="" class="wp-image-127"/> 
 
 
 
@@ -47,7 +47,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1276} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1030436.jpg" alt="P1030436" class="wp-image-1276"/></figure>
+ <img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1030436.jpg" alt="P1030436" class="wp-image-1276"/> 
 
 
 
@@ -63,7 +63,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":196} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Warbling-vireo-1.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Warbling-vireo-1.mp3"></audio> 
 <p><!-- /wp:audio --></p>
 
 
@@ -78,7 +78,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":119} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1030005_1.jpg" alt="" class="wp-image-119"/></figure>
+ <img src="images/2018/11/P1030005_1.jpg" alt="" class="wp-image-119"/> 
 
 
 
@@ -94,7 +94,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":903} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2014/10/P1080502.jpg" alt="P1080502" class="wp-image-903"/></figure>
+ <img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2014/10/P1080502.jpg" alt="P1080502" class="wp-image-903"/> 
 
 
 
@@ -110,7 +110,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":195} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/E.Wood-pewee.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/E.Wood-pewee.wav"></audio> 
 <p><!-- /wp:audio --></p>
 
 
@@ -125,7 +125,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1107} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1010122.jpg" alt="P1010122" class="wp-image-1107"/></figure>
+ <img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1010122.jpg" alt="P1010122" class="wp-image-1107"/> 
 
 
 
@@ -141,7 +141,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1115} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1100162.jpg" alt="P1100162" class="wp-image-1115"/></figure>
+ <img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1100162.jpg" alt="P1100162" class="wp-image-1115"/> 
 
 
 
@@ -157,7 +157,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":197} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Wood-Thrush-2.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Wood-Thrush-2.mp3"></audio> 
 <p><!-- /wp:audio --></p>
 
 

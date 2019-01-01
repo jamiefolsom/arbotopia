@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20150907112408/http://www.arbotopia.com/winter-bird-walk-january-13-2013/">January 14, 2013</a></p>
+<p>Posted on January 14, 2013</a></p>
 
 
 
@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":264} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Carolina-Wren-1.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Carolina-Wren-1.mp3"></audio> 
 <p><!-- /wp:audio --></p>
 
 
@@ -47,7 +47,7 @@ Elliott NatureSound Studio</em>&nbsp;</p>
 
 
 <p><!-- wp:image {"id":88,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150907112408/http://www.arbotopia.com/winter-bird-walk-january-13-2013/p1000348/"><img src="https://web.archive.org/web/20150907112408im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1000348.jpg" alt="P1000348" class="wp-image-88"/></a></figure>
+ <a href="https://web.archive.org/web/20150907112408/http://www.arbotopia.com/winter-bird-walk-january-13-2013/p1000348/"><img src="https://web.archive.org/web/20150907112408im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1000348.jpg" alt="P1000348" class="wp-image-88"/></a> 
 
 
 

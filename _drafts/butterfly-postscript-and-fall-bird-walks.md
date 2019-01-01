@@ -22,7 +22,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20171004090603/http://www.arbotopia.com/butterfly-postscript-and-fall-bird-walks/">September 18, 2017</a></p>
+<p>Posted on September 18, 2017</a></p>
 
 
 
@@ -32,7 +32,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1497} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170445.jpg" alt="" class="wp-image-1497"/></figure>
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170445.jpg" alt="" class="wp-image-1497"/> 
 
 
 
@@ -48,7 +48,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1498} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170608.jpg" alt="" class="wp-image-1498"/></figure>
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170608.jpg" alt="" class="wp-image-1498"/> 
 
 
 
@@ -58,7 +58,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1499} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170614.jpg" alt="" class="wp-image-1499"/></figure>
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170614.jpg" alt="" class="wp-image-1499"/> 
 
 
 
@@ -80,7 +80,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1500} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/Pipevine-Swallowtail.jpg" alt="" class="wp-image-1500"/></figure>
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/Pipevine-Swallowtail.jpg" alt="" class="wp-image-1500"/> 
 
 
 
@@ -102,7 +102,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1501} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1180389.jpg" alt="" class="wp-image-1501"/></figure>
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1180389.jpg" alt="" class="wp-image-1501"/> 
 
 
 
@@ -124,7 +124,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1502} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/IMG_4019.jpg" alt="" class="wp-image-1502"/></figure>
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/IMG_4019.jpg" alt="" class="wp-image-1502"/> 
 
 
 
@@ -146,7 +146,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1503} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000159.jpg" alt="" class="wp-image-1503"/></figure>
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000159.jpg" alt="" class="wp-image-1503"/> 
 
 
 
@@ -156,7 +156,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1504} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000160.jpg" alt="" class="wp-image-1504"/></figure>
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000160.jpg" alt="" class="wp-image-1504"/> 
 
 
 
@@ -166,7 +166,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1505} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000161.jpg" alt="" class="wp-image-1505"/></figure>
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000161.jpg" alt="" class="wp-image-1505"/> 
 
 
 

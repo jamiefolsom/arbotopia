@@ -22,7 +22,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20171004090633/http://www.arbotopia.com/pps-whats-in-the-picture/">September 24, 2017</a></p>
+<p>Posted on September 24, 2017</a></p>
 
 
 
@@ -32,7 +32,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1516} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090633im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000153.jpg" alt="" class="wp-image-1516"/></figure>
+ <img src="https://web.archive.org/web/20171004090633im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000153.jpg" alt="" class="wp-image-1516"/> 
 
 
 
@@ -60,7 +60,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1513} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20171004090633im_/http://www.arbotopia.com/wp-content/uploads/2017/09/Painted-Lady-and-Praying-Mantis.jpg" alt="" class="wp-image-1513"/></figure>
+ <img src="https://web.archive.org/web/20171004090633im_/http://www.arbotopia.com/wp-content/uploads/2017/09/Painted-Lady-and-Praying-Mantis.jpg" alt="" class="wp-image-1513"/> 
 
 
 

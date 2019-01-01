@@ -30,7 +30,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":407,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20140426142538/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg"><img src="https://web.archive.org/web/20140426142538im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg" alt="P1080271" class="wp-image-407"/></a></figure>
+ <a href="https://web.archive.org/web/20140426142538/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg"><img src="https://web.archive.org/web/20140426142538im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg" alt="P1080271" class="wp-image-407"/></a> 
 
 
 
@@ -46,7 +46,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":405,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20140426142538/http://www.arbotopia.com/wp-content/uploads/2013/04/P1060706.jpg"><img src="https://web.archive.org/web/20140426142538im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1060706.jpg" alt="P1060706" class="wp-image-405"/></a></figure>
+ <a href="https://web.archive.org/web/20140426142538/http://www.arbotopia.com/wp-content/uploads/2013/04/P1060706.jpg"><img src="https://web.archive.org/web/20140426142538im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1060706.jpg" alt="P1060706" class="wp-image-405"/></a> 
 
 
 
@@ -62,7 +62,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":409,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20140426142538/http://www.arbotopia.com/wp-content/uploads/2013/04/P1010021.jpg"><img src="https://web.archive.org/web/20140426142538im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1010021.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-409"/></a></figure>
+ <a href="https://web.archive.org/web/20140426142538/http://www.arbotopia.com/wp-content/uploads/2013/04/P1010021.jpg"><img src="https://web.archive.org/web/20140426142538im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1010021.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-409"/></a> 
 
 
 

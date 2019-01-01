@@ -19,7 +19,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/a-bird-out-of-season-and-in-the-storm/">February 11, 2013</a></p>
+<p>Posted on February 11, 2013</a></p>
 
 
 
@@ -29,7 +29,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":197,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030926.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030926.jpg" alt="P1030926" class="wp-image-197"/></a></figure>
+ <a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030926.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030926.jpg" alt="P1030926" class="wp-image-197"/></a> 
 
 
 
@@ -45,7 +45,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":198,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040021.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040021.jpg" alt="P1040021" class="wp-image-198"/></a></figure>
+ <a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040021.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040021.jpg" alt="P1040021" class="wp-image-198"/></a> 
 
 
 
@@ -61,7 +61,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":200,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1010016.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1010016.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-200"/></a></figure>
+ <a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1010016.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1010016.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-200"/></a> 
 
 
 
@@ -83,7 +83,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":203,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P10400161.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P10400161.jpg" alt="P1040016" class="wp-image-203"/></a></figure>
+ <a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P10400161.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P10400161.jpg" alt="P1040016" class="wp-image-203"/></a> 
 
 
 
@@ -99,7 +99,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":205,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040037.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040037.jpg" alt="P1040037" class="wp-image-205"/></a></figure>
+ <a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040037.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040037.jpg" alt="P1040037" class="wp-image-205"/></a> 
 
 
 
@@ -127,7 +127,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":208,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040068.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040068.jpg" alt="P1040068" class="wp-image-208"/></a></figure>
+ <a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040068.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040068.jpg" alt="P1040068" class="wp-image-208"/></a> 
 
 
 
@@ -144,7 +144,7 @@ comments: []
 
 <p><!-- wp:image {"id":216,"align":"left","linkDestination":"custom"} --></p>
 <div class="wp-block-image">
-<figure class="alignleft"><a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P10400481.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P10400481.jpg" alt="P1040048" class="wp-image-216"/></a></figure>
+<figure class="alignleft"><a href="https://web.archive.org/web/20171113123615/http://www.arbotopia.com/wp-content/uploads/2013/02/P10400481.jpg"><img src="https://web.archive.org/web/20171113123615im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P10400481.jpg" alt="P1040048" class="wp-image-216"/></a> 
 </div>
 
 

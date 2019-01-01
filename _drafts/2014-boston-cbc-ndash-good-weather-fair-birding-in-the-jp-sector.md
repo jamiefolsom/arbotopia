@@ -20,7 +20,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/2014-boston-cbc-good-weather-fair-birding-in-the-jp-sector/">December 18, 2014</a></p>
+<p>Posted on December 18, 2014</a></p>
 
 
 

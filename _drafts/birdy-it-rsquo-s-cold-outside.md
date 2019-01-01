@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/birdy-its-cold-outside/">January 12, 2015</a></p>
+<p>Posted on January 12, 2015</a></p>
 
 
 
@@ -37,7 +37,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":296} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1080186.jpg" alt="" class="wp-image-296"/></figure>
+ <img src="images/2018/11/P1080186.jpg" alt="" class="wp-image-296"/> 
 
 
 
@@ -53,7 +53,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":982,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1030635.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1030635.jpg" alt="P1030635" class="wp-image-982"/></a></figure>
+ <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1030635.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1030635.jpg" alt="P1030635" class="wp-image-982"/></a> 
 
 
 
@@ -69,7 +69,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":983,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1070732.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1070732.jpg" alt="P1070732" class="wp-image-983"/></a></figure>
+ <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1070732.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1070732.jpg" alt="P1070732" class="wp-image-983"/></a> 
 
 
 
@@ -115,7 +115,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":985,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1090303.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1090303.jpg" alt="P1090303" class="wp-image-985"/></a></figure>
+ <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1090303.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1090303.jpg" alt="P1090303" class="wp-image-985"/></a> 
 
 
 

@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/a-winter-birding-foray-at-olmsted-park/">December 8, 2014</a></p>
+<p>Posted on December 8, 2014</a></p>
 
 
 
@@ -37,7 +37,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":288} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1110518.jpg" alt="" class="wp-image-288"/></figure>
+ <img src="images/2018/11/P1110518.jpg" alt="" class="wp-image-288"/> 
 
 
 
@@ -53,7 +53,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":289} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1070671.jpg" alt="" class="wp-image-289"/></figure>
+ <img src="images/2018/11/P1070671.jpg" alt="" class="wp-image-289"/> 
 
 
 
@@ -69,7 +69,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":938,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2014/12/P1220330.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1220330.jpg" alt="P1220330" class="wp-image-938"/></a></figure>
+ <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2014/12/P1220330.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1220330.jpg" alt="P1220330" class="wp-image-938"/></a> 
 
 
 
@@ -91,7 +91,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":943,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg" alt="P1040765" class="wp-image-943"/></a></figure>
+ <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg" alt="P1040765" class="wp-image-943"/></a> 
 
 
 
@@ -107,7 +107,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":946,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2014/12/P1090225.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1090225.jpg" alt="P1090225" class="wp-image-946"/></a></figure>
+ <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2014/12/P1090225.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1090225.jpg" alt="P1090225" class="wp-image-946"/></a> 
 
 
 
@@ -123,7 +123,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":290} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1080665_1.jpg" alt="" class="wp-image-290"/></figure>
+ <img src="images/2018/11/P1080665_1.jpg" alt="" class="wp-image-290"/> 
 
 
 
@@ -139,7 +139,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":287} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1090246-1.jpg" alt="" class="wp-image-287"/></figure>
+ <img src="images/2018/11/P1090246-1.jpg" alt="" class="wp-image-287"/> 
 
 
 
@@ -155,7 +155,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":286} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/2-84-Winter-Wren.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/2-84-Winter-Wren.wav"></audio> 
 <p><!-- /wp:audio --></p>
 
 

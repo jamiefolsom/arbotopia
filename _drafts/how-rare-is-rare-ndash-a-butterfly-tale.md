@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20170912192358/http://www.arbotopia.com/how-rare-is-rare-a-butterfly-tale/">July 20, 2017</a></p>
+<p>Posted on July 20, 2017</a></p>
 
 
 
@@ -37,7 +37,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1468} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1080473.jpg" alt="" class="wp-image-1468"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1080473.jpg" alt="" class="wp-image-1468"/> 
 
 
 
@@ -53,7 +53,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1469} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160832.jpg" alt="" class="wp-image-1469"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160832.jpg" alt="" class="wp-image-1469"/> 
 
 
 
@@ -69,7 +69,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1470} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1080961.jpg" alt="" class="wp-image-1470"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1080961.jpg" alt="" class="wp-image-1470"/> 
 
 
 
@@ -85,7 +85,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1471} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1250889.jpg" alt="" class="wp-image-1471"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1250889.jpg" alt="" class="wp-image-1471"/> 
 
 
 
@@ -101,7 +101,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":234} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/Dutchmans-Pipe-Aristolochia-macrophylla-1112-88-A.jpg" alt="" class="wp-image-234"/></figure>
+ <img src="images/2018/11/Dutchmans-Pipe-Aristolochia-macrophylla-1112-88-A.jpg" alt="" class="wp-image-234"/> 
 
 
 
@@ -123,7 +123,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1473} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160754.jpg" alt="" class="wp-image-1473"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160754.jpg" alt="" class="wp-image-1473"/> 
 
 
 
@@ -139,7 +139,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1474} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160763.jpg" alt="" class="wp-image-1474"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160763.jpg" alt="" class="wp-image-1474"/> 
 
 
 
@@ -167,7 +167,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1481} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/IMG_0628.jpg" alt="" class="wp-image-1481"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/IMG_0628.jpg" alt="" class="wp-image-1481"/> 
 
 
 
@@ -195,7 +195,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1475} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160914.jpg" alt="" class="wp-image-1475"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160914.jpg" alt="" class="wp-image-1475"/> 
 
 
 
@@ -205,7 +205,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1476} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170001.jpg" alt="" class="wp-image-1476"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170001.jpg" alt="" class="wp-image-1476"/> 
 
 
 
@@ -215,7 +215,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1477} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170064.jpg" alt="" class="wp-image-1477"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170064.jpg" alt="" class="wp-image-1477"/> 
 
 
 
@@ -225,7 +225,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1478} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170133.jpg" alt="" class="wp-image-1478"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170133.jpg" alt="" class="wp-image-1478"/> 
 
 
 
@@ -241,7 +241,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1479} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170157.jpg" alt="" class="wp-image-1479"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170157.jpg" alt="" class="wp-image-1479"/> 
 
 
 
@@ -251,7 +251,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1480} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170156.jpg" alt="" class="wp-image-1480"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170156.jpg" alt="" class="wp-image-1480"/> 
 
 
 
@@ -267,7 +267,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1483} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1210692.jpg" alt="" class="wp-image-1483"/></figure>
+ <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1210692.jpg" alt="" class="wp-image-1483"/> 
 
 
 

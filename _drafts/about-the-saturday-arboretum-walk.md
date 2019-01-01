@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/about-the-saturday-arboretum-walk/">April 24, 2014</a></p>
+<p>Posted on April 24, 2014</a></p>
 
 
 
@@ -42,7 +42,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":806,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/04/P1080759.jpg"><img src="https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/04/P1080759.jpg" alt="P1080759" class="wp-image-806"/></a></figure>
+ <a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/04/P1080759.jpg"><img src="https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/04/P1080759.jpg" alt="P1080759" class="wp-image-806"/></a> 
 
 
 
@@ -58,7 +58,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":808,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/04/P1040891.jpg"><img src="https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/04/P1040891.jpg" alt="P1040891" class="wp-image-808"/></a></figure>
+ <a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/04/P1040891.jpg"><img src="https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/04/P1040891.jpg" alt="P1040891" class="wp-image-808"/></a> 
 
 
 

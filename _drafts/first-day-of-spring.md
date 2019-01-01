@@ -19,7 +19,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20180401052920/http://www.arbotopia.com/first-day-of-spring/">March 19, 2018</a></p>
+<p>Posted on March 19, 2018</a></p>
 
 
 
@@ -29,7 +29,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":227} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1010610.jpg" alt="" class="wp-image-227"/></figure>
+ <img src="images/2018/11/P1010610.jpg" alt="" class="wp-image-227"/> 
 
 
 
@@ -39,7 +39,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":228} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1120215.jpg" alt="" class="wp-image-228"/></figure>
+ <img src="images/2018/11/P1120215.jpg" alt="" class="wp-image-228"/> 
 
 
 
@@ -49,7 +49,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":229} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1010595.jpg" alt="" class="wp-image-229"/></figure>
+ <img src="images/2018/11/P1010595.jpg" alt="" class="wp-image-229"/> 
 
 
 
@@ -65,7 +65,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":231} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1010668.jpg" alt="" class="wp-image-231"/></figure>
+ <img src="images/2018/11/P1010668.jpg" alt="" class="wp-image-231"/> 
 
 
 
@@ -75,7 +75,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":232} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1010657.jpg" alt="" class="wp-image-232"/></figure>
+ <img src="images/2018/11/P1010657.jpg" alt="" class="wp-image-232"/> 
 
 
 
@@ -91,7 +91,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":230} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1010663.jpg" alt="" class="wp-image-230"/></figure>
+ <img src="images/2018/11/P1010663.jpg" alt="" class="wp-image-230"/> 
 
 
 

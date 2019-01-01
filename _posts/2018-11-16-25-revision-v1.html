@@ -20,7 +20,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/birding-an-urban-oasis/">April 17, 2015</a></p>
+<p>Posted on April 17, 2015</a></p>
 
 
 
@@ -36,7 +36,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":943,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg" alt="P1040765" class="wp-image-943"/></a></figure>
+ <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg" alt="P1040765" class="wp-image-943"/></a> 
 
 
 
@@ -58,7 +58,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":333,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2013/03/P1000414.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2013/03/P1000414.jpg" alt="P1000414" class="wp-image-333"/></a></figure>
+ <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2013/03/P1000414.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2013/03/P1000414.jpg" alt="P1000414" class="wp-image-333"/></a> 
 
 
 
@@ -74,7 +74,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":336} --></p>
-<figure class="wp-block-image"><img src="https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1100011.jpg?fit=525%2C488&amp;ssl=1" alt="" class="wp-image-336"/></figure>
+ <img src="https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1100011.jpg?fit=525%2C488&amp;ssl=1" alt="" class="wp-image-336"/> 
 
 
 

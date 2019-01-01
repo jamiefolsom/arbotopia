@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/late-fall-walk-in-the-arnold-arboretum/">October 11, 2015</a></p>
+<p>Posted on October 11, 2015</a></p>
 
 
 
@@ -37,7 +37,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1125,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1010047.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1010047.jpg" alt="P1010047" class="wp-image-1125"/></a></figure>
+ <a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1010047.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1010047.jpg" alt="P1010047" class="wp-image-1125"/></a> 
 
 
 
@@ -47,7 +47,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1126,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1000348.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1000348.jpg" alt="P1000348" class="wp-image-1126"/></a></figure>
+ <a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1000348.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1000348.jpg" alt="P1000348" class="wp-image-1126"/></a> 
 
 
 
@@ -63,7 +63,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1127,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1080077.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1080077.jpg" alt="P1080077" class="wp-image-1127"/></a></figure>
+ <a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1080077.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1080077.jpg" alt="P1080077" class="wp-image-1127"/></a> 
 
 
 
@@ -79,7 +79,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":314} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/2-28-Belted-Kingfisher.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/2-28-Belted-Kingfisher.wav"></audio> 
 <p><!-- /wp:audio --></p>
 
 
@@ -94,7 +94,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1128,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1040808.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1040808.jpg" alt="P1040808" class="wp-image-1128"/></a></figure>
+ <a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1040808.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1040808.jpg" alt="P1040808" class="wp-image-1128"/></a> 
 
 
 
@@ -110,7 +110,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1129,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1040721.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1040721.jpg" alt="P1040721" class="wp-image-1129"/></a></figure>
+ <a href="https://web.archive.org/web/20160126152734/http://www.arbotopia.com/wp-content/uploads/2015/10/P1040721.jpg"><img src="https://web.archive.org/web/20160126152734im_/http://www.arbotopia.com/wp-content/uploads/2015/10/P1040721.jpg" alt="P1040721" class="wp-image-1129"/></a> 
 
 
 

@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20180602142840/http://www.arbotopia.com/warblers-at-last/">May 23, 2018</a></p>
+<p>Posted on May 23, 2018</a></p>
 
 
 
@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":142} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1020388.jpg" alt="" class="wp-image-142"/></figure>
+ <img src="images/2018/11/P1020388.jpg" alt="" class="wp-image-142"/> 
 
 
 
@@ -59,7 +59,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":222} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Red-eyed-Vireo-1.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Red-eyed-Vireo-1.mp3"></audio> 
 <p><!-- /wp:audio --></p>
 
 
@@ -68,7 +68,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":118} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Warbling-vireo.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Warbling-vireo.mp3"></audio> 
 <p><!-- /wp:audio --></p>
 
 
@@ -77,7 +77,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":223} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/E.Wood-pewee-1.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/E.Wood-pewee-1.wav"></audio> 
 <p><!-- /wp:audio --></p>
 
 
@@ -92,7 +92,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1679} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1010954.jpg" alt="" class="wp-image-1679"/></figure>
+ <img src="images/2018/05/P1010954.jpg" alt="" class="wp-image-1679"/> 
 
 
 
@@ -114,7 +114,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1420} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg" alt="" class="wp-image-1420"/></figure>
+ <img src="images/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg" alt="" class="wp-image-1420"/> 
 
 
 
@@ -124,7 +124,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1683} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/101455011-1.jpg" alt="" class="wp-image-1683"/></figure>
+ <img src="images/2018/05/101455011-1.jpg" alt="" class="wp-image-1683"/> 
 
 
 
@@ -134,7 +134,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1668} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1000627.jpg" alt="" class="wp-image-1668"/></figure>
+ <img src="images/2018/05/P1000627.jpg" alt="" class="wp-image-1668"/> 
 
 
 
@@ -144,7 +144,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1684} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1050239.jpg" alt="" class="wp-image-1684"/></figure>
+ <img src="images/2018/05/P1050239.jpg" alt="" class="wp-image-1684"/> 
 
 
 
@@ -154,7 +154,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1685} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1020265.jpg" alt="" class="wp-image-1685"/></figure>
+ <img src="images/2018/05/P1020265.jpg" alt="" class="wp-image-1685"/> 
 
 
 
@@ -164,7 +164,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":144} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1050177.jpg" alt="" class="wp-image-144"/></figure>
+ <img src="images/2018/11/P1050177.jpg" alt="" class="wp-image-144"/> 
 
 
 
@@ -174,7 +174,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1686} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1020287.jpg" alt="" class="wp-image-1686"/></figure>
+ <img src="images/2018/05/P1020287.jpg" alt="" class="wp-image-1686"/> 
 
 
 
@@ -196,7 +196,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1681} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1000348.jpg" alt="" class="wp-image-1681"/></figure>
+ <img src="images/2018/05/P1000348.jpg" alt="" class="wp-image-1681"/> 
 
 
 
@@ -208,7 +208,7 @@ comments: []
 
 
 
-<p>This was one of five woodpecker species we logged; missing only Pileated Woodpecker.&nbsp; We then proceeded south where we birded Wompatuck State Park, World&rsquo;s End and Daniel Webster Wildlife Sanctuary in Marshfield.&nbsp; The whole day was chilly and damp with occasional rain.&nbsp; Our&nbsp;target each year is to get at least 80 species; this year we fell short&nbsp;with only 74.&nbsp; It was all for a good cause; raising money for the summer camp at Mass Audubon&rsquo;s Boston Nature Center in Mattapan.&nbsp; All together the BNC raised nearly $14,000 and our team was responsible for $1700 of that.&nbsp; It&rsquo;s not too late to donate; here is a link to my&nbsp;<a href="https://web.archive.org/web/20180602142840/https://goo.gl/fuocvG">donor site</a>.</p>
+<p>This was one of five woodpecker species we logged; missing only Pileated Woodpecker.&nbsp; We then proceeded south where we birded Wompatuck State Park, World&rsquo;s End and Daniel Webster Wildlife Sanctuary in Marshfield.&nbsp; The whole day was chilly and damp with occasional rain.&nbsp; Our&nbsp;target each year is to get at least 80 species; this year we fell short&nbsp;with only 74.&nbsp; It was all for a good cause; raising money for the summer camp at Mass Audubon&rsquo;s Boston Nature Center in Mattapan.&nbsp; All together the BNC raised nearly $14,000 and our team was responsible for $1700 of that.&nbsp; It&rsquo;s not too late to donate; here is a link to my&nbsp;<a href="https://goo.gl/fuocvG">donor site</a>.</p>
 
 
 
@@ -218,7 +218,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1687} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/101455741.jpg" alt="" class="wp-image-1687"/></figure>
+ <img src="images/2018/05/101455741.jpg" alt="" class="wp-image-1687"/> 
 
 
 
@@ -257,7 +257,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":145} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/Redbud.jpg" alt="" class="wp-image-145"/></figure>
+ <img src="images/2018/11/Redbud.jpg" alt="" class="wp-image-145"/> 
 
 
 
@@ -267,7 +267,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1689} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/IMG_0388.jpg" alt="" class="wp-image-1689"/></figure>
+ <img src="images/2018/05/IMG_0388.jpg" alt="" class="wp-image-1689"/> 
 
 
 
@@ -283,7 +283,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":146} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/IMG_0381.jpg" alt="" class="wp-image-146"/></figure>
+ <img src="images/2018/11/IMG_0381.jpg" alt="" class="wp-image-146"/> 
 
 
 

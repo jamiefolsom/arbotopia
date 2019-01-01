@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/march-madness-birding/">March 23, 2014</a></p>
+<p>Posted on March 23, 2014</a></p>
 
 
 
@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":789,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070966.jpg"><img src="https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070966.jpg" alt="P1070966" class="wp-image-789"/></a></figure>
+ <a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070966.jpg"><img src="https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070966.jpg" alt="P1070966" class="wp-image-789"/></a> 
 
 
 
@@ -47,7 +47,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":184} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1130421-728x1024.jpg" alt="" class="wp-image-184"/></figure>
+ <img src="images/2018/11/P1130421-728x1024.jpg" alt="" class="wp-image-184"/> 
 
 
 

@@ -20,7 +20,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20130510052128/http://www.arbotopia.com/a-neighborhood-bird-walk/">May 6, 2013</a></p>
+<p>Posted on May 6, 2013</a></p>
 
 
 
@@ -36,9 +36,9 @@ comments: []
 
 
 <p><!-- wp:image {"id":309} --></p>
-<figure class="wp-block-image"><img src="images/2018/11/P1010002-1.jpg" alt="" class="wp-image-309"/><br />
+ <img src="images/2018/11/P1010002-1.jpg" alt="" class="wp-image-309"/><br />
 <figcaption>OLYMPUS DIGITAL CAMERA</figcaption>
-</figure>
+ 
 
 
 
@@ -72,7 +72,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":310} --></p>
-<figure class="wp-block-image"><img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1080186-1.jpg?fit=525%2C328&amp;ssl=1" alt="" class="wp-image-310"/></figure>
+ <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1080186-1.jpg?fit=525%2C328&amp;ssl=1" alt="" class="wp-image-310"/> 
 
 
 

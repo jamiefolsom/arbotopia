@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20160604143124/http://www.arbotopia.com/an-urban-wild-in-the-arnold-arboretum/">May 16, 2016</a></p>
+<p>Posted on May 16, 2016</a></p>
 
 
 
@@ -37,7 +37,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":822} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080314.jpg" alt="P1080314" class="wp-image-822"/></figure>
+ <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080314.jpg" alt="P1080314" class="wp-image-822"/> 
 
 
 
@@ -53,7 +53,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1267} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1010489-copy.jpg" alt="P1010489 copy" class="wp-image-1267"/></figure>
+ <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1010489-copy.jpg" alt="P1010489 copy" class="wp-image-1267"/> 
 
 
 
@@ -69,7 +69,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":865} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2014/06/P1010595.jpg" alt="P1010595" class="wp-image-865"/></figure>
+ <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2014/06/P1010595.jpg" alt="P1010595" class="wp-image-865"/> 
 
 
 
@@ -85,7 +85,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1194} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1130796.jpg" alt="P1130796" class="wp-image-1194"/></figure>
+ <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1130796.jpg" alt="P1130796" class="wp-image-1194"/> 
 
 
 
@@ -101,7 +101,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1268} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1120840.jpg" alt="P1120840" class="wp-image-1268"/></figure>
+ <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1120840.jpg" alt="P1120840" class="wp-image-1268"/> 
 
 
 
@@ -117,7 +117,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1244} --></p>
-<figure class="wp-block-image"><img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1140805.jpg" alt="P1140805" class="wp-image-1244"/></figure>
+ <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1140805.jpg" alt="P1140805" class="wp-image-1244"/> 
 
 
 
@@ -133,7 +133,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":197} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Wood-Thrush-2.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Wood-Thrush-2.mp3"></audio> 
 <p><!-- /wp:audio --></p>
 
 

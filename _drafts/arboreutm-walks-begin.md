@@ -21,7 +21,7 @@ comments: []
 
 
 
-<p>Posted on&nbsp;<a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/arboreutm-walks-begin/">April 19, 2015</a></p>
+<p>Posted on April 19, 2015</a></p>
 
 
 
@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1063,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/04/P1090999.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/04/P1090999.jpg" alt="P1090999" class="wp-image-1063"/></a></figure>
+ <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/04/P1090999.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/04/P1090999.jpg" alt="P1090999" class="wp-image-1063"/></a> 
 
 
 
@@ -59,7 +59,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":407,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg" alt="P1080271" class="wp-image-407"/></a></figure>
+ <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg" alt="P1080271" class="wp-image-407"/></a> 
 
 
 
@@ -75,7 +75,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1066,"linkDestination":"custom"} --></p>
-<figure class="wp-block-image"><a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/04/P1010816.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/04/P1010816.jpg" alt="P1010816" class="wp-image-1066"/></a></figure>
+ <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/04/P1010816.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/04/P1010816.jpg" alt="P1010816" class="wp-image-1066"/></a> 
 
 
 
@@ -85,7 +85,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":206} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Chipping-Sparrow-1.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/Chipping-Sparrow-1.mp3"></audio> 
 <p><!-- /wp:audio --></p>
 
 
@@ -106,7 +106,7 @@ comments: []
 
 
 <p><!-- wp:audio {"id":209} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/3-21-Pine-Warbler.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/3-21-Pine-Warbler.wav"></audio> 
 <p><!-- /wp:audio --></p>
 
 
