@@ -33,7 +33,7 @@ comments: []
 <p>As we waited for the 8:00 AM starting gun we ticked off a stunning male cardinal in full song and a couple of Cedar Waxwings in a nearby tree:</p>
 
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1170768.jpg" alt="" class="wp-image-157"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1170768.jpg" alt="" class="wp-image-157"/></figure>
 
 
 <p>Cedar Waxwings always look ready for a grand occasion.</p>
@@ -41,68 +41,68 @@ comments: []
 
 <p>We checked out feeders in two locations and found little, but our first warbler did appear, an American Redstart:</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1160184.jpg" alt="" class="wp-image-158"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1160184.jpg" alt="" class="wp-image-158"/></figure>
 
 
 <p>Redstarts are noisy and visually noticeable as they flit through the trees and bushes. It is one of the more common wood warblers in the spring migration, and some stay and nest here.</p>
 
 <p>We heard several other warblers on our walk but got to see only one other, the Yellow Warbler. &nbsp;They are just beginning to build nests in the Rose Garden section of the Arb; soon there will young to feed:</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1060023.jpg" alt="" class="wp-image-159"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1060023.jpg" alt="" class="wp-image-159"/></figure>
 
 <p>Female Yellow Warbler at her active nest.</p>
 
 <p>Our only thrush on the walk gave us a bit of a puzzle. &nbsp;Seen clearly on the path ahead, it had a very faintly spotted breast (not Wood), same color of back and tail (not Hermit), and no distinct eye ring or spectacles (not Swainson&rsquo;s), so even though it seemed more gray-brown than rusty in low light, we settled on a Veery.</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1120450.jpg" alt="" class="wp-image-160"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1120450.jpg" alt="" class="wp-image-160"/></figure>
 
 <p>The Veery is in the thrush family and has an incredible, two-toned song. &nbsp;Veerys winter solely in Brazil.</p>
 
 <p>As we walked along Oak Path up to the top of Bussey Hill the group gained familiarity with the sing song cadence of the Red-eyed Vireo, but we never saw one clearly:</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1010954.jpg" alt="" class="wp-image-161"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1010954.jpg" alt="" class="wp-image-161"/></figure>
 
 <p>The Red-eyed Vireo can be distinguished from other members of this group by absence of wing-bars and the long white eyebrow and dark eye-line. &nbsp;It is heard much more often than seen.</p>
 
 <p>The flycatcher family was also evident on the walk. I heard a Great-crested Flycatcher but couldn&rsquo;t locate it. &nbsp;Eastern Wood-peewees were calling from several locations, and we finally saw one:</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1090421.jpg" alt="" class="wp-image-162"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1090421.jpg" alt="" class="wp-image-162"/></figure>
 
 <p>Eastern Wood-peewee, backlit</p>
 
 <p>And someone in the crowd located an Eastern Kingbird at the top of a tall deciduous tree:</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1240130.jpg" alt="" class="wp-image-163"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1240130.jpg" alt="" class="wp-image-163"/></figure>
 
 <p>Eastern Kingbird. Kingbirds nest in the Arboretum yearly. They can be identified by their solid&nbsp;white breast and white terminal tail band, especially in flight.</p>
 
 <p>Several birders remembered that we saw a Scarlet Tanager last year on a similar walk; they wanted a re-run. I had heard and seen tanagers on Bussey Hill twice this week, but today couldn&rsquo;t produce one. &nbsp;Here&rsquo;s one I captured four days before the walk:</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1160191.jpg" alt="" class="wp-image-164"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1160191.jpg" alt="" class="wp-image-164"/></figure>
 
 <p>Male Scarlet Tanager. Where was he today??</p>
 
 <p>The Arboretum is first and foremost a tree museum, so I couldn&rsquo;t resist pointing out a famous tree in Explorers Garden atop Bussey Hill:</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1160208.jpg" alt="" class="wp-image-165"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1160208.jpg" alt="" class="wp-image-165"/></figure>
 
 <p>Dove Tree,&nbsp;<em>Davidia involucrata</em>. The other common name for this unusual tree is Handkerchief Tree, for obvious reasons when in bloom.</p>
 
 <p>Ned Friedman, the Director of the Arboretum, has just written about this historic tree on his blog,&nbsp;<a href="https://web.archive.org/web/20170912192156/https://www.arboretum.harvard.edu/dove-tree-takes-wing-2/">check it out!</a>&nbsp;&nbsp;As we headed back to the main gate we passed the Black Locust near the ponds where an Eastern Screech-owl &nbsp;has sunned itself most days for the last four winters. &nbsp;A few months ago I posted some&nbsp;<a href="https://web.archive.org/web/20170912192156/http://www.arbotopia.com/spring-kickoff/">new information</a>&nbsp;on this owl. &nbsp;Was she pregnant? &nbsp;Ten days ago I was coming down Meadow Road from the ponds and checked the roost&nbsp;hole. &nbsp;I saw an owl in the hole, but when I got my bins on it it seemed different:</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1160121.jpg" alt="" class="wp-image-166"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1160121.jpg" alt="" class="wp-image-166"/></figure>
 
 <p>Eastern Screech-owlet(s). &nbsp;If you look closely you can detect another eye behind and to the right of the gray bird. &nbsp;Possibly the mother- or a &nbsp;second baby?</p>
 
 <p>About a minute later momma popped into view!</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1150529.jpg" alt="" class="wp-image-167"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1150529.jpg" alt="" class="wp-image-167"/></figure>
 
 <p>Female red phase Eastern Screech-owl</p>
 
 <p>The size of our group made it hard to stay in touch with everything that was going on. &nbsp;Patrick had&nbsp;heard, along with several others, the distant sound of a Black-billed Cuckoo. &nbsp;I missed it, but we added it to our list. When the walk was finished a young couple who bird regularly in the Arboretum told me about a bird they had both studied while on the walk but couldn&rsquo;t&nbsp;identify. &nbsp;After a few questions, I showed them a photo of a female Orchard Oriole. Bingo, they both agreed that was their bird!</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1100264.jpg" alt="" class="wp-image-168"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1100264.jpg" alt="" class="wp-image-168"/></figure>
 
 <p>Orchard Orioles are much less common than Baltimore&rsquo;s in the AA, but they breed here every year. &nbsp;As is generally the case in the avian world, the female is much less showy than the male.</p>
 

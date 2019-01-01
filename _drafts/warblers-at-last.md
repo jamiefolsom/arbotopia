@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":142} --></p>
-<figure class="wp-block-image"><img src="/images/2018/11/P1020388.jpg" alt="" class="wp-image-142"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1020388.jpg" alt="" class="wp-image-142"/></figure>
 
 
 
@@ -164,7 +164,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":144} --></p>
-<figure class="wp-block-image"><img src="/images/2018/11/P1050177.jpg" alt="" class="wp-image-144"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1050177.jpg" alt="" class="wp-image-144"/></figure>
 
 
 
@@ -257,7 +257,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":145} --></p>
-<figure class="wp-block-image"><img src="/images/2018/11/Redbud.jpg" alt="" class="wp-image-145"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/Redbud.jpg" alt="" class="wp-image-145"/></figure>
 
 
 
@@ -283,7 +283,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":146} --></p>
-<figure class="wp-block-image"><img src="/images/2018/11/IMG_0381.jpg" alt="" class="wp-image-146"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/IMG_0381.jpg" alt="" class="wp-image-146"/></figure>
 
 
 

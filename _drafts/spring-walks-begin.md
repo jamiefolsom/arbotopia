@@ -32,12 +32,12 @@ comments: []
 
 <p>In the Arboretum we ticked off some resident birds as our large group moved down Meadow Road; Song Sparrow, Red-belied Woodpecker, Common Grackle and American Goldfinch.&nbsp; Here are&nbsp;some images&nbsp;of them:</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1280094.jpg" alt="" class="wp-image-200"/><br />
+<figure class="wp-block-image"><img src="images/2018/11/P1280094.jpg" alt="" class="wp-image-200"/><br />
 <figcaption>A resident Song Sparrow, showing it&rsquo;s streaky breast coalescing into a central spot.</figcaption>
 </figure>
 
 <div class="wp-block-image">
-<figure class="alignright"><img src="/images/2018/11/P1030156.jpg" alt="" class="wp-image-128"/><br />
+<figure class="alignright"><img src="images/2018/11/P1030156.jpg" alt="" class="wp-image-128"/><br />
 <figcaption>Male Red-bellied woodpecker</figcaption>
 </figure>
 </div>
@@ -46,7 +46,7 @@ comments: []
 
 <p style="text-align:center">The Common Grackle in some light is solid black, but can show a beautiful iridescence on the head setting off its white eyes.</p>
 
-<figure class="wp-block-image"><img src="/images/2018/11/P1080609.jpg" alt="" class="wp-image-130"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1080609.jpg" alt="" class="wp-image-130"/></figure>
 
 <p>American Goldfinches are rather drab in winter but the spring plumage is striking, often looking like warbler at first glance.</p>
 
@@ -120,7 +120,7 @@ comments: []
 <p>I played a recording of the Pine Warbler and there was a response but at first I couldn&rsquo;t be sure which species was responding.&nbsp; A few minutes later as we moved along I did hear the shorter,&nbsp;softer&nbsp;trill of the warbler although we never saw it; too bad as it&rsquo;s good looking:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":134} --></p>
-<figure class="wp-block-image"><img src="/images/2018/11/P1010227.jpg" alt="" class="wp-image-134"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1010227.jpg" alt="" class="wp-image-134"/></figure>
 
 
 <p><!-- wp:paragraph --></p>
@@ -130,7 +130,7 @@ comments: []
 <p>As we began our return route I spied a Hermit Thrush which briefly teed up on a small tree allowing&nbsp;folks near me to see it.&nbsp; For those who missed it here is an image of this lovely early spring thrush as it passes through the area heading for breeding territory farther north:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":135} --></p>
-<figure class="wp-block-image"><img src="/images/2018/11/P1040765.jpg" alt="" class="wp-image-135"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1040765.jpg" alt="" class="wp-image-135"/></figure>
 
 
 <p><!-- wp:paragraph --></p>
@@ -176,7 +176,7 @@ comments: []
 <p>When I first looked at my favorite weather app on Sunday at 6:30 AM rain was predicted for 9:45.&nbsp; Perfect; the walk would just be ending!&nbsp; But by the time I got to our starting point in&nbsp;Brookline the update&nbsp;showed rain starting at 8 AM, just when we began.&nbsp; It was right, but fortunately the rain never became too heavy so those that showed up went home a bit cold but not too wet.&nbsp; The target bird for the Leverett Pond walk was the first one we saw:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":139} --></p>
-<figure class="wp-block-image"><img src="/images/2018/11/P1010908.jpg" alt="" class="wp-image-139"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1010908.jpg" alt="" class="wp-image-139"/></figure>
 
 
 <p><!-- wp:paragraph {"align":"center"} --></p>
@@ -215,7 +215,7 @@ comments: []
 <p>We also heard and saw several Tufted Titmouses (yes that&rsquo;s the official ornithological plural):&nbsp;</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":202} --></p>
-<figure class="wp-block-image"><img src="/images/2018/11/P1280017.jpg" alt="" class="wp-image-202"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1280017.jpg" alt="" class="wp-image-202"/></figure>
 
 
 <p><!-- wp:paragraph --></p>
@@ -225,7 +225,7 @@ comments: []
 <p>The rain began in earnest again so we headed back to our cars.&nbsp; On the way we had a nice look at an adult Double-crested Cormorant on the pond:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":201} --></p>
-<figure class="wp-block-image"><img src="/images/2018/11/P1010986.jpg" alt="" class="wp-image-201"/></figure>
+<figure class="wp-block-image"><img src="images/2018/11/P1010986.jpg" alt="" class="wp-image-201"/></figure>
 
 
 <p><!-- wp:paragraph --></p>
