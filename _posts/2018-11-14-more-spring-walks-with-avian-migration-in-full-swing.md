@@ -10,15 +10,15 @@ author:
 author_login: admin
 wordpress_id: 102
 wordpress_url: https://arbotopia.com/?p=102
-date: 2018-11-14 16:51:02 -0500
+date: 2018-11-14 21:51:02 +0000
 categories:
 - Bird Walks
 - Avian
 - Arnold Arboretum
 tags: []
 comments: []
----
 
+---
 Posted on May 6, 2018
 
 On Saturday May 5, I led more than 40 happy birders on a two hour walk on Peters Hill in the Arnold Arboretum. The weather could not have been nicer, and with WSW winds overnight we were hopeful for some warblers and other migrants.  We kicked off with a common one and had good looks as he sang in a leafing out birch:
@@ -27,7 +27,7 @@ On Saturday May 5, I led more than 40 happy birders on a two hour walk on Peter
 
 Singing male Yellow Warbler, showing the rust colored streaks on breast and sides. The song is sometime rendered as “sweet, sweet, a little more sweet”. Can you hear that?
 
-_Sound recording courtesy of Lang Elliott NatureSound Studio_ 
+_Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 ![](images/2018/05/P1160016.jpg)
 
@@ -69,43 +69,44 @@ Let’s hope they are able to hold their new nesting site and successfully raise
 
 Here is the complete list for the Peters Hill Walk:
 
-*   Arnold Arboretum, Suffolk, Massachusetts, US
-    May 5, 2018 8:00 AM – 10:00 AM
-    Comments:     BBC walk, **Peters Hill** 56. sunny
+* Arnold Arboretum, 
+* Suffolk, Massachusetts, US
+* May 5, 2018 8:00 AM – 10:00 AM
+* Comments: BBC walk, **Peters Hill** 56. sunny
 
 **31 species**
 
-- Turkey Vulture  1
-- Red-tailed Hawk  2
-- Herring Gull  2
-- Mourning Dove  2
-- Red-bellied Woodpecker  1
-- Northern Flicker  1
-- Red-eyed Vireo  1
-- Blue Jay  5
-- American Crow  2
-- Black-capped Chickadee  1
-- Tufted Titmouse  1
-- White-breasted Nuthatch  2
-- Eastern Bluebird  2
-- American Robin  30
-- Gray Catbird  2
-- European Starling  4
-- Black-and-white Warbler  1
-- Common Yellowthroat  2
-- Northern Parula  1
-- Yellow Warbler  2
-- Yellow-rumped Warbler  3
-- Chipping Sparrow  5
-- Song Sparrow  3
-- Northern Cardinal  3
-- Indigo Bunting  1
-- Orchard Oriole  1
-- Baltimore Oriole  6
-- Red-winged Blackbird  4
-- Common Grackle  25
-- American Goldfinch  1
-- House Sparrow  4
+* Turkey Vulture  1
+* Red-tailed Hawk  2
+* Herring Gull  2
+* Mourning Dove  2
+* Red-bellied Woodpecker  1
+* Northern Flicker  1
+* Red-eyed Vireo  1
+* Blue Jay  5
+* American Crow  2
+* Black-capped Chickadee  1
+* Tufted Titmouse  1
+* White-breasted Nuthatch  2
+* Eastern Bluebird  2
+* American Robin  30
+* Gray Catbird  2
+* European Starling  4
+* Black-and-white Warbler  1
+* Common Yellowthroat  2
+* Northern Parula  1
+* Yellow Warbler  2
+* Yellow-rumped Warbler  3
+* Chipping Sparrow  5
+* Song Sparrow  3
+* Northern Cardinal  3
+* Indigo Bunting  1
+* Orchard Oriole  1
+* Baltimore Oriole  6
+* Red-winged Blackbird  4
+* Common Grackle  25
+* American Goldfinch  1
+* House Sparrow  4
 
 View this checklist online at [https://ebird.org/view/checklist/S45287689](https://ebird.org/view/checklist/S45287689)
 
@@ -166,31 +167,31 @@ May 6, 2018 8:00 AM – 9:30 AM
 Comments:     BBC walk, **Bussey Brook Meadow** cloudy, 58
 **25 species**
 
-- Mallard  4
-- Great Blue Heron  1
-- Herring Gull  2
-- Mourning Dove  3
-- Ruby-throated Hummingbird  1
-- Red-bellied Woodpecker  3
-- Downy Woodpecker  4
-- Northern Flicker  1
-- Warbling Vireo  1
-- Blue Jay  5
-- Tufted Titmouse  2
-- House Wren  1
-- American Robin  6
-- Gray Catbird  1
-- Northern Mockingbird  1
-- Northern Parula  1
-- Yellow Warbler  1
-- Black-throated Green Warbler  1
-- Chipping Sparrow  1
-- Song Sparrow  3
-- Northern Cardinal  3
-- Baltimore Oriole  6
-- Red-winged Blackbird  5
-- Common Grackle  20
-- House Sparrow  3
+* Mallard  4
+* Great Blue Heron  1
+* Herring Gull  2
+* Mourning Dove  3
+* Ruby-throated Hummingbird  1
+* Red-bellied Woodpecker  3
+* Downy Woodpecker  4
+* Northern Flicker  1
+* Warbling Vireo  1
+* Blue Jay  5
+* Tufted Titmouse  2
+* House Wren  1
+* American Robin  6
+* Gray Catbird  1
+* Northern Mockingbird  1
+* Northern Parula  1
+* Yellow Warbler  1
+* Black-throated Green Warbler  1
+* Chipping Sparrow  1
+* Song Sparrow  3
+* Northern Cardinal  3
+* Baltimore Oriole  6
+* Red-winged Blackbird  5
+* Common Grackle  20
+* House Sparrow  3
 
 View this checklist online at [https://ebird.org/view/checklist/S45352886](https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45352886)
 
