@@ -72,38 +72,42 @@ Here is the complete list for the Peters Hill Walk:
 *   Arnold Arboretum, Suffolk, Massachusetts, US
     May 5, 2018 8:00 AM – 10:00 AM
     Comments:     BBC walk, **Peters Hill** 56. sunny
-    **31 species**
-*   Turkey Vulture  1
-    Red-tailed Hawk  2
-    Herring Gull  2
-    Mourning Dove  2
-    Red-bellied Woodpecker  1
-    Northern Flicker  1
-    Red-eyed Vireo  1
-    Blue Jay  5
-    American Crow  2
-    Black-capped Chickadee  1
-    Tufted Titmouse  1
-    White-breasted Nuthatch  2
-    Eastern Bluebird  2
-    American Robin  30
-    Gray Catbird  2
-    European Starling  4
-    Black-and-white Warbler  1
-    Common Yellowthroat  2
-    Northern Parula  1
-    Yellow Warbler  2
-    Yellow-rumped Warbler  3
-    Chipping Sparrow  5
-    Song Sparrow  3
-    Northern Cardinal  3
-    Indigo Bunting  1
-    Orchard Oriole  1
-    Baltimore Oriole  6
-    Red-winged Blackbird  4
-    Common Grackle  25
-    American Goldfinch  1
-    House Sparrow  4View this checklist online at [https://ebird.org/view/checklist/S45287689](https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45287689)
+
+**31 species**
+
+- Turkey Vulture  1
+- Red-tailed Hawk  2
+- Herring Gull  2
+- Mourning Dove  2
+- Red-bellied Woodpecker  1
+- Northern Flicker  1
+- Red-eyed Vireo  1
+- Blue Jay  5
+- American Crow  2
+- Black-capped Chickadee  1
+- Tufted Titmouse  1
+- White-breasted Nuthatch  2
+- Eastern Bluebird  2
+- American Robin  30
+- Gray Catbird  2
+- European Starling  4
+- Black-and-white Warbler  1
+- Common Yellowthroat  2
+- Northern Parula  1
+- Yellow Warbler  2
+- Yellow-rumped Warbler  3
+- Chipping Sparrow  5
+- Song Sparrow  3
+- Northern Cardinal  3
+- Indigo Bunting  1
+- Orchard Oriole  1
+- Baltimore Oriole  6
+- Red-winged Blackbird  4
+- Common Grackle  25
+- American Goldfinch  1
+- House Sparrow  4
+
+View this checklist online at [https://ebird.org/view/checklist/S45287689](https://ebird.org/view/checklist/S45287689)
 
 SUNDAY MORNING'S WALK was in the newest section of the Arboretum, Bussey Brook Meadow.  The weather report suggested some rain and we did have a few drops early on but otherwise the group of about 30 people stayed dry.  A visiting couple from New Zealand were the first to locate a nice find; nesting Red-bellied Woodpeckers.  We heard the unmistakable rasping call and had full on looks at the bird:
 
@@ -162,30 +166,30 @@ May 6, 2018 8:00 AM – 9:30 AM
 Comments:     BBC walk, **Bussey Brook Meadow** cloudy, 58
 **25 species**
 
-- Mallard  4  
-- Great Blue Heron  1  
-- Herring Gull  2  
-- Mourning Dove  3  
-- Ruby-throated Hummingbird  1  
-- Red-bellied Woodpecker  3  
-- Downy Woodpecker  4  
-- Northern Flicker  1  
-- Warbling Vireo  1  
-- Blue Jay  5  
-- Tufted Titmouse  2  
-- House Wren  1  
-- American Robin  6  
-- Gray Catbird  1  
-- Northern Mockingbird  1  
-- Northern Parula  1  
-- Yellow Warbler  1  
-- Black-throated Green Warbler  1  
-- Chipping Sparrow  1  
-- Song Sparrow  3  
-- Northern Cardinal  3  
-- Baltimore Oriole  6  
-- Red-winged Blackbird  5  
-- Common Grackle  20  
+- Mallard  4
+- Great Blue Heron  1
+- Herring Gull  2
+- Mourning Dove  3
+- Ruby-throated Hummingbird  1
+- Red-bellied Woodpecker  3
+- Downy Woodpecker  4
+- Northern Flicker  1
+- Warbling Vireo  1
+- Blue Jay  5
+- Tufted Titmouse  2
+- House Wren  1
+- American Robin  6
+- Gray Catbird  1
+- Northern Mockingbird  1
+- Northern Parula  1
+- Yellow Warbler  1
+- Black-throated Green Warbler  1
+- Chipping Sparrow  1
+- Song Sparrow  3
+- Northern Cardinal  3
+- Baltimore Oriole  6
+- Red-winged Blackbird  5
+- Common Grackle  20
 - House Sparrow  3
 
 View this checklist online at [https://ebird.org/view/checklist/S45352886](https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45352886)
