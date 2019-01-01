@@ -18,115 +18,209 @@ categories:
 tags: []
 comments: []
 ---
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>Posted on&nbsp;<a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/a-winter-birding-foray-at-olmsted-park/">December 8, 2014</a></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>About 15 birders joined me and National Park Ranger Mark Swartz for a walk along&nbsp;<a href="https://web.archive.org/web/20150113012755/https://www.google.com/maps/place/Olmsted+Park/@42.3251659,-71.1152747,16z/data=!4m2!3m1!1s0x89e3799e7cec8f07:0x23a597f711bb181f">Leverett Pond and through Olmsted Park up to Ward&rsquo;s Pond</a>&nbsp;and back.&nbsp; It was cold and damp following the heavy rains overnight but the group was in good spirits, even though the avian harvest was far from abundant.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>We began by searching for the Wood Ducks that have been hanging out on the Boston side of one of the small islands in Leverett.&nbsp; The water was so high from the rains it was hard to find the island!&nbsp; But after a search we did manage to discover a few &ldquo;woodies&rdquo; among the sunken shrubbery.&nbsp; Near the end of the walk we were lucky enough to see a beautiful pair close up.&nbsp; The Wood Duck may be the most spectacular native duck in this area:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":288} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1110518.jpg" alt="" class="wp-image-288"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male (top) and female Wood Ducks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photo: Bob Mayer</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>As we were admiring the Wood Ducks, several Ring-necked Ducks passed by:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":289} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1070671.jpg" alt="" class="wp-image-289"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male Ring-necked Ducks. Why isn&rsquo;t this bird named Ring-billed Duck?&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Photo: Bob Mayer</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Then someone in the group noticed a pair of Hooded Mergansers hiding in the aquatic undergrowth:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":938,"linkDestination":"custom"} --></p>
 <figure class="wp-block-image"><a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2014/12/P1220330.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1220330.jpg" alt="P1220330" class="wp-image-938"/></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>A female Hooded Merganser leading a male. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Photo: Bob Mayer</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>After this hat trick we spent a few minutes comparing female Mallards and American Black Ducks, which can be confusing.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Our search for land birds was disappointing.&nbsp; Other than the usual winter species- robins, titmouses, chickadees, and several sparrow species- we came up short.&nbsp; The youngest member of our group, perhaps ten years old,&nbsp; treated us to his perfect rendition of the call of the Mourning Dove.&nbsp; No real MODO&rsquo;s responded however.&nbsp; As we circled Ward&rsquo;s Pond we did have one Hermit Thrush hidden in a tangled bittersweet vine.&nbsp; This is a lovely bird:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":943,"linkDestination":"custom"} --></p>
 <figure class="wp-block-image"><a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg" alt="P1040765" class="wp-image-943"/></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Hermit Thrush. The rusty tail and wing primaries distinguish it from other similar thrushes, and it is the only one likely to be seen in this weather.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Photo: Bob Mayer</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>The other nice surprise was two Great Blue Herons hunkered down in the reeds around that pond.&nbsp; Seeing them up close demonstrated how big these birds are:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":946,"linkDestination":"custom"} --></p>
 <figure class="wp-block-image"><a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2014/12/P1090225.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1090225.jpg" alt="P1090225" class="wp-image-946"/></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Great Blue Heron. Judging from the plumage of this bird it is likely a juvenile.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photo: Bob Mayer</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Both herons flushed briefly while we were passing by, giving us another view of their impressive size:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":290} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1080665_1.jpg" alt="" class="wp-image-290"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Adult Great Blue Heron&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Photo: Bob Mayer</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>A few days before the walk Mark and I made a scouting tour of the area and we located a somewhat uncommon bird at Ward&rsquo;s Pond. Of course we were anxious to find it for the group, but it was not to be.&nbsp; Winter Wrens are notorious skulkers, hiding deftly in the underbrush.&nbsp; Other birders had reported the wren in this location off and on for at least a month prior to the walk.&nbsp; Perhaps it had moved on, but more likely it was there, watching us listen and search.&nbsp; Here is an image of the bird taken on our scouting trip:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":287} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1090246-1.jpg" alt="" class="wp-image-287"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Winter Wren. This bird is only a little more than three inches in length.&nbsp; At nine grams, you could mail three of them with a single first class stamp!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photo: Bob Mayer</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>This tiny wren carries a big stick when it comes to vocalization however. Here is it&rsquo;s lovely call (sung mostly in the spring):</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:audio {"id":286} --></p>
 <figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/2-84-Winter-Wren.wav"></audio></figure>
 <p><!-- /wp:audio --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p><em>Sound recording courtesy of Lang<br />
 Elliott NatureSound Studio</em>&nbsp;</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Here is the meager list from the walk:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Olmsted Park&ndash;Leverett Pond, Suffolk, US-MA<br>Dec 7, 2014 9:00 AM &ndash; 10:30 AM<br>Protocol: Traveling<br>2.0 mile(s)<br>Comments:&nbsp;&nbsp;&nbsp;&nbsp; overcast. 30<br>18 species</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Canada Goose&nbsp; 45<br>Wood Duck&nbsp; 5<br>American Black Duck&nbsp; 7<br>Mallard&nbsp; 60<br>Ring-necked Duck&nbsp; 4<br>Hooded Merganser&nbsp; 2<br>Great Blue Heron&nbsp; 2<br>Ring-billed Gull&nbsp; 3<br>Blue Jay&nbsp; 2<br>Black-capped Chickadee&nbsp; 2<br>Tufted Titmouse&nbsp; 5<br>Hermit Thrush&nbsp; 1<br>American Robin&nbsp; 6<br>Song Sparrow&nbsp; 1<br>White-throated Sparrow&nbsp; 3<br>Dark-eyed Junco&nbsp; 2<br>American Goldfinch&nbsp; 1<br>House Sparrow&nbsp; 10</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>View this checklist online <a href="https://ebird.org/view/checklist/S20830319">at http://ebird.org/ebird/view/checklist?subID=S20830319</a></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>This report was generated automatically by eBird v3 (http://ebird.org)</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>The annual&nbsp;Boston Christmas Bird Count&nbsp;is scheduled to take place this Sunday December 14, and the Jamaica Plain section will begin at 7 AM at Jamaica Pond.&nbsp; If you are interested in joining this all day event you can contact me at rgmayer@comcast.net and I can give you more details.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>My next walk is scheduled for early January 2015.&nbsp; Here are the details:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Sunday, January 11, Arnold Arboretum, Boston. &nbsp;This will be an easy two-hour walk from the main gate to Bussey Hill and back, focusing on winter birds as well as admiring the woody plant collection in winter. See the arboretum website <a href="http://www.arboretum.harvard.edu">http://www.arboretum.harvard.edu</a> for directions and a checklist of birds. Meeting place: &nbsp;Inside the main gate off the Arborway (parking along the Arborway). 9:00 a.m.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>I hope some of you can join me.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Good birding!<br></p>
-<p><!-- /wp:paragraph --></p>
+
+

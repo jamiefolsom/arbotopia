@@ -18,170 +18,289 @@ categories:
 tags: []
 comments: []
 ---
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>Posted on&nbsp;<a href="https://web.archive.org/web/20180602142840/http://www.arbotopia.com/warblers-at-last/">May 23, 2018</a></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>After overnight rains the air was damp and humid when 31 birders arrived at 8 AM for my last scheduled bird walk in the Arboretum this spring.&nbsp; Given&nbsp;reports from other nearby locales I was hopful that we would locate some good migrant warblers.&nbsp; We headed down Meadow Road to Linden Path, noting a pair of Tree Swallows defending a nest box that has been involved in a real estate battle with nasty House Sparrows; they killed a female swallow just a week ago at this house:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":142} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1020388.jpg" alt="" class="wp-image-142"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>There had been a battle over this nest box for several weeks; the last occupant was killed by aggressive non-native House Sparrows.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>I had cleaned&nbsp; out the box two days before the walk and was pleased to see a pair of Tree Swallows making another attempt to use the box.&nbsp; In my last post I discussed another fight over a&nbsp;<a href="https://web.archive.org/web/20180602142840/http://www.arbotopia.com/more-spring-walks-with-avian-migration-in-full-swing/">box on Peters Hill</a>; the outcome there was not good as the native species, in that case Eastern Bluebirds, eventually gave up.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>We heard but didn&rsquo;t see our first warbler early on the path; Northern Parula.&nbsp; Other migrants were picked up by ear as we proceeded through the Shrub and Vine Garden and up Bussey Hill Road to Oak Path; two vireo species and&nbsp;a flycatcher, a peewee.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Red-eyed Vireo has a sing-song, monotonous call that can often be heard even in the heat of the afternoon</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:audio {"id":222} --></p>
 <figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Red-eyed-Vireo-1.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>Warbling Vireo has a more musical&nbsp;song:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:audio {"id":118} --></p>
 <figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Warbling-vireo.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>The Eastern Wood-peewee, our smallest flycatcher, calls out a persistent whistle:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:audio {"id":223} --></p>
 <figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/E.Wood-pewee-1.wav"></audio></figure>
 <p><!-- /wp:audio --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p><em>Sound recordings courtesy of Lang Elliott NatureSound Studio</em></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>All of these birds are pretty plain so it wasn&rsquo;t a big loss that we didn&rsquo;t see them well. Here is an image of the most colorful of this drab lot:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1679} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1010954.jpg" alt="" class="wp-image-1679"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Red-eyed Vireo</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>But we wanted warblers!&nbsp; As we walked along a mulch path under giant oaks- a perfect spot for warblers- we saw and heard nothing. It was as quiet as an empty church.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Undeterred we headed to the top of Bussey Hill where some good warblering can be had.&nbsp; Windy and very quiet!&nbsp; I was about to give up, but then&nbsp;we dropped below the hill on the eastern side, out of the north wind.&nbsp; As we descended, the silence of the hilltop evolved into a cacophony of sound; so much so that it was hard to detect the individual songs.&nbsp;&nbsp;Warblers at last!&nbsp; They were high up and the&nbsp;trees were fairly leafed out, but&nbsp;gradually some young eyes began teasing them out&nbsp;one by one.&nbsp; Bay-sided, Blackburnian, Black-throated Green,&nbsp;American Redstart; a pair of them!&nbsp; Some were still hard to see, but their calls&nbsp;sorted them out. The squeaky gate of the Black and White Warbler. The ascending buzzzz of the Northern Parula.&nbsp; Surely a Yellow Warbler!&nbsp; Perhaps a Chestnut-sided?&nbsp; This pretty bird was confirmed an hour later when one of our group returned to this &ldquo;paradise&rdquo; and saw it well. She also reported Blackpoll Warblers, but as she was the only observer we couldn&rsquo;t count it, as the rules of birding go.&nbsp; Nonetheless eight warbler species, including several uncommon ones, in about a half hour wasn&rsquo;t too bad.&nbsp; Here are looks at some of the warblers we saw.</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1420} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg" alt="" class="wp-image-1420"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male Bay-breasted Warbler. Photo: Ted Bradford</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1683} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/101455011-1.jpg" alt="" class="wp-image-1683"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Blackburnian Warbler Photo: Ajay Sicloot</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1668} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1000627.jpg" alt="" class="wp-image-1668"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Black-throated Green Warbler</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1684} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1050239.jpg" alt="" class="wp-image-1684"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male American Redstart</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1685} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1020265.jpg" alt="" class="wp-image-1685"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Black and white Warbler</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":144} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1050177.jpg" alt="" class="wp-image-144"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Northern Parula</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1686} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1020287.jpg" alt="" class="wp-image-1686"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Chest-sided Warbler</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Last weekend&nbsp;when I did the Bird-a-thon (BAT) with three other birders we had only a few more warbler species&nbsp;after searching nearly 12 hours.&nbsp; Such is the way with birding; very unpredictable and reliant on serendipity.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>A&nbsp;brief aside.&nbsp; The BAT this year was last weekend from 6 PM Friday evening to 6 PM Saturday.&nbsp; I didn&rsquo;t join my team of four Friday evening due to a family conflict, but they went to Millennium&nbsp;Park in W. Roxbury and tallied more than 25 species. On Saturday we started off at 6 AM in a small park at the top of Mission Hill, McLaughlin Woods. This has become an urban hot spot in recent years and we got a few nice birds there, including Yellow-bellied Sapsucker:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1681} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1000348.jpg" alt="" class="wp-image-1681"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male Yellow-bellied Sapsucker, next to it&rsquo;s characteristic bark probes, seeking sap and the insects drawn to it.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>This was one of five woodpecker species we logged; missing only Pileated Woodpecker.&nbsp; We then proceeded south where we birded Wompatuck State Park, World&rsquo;s End and Daniel Webster Wildlife Sanctuary in Marshfield.&nbsp; The whole day was chilly and damp with occasional rain.&nbsp; Our&nbsp;target each year is to get at least 80 species; this year we fell short&nbsp;with only 74.&nbsp; It was all for a good cause; raising money for the summer camp at Mass Audubon&rsquo;s Boston Nature Center in Mattapan.&nbsp; All together the BNC raised nearly $14,000 and our team was responsible for $1700 of that.&nbsp; It&rsquo;s not too late to donate; here is a link to my&nbsp;<a href="https://web.archive.org/web/20180602142840/https://goo.gl/fuocvG">donor site</a>.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Returning to Sunday&rsquo;s Arboretum walk,&nbsp; we pulled ourselfs away from the warbler bonanza and returned to our starting point, picking up a few more species, including one that was new to some in the group:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1687} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/101455741.jpg" alt="" class="wp-image-1687"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>A perfectly manicured Cedar Waxwing. Photo: Ajay Sicloot</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>My birding friend and nature photographer Ajay was along on this walk,&nbsp;chronicling it with his SLR camera and big zoom lens.&nbsp; To see his (slightly different) eBird list for the walk, which includes many more of his photographs, go to&nbsp;<a href="https://ebird.org/view/checklist/S45917461">https://ebird.org/view/checklist/S45917461</a></p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:list --></p>
 <ul>
 <li>Here is my list:<br><strong>Arnold Arboretum</strong>, Suffolk, Massachusetts, US<br>May 20, 2018 8:00 AM &ndash; 10:40 AM<br>Protocol: Traveling<br>2.5 mile(s)<br>Comments: &nbsp; &nbsp; sun and clouds, humid and windy &nbsp;68<br><strong>36 species</strong></li>
 </ul>
 <p><!-- /wp:list --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>Canada Goose &nbsp;2<br>Red-tailed Hawk &nbsp;1<br>Herring Gull &nbsp;2<br>Rock Pigeon (Feral Pigeon) &nbsp;1<br>Mourning Dove &nbsp;1<br>Chimney Swift &nbsp;3<br>Red-bellied Woodpecker &nbsp;1<br>Eastern Wood-Pewee &nbsp;1Eastern Kingbird 1<br>Warbling Vireo &nbsp;3<br>Red-eyed Vireo &nbsp;2<br>Blue Jay &nbsp;1<br>Tree Swallow &nbsp;4<br>Black-capped Chickadee &nbsp;2<br>American Robin &nbsp;25<br>Gray Catbird &nbsp;5<br>European Starling &nbsp;3<br>Cedar Waxwing &nbsp;4<br>Black-and-white Warbler &nbsp;4<br>American Redstart &nbsp;2<br>Northern Parula &nbsp;5<br>Bay-breasted Warbler &nbsp;1<br>Blackburnian Warbler &nbsp;1<br>Yellow Warbler &nbsp;2<br>Chestnut-sided Warbler &nbsp;1<br>Black-throated Green Warbler &nbsp;2<br>Chipping Sparrow &nbsp;5<br>Savannah Sparrow &nbsp;1<br>Song Sparrow &nbsp;5<br>Northern Cardinal &nbsp;1<br>Baltimore Oriole &nbsp;3<br>Red-winged Blackbird &nbsp;4<br>Brown-headed Cowbird &nbsp;1<br>Common Grackle &nbsp;12<br>American Goldfinch &nbsp;2<br>House Sparrow &nbsp;5</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:list --></p>
 <ul>
 <li>View this checklist online at <a href="https://ebird.org/view/checklist/S45855629">https://ebird.org/view/checklist/S45855629</a></li>
 <li>This report was generated automatically by eBird v3 (<a href="http://ebird.org">http://ebird.org</a>)</li>
 </ul>
 <p><!-- /wp:list --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>Finally&nbsp;I want to&nbsp;report on an exciting find at the ponds at the Arnold Arboretum, and an amazing back story.&nbsp; A few weeks ago I was doing a program with elementary school kids and was showing them the odd way that Eastern Redbud,&nbsp;<em>Cercis canadensis</em>, will grow its lovely spring flowers directly out of the bark on the trunk of the tree:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":145} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/Redbud.jpg" alt="" class="wp-image-145"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>One youngster said, &ldquo;There&rsquo;s a frog in the tree!&rdquo;&nbsp; Disbelieving, I looked on the branch where he was looking and&nbsp;saw this:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1689} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/IMG_0388.jpg" alt="" class="wp-image-1689"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Like the boy said, &ldquo;There&rsquo;s a frog in the tree!&rdquo;</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Gray Treefrogs,&nbsp;<em>Hyla versicolor,</em>&nbsp;are native to much of Eastern United States. They are known for their ability to camouflage their coloration in various shades of gray to green (thus the Latin name), and for the well-developed discs at the finger and toe tips that help them hold on to branches.&nbsp; Here&rsquo;s an even cooler image of the frog:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":146} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/IMG_0381.jpg" alt="" class="wp-image-146"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>You can just see the pads at the tips of this treefrog&rsquo;s fingers.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>I friend of mine ha a theory about how treefrogs got to the ponds at the AA.&nbsp; He&nbsp;said that he had never heard or seen Gray Treefrogs here until 2012.&nbsp; They are more common west of Boston and he surmised that they arrived during the terrible tornados in the Springfield/Brimfield area back in 2011.&nbsp; Pieces of buildings traced back to Brimfield had been found in Milton and Quincy, so why not arboreal frogs?&nbsp; That sounded crazy to me.&nbsp; But when I showed the images to the head arborist at the Arboretum he told me that in 25 years of tree climbing he had never seen a treefrog until about seven years before. Since then he saw them several times a year in the spring.&nbsp; Maybe the theory was correct?&nbsp; Only a DNA analysis of our frogs, comparing them to those in Brimfield, would clinch the deal.&nbsp; We&rsquo;re looking for a grant to&nbsp;check that out!</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Good birding!</p>
-<p><!-- /wp:paragraph --></p>
+
+

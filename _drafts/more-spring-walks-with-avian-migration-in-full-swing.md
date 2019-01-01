@@ -18,192 +18,336 @@ categories:
 tags: []
 comments: []
 ---
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>Posted on&nbsp;<a href="https://web.archive.org/web/20180602142840/http://www.arbotopia.com/more-spring-walks-with-avian-migration-in-full-swing/">May 6, 2018</a></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>On Saturday May 5, I led more than&nbsp;40 happy birders on a two hour walk on Peters Hill in the Arnold Arboretum. The weather could not have been nicer, and with WSW winds overnight we were hopeful for some warblers and other migrants.&nbsp; We kicked off with a common one and had good looks as he sang in a leafing out birch:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":121} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1080518_1.jpg" alt="" class="wp-image-121"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Singing male Yellow Warbler, showing the rust colored streaks on breast and sides. The song is sometime rendered as &ldquo;sweet, sweet, a little more sweet&rdquo;. Can you hear that?</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:audio {"id":218} --></p>
 <figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/Yellow-Warbler.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p><em>Sound recording courtesy of Lang Elliott NatureSound Studio</em>&nbsp;</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1656} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1160016.jpg" alt="" class="wp-image-1656"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Two male Baltimore Orioles competing for territory.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Nearby we spent some time at a flowering cherry where I often find warblers in spring; they were there but were very hard to tease out and weren&rsquo;t singing.&nbsp; Maybe a Nashville, maybe a Yellow-rumped?&nbsp;&nbsp;We had to settle for &ldquo;warbler species&rdquo;.&nbsp; But a bit farther on we had good looks at a Black-and-white Warbler:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1657} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1020244.jpg" alt="" class="wp-image-1657"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Black-and-white Warbler in its typical pose on a tree branch.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>We ticked off other warblers as we proceeded; Yellow-rumped, Northern Parula, Common Yellowthroat. Then we had&nbsp;our best bird of the walk:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1658} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1080348.jpg" alt="" class="wp-image-1658"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male Indigo Bunting</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>This was my earliest first of year (FOY) sighting ever of this species and a &ldquo;lifer&rdquo; for several members of the group.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Topographically much of the rest of the walk was uphill but&nbsp;in terms of birds it was mostly downhill.&nbsp; We had seen a Red-tailed Hawk overhead carrying a small rodent and watched it finally settle into some trees some distance away.. With help from another&nbsp;birder we were able to locate the nest. I had seen what was probably the same bird two days earlier; with mouths to feed these raptors have to keep busy:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1659} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1020147.jpg" alt="" class="wp-image-1659"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>I located this adult red-tail because it was being harassed by several jays.&nbsp; Note the hawk is protecting a recent kill.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>We&nbsp;found our last highlight thru a circuitous route.&nbsp; Earlier in the week I&nbsp;found a pair of bluebirds that were flying in and out of a new nestbox that an Arboretum staff member had placed on the hill.&nbsp; I was pretty excited, because while bluebirds had nested in boxes I put up in 2005, they hadn&rsquo;t done so for over ten years.&nbsp; But the day before our walk the house builder emailed me to say that he saw a House Sparrow sitting&nbsp; on top of the box.&nbsp; Bummer!</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1660} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/House-Sparrow.jpg" alt="" class="wp-image-1660"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male House Sparrow. This non-native&nbsp;import is a menace to native cavity nest builders as they evict them from nestboxes, sometimes destroying eggs or nestlings in the process.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>In the early years of the nestbox program at the Arboretum, House Sparrows were seldom a problem.&nbsp; In recent years however they have taken over most of the dozen or so boxes.&nbsp; I feared this had happened to my long sought after bluebirds, but was heading to the box with the group in hopes it hadn&rsquo;t. A local birding friend who joined the walk told me she had actually seen bluebirds on a box, but not the&nbsp;one I was heading for!&nbsp; We quickly re-directed to another box on the hill, which I thought was unused.&nbsp; Bingo! The Eastern Bluebirds had relocated to this box, and the group had good looks at the pair.</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":148} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1130669.jpg" alt="" class="wp-image-148"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male Eastern Bluebird guarding a nestbox</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Let&rsquo;s hope they are able to hold their new nesting site and successfully raise a family.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Here is the complete list for the Peters Hill Walk:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:list --></p>
 <ul>
 <li>Arnold Arboretum, Suffolk, Massachusetts, US<br>May 5, 2018 8:00 AM &ndash; 10:00 AM<br>Comments: &nbsp;&nbsp;&nbsp;&nbsp;BBC walk,&nbsp;<strong>Peters Hill</strong>&nbsp;56. sunny<br><strong>31 species</strong></li>
 <li>Turkey Vulture &nbsp;1<br>Red-tailed Hawk &nbsp;2<br>Herring Gull &nbsp;2<br>Mourning Dove &nbsp;2<br>Red-bellied Woodpecker &nbsp;1<br>Northern Flicker &nbsp;1<br>Red-eyed Vireo &nbsp;1<br>Blue Jay &nbsp;5<br>American Crow &nbsp;2<br>Black-capped Chickadee &nbsp;1<br>Tufted Titmouse &nbsp;1<br>White-breasted Nuthatch &nbsp;2<br>Eastern Bluebird &nbsp;2<br>American Robin &nbsp;30<br>Gray Catbird &nbsp;2<br>European Starling &nbsp;4<br>Black-and-white Warbler &nbsp;1<br>Common Yellowthroat &nbsp;2<br>Northern Parula &nbsp;1<br>Yellow Warbler &nbsp;2<br>Yellow-rumped Warbler &nbsp;3<br>Chipping Sparrow &nbsp;5<br>Song Sparrow &nbsp;3<br>Northern Cardinal &nbsp;3<br>Indigo Bunting &nbsp;1<br>Orchard Oriole &nbsp;1<br>Baltimore Oriole &nbsp;6<br>Red-winged Blackbird &nbsp;4<br>Common Grackle &nbsp;25<br>American Goldfinch &nbsp;1<br>House Sparrow &nbsp;4View this checklist online at&nbsp;<a href="https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45287689">https://ebird.org/view/checklist/S45287689</a></li>
 </ul>
 <p><!-- /wp:list --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>SUNDAY MORNING'S WALK was in the newest section of the Arboretum, Bussey Brook Meadow.&nbsp; The weather report suggested some rain and we did have a few drops early on but otherwise the group of about 30 people stayed dry.&nbsp; A visiting couple from New Zealand were the first to locate a nice find; nesting Red-bellied Woodpeckers.&nbsp; We heard the unmistakable rasping call and had full on looks at the bird:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:audio {"id":208} --></p>
 <figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/R-B-Woodpecker-1.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p><em>Sound recording courtesy of Lang Elliott NatureSound Studio</em></p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1663} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1120536.jpg" alt="" class="wp-image-1663"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Red-bellied Woodpecker, formerly a southern species, at a nest hole</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>It&rsquo;s not often that one starts&nbsp;off a walk with a well seen and heard bird!&nbsp; We proceeded down Blackwell Path- named for the man whose vision and hard work opened up this area to public access- looking for other spring arrivals.&nbsp; After hearing orioles several times we finally got&nbsp; good looks at&nbsp;several:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1664} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1160015.jpg" alt="" class="wp-image-1664"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male Baltimore Oriole in breeding plumage.&nbsp; Note the bluish bill.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Someone pointed out the beginnings of an oriole nest; these birds are famous for the finely woven nests they&nbsp;suspend from a sturdy branch:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1665} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1120269.jpg" alt="" class="wp-image-1665"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>This old nest, captured in silhouette, shows the intricate weaving that allows these nests to remain through winter. The nests are not reused, but sometimes orioles will recycle materials from an old nest when rebuilding.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>We heard a few spring warblers but they were high up in the canopy and hard to see especially in the flat light. We did tease out a few, here are some close-up images of them for better viewing:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1666} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1050177.jpg" alt="" class="wp-image-1666"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Northern Parula, a real gem of spring!</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1667} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1290885.jpg" alt="" class="wp-image-1667"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Yellow Warblers are common breeders in the Arboretum</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1668} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1000627.jpg" alt="" class="wp-image-1668"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Male Black-throated-green Warbler. I have not been able to confirm breeding of this species in the AA.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>A few people got a quick glimpse of a just arrived migrant:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1669} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1080596.jpg" alt="" class="wp-image-1669"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>This male Ruby-throated Hummingbird was too fast for my lens.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>As we ended the walk we saw a&nbsp;regular summer visitor:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":1670} --></p>
 <figure class="wp-block-image"><img src="https://web.archive.org/web/20180602142840im_/http://www.arbotopia.com/wp-content/uploads/2018/05/P1110297.jpg" alt="" class="wp-image-1670"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Gray Catbirds are commonplace in spring and summer, many breed here, and they all are gone in fall. True to their name they are all shades of gray, except for the rust coloration under the tail seen in this image</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Then we&nbsp;heard the familiar chatter of a House Wren, spring has surely begun!!</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:audio {"id":219} --></p>
 <figure class="wp-block-audio"><audio controls src="https://arbotopia.com/wp-content/uploads/2018/11/House-Wren.mp3"></audio></figure>
 <p><!-- /wp:audio --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p><em>Sound recording courtesy of Lang Elliott NatureSound Studio</em></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Here is the list for the Bussey Brook Meadow walk:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Arnold Arboretum, Suffolk, Massachusetts, US<br>May 6, 2018 8:00 AM &ndash; 9:30 AM<br>Comments: &nbsp;&nbsp;&nbsp;&nbsp;BBC walk,&nbsp;<strong>Bussey Brook Meadow</strong>&nbsp;cloudy, 58<br><strong>25 species</strong></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Mallard &nbsp;4<br>Great Blue Heron &nbsp;1<br>Herring Gull &nbsp;2<br>Mourning Dove &nbsp;3<br>Ruby-throated Hummingbird &nbsp;1<br>Red-bellied Woodpecker &nbsp;3<br>Downy Woodpecker &nbsp;4<br>Northern Flicker &nbsp;1<br>Warbling Vireo &nbsp;1<br>Blue Jay &nbsp;5<br>Tufted Titmouse &nbsp;2<br>House Wren &nbsp;1<br>American Robin &nbsp;6<br>Gray Catbird &nbsp;1<br>Northern Mockingbird &nbsp;1<br>Northern Parula &nbsp;1<br>Yellow Warbler &nbsp;1<br>Black-throated Green Warbler &nbsp;1<br>Chipping Sparrow &nbsp;1<br>Song Sparrow &nbsp;3<br>Northern Cardinal &nbsp;3<br>Baltimore Oriole &nbsp;6<br>Red-winged Blackbird &nbsp;5<br>Common Grackle &nbsp;20<br>House Sparrow &nbsp;3</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>View this checklist online at&nbsp;<a href="https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45352886">https://ebird.org/view/checklist/S45352886</a></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>This report was generated automatically by eBird v3 (<a href="https://web.archive.org/web/20180602142840/http://ebird.org/">http://ebird.org</a>)</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Next weekend&nbsp;I will be doing the 2018 Bird-a-thon to support nature programs at&nbsp;Mass Audubon&rsquo;s Boston Nature Center.&nbsp;To learn more about that, and&nbsp;to support me and my team&nbsp; you can&nbsp;<a href="https://web.archive.org/web/20180602142840/https://goo.gl/sVXdFu">click here</a>.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>My final walk will be on Sunday May 20th beginning at 8 AM back at the Main Gate of the AA off the Arborway.&nbsp; I hope you can join me.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Thanks, and Good Birding!<br></p>
-<p><!-- /wp:paragraph --></p>
+
+

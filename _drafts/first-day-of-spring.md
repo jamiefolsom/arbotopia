@@ -16,60 +16,102 @@ categories:
 tags: []
 comments: []
 ---
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>Posted on&nbsp;<a href="https://web.archive.org/web/20180401052920/http://www.arbotopia.com/first-day-of-spring/">March 19, 2018</a></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Punxsutawney Phil is&nbsp;not the best&nbsp;weather forecaster, but this year he got it right. It seems this winter just won&rsquo;t quit; weekly Nor&rsquo;easters, with windy and cold temperatures in between.&nbsp; Nonetheless time marches on, and flora and fauna are moving on too.</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":227} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1010610.jpg" alt="" class="wp-image-227"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Skunk Cabbage&nbsp;<em>Symplocarpus foetidus</em>&nbsp;at the end of February, putting out it&rsquo;s fetid odor to attract pollinating beetles.</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":228} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1120215.jpg" alt="" class="wp-image-228"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Japanese Cornel Dogwood&nbsp;<em>Cornus officinalis</em>&nbsp;beginning to show color in early bud break; one of the first trees to flower in the Arboretum every spring.</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":229} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1010595.jpg" alt="" class="wp-image-229"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>This male Red-winged Blackbird appeared in the cattail marsh on Meadow Road on February 21; my earliest sighting of this true harbinger of spring since 2009</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>The Arboretum suffered the loss of more than 20 accessioned trees in the second storm of the current series. The most recent one last week was less intense but it took a big toll on an iconic Silver Maple.</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":231} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1010668.jpg" alt="" class="wp-image-231"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>This giant (deemed the tallest tree in the Arboretum at about 125 feet in 2005) Silver Maple Silver Maple Acer saccharinum 12560-C was started from seed in 1881. It survived the deadly Hurricane of 1938, but lost it&rsquo;s main trunk in Hurricane Irene in 2011.</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":232} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1010657.jpg" alt="" class="wp-image-232"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>The damage last week was so extensive that most arborists would have removed the tree. After much discussion, the administration decided it was so beloved by the public that major pruning&nbsp;was done to try to save it, at least for the time being.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>That left at lest one creature relieved:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:image {"id":230} --></p>
 <figure class="wp-block-image"><img src="https://arbotopia.com/wp-content/uploads/2018/11/P1010663.jpg" alt="" class="wp-image-230"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>The Manager of Horticulture told me that this Gray Squirrel jumped out of it&rsquo;s favorite hole on the main trunk of the tree while arborists were removing major limbs to &ldquo;rebalance&rdquo; the specimen.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>So it is no longer the tallest, but it remains for future school children to discover how many forth graders it takes to&nbsp;link arms around it (about eight in most cases).</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>I have&nbsp;five spring walks planned for 2018, beginning on Saturday April 28th. Here is the list:</p>
-<p><!-- /wp:paragraph --></p>
+
+
 <p><!-- wp:list --></p>
 <ul>
 <li><strong>Saturday, April 28</strong></li>
@@ -93,9 +135,15 @@ comments: []
 <li>rgmayer38@gmail.com</li>
 </ul>
 <p><!-- /wp:list --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
 <p>I hope many of you will be able to attend</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+
+
+
+
+
 <p>Good Birding!</p>
-<p><!-- /wp:paragraph --></p>
+
+
