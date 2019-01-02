@@ -23,7 +23,7 @@ sections:
   label: Pages
   create: all
 - type: jekyll-posts
-  label: Posts
+  label: All Posts
   create: all
 upload_dir: images
 public_path: "/images"
