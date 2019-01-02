@@ -2,12 +2,7 @@
 layout: post
 status: draft
 title: 2017 Bird-a-thon for the Boston Nature Center
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
-author_login: admin
+author: Bob Mayer
 wordpress_id: 72
 wordpress_url: https://arbotopia.com/?p=72
 date: '2018-11-14 16:40:29 -0500'
@@ -36,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1420} --></p>
- <img src="https://web.archive.org/web/20171112202846im_/http://www.arbotopia.com/wp-content/uploads/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg" alt="Bay-breasted Warbler- Ted Bradford" class="wp-image-1420"/> 
+ <img src="https://web.archive.org/web/20171112202846im_/http://www.arbotopia.com/wp-content/uploads/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg" alt="Bay-breasted Warbler- Ted Bradford" class="wp-image-1420"/>
 
 
 
@@ -52,7 +47,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":244} --></p>
- <img src="images/2018/11/P1090246.jpg" alt="" class="wp-image-244"/> 
+ <img src="images/2018/11/P1090246.jpg" alt="" class="wp-image-244"/>
 
 
 
@@ -68,7 +63,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":245} --></p>
- <img src="images/2018/11/P1010004.jpg" alt="" class="wp-image-245"/> 
+ <img src="images/2018/11/P1010004.jpg" alt="" class="wp-image-245"/>
 
 
 
@@ -84,7 +79,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":246} --></p>
- <img src="images/2018/11/P1070121.jpg" alt="" class="wp-image-246"/> 
+ <img src="images/2018/11/P1070121.jpg" alt="" class="wp-image-246"/>
 
 
 
@@ -106,7 +101,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":247} --></p>
- <img src="images/2018/11/P1010062.jpg" alt="" class="wp-image-247"/> 
+ <img src="images/2018/11/P1010062.jpg" alt="" class="wp-image-247"/>
 
 
 
@@ -122,7 +117,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":248} --></p>
- <img src="images/2018/11/P1040384.jpg" alt="" class="wp-image-248"/> 
+ <img src="images/2018/11/P1040384.jpg" alt="" class="wp-image-248"/>
 
 
 
@@ -144,7 +139,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":249} --></p>
- <img src="images/2018/11/P1110338.jpg" alt="" class="wp-image-249"/> 
+ <img src="images/2018/11/P1110338.jpg" alt="" class="wp-image-249"/>
 
 
 
@@ -160,7 +155,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":250} --></p>
- <img src="images/2018/11/P1120818.jpg" alt="" class="wp-image-250"/> 
+ <img src="images/2018/11/P1120818.jpg" alt="" class="wp-image-250"/>
 
 
 
@@ -191,5 +186,3 @@ comments: []
 
 
 <p>Good Birding!</p>
-
-

@@ -3,12 +3,7 @@ layout: post
 status: inherit
 published: true
 title: Arboretum Bird Walk, Saturday April 27, 2013
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
-author_login: admin
+author: Bob Mayer
 wordpress_id: 34
 wordpress_url: https://arbotopia.com//2018/11/02/12-revision-v1/
 date: '2018-11-02 18:03:57 -0400'

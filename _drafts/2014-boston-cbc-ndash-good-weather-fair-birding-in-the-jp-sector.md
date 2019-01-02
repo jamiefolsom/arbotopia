@@ -2,12 +2,7 @@
 layout: post
 status: draft
 title: 2014 Boston CBC &ndash; good weather, fair birding in the JP sector
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
-author_login: admin
+author: Bob Mayer
 wordpress_id: 52
 wordpress_url: https://arbotopia.com/?p=52
 date: '2018-11-15 18:42:23 -0500'
@@ -93,5 +88,3 @@ comments: []
 
 
 <p>Good Birding and Happy Holidays!</p>
-
-
