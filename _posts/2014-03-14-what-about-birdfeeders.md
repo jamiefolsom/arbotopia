@@ -5,8 +5,8 @@ title: What about Birdfeeders?
 author: Bob Mayer
 wordpress_id: 233
 wordpress_url: https://arbotopia.com/2018/11/14/17-revision-v1/
-date: 2018-11-14 15:23:35 -0500
-date_gmt: 2018-11-14 15:23:35 -0500
+date: 2014-03-14 15:23:35 -0500
+date_gmt: 2014-03-14 15:23:35 -0500
 categories: []
 tags: []
 comments: []
@@ -30,21 +30,21 @@ So if we’ve decided that it’s all right to provide food for birds, what shou
 
 ![](/arbotopia/images/2018/11/P1070757.jpg)
 
-A male Northern Flicker. Flickers do not come to suet as often as other woodpecker species.  
+A male Northern Flicker. Flickers do not come to suet as often as other woodpecker species.
 Photo: Bob Mayer
 
 There is a group of feeder prone birds referred to as “winter finches” and there are irruptions of some of those species in some years (not so in 2014 though).  Last winter was a good year for this perky little bird:
 
 ![](images/2018/11/P1220613.jpg)
 
-Pine Siskin.  When the northern cone crop is poor these birds head south and often end up at feeders providing niger or thistle seed as seen in the image.  
+Pine Siskin.  When the northern cone crop is poor these birds head south and often end up at feeders providing niger or thistle seed as seen in the image.
 Photo: Bob Mayer
 
 Those who get into attracting unusual birds in winter will put out meal worms or fruits like blueberries and orange sections.  I’ve tried to pull in bluebirds with such offerings without success. Last winter though, I posted about a [Baltimore Oriole](/a-bird-out-of-season-and-in-the-storm/) that came to my feeders for seed and was encouraged to stay with orange halves:
 
 [![P1040159](https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040159.jpg)](https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2013/02/P1040159.jpg)
 
-Female Baltimore Oriole eyeing orange half with House Sparrow eating hulled sunflower seeds above.  
+Female Baltimore Oriole eyeing orange half with House Sparrow eating hulled sunflower seeds above.
 Photo: Bob Mayer
 
 In the last thirteen years I have been lucky enough to see over thirty species of birds at my winter only feeders.  At first I lost a lot of seed to Gray Squirrels that frequent my yard.  Since installing a guard on the feeder post I’ve saved a lot of money.  Squirrels will climb the pole, but can’t seem to get past it.
@@ -67,7 +67,7 @@ It is no wonder that commercial makers of these devices call them Magic Halos. T
 
 [![P1070439](https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070439.jpg)](https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070439.jpg)
 
-Male House Sparrow  
+Male House Sparrow
 Photo: Bob Mayer
 
 In the four months that I had this device in place I saw no more than two or three House Sparrows get past it.  I have no idea how it works, nor have I read any satisfactory explanation.  Apparently these birds, members of a group called Old World Sparrows, have a aversion to dangling strings that our native species do not.
@@ -82,24 +82,24 @@ This mockingbird has established ‘territory” over my feeders,  chasing ever
 
 [![P1070945](https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070945.jpg)](https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070945.jpg)
 
-Northern Mockingbird on top of my feeding station  
+Northern Mockingbird on top of my feeding station
 Photo: Bob Mayer
 
 What started out as interesting has now became infuriating!  For the last month no bird has been able to come to the feeders longer than a few seconds before he swoops in and chases it.  I am saving a whole lot on feed. The mocker is the only one eating, and he doesn’t eat much.  Most of the time he just sits on or near the feeders looking like he is king of the rock. And he is:
 
 ![](images/2018/11/P1070944.jpg)
 
-Northern Mockingbird  
+Northern Mockingbird
 Photo: Bob Mayer
 
 I tried taking the feeders down for a week. He was back within an hour of re-hanging them.  I put out a near life size photo of the neighborhood hawk.
 
 ![](images/2018/11/P1070934.jpg)
 
-Immature Red-tailed Hawk after a catch and feed; note the tell-tale blood spots on the breast.  
+Immature Red-tailed Hawk after a catch and feed; note the tell-tale blood spots on the breast.
 Photo: Bob Mayer
 
 He comes up and stares at it!  I guess I just have to wait out the season, unless of course the real red-tail decides to solve my problem.  Maybe I’ll try to put out a contract!
 
-Good Bird Feeding![  
+Good Bird Feeding![
 ](https://web.archive.org/web/20140426104415/http://www.arbotopia.com:80/#)

@@ -5,8 +5,8 @@ title: First Snow begins a Duck Walk on the Emerald Necklace
 author: Bob Mayer
 wordpress_id: 407
 wordpress_url: https://arbotopia.com/2018/11/19/374-revision-v1/
-date: 2018-11-19 22:25:15 -0500
-date_gmt: 2018-11-19 22:25:15 -0500
+date: 2017-12-10 22:25:15 -0500
+date_gmt: 2017-12-10 22:25:15 -0500
 categories: []
 tags: []
 comments: []
@@ -18,7 +18,7 @@ I always like to lead walks focusing on waterfowl.  The birds are pretty predic
 
 We started by circumnavigating Leverett Pond and by the end had six species of ducks plus a few other birds.  This pond has become a regular home to Wood ducks; recently they have bred here and in the winter months more that 50 have been recorded.  Today we had great looks at a smaller number:
 
-![](/images/2018/11/P1090463.jpg?fit=525%2C393&ssl=1)
+![](/arbotopia/images/2018/11/P1090463.jpg?fit=525%2C393&ssl=1)
 
 The male Wood Duck is one of the most spectacular ducks in the world.
 
