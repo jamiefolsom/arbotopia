@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Arbotopia
-email: jamiefolsom@gmail.com
+email: bob@arbotopia.com
 description: >- # this means to ignore newlines until "baseurl:"
   Observations of fauna and other things natural in the Emerald Necklace
-baseurl: "/arbotopia" # the subpath of your site, e.g. /blog
-url: "https://www.jamiefolsom.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jamiefolsom
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://new.arbotopia.com" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jamiefolsom
 github_username:  jamiefolsom
 
 # Build settings

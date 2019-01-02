@@ -15,21 +15,21 @@ comments: []
 
 The first walk of the spring season was a wash out, but the weather was glorious this morning and brought out nearly 40 people of varying experience levels for a nice walk in sections of Peters Hill and Hemlock Hill.  We didn’t turn up any rarities but did see and hear lots of the birds expected this early in the spring migration.  Highlights were Pine Warblers along side of Chipping Sparrows, providing a great comparison of these two sing-a- likes.  Pine Warbler, whose call is shorter, more melodic and “rounder” than the Chipping Sparrow, is the first migrant warbler to arrive in Boston, usually in early April.
 
-[![P1080271](/arbotopia/images/2013/04/P1080271.jpg)](/arbotopia/images/2013/04/P1080271.jpg)
+[![P1080271](/images/2013/04/P1080271.jpg)](/images/2013/04/P1080271.jpg)
 
 Pine Warbler
 Photo: Bob Mayer
 
 A sharp-eyed member of the group spotted a Red-breasted Nuthatch on a tree trunk at the top of Hemlock Hill allowing for close up looks at this uncommon little bird.
 
-[![P1060706](/arbotopia/images/2013/04/P1060706.jpg)](/arbotopia/images/2013/04/P1060706.jpg)
+[![P1060706](/images/2013/04/P1060706.jpg)](/images/2013/04/P1060706.jpg)
 
 Red-breasted Nuthatch
 Photo: Bob Mayer
 
 Another bird of note was a Brown Thrasher.  These migrant members of the Mimidae family arrived in the Arboretum just this week from more southern states.  The bird we saw was perched high in a maple tree and while it was easily heard repeating it’s two or three phrase call it was difficult to see well.  Up close it is a striking bird:
 
-[![OLYMPUS DIGITAL CAMERA](/arbotopia/images/2013/04/P1010021.jpg)](/arbotopia/images/2013/04/P1010021.jpg)
+[![OLYMPUS DIGITAL CAMERA](/images/2013/04/P1010021.jpg)](/images/2013/04/P1010021.jpg)
 
 Brown Thrasher
 Photo: Bob Mayer
@@ -84,14 +84,14 @@ Posted on April 12, 2013
 
 In my last post on [Owls in the Arboretum](https://web.archive.org/web/20140426142538/http://www.arbotopia.com/arnold-arboretum-owls/) I commented that after the death of a patriarch male Great Horned Owl in 2008 there had been no reported nests of this species in the Emerald Necklace.  Recently however I was told of a nest in Forest Hills Cemetery, technically not part of the necklace but very close by.  Great Horned Owls have nested in this magnificent garden cemetery off and on for years; the most recent nest was in 2010.  I went to the area reported and quickly spotted the nest:
 
-[![P1040603](/arbotopia/images/2013/04/P1040603.jpg)](/arbotopia/images/2013/04/P1040603.jpg)
+[![P1040603](/images/2013/04/P1040603.jpg)](/images/2013/04/P1040603.jpg)
 
 Great Horned Owl with owlet. Note the absent left eye in the adult female.
 Photo: Bob Mayer
 
 The site of this nest is exactly the same as a Great Horned nest in 2006.  Owls frequently use old nests of Red-tailed Hawks and may re-use them for several years.  Farther down on the tree there was a second owlet that had either fledged or had fallen out of the nest:
 
-[![P1040577](/arbotopia/images/2013/04/P1040577.jpg)](/arbotopia/images/2013/04/P1040577.jpg)
+[![P1040577](/images/2013/04/P1040577.jpg)](/images/2013/04/P1040577.jpg)
 
 A furry Great Horned owlet out of the nest in Forest Hills Cemetery. At last report this baby is being fed by the parents and is doing well.
 Photo: Bob Mayer
