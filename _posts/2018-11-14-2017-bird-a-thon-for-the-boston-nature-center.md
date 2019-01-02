@@ -5,16 +5,14 @@ title: 2017 Bird-a-thon for the Boston Nature Center
 author: Bob Mayer
 wordpress_id: 72
 wordpress_url: https://arbotopia.com/?p=72
-date: '2018-11-14 16:40:29 -0500'
+date: 2018-11-14 16:40:29 -0500
 categories:
 - Avian
 - Waterfowl
 tags: []
 comments: []
+
 ---
-
-
-
 <p>Posted on May 15, 2017</a></p>
 
 
