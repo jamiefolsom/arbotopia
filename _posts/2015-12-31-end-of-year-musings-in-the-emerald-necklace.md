@@ -10,8 +10,8 @@ date_gmt: 2018-11-02 18:35:28 -0400
 categories: []
 tags: []
 comments: []
-
 ---
+
 2015 was a year of record breaking weather.  The year started off with a series of overwhelming snowstorms that put much of the area in weather lock-down and wreaked havoc in nature.  Vulnerable avian species, especially species that have moved north as the climate warmed, experienced heavier than usual winter die off.  I usually have one or two Carolina Wrens at my feeders in winter; this year none showed after the storms hit, and I didn’t see or hear one throughout the spring and summer anywhere in the area.  Finally one appeared last month:
 
 [![P1030908](/images/2015/12/P1030908.jpg)](/images/2015/12/P1030908.jpg)
