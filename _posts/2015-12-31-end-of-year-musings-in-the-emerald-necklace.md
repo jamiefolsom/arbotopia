@@ -46,19 +46,19 @@ Male Wood Duck sitting on the snow in February 2015
 
 As 2015 comes to a close, we should note the death of a Great Blue Heron that gave pleasure to many visitors at the Arnold Arboretum this year.
 
-![](/images/2015/12/P1100773.jpg)
+![Juvenile Great Blue Heron on Rehder Pond at the Arnold Arboretum](/images/2015/12/P1100773.jpg)
 
 Juvenile Great Blue Heron on Rehder Pond at the Arnold Arboretum, a few weeks before it was killed by two unleashed dogs.
 
 This bird had become accustomed to the many people who stopped to watch it hunt for prey in the pond. That no doubt made it easier for two unleashed dogs to attack and kill it in late July.  This quickly mobilized the Arboretum administration to begin a sustained educational and enforcement program aimed at unleashed dogs and their owners;
 
-[![P1110018](/arbotopia/images/2015/12/P1110018.jpg)](/arbotopia/images/2015/12/P1110018.jpg)
+![Great Blue Herons](/images/2015/12/P1110018.jpg)
 
 Great Blue Herons have been drawn to the easy fishing on the ponds at the AA for years, and I hoped another heron would quickly replace “Baby Blue”, as a group of school children nicknamed the bird this summer.  I did hear a second hand report of one being seen at the ponds, but never saw or confirmed that.  Let’s hope for next spring.
 
 Speaking of spring, unseasonably warm days in December fooled some local trees into early bloom, and even brought out pollinators:
 
-![P1110424](/images/2015/12/P1110424.jpg)
+![Out of season bloom on a Fugi Cherry in the Rose Garden attracted a hardy honey bee](/images/2015/12/P1110424.jpg)
 
 Out of season bloom on a Fugi Cherry in the Rose Garden attracted a hardy honey bee on December 15th!
 
@@ -66,21 +66,21 @@ Finally, the 43rd Boston Christmas Bird Count (BCBC) was conducted this year on 
 
 This year the Jamaica Plain group of six birders had to hustle to cover all of the Emerald Necklace and adjacent areas of Forest Hills Cemetery and the Boston Nature Center in Mattapan that are traditionally birded for the count.  The early “owlers” heard or saw three Eastern Screech-owls between 4:30 and 7:00 AM, better than last year.  Here is a photo of that species, taken in the Arboretum back in January:
 
-![](/images/2015/12/P1090370.jpg)
+![Rufous Morph Eastern Screech-owl](/images/2015/12/P1090370.jpg)
 
 This Rufous Morph Eastern Screech-owl has returned for the third year to the same [roost hole](713) where it suns itself on cold winter mornings.
 
 During the day our group found two of the three Red-breasted Nuthatches that were seen in the entire 15 mile diameter Boston circle.  The conifer section of the Arboretum is a good place to find these little relatives of the much more common White-breasted Nuthatch.
 
-![P1090334](/images/2015/12/P1090334.jpg)
+![Red-breasted Nuthatch](/images/2015/12/P1090334.jpg)
 
 Red-breasted Nuthatch atop a spruce in the Arboretum.
 
 Overall, the JP sector group produced 47 species for the count; the BCBC tallied 114 species, about average for a BCBC in recent years.  The only other highlight for our local group was the discovery of a huge flock of at least 2,000 Common Grackles at the Mass Audubon Nature Center. Normally only a few of these birds- common in the warmer months- are found during the BCBC (only four in 2014).  When seen in the sunlight, they are striking birds:
 
-![](/images/2018/11/P1140752.jpg)
+![Common Grackle](/images/2018/11/P1140752.jpg)
 
-![](/images/2015/12/P1010016.jpg)
+![Common Grackle](/images/2015/12/P1010016.jpg)
 
 Common Grackle, showing the iridescent sheen of it’s feathers and the yellow iris.
 
