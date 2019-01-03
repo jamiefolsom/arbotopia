@@ -14,7 +14,7 @@ comments: []
 ---
 2015 was a year of record breaking weather.  The year started off with a series of overwhelming snowstorms that put much of the area in weather lock-down and wreaked havoc in nature.  Vulnerable avian species, especially species that have moved north as the climate warmed, experienced heavier than usual winter die off.  I usually have one or two Carolina Wrens at my feeders in winter; this year none showed after the storms hit, and I didn’t see or hear one throughout the spring and summer anywhere in the area.  Finally one appeared last month:
 
-[![P1030908](/arbotopia/images/2015/12/P1030908.jpg)](/arbotopia/images/2015/12/P1030908.jpg)
+![](/images/2015/12/P1030908.jpg)[![P1030908](/arbotopia/images/2015/12/P1030908.jpg)](/arbotopia/images/2015/12/P1030908.jpg)
 
 This disgruntled Carolina Wren had seen enough of cold winter weather.
 
@@ -78,7 +78,7 @@ Red-breasted Nuthatch atop a spruce in the Arboretum.
 
 Overall, the JP sector group produced 47 species for the count; the BCBC tallied 114 species, about average for a BCBC in recent years.  The only other highlight for our local group was the discovery of a huge flock of at least 2,000 Common Grackles at the Mass Audubon Nature Center. Normally only a few of these birds- common in the warmer months- are found during the BCBC (only four in 2014).  When seen in the sunlight, they are striking birds:
 
-[![](/arbotopia/images/2015/12/P1010016.jpg)](/arbotopia/images/2015/12/P1010016.jpg)
+![](/images/2018/11/P1140752.jpg)[![](/arbotopia/images/2015/12/P1010016.jpg)](/arbotopia/images/2015/12/P1010016.jpg)
 
 Common Grackle, showing the iridescent sheen of it’s feathers and the yellow iris.
 
@@ -219,6 +219,6 @@ NOTE: The Swainson’s Hawk is the first for a Christmas Count in New England.
 
 This report was generated automatically by eBird v3
 
-I will be leading a [walk](https://my.arboretum.harvard.edu/Info.aspx?DayPlanner=1486&DayPlannerDate=1/10/2016) in the Arnold on Sunday January 10th from 9 to 10:30 AM beginning at the main gate off the Arborway, for those anxious to get going on their 2016 year lists!
+I will be leading a walk in the Arnold on Sunday January 10th from 9 to 10:30 AM beginning at the main gate off the Arborway, for those anxious to get going on their 2016 year lists!
 
 Happy New Year and Good Birding in 2016!
