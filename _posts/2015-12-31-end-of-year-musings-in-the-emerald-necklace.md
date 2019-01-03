@@ -14,19 +14,19 @@ comments: []
 ---
 2015 was a year of record breaking weather.  The year started off with a series of overwhelming snowstorms that put much of the area in weather lock-down and wreaked havoc in nature.  Vulnerable avian species, especially species that have moved north as the climate warmed, experienced heavier than usual winter die off.  I usually have one or two Carolina Wrens at my feeders in winter; this year none showed after the storms hit, and I didn’t see or hear one throughout the spring and summer anywhere in the area.  Finally one appeared last month:
 
-![](/images/2015/12/P1030908.jpg)[![P1030908](/arbotopia/images/2015/12/P1030908.jpg)](/arbotopia/images/2015/12/P1030908.jpg)
+![Disgruntled Carolina Wren](/images/2015/12/P1030908.jpg)
 
 This disgruntled Carolina Wren had seen enough of cold winter weather.
 
 The unusually cold weather may have brought us the best bird for the year, a [Black-backed Woodpecker](http://www.arbotopia.com/birdy-its-cold-outside/) in Forest Hills Cemetery.  Another rarity was a Grasshopper Sparrow, first found by Paul Peterson in late December 2014, which lingered more than a month into 2015 in an overgrown field near the Boston Nature Center.
 
-![](/images/2015/12/Grasshopper-Sparrow.jpg)![Grasshopper Sparrow](/arbotopia/images/2015/12/Grasshopper-Sparrow.jpg)
+![Grasshopper Sparrow](/images/2015/12/Grasshopper-Sparrow.jpg)
 
 This “documentation” shot of a Grasshopper Sparrow barely shows the white eye-ring and streaked upper body of this sparrow, uncommon in Massachusetts.
 
 There were two notable sightings in the waterfowl category in 2015.  Gadwalls appeared on both Leverett and Jamaica Ponds in the Necklace.  I spotted one on Dawson Pond in the Arnold Arboretum as well:
 
-[![P1090964](/arbotopia/images/2015/12/P1090964.jpg)](/arbotopia/images/2015/12/P1090964.jpg)
+![Gadwall, male](/images/2015/12/P1090964.jpg)
 
 Gadwall, male. The black tail, white wing speculum and chestnut back are distinctive.
 
@@ -34,7 +34,7 @@ Gadwalls are regular inhabitants of coastal marshes like Plum Island in Newburyp
 
 At least a few Wood Ducks appear nearly every winter on one or more of the waterways in the Emerald Necklace. This year was the first time that breeding was confirmed however;  a family of seven ducklings and their mother was discovered on Leverett Pond (again by the illustrious Paul Peterson) in late July.
 
-![](/images/2018/12/P1100739-300x143.jpg)
+![Family of Wood Ducks on a dead tree limb on Leverett Pond; the adult female is at far left.](/images/2018/12/P1100739-300x143.jpg)
 
 Family of Wood Ducks on a dead tree limb on Leverett Pond; the adult female is at far left.
 
