@@ -40,7 +40,7 @@ Family of Wood Ducks on a dead tree limb on Leverett Pond; the adult female is a
 
 The male of this species may be the most colorful duck in the region:
 
-![](/images/2015/12/P1090463.jpg)
+![Male Wood Duck](/images/2015/12/P1090463.jpg)
 
 Male Wood Duck sitting on the snow in February 2015
 
