@@ -20,7 +20,7 @@ This disgruntled Carolina Wren had seen enough of cold winter weather.
 
 The unusually cold weather may have brought us the best bird for the year, a [Black-backed Woodpecker](http://www.arbotopia.com/birdy-its-cold-outside/) in Forest Hills Cemetery.  Another rarity was a Grasshopper Sparrow, first found by Paul Peterson in late December 2014, which lingered more than a month into 2015 in an overgrown field near the Boston Nature Center.
 
-[![Grasshopper Sparrow](/arbotopia/images/2015/12/Grasshopper-Sparrow.jpg)](/arbotopia/images/2015/12/Grasshopper-Sparrow.jpg)
+![](/images/2015/12/Grasshopper-Sparrow.jpg)![Grasshopper Sparrow](/arbotopia/images/2015/12/Grasshopper-Sparrow.jpg)
 
 This “documentation” shot of a Grasshopper Sparrow barely shows the white eye-ring and streaked upper body of this sparrow, uncommon in Massachusetts.
 
@@ -46,7 +46,7 @@ Male Wood Duck sitting on the snow in February 2015
 
 As 2015 comes to a close, we should note the death of a Great Blue Heron that gave pleasure to many visitors at the Arnold Arboretum this year.
 
-[![P1100773](/arbotopia/images/2015/12/P1100773.jpg)](/arbotopia/images/2015/12/P1100773.jpg)
+![](/images/2015/12/P1100773.jpg)[![P1100773](/arbotopia/images/2015/12/P1100773.jpg)](/arbotopia/images/2015/12/P1100773.jpg)
 
 Juvenile Great Blue Heron on Rehder Pond at the Arnold Arboretum, a few weeks before it was killed by two unleashed dogs.
 
