@@ -34,7 +34,7 @@ Gadwalls are regular inhabitants of coastal marshes like Plum Island in Newburyp
 
 At least a few Wood Ducks appear nearly every winter on one or more of the waterways in the Emerald Necklace. This year was the first time that breeding was confirmed however;  a family of seven ducklings and their mother was discovered on Leverett Pond (again by the illustrious Paul Peterson) in late July.
 
-[![P1100739](/arbotopia/images/2015/12/P1100739.jpg)](/arbotopia/images/2015/12/P1100739.jpg)
+![](/images/2018/12/P1100739-300x143.jpg)
 
 Family of Wood Ducks on a dead tree limb on Leverett Pond; the adult female is at far left.
 
