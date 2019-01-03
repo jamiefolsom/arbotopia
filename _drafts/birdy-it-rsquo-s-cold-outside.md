@@ -37,7 +37,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":296} --></p>
- <img src="images/2018/11/P1080186.jpg" alt="" class="wp-image-296"/> 
+ <img src="/images/2018/11/P1080186.jpg" alt="" class="wp-image-296"/> 
 
 
 

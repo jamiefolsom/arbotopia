@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":127} --></p>
- <img src="images/2018/11/P1050239.jpg" alt="" class="wp-image-127"/> 
+ <img src="/images/2018/11/P1050239.jpg" alt="" class="wp-image-127"/> 
 
 
 
@@ -78,7 +78,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":119} --></p>
- <img src="images/2018/11/P1030005_1.jpg" alt="" class="wp-image-119"/> 
+ <img src="/images/2018/11/P1030005_1.jpg" alt="" class="wp-image-119"/> 
 
 
 

@@ -36,7 +36,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":309} --></p>
- <img src="images/2018/11/P1010002-1.jpg" alt="" class="wp-image-309"/><br />
+ <img src="/images/2018/11/P1010002-1.jpg" alt="" class="wp-image-309"/><br />
 <figcaption>OLYMPUS DIGITAL CAMERA</figcaption>
  
 

@@ -91,7 +91,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":424} --></p>
- <img src="images/2018/12/Wood-Duck-f..jpg" alt="" class="wp-image-424"/><br />
+ <img src="/images/2018/12/Wood-Duck-f..jpg" alt="" class="wp-image-424"/><br />
 <figcaption>Female Wood Duck</figcaption>
  
 
@@ -133,7 +133,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":432} --></p>
- <img src="images/2018/12/H.-Merg.-m-5.jpg" alt="" class="wp-image-432"/><br />
+ <img src="/images/2018/12/H.-Merg.-m-5.jpg" alt="" class="wp-image-432"/><br />
 <figcaption>Male Hooded Merganser</figcaption>
  
 
@@ -145,7 +145,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":128} --></p>
- <img src="images/2018/11/P1030156-815x1024.jpg" alt="" class="wp-image-128"/><br />
+ <img src="/images/2018/11/P1030156-815x1024.jpg" alt="" class="wp-image-128"/><br />
 <figcaption>Male Red-bellied Woodpecker; in the female the red does not extend up to the head from the nape<br></figcaption>
  
 
@@ -162,7 +162,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":399} --></p>
- <img src="images/2018/11/P1030573-1-1024x878.jpg" alt="" class="wp-image-399"/><br />
+ <img src="/images/2018/11/P1030573-1-1024x878.jpg" alt="" class="wp-image-399"/><br />
 <figcaption>Three Ruddy Ducks; the male is on top.</figcaption>
  
 
@@ -174,7 +174,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":398} --></p>
- <img src="images/2018/11/P1010232-1024x519.jpg" alt="" class="wp-image-398"/><br />
+ <img src="/images/2018/11/P1010232-1024x519.jpg" alt="" class="wp-image-398"/><br />
 <figcaption>Stiff-tail is the nickname for this small diving duck, and for good reason.</figcaption>
  
 
@@ -186,7 +186,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":433} --></p>
- <img src="images/2018/12/P1010828-1024x821.jpg" alt="" class="wp-image-433"/><br />
+ <img src="/images/2018/12/P1010828-1024x821.jpg" alt="" class="wp-image-433"/><br />
 <figcaption>Bufflehead female showing a clear white cheek against a black head</figcaption>
  
 
@@ -198,7 +198,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":301} --></p>
- <img src="images/2018/11/P1010836-1024x677.jpg" alt="" class="wp-image-301"/><br />
+ <img src="/images/2018/11/P1010836-1024x677.jpg" alt="" class="wp-image-301"/><br />
 <figcaption>Striking white and black markings on this male Bufflehead.</figcaption>
  
 

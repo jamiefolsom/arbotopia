@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":142} --></p>
- <img src="images/2018/11/P1020388.jpg" alt="" class="wp-image-142"/> 
+ <img src="/images/2018/11/P1020388.jpg" alt="" class="wp-image-142"/> 
 
 
 
@@ -92,7 +92,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1679} --></p>
- <img src="images/2018/05/P1010954.jpg" alt="" class="wp-image-1679"/> 
+ <img src="/images/2018/05/P1010954.jpg" alt="" class="wp-image-1679"/> 
 
 
 
@@ -114,7 +114,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1420} --></p>
- <img src="images/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg" alt="" class="wp-image-1420"/> 
+ <img src="/images/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg" alt="" class="wp-image-1420"/> 
 
 
 
@@ -124,7 +124,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1683} --></p>
- <img src="images/2018/05/101455011-1.jpg" alt="" class="wp-image-1683"/> 
+ <img src="/images/2018/05/101455011-1.jpg" alt="" class="wp-image-1683"/> 
 
 
 
@@ -134,7 +134,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1668} --></p>
- <img src="images/2018/05/P1000627.jpg" alt="" class="wp-image-1668"/> 
+ <img src="/images/2018/05/P1000627.jpg" alt="" class="wp-image-1668"/> 
 
 
 
@@ -144,7 +144,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1684} --></p>
- <img src="images/2018/05/P1050239.jpg" alt="" class="wp-image-1684"/> 
+ <img src="/images/2018/05/P1050239.jpg" alt="" class="wp-image-1684"/> 
 
 
 
@@ -154,7 +154,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1685} --></p>
- <img src="images/2018/05/P1020265.jpg" alt="" class="wp-image-1685"/> 
+ <img src="/images/2018/05/P1020265.jpg" alt="" class="wp-image-1685"/> 
 
 
 
@@ -164,7 +164,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":144} --></p>
- <img src="images/2018/11/P1050177.jpg" alt="" class="wp-image-144"/> 
+ <img src="/images/2018/11/P1050177.jpg" alt="" class="wp-image-144"/> 
 
 
 
@@ -174,7 +174,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1686} --></p>
- <img src="images/2018/05/P1020287.jpg" alt="" class="wp-image-1686"/> 
+ <img src="/images/2018/05/P1020287.jpg" alt="" class="wp-image-1686"/> 
 
 
 
@@ -196,7 +196,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1681} --></p>
- <img src="images/2018/05/P1000348.jpg" alt="" class="wp-image-1681"/> 
+ <img src="/images/2018/05/P1000348.jpg" alt="" class="wp-image-1681"/> 
 
 
 
@@ -218,7 +218,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1687} --></p>
- <img src="images/2018/05/101455741.jpg" alt="" class="wp-image-1687"/> 
+ <img src="/images/2018/05/101455741.jpg" alt="" class="wp-image-1687"/> 
 
 
 
@@ -257,7 +257,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":145} --></p>
- <img src="images/2018/11/Redbud.jpg" alt="" class="wp-image-145"/> 
+ <img src="/images/2018/11/Redbud.jpg" alt="" class="wp-image-145"/> 
 
 
 
@@ -267,7 +267,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1689} --></p>
- <img src="images/2018/05/IMG_0388.jpg" alt="" class="wp-image-1689"/> 
+ <img src="/images/2018/05/IMG_0388.jpg" alt="" class="wp-image-1689"/> 
 
 
 
@@ -283,7 +283,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":146} --></p>
- <img src="images/2018/11/IMG_0381.jpg" alt="" class="wp-image-146"/> 
+ <img src="/images/2018/11/IMG_0381.jpg" alt="" class="wp-image-146"/> 
 
 
 

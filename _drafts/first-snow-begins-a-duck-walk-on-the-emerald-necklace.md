@@ -53,7 +53,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":389} --></p>
- <img src="images/2018/11/Wood-Duck-f..jpg" alt="" class="wp-image-389"/> 
+ <img src="/images/2018/11/Wood-Duck-f..jpg" alt="" class="wp-image-389"/> 
 
 
 
@@ -133,7 +133,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":393} --></p>
- <img src="images/2018/11/Black-2.jpg" alt="" class="wp-image-393"/> 
+ <img src="/images/2018/11/Black-2.jpg" alt="" class="wp-image-393"/> 
 
 
 
@@ -231,7 +231,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":276} --></p>
- <img src="images/2018/11/P1160589-1024x839.jpg" alt="" class="wp-image-276"/> 
+ <img src="/images/2018/11/P1160589-1024x839.jpg" alt="" class="wp-image-276"/> 
 
 
 
