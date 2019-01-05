@@ -14,8 +14,6 @@ comments: []
 
 ---
 
-Posted on May 15, 2017
-
 On Saturday May 13th I joined two other birders for a full day of birding to support the Boston Nature Center’s Bird-a-thon (BAT) team.  The time frame for Bird-a-thon is 24 hours, and some of our team started at 6 PM Friday night; I was home cooking supper during their local excursion to Millennium Park. It’s good that they went because more than a half dozen of our total recorded birds were Friday night finds that we didn’t see on Saturday.
 
 We left Boston at 6 AM and hit our first stop, [Wompatuck State Park](https://www.mass.gov/locations/wompatuck-state-park), before 7.  This huge park in Hingham is often a great location for migrating warblers in mid May, but the crazy spring weather has thrown the migration off.  Many of the 20 or so warbler species that can be seen there were missing.  We did get some though, including the uncommon Bay-breasted Warbler.  I have never been able to get a good image of this bird- they’re often high in the canopy- so I borrowed one from a friend who is an excellent birder and photographer:
