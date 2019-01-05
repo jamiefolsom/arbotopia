@@ -11,7 +11,6 @@ categories:
 - Waterfowl
 tags: []
 comments: []
-
 ---
 
 On Saturday May 13th I joined two other birders for a full day of birding to support the Boston Nature Center’s Bird-a-thon (BAT) team.  The time frame for Bird-a-thon is 24 hours, and some of our team started at 6 PM Friday night; I was home cooking supper during their local excursion to Millennium Park. It’s good that they went because more than a half dozen of our total recorded birds were Friday night finds that we didn’t see on Saturday.

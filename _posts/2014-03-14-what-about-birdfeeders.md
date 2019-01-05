@@ -13,8 +13,6 @@ tags: []
 comments: []
 ---
 
-Posted on March 14, 2014
-
 In the winter I probably get more questions from casual birding friends about bird feeders than anything else. Should I or shouldn’t I? What kind of seed should I buy? Should I splurge on pre-shelled seed? How do I get rid of those hungry squirrels? Those damn House Sparrows are eating me out of house and home!  Why don’t the birds come to my wonderful feeder?
 
 Our basic instinct — as we sit comfortably inside, watching those tiny creatures out in the cold and snow — is to feed them.  And for the same winter weather reasons, wouldn’t it be nice to stay inside and _still_ enjoy the birds?

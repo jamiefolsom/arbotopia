@@ -11,9 +11,7 @@ date_gmt: 2017-12-10 22:25:15 -0500
 categories: []
 tags: []
 comments: []
-
 ---
-Posted on December 10, 2017
 
 I always like to lead walks focusing on waterfowl.  The birds are pretty predictable, and often allow for good looks for everyone.  I had scouted for this walk several times in the last week, and all the ducks and other waterfowl I had seen were on full display this morning.  The weather was not as bad as had been predicted but did make for some slow and careful walking for the sixteen of us that spent more than two hours on the walk.
 
