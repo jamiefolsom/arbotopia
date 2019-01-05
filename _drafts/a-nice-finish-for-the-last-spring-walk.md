@@ -2,15 +2,10 @@
 layout: post
 status: draft
 title: A nice finish for the last Spring Walk
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
-author_login: admin
+author: Bob Mayer
 wordpress_id: 64
 wordpress_url: https://arbotopia.com/?p=64
-date: '2018-11-13 17:16:40 -0500'
+date: '2016-05-22 17:16:40 -0500'
 categories:
 - Bird Walks
 - Avian
@@ -19,236 +14,100 @@ tags: []
 comments: []
 ---
 
+Two dozen birders joined me on a beautiful morning for a walk from the main gate to Bussey Hill and back at the Arnold Arboretum.  As the passerine migration begins to subside we were hoping for some warbler action, but it was not to be.  A number of nesting Yellow Warblers were seen and heard throughout the walk, but the only other warbler was an American Redstart at the top of the hill.
 
+![American Redstart, male. The bird we had today was a less colorful female.](/images/2018/11/P1050239.jpg)
 
-<p>Posted on May 22, 2016</a><a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a><a rel="noreferrer noopener" target="_blank" href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a><a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a></p>
+American Redstart, male. The bird we had today was a less colorful female.
 
+One member of the group heard a Common Yellowthroat, another warbler that nests in the Arboretum, but as no one else heard it, we kept with the “two observers must see or hear for it to count” birding rule.  Warbling Vireos, a bird better heard than seen, were heard frequently, and seen less so:
 
+![The Warbling Vireo makes up for it’s drab appearance with a delightful song.](/images/2016/05/P1030436.jpg)
 
+The Warbling Vireo makes up for it’s drab appearance with a delightful song.
 
+Here is a recording of this bird’s song:
 
-<p>Two dozen birders joined me on a beautiful morning for a walk from the main gate to Bussey Hill and back at the Arnold Arboretum. &nbsp;As the passerine&nbsp;migration begins to subside we were hoping for some warbler action, but it was not to be. &nbsp;A number of nesting Yellow Warblers were seen and heard throughout the walk, but the only other warbler was an American Redstart at the top of the hill.</p>
+_Sound recording courtesy of Lang Elliott NatureSound Studio_
 
+Even more common than the vireos were Baltimore Orioles, and we saw several of their hanging nests:
 
-<p><!-- wp:image {"id":127} --></p>
- <img src="/images/2018/11/P1050239.jpg" alt="" class="wp-image-127"/> 
+![Male Baltimore Oriole at nest. These woven nests are so sturdy they often last through the  entire year.](/images/2018/11/P1030005_1.jpg)
 
+Male Baltimore Oriole at nest. These woven nests are so sturdy they often last through the  entire year.
 
+Speaking of nests, we saw a number of robin nests; then we watched this bird fly to it’s nest hole, pause briefly and call, then disappear into the hole!
 
+![Male Red-bellied Woodpecker at nest hole](/images/2014/10/P1080502.jpg)
 
+Male Red-bellied Woodpecker at nest hole
 
-<p>American Redstart, male. The bird we had today was a less colorful female.</p>
+As we walked up the grassy southern slope to the top of Bussey Hill, we spotted two flycatchers in the same tree; Eastern Phoebe and Eastern Kingbird.  I posted images of these birds on my blog [last week](https://web.archive.org/web/20160725160650/http://www.arbotopia.com/an-urban-wild-in-the-arnold-arboretum/).  At another location, two members of the group heard the distinct call of a different flycatcher, the Eastern Wood-pewee.  These birds stay in the deep woods where they are usually identified by their song:
 
+_Sound recording courtesy of Lang Elliott NatureSound Studio_
 
+In a nearby tree we found a flock of Cedar Waxwings, dressed for a formal occasion:
 
+![Cedar Waxwing in its pristine plumage](/images/2015/05/P1010122.jpg)
 
+Cedar Waxwing in it’s pristine plumage.
 
-<p>One member of the group heard a Common Yellowthroat, another warbler that nests in the Arboretum, but as no one else heard&nbsp;it, we kept with the &ldquo;two observers must&nbsp;see or&nbsp;hear for it to count&rdquo; birding rule. &nbsp;Warbling Vireos, a bird better heard than seen, were heard frequently, and seen less so:</p>
+I had taken the group to the Explorer’s Garden near the top of the hill because I had had some good migrating birds there two days before.  Today the only warbler was the Redstart mentioned earlier.  I listened for the song of the Scarlet Tanager, but heard nothing.  Then as we prepared to descend the hill I heard it. Then we saw it!
 
+![Scarlet Tanager, male.](/images/2015/05/P1100162.jpg)
 
-<p><!-- wp:image {"id":1276} --></p>
- <img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1030436.jpg" alt="P1030436" class="wp-image-1276"/> 
+Scarlet Tanager, male.
 
+This bird was a “lifer” for many in the group.  Beyond that it was all downhill ornithologically as well as topographically .  Except for the Wood Thrushes calling in the North Woods:
 
+_Sound recording courtesy of Lang Elliott NatureSound Studio_
 
+Here is the complete list for the walk:
+Arnold Arboretum, Suffolk, Massachusetts, US
+May 21, 2016 8:00 AM – 10:00 AM
+2.0 mile(s), 63 and overcast
 
+**34 species**
 
-<p>The Warbling Vireo makes up for it&rsquo;s drab appearance with a delightful song.</p>
+*   Canada Goose  2
+*   Red-tailed Hawk  2
+*   Herring Gull  2
+*   Rock Pigeon (Feral Pigeon)  4
+*   Mourning Dove  3
+*   Chimney Swift  4
+*   Red-bellied Woodpecker  2
+*   Downy Woodpecker  2
+*   Northern Flicker  1
+*   Eastern Wood-Pewee  1
+*   Eastern Phoebe  1
+*   Eastern Kingbird  2
+*   Warbling Vireo  4
+*   Blue Jay  3
+*   Tree Swallow  2
+*   Black-capped Chickadee  2
+*   Tufted Titmouse  3
+*   Wood Thrush  2
+*   American Robin  40
+*   Gray Catbird  2
+*   European Starling  4
+*   Cedar Waxwing  8
+*   American Redstart  1
+*   Yellow Warbler  5
+*   Chipping Sparrow  2
+*   Song Sparrow  4
+*   Scarlet Tanager  1
+*   Northern Cardinal  2
+*   Red-winged Blackbird  10
+*   Common Grackle  20
+*   Brown-headed Cowbird  2
+*   Baltimore Oriole  8
+*   American Goldfinch  1
+*   House Sparrow  20
 
+View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S29834917](http://ebird.org/ebird/view/checklist?subID=S29834917)
 
+This report was generated automatically by eBird v3 ([http://ebird.org](https://web.archive.org/web/20160725160650/http://ebird.org/))
 
+This was my last public bird walk this spring.  Stay tuned for the fall!
 
-
-<p>Here is a recording of this bird&rsquo;s song:</p>
-
-
-<p><!-- wp:audio {"id":196} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Warbling-vireo-1.mp3"></audio> 
-<p><!-- /wp:audio --></p>
-
-
-
-<p><em>Sound recording courtesy of&nbsp;Lang Elliott NatureSound Studio</em></p>
-
-
-
-
-
-<p>Even more common than&nbsp;the vireos were Baltimore Orioles, and we saw several of their hanging nests:</p>
-
-
-<p><!-- wp:image {"id":119} --></p>
- <img src="/images/2018/11/P1030005_1.jpg" alt="" class="wp-image-119"/> 
-
-
-
-
-
-<p>Male Baltimore Oriole at nest. These woven nests are so sturdy they often last through the &nbsp;entire year.</p>
-
-
-
-
-
-<p>Speaking of nests, we saw a number of robin nests; then we&nbsp;watched&nbsp;this bird fly to it&rsquo;s nest hole, pause briefly and call, then disappear into the hole!</p>
-
-
-<p><!-- wp:image {"id":903} --></p>
- <img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2014/10/P1080502.jpg" alt="P1080502" class="wp-image-903"/> 
-
-
-
-
-
-<p>Male Red-bellied Woodpecker at nest hole</p>
-
-
-
-
-
-<p>As we walked up the grassy southern slope to the top of Bussey Hill, we spotted two flycatchers in the same tree; Eastern Phoebe and Eastern Kingbird. &nbsp;I posted images of these birds on my blog&nbsp;<a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com/an-urban-wild-in-the-arnold-arboretum/">last week</a>. &nbsp;At another location, two members of the group heard the distinct call of a&nbsp;different&nbsp;flycatcher, the Eastern Wood-pewee. &nbsp;These birds stay in the deep woods&nbsp;where they are usually identified by their song:</p>
-
-
-<p><!-- wp:audio {"id":195} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/E.Wood-pewee.wav"></audio> 
-<p><!-- /wp:audio --></p>
-
-
-
-<p><em>Sound recording courtesy of&nbsp;Lang Elliott NatureSound Studio</em></p>
-
-
-
-
-
-<p>In a nearby tree we found a flock of Cedar Waxwings,&nbsp;dressed for a formal occasion:</p>
-
-
-<p><!-- wp:image {"id":1107} --></p>
- <img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1010122.jpg" alt="P1010122" class="wp-image-1107"/> 
-
-
-
-
-
-<p>Cedar Waxwing in it&rsquo;s pristine plumage.</p>
-
-
-
-
-
-<p>I had taken the group to the Explorer&rsquo;s Garden near the top of the hill because I had had some good migrating birds there two days before. &nbsp;Today the only warbler was the Redstart mentioned&nbsp;earlier. &nbsp;I listened for the song of the&nbsp;Scarlet Tanager, but heard nothing. &nbsp;Then as we prepared&nbsp;to descend the hill I heard it. Then we saw it!</p>
-
-
-<p><!-- wp:image {"id":1115} --></p>
- <img src="https://web.archive.org/web/20160725160650im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1100162.jpg" alt="P1100162" class="wp-image-1115"/> 
-
-
-
-
-
-<p>Scarlet Tanager, male.</p>
-
-
-
-
-
-<p>This bird was a &ldquo;lifer&rdquo; for many in the group. &nbsp;Beyond that it was all downhill ornithologically as well as topographically&nbsp;. &nbsp;Except for the Wood Thrushes calling in the North Woods:</p>
-
-
-<p><!-- wp:audio {"id":197} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Wood-Thrush-2.mp3"></audio> 
-<p><!-- /wp:audio --></p>
-
-
-
-<p><em>Sound recording courtesy of&nbsp;Lang Elliott NatureSound Studio</em></p>
-
-
-
-
-
-<p>Here is the complete list for the walk:</p>
-
-
-
-
-
-<p>Arnold Arboretum, Suffolk, Massachusetts, US</p>
-
-
-
-
-
-<p>May 21, 2016 8:00 AM &ndash; 10:00 AM</p>
-
-
-
-
-
-<p>2.0 mile(s),&nbsp;63 and overcast</p>
-
-
-
-
-
-<p><strong>34 species</strong></p>
-
-
-<p><!-- wp:list --></p>
-<ul>
-<li>Canada Goose &nbsp;2</li>
-<li>Red-tailed Hawk &nbsp;2</li>
-<li>Herring Gull &nbsp;2</li>
-<li>Rock Pigeon (Feral Pigeon) &nbsp;4</li>
-<li>Mourning Dove &nbsp;3</li>
-<li>Chimney Swift &nbsp;4</li>
-<li>Red-bellied Woodpecker &nbsp;2</li>
-<li>Downy Woodpecker &nbsp;2</li>
-<li>Northern Flicker &nbsp;1</li>
-<li>Eastern Wood-Pewee &nbsp;1</li>
-<li>Eastern Phoebe &nbsp;1</li>
-<li>Eastern Kingbird &nbsp;2</li>
-<li>Warbling Vireo &nbsp;4</li>
-<li>Blue Jay &nbsp;3</li>
-<li>Tree Swallow &nbsp;2</li>
-<li>Black-capped Chickadee &nbsp;2</li>
-<li>Tufted Titmouse &nbsp;3</li>
-<li>Wood Thrush &nbsp;2</li>
-<li>American Robin &nbsp;40</li>
-<li>Gray Catbird &nbsp;2</li>
-<li>European Starling &nbsp;4</li>
-<li>Cedar Waxwing &nbsp;8</li>
-<li>American Redstart &nbsp;1</li>
-<li>Yellow Warbler &nbsp;5</li>
-<li>Chipping Sparrow &nbsp;2</li>
-<li>Song Sparrow &nbsp;4</li>
-<li>Scarlet Tanager &nbsp;1</li>
-<li>Northern Cardinal &nbsp;2</li>
-<li>Red-winged Blackbird &nbsp;10</li>
-<li>Common Grackle &nbsp;20</li>
-<li>Brown-headed Cowbird &nbsp;2</li>
-<li>Baltimore Oriole &nbsp;8</li>
-<li>American Goldfinch &nbsp;1</li>
-<li>House Sparrow &nbsp;20</li>
-<li>View this checklist online at&nbsp;<a href="https://web.archive.org/web/20160725160650/http://ebird.org/ebird/view/checklist?subID=S29834917">http://ebird.org/ebird/view/checklist?subID=S29834917</a></li>
-</ul>
-<p><!-- /wp:list --></p>
-
-
-
-<p>This report was generated automatically by eBird v3 (<a href="https://web.archive.org/web/20160725160650/http://ebird.org/">http://ebird.org</a>)</p>
-
-
-
-
-
-<p>This was my last public bird walk this spring. &nbsp;Stay tuned for the fall!</p>
-
-
-
-
-
-<p>Good Birding!<a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a><a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a><a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a><a target="_blank" href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#" rel="noreferrer noopener"></a><a href="https://web.archive.org/web/20160725160650/http://www.arbotopia.com:80/a-nice-finish-for-the-last-spring-walk/#"></a></p>
-
-
+Good Birding!

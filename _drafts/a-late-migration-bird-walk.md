@@ -2,15 +2,10 @@
 layout: post
 status: draft
 title: A Late Migration Bird Walk
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
-author_login: admin
+author: Bob Mayer
 wordpress_id: 78
 wordpress_url: https://arbotopia.com/?p=78
-date: '2018-11-13 17:47:03 -0500'
+date: '2017-05-22 17:47:03 -0500'
 categories:
 - Bird Walks
 - Avian
@@ -20,146 +15,134 @@ tags: []
 comments: []
 ---
 
+Those of you who are birders know that the spring migration in Boston this year has had its up and downs.  The lingering cold and inauspicious winds kept the migrants back, and to some extent moved them inland. Then this past week there was a sudden weather shift, and the warblers and other migrants fell from the skies!  Today’s walk in the Arnold Arboretum was back to high 50’s temperatures with unfavorable northeast headwinds.  But it was sunny and 43 birders of all ages enjoyed the beauty of the landscape and some nice birds, even though the viewing was less than optimal with trees fully leafed out.
 
-<p>Posted on May 22, 2017</a></p>
+My co-leader Patrick brought his thirteen month old daughter, in carrier, who claimed the prize for youngest.  In keeping with Patrick’s interests, her middle name is Wren!  Next youngest was an energetic five year old who liked to hold hands as we walked; I didn’t complain! We also had a teenager from New Jersey, a solid young birder who helped me locate several birds. Not surprising that he has a passion for birding; his mother’s name is Robin!
 
+As we waited for the 8:00 AM starting gun we ticked off a stunning male cardinal in full song and a couple of Cedar Waxwings in a nearby tree:
 
-<p>Those of you who are birders know that the spring migration in Boston this year has had its up and downs. &nbsp;The lingering cold and inauspicious winds kept the migrants back, and to some extent&nbsp;moved them inland. Then this past week there was a sudden weather shift, and the warblers and other migrants fell from the skies! &nbsp;Today&rsquo;s walk in the Arnold Arboretum was back to high 50&rsquo;s temperatures with unfavorable northeast headwinds. &nbsp;But it was sunny and 43 birders of all ages enjoyed the beauty of the landscape and some nice birds, even though the viewing was less than optimal with trees fully leafed out.</p>
+![](/images/2018/11/P1170768.jpg)
 
+Cedar Waxwings always look ready for a grand occasion.
 
-<p>My co-leader Patrick brought his thirteen month old daughter, in carrier, who claimed the prize for youngest. &nbsp;In keeping with Patrick&rsquo;s interests, her middle name is Wren! &nbsp;Next youngest was an energetic five year old who liked to hold hands as we walked; I didn&rsquo;t complain! We also had a&nbsp;teenager&nbsp;from New Jersey, a solid young birder who helped me locate several birds. Not surprising that he has a passion for birding; his mother&rsquo;s name is Robin!</p>
+We checked out feeders in two locations and found little, but our first warbler did appear, an American Redstart:
 
+![](/images/2018/11/P1160184.jpg)
 
-<p>As we waited for the 8:00 AM starting gun we ticked off a stunning male cardinal in full song and a couple of Cedar Waxwings in a nearby tree:</p>
+Redstarts are noisy and visually noticeable as they flit through the trees and bushes. It is one of the more common wood warblers in the spring migration, and some stay and nest here.
 
+We heard several other warblers on our walk but got to see only one other, the Yellow Warbler.  They are just beginning to build nests in the Rose Garden section of the Arb; soon there will young to feed:
 
- <img src="/images/2018/11/P1170768.jpg" alt="" class="wp-image-157"/> 
+![](/images/2018/11/P1060023.jpg)
 
+Female Yellow Warbler at her active nest.
 
-<p>Cedar Waxwings always look ready for a grand occasion.</p>
+Our only thrush on the walk gave us a bit of a puzzle.  Seen clearly on the path ahead, it had a very faintly spotted breast (not Wood), same color of back and tail (not Hermit), and no distinct eye ring or spectacles (not Swainson’s), so even though it seemed more gray-brown than rusty in low light, we settled on a Veery.
 
+![](/images/2018/11/P1120450.jpg)
 
-<p>We checked out feeders in two locations and found little, but our first warbler did appear, an American Redstart:</p>
+The Veery is in the thrush family and has an incredible, two-toned song.  Veerys winter solely in Brazil.
 
- <img src="/images/2018/11/P1160184.jpg" alt="" class="wp-image-158"/> 
+As we walked along Oak Path up to the top of Bussey Hill the group gained familiarity with the sing song cadence of the Red-eyed Vireo, but we never saw one clearly:
 
+![](/images/2018/11/P1010954.jpg)
 
-<p>Redstarts are noisy and visually noticeable as they flit through the trees and bushes. It is one of the more common wood warblers in the spring migration, and some stay and nest here.</p>
+The Red-eyed Vireo can be distinguished from other members of this group by absence of wing-bars and the long white eyebrow and dark eye-line.  It is heard much more often than seen.
 
-<p>We heard several other warblers on our walk but got to see only one other, the Yellow Warbler. &nbsp;They are just beginning to build nests in the Rose Garden section of the Arb; soon there will young to feed:</p>
+The flycatcher family was also evident on the walk. I heard a Great-crested Flycatcher but couldn’t locate it.  Eastern Wood-peewees were calling from several locations, and we finally saw one:
 
- <img src="/images/2018/11/P1060023.jpg" alt="" class="wp-image-159"/> 
+![](/images/2018/11/P1090421.jpg)
 
-<p>Female Yellow Warbler at her active nest.</p>
+Eastern Wood-peewee, backlit
 
-<p>Our only thrush on the walk gave us a bit of a puzzle. &nbsp;Seen clearly on the path ahead, it had a very faintly spotted breast (not Wood), same color of back and tail (not Hermit), and no distinct eye ring or spectacles (not Swainson&rsquo;s), so even though it seemed more gray-brown than rusty in low light, we settled on a Veery.</p>
+And someone in the crowd located an Eastern Kingbird at the top of a tall deciduous tree:
 
- <img src="/images/2018/11/P1120450.jpg" alt="" class="wp-image-160"/> 
+![](/images/2018/11/P1240130.jpg)
 
-<p>The Veery is in the thrush family and has an incredible, two-toned song. &nbsp;Veerys winter solely in Brazil.</p>
+Eastern Kingbird. Kingbirds nest in the Arboretum yearly. They can be identified by their solid white breast and white terminal tail band, especially in flight.
 
-<p>As we walked along Oak Path up to the top of Bussey Hill the group gained familiarity with the sing song cadence of the Red-eyed Vireo, but we never saw one clearly:</p>
+Several birders remembered that we saw a Scarlet Tanager last year on a similar walk; they wanted a re-run. I had heard and seen tanagers on Bussey Hill twice this week, but today couldn’t produce one.  Here’s one I captured four days before the walk:
 
- <img src="/images/2018/11/P1010954.jpg" alt="" class="wp-image-161"/> 
+![](/images/2018/11/P1160191.jpg)
 
-<p>The Red-eyed Vireo can be distinguished from other members of this group by absence of wing-bars and the long white eyebrow and dark eye-line. &nbsp;It is heard much more often than seen.</p>
+Male Scarlet Tanager. Where was he today??
 
-<p>The flycatcher family was also evident on the walk. I heard a Great-crested Flycatcher but couldn&rsquo;t locate it. &nbsp;Eastern Wood-peewees were calling from several locations, and we finally saw one:</p>
+The Arboretum is first and foremost a tree museum, so I couldn’t resist pointing out a famous tree in Explorers Garden atop Bussey Hill:
 
- <img src="/images/2018/11/P1090421.jpg" alt="" class="wp-image-162"/> 
+![](/images/2018/11/P1160208.jpg)
 
-<p>Eastern Wood-peewee, backlit</p>
+Dove Tree, _Davidia involucrata_. The other common name for this unusual tree is Handkerchief Tree, for obvious reasons when in bloom.
 
-<p>And someone in the crowd located an Eastern Kingbird at the top of a tall deciduous tree:</p>
+Ned Friedman, the Director of the Arboretum, has just written about this historic tree on his blog, [check it out!](https://www.arboretum.harvard.edu/dove-tree-takes-wing-2/)  As we headed back to the main gate we passed the Black Locust near the ponds where an Eastern Screech-owl  has sunned itself most days for the last four winters.  A few months ago I posted some [new information](http://www.arbotopia.com/spring-kickoff/) on this owl.  Was she pregnant?  Ten days ago I was coming down Meadow Road from the ponds and checked the roost hole.  I saw an owl in the hole, but when I got my bins on it it seemed different:
 
- <img src="/images/2018/11/P1240130.jpg" alt="" class="wp-image-163"/> 
+![](/images/2018/11/P1160121.jpg)
 
-<p>Eastern Kingbird. Kingbirds nest in the Arboretum yearly. They can be identified by their solid&nbsp;white breast and white terminal tail band, especially in flight.</p>
+Eastern Screech-owlet(s).  If you look closely you can detect another eye behind and to the right of the gray bird.  Possibly the mother- or a  second baby?
 
-<p>Several birders remembered that we saw a Scarlet Tanager last year on a similar walk; they wanted a re-run. I had heard and seen tanagers on Bussey Hill twice this week, but today couldn&rsquo;t produce one. &nbsp;Here&rsquo;s one I captured four days before the walk:</p>
+About a minute later momma popped into view!
 
- <img src="/images/2018/11/P1160191.jpg" alt="" class="wp-image-164"/> 
+![](/images/2018/11/P1150529.jpg)
 
-<p>Male Scarlet Tanager. Where was he today??</p>
+Female red phase Eastern Screech-owl
 
-<p>The Arboretum is first and foremost a tree museum, so I couldn&rsquo;t resist pointing out a famous tree in Explorers Garden atop Bussey Hill:</p>
+The size of our group made it hard to stay in touch with everything that was going on.  Patrick had heard, along with several others, the distant sound of a Black-billed Cuckoo.  I missed it, but we added it to our list. When the walk was finished a young couple who bird regularly in the Arboretum told me about a bird they had both studied while on the walk but couldn’t identify.  After a few questions, I showed them a photo of a female Orchard Oriole. Bingo, they both agreed that was their bird!
 
- <img src="/images/2018/11/P1160208.jpg" alt="" class="wp-image-165"/> 
+![](/images/2018/11/P1100264.jpg)
 
-<p>Dove Tree,&nbsp;<em>Davidia involucrata</em>. The other common name for this unusual tree is Handkerchief Tree, for obvious reasons when in bloom.</p>
+Orchard Orioles are much less common than Baltimore’s in the AA, but they breed here every year.  As is generally the case in the avian world, the female is much less showy than the male.
 
-<p>Ned Friedman, the Director of the Arboretum, has just written about this historic tree on his blog,&nbsp;<a href="https://web.archive.org/web/20170912192156/https://www.arboretum.harvard.edu/dove-tree-takes-wing-2/">check it out!</a>&nbsp;&nbsp;As we headed back to the main gate we passed the Black Locust near the ponds where an Eastern Screech-owl &nbsp;has sunned itself most days for the last four winters. &nbsp;A few months ago I posted some&nbsp;<a href="https://web.archive.org/web/20170912192156/http://www.arbotopia.com/spring-kickoff/">new information</a>&nbsp;on this owl. &nbsp;Was she pregnant? &nbsp;Ten days ago I was coming down Meadow Road from the ponds and checked the roost&nbsp;hole. &nbsp;I saw an owl in the hole, but when I got my bins on it it seemed different:</p>
+I checked off one more species.  The general rule for counting a bird is that at least two persons in the group have to have seen or heard it definitively.
 
- <img src="/images/2018/11/P1160121.jpg" alt="" class="wp-image-166"/> 
+The list:
 
-<p>Eastern Screech-owlet(s). &nbsp;If you look closely you can detect another eye behind and to the right of the gray bird. &nbsp;Possibly the mother- or a &nbsp;second baby?</p>
+**Arnold Arboretum**, Suffolk, Massachusetts
 
-<p>About a minute later momma popped into view!</p>
+May 20, 2017 8:00 AM – 10:00 AM
 
- <img src="/images/2018/11/P1150529.jpg" alt="" class="wp-image-167"/> 
+1.5 mile(s)
 
-<p>Female red phase Eastern Screech-owl</p>
+60, sunny,  BBC walk
 
-<p>The size of our group made it hard to stay in touch with everything that was going on. &nbsp;Patrick had&nbsp;heard, along with several others, the distant sound of a Black-billed Cuckoo. &nbsp;I missed it, but we added it to our list. When the walk was finished a young couple who bird regularly in the Arboretum told me about a bird they had both studied while on the walk but couldn&rsquo;t&nbsp;identify. &nbsp;After a few questions, I showed them a photo of a female Orchard Oriole. Bingo, they both agreed that was their bird!</p>
+**33 species**
 
- <img src="/images/2018/11/P1100264.jpg" alt="" class="wp-image-168"/> 
+*   Canada Goose  1
+*   Red-tailed Hawk  2
+*   Herring Gull  2
+*   Mourning Dove  2
+*   Black-billed Cuckoo  1    
+*   Chimney Swift  2
+*   Red-bellied Woodpecker  2
+*   Eastern Wood-Pewee  3
+*   Great Crested Flycatcher  1
+*   Eastern Kingbird  1
+*   Warbling Vireo  4
+*   Red-eyed Vireo  2
+*   Blue Jay  3
+*   Tree Swallow  1
+*   Veery  1
+*   American Robin  15
+*   Gray Catbird  8
+*   European Starling  1
+*   Cedar Waxwing  3
+*   American Redstart  4
+*   Yellow Warbler  4
+*   Blackpoll Warbler  2
+*   Yellow-rumped Warbler  1
+*   Chipping Sparrow  3
+*   Savannah Sparrow  2
+*   Song Sparrow  3
+*   Northern Cardinal  3
+*   Red-winged Blackbird  5
+*   Common Grackle  9
+*   Orchard Oriole  1
+*   Baltimore Oriole  7
+*   American Goldfinch  2
+*   House Sparrow  4
 
-<p>Orchard Orioles are much less common than Baltimore&rsquo;s in the AA, but they breed here every year. &nbsp;As is generally the case in the avian world, the female is much less showy than the male.</p>
+View this checklist online at [http://ebird.org/ebird/view/checklist/S37007137](http://ebird.org/ebird/view/checklist/S37007137)
 
-<p>I checked off one more species. &nbsp;The general rule for counting a bird is that at least two persons in the group have to have seen or heard it definitively.</p>
+This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org/))
 
-<p>The list:</p>
+Looking over the reports of the five walks this spring, including one at Leverett Pond/Olmsted Park, 57 species were seen overall, by over 150 people, although many of them were repeaters.  Lots of fun for a lot of folks!  I hope to see many of you in the fall when the migrants begin their long journey back to their wintering grounds.
 
-<p><strong>Arnold Arboretum</strong>, Suffolk, Massachusetts</p>
-
-<p>May 20, 2017 8:00 AM &ndash; 10:00 AM</p>
-
-<p>1.5 mile(s)</p>
-
-<p>60, sunny, &nbsp;BBC walk</p>
-
-<p><strong>33 species</strong></p>
-
-<ul>
-<li>Canada Goose &nbsp;1</li>
-<li>Red-tailed Hawk &nbsp;2</li>
-<li>Herring Gull &nbsp;2</li>
-<li>Mourning Dove &nbsp;2</li>
-<li>Black-billed Cuckoo &nbsp;1 &nbsp; &nbsp;</li>
-<li>Chimney Swift &nbsp;2</li>
-<li>Red-bellied Woodpecker &nbsp;2</li>
-<li>Eastern Wood-Pewee &nbsp;3</li>
-<li>Great Crested Flycatcher &nbsp;1</li>
-<li>Eastern Kingbird &nbsp;1</li>
-<li>Warbling Vireo &nbsp;4</li>
-<li>Red-eyed Vireo &nbsp;2</li>
-<li>Blue Jay &nbsp;3</li>
-<li>Tree Swallow &nbsp;1</li>
-<li>Veery &nbsp;1</li>
-<li>American Robin &nbsp;15</li>
-<li>Gray Catbird &nbsp;8</li>
-<li>European Starling &nbsp;1</li>
-<li>Cedar Waxwing &nbsp;3</li>
-<li>American Redstart &nbsp;4</li>
-<li>Yellow Warbler &nbsp;4</li>
-<li>Blackpoll Warbler &nbsp;2</li>
-<li>Yellow-rumped Warbler &nbsp;1</li>
-<li>Chipping Sparrow &nbsp;3</li>
-<li>Savannah Sparrow &nbsp;2</li>
-<li>Song Sparrow &nbsp;3</li>
-<li>Northern Cardinal &nbsp;3</li>
-<li>Red-winged Blackbird &nbsp;5</li>
-<li>Common Grackle &nbsp;9</li>
-<li>Orchard Oriole &nbsp;1</li>
-<li>Baltimore Oriole &nbsp;7</li>
-<li>American Goldfinch &nbsp;2</li>
-<li>House Sparrow &nbsp;4</li>
-</ul>
-
-<p>View this checklist online at&nbsp;<a href="https://web.archive.org/web/20170912192156/http://ebird.org/ebird/view/checklist/S37007137">http://ebird.org/ebird/view/checklist/S37007137</a></p>
-
-<p>This report was generated automatically by eBird v3 (<a href="https://web.archive.org/web/20170912192156/http://ebird.org/">http://ebird.org</a>)</p>
-
-<p>Looking over the reports of&nbsp;the&nbsp;five walks this spring, including one at Leverett Pond/Olmsted Park, 57 species were seen overall, by over 150 people, although many of them were repeaters. &nbsp;Lots of fun for a lot of folks! &nbsp;I hope to see many of you in the fall when the migrants begin their long journey back&nbsp;to their wintering grounds.</p>
-
-<p>Good Birding!<br></p>
+Good Birding!
