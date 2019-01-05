@@ -1,6 +1,7 @@
 ---
 layout: post
 status: inherit
+published: true
 title: First Snow begins a Duck Walk on the Emerald Necklace
 author: Bob Mayer
 wordpress_id: 407

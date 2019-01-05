@@ -1,6 +1,7 @@
 ---
 layout: post
 status: inherit
+published: true
 title: What about Birdfeeders?
 author: Bob Mayer
 wordpress_id: 233

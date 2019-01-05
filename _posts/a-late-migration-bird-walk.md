@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+published: true
 title: A Late Migration Bird Walk
 author: Bob Mayer
 wordpress_id: 78

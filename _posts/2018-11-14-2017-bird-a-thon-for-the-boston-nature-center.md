@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+published: true
 title: 2017 Bird-a-thon for the Boston Nature Center
 author: Bob Mayer
 wordpress_id: 72

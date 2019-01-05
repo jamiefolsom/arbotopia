@@ -1,7 +1,7 @@
 ---
 layout: post
-status: inherit
 title: End of Year Musings in the Emerald Necklace
+published: true
 author: Bob Mayer
 wordpress_id: 39
 wordpress_url: https://arbotopia.com//2018/11/02/38-revision-v1/

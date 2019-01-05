@@ -1,6 +1,5 @@
 ---
 layout: post
-status: draft
 title: A Bird out of Season and in the Storm
 author: Bob Mayer
 wordpress_id: 349

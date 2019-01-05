@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+published: true
 title: A nice finish for the last Spring Walk
 author: Bob Mayer
 wordpress_id: 64

@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+published: true
 title: A bright and windy walk in Bussey Brook Meadow
 author: Bob Mayer
 wordpress_id: 81

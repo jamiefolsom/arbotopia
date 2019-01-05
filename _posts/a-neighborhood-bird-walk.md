@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+published: true
 title: A Neighborhood Bird Walk
 author: Bob Mayer
 wordpress_id: 15
