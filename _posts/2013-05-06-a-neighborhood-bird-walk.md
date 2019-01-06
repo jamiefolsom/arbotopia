@@ -1,18 +1,17 @@
 ---
 layout: post
-published: true
 title: A Neighborhood Bird Walk
 author: Bob Mayer
 wordpress_id: 15
 wordpress_url: https://arbotopia.com//?p=15
-date: '2013-05-06 15:56:02 -0500'
+date: 2013-05-06 15:56:02 -0500
 categories:
 - Bird Walks
 - Avian
 tags: []
 comments: []
----
 
+---
 This morning a group of more than fifty people gathered for a bird walk right in their own neighborhood.  Sumner Hill is an historic district in Jamaica Plain with mostly residential homes and some commercial buildings and is bordered by part of the Southwest Corridor on the west side.  Originally the walk was planned for the Arnold Arboretum but we decided it would be interesting, even if less fruitful, to confine the walk to the 365 acres of the neighborhood district.  As expected, given the urban limitations and dealing with a very slow spring migration this year, the yield of bird species was small, but that was more than made up for by beautiful weather, lots of early flowering trees and a very enthusiastic group of birders of all ages.
 
 We started off by examining the differences between two birds singing loudly from my side yard; Northern Cardinal and Carolina Wren. The birds were very obliging, singing alternately so all could absorb the differences: the harsher repetitive call of the wren against the more melodic but crisp song of the cardinal. Later the wren flew in, allowing some up close viewing.  How this tiny bird projects such a loud and resonant sound is a mystery.
@@ -40,7 +39,7 @@ Here is the list of birds we saw or heard:
 Sumner Hill JP, Suffolk, US-MA
 May 5, 2013 8:00 AM – 8:00 AM
 Protocol: Traveling
-1.0 mile(s)
+1\.0 mile(s)
 Comments:     46, sunny
 14 species
 
