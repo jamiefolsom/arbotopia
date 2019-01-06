@@ -1,18 +1,17 @@
 ---
 layout: post
 status: inherit
-published: true
 title: What about Birdfeeders?
 author: Bob Mayer
 wordpress_id: 233
 wordpress_url: https://arbotopia.com/2018/11/14/17-revision-v1/
-date: 2014-03-14 15:23:35 -0500
-date_gmt: 2014-03-14 15:23:35 -0500
+date: 2014-03-14 20:23:35 +0000
+date_gmt: 2014-03-14 20:23:35 +0000
 categories: []
 tags: []
 comments: []
----
 
+---
 In the winter I probably get more questions from casual birding friends about bird feeders than anything else. Should I or shouldn’t I? What kind of seed should I buy? Should I splurge on pre-shelled seed? How do I get rid of those hungry squirrels? Those damn House Sparrows are eating me out of house and home!  Why don’t the birds come to my wonderful feeder?
 
 Our basic instinct — as we sit comfortably inside, watching those tiny creatures out in the cold and snow — is to feed them.  And for the same winter weather reasons, wouldn’t it be nice to stay inside and _still_ enjoy the birds?
@@ -41,7 +40,7 @@ Photo: Bob Mayer
 
 Those who get into attracting unusual birds in winter will put out meal worms or fruits like blueberries and orange sections.  I’ve tried to pull in bluebirds with such offerings without success. Last winter though, I posted about a [Baltimore Oriole](/a-bird-out-of-season-and-in-the-storm/) that came to my feeders for seed and was encouraged to stay with orange halves:
 
-[![P1040159](/images/2013/02/P1040159.jpg)](/images/2013/02/P1040159.jpg)
+![](/images/P1040159.jpg)[![P1040159](/images/2013/02/P1040159.jpg)](/images/2013/02/P1040159.jpg)
 
 Female Baltimore Oriole eyeing orange half with House Sparrow eating hulled sunflower seeds above.
 Photo: Bob Mayer
