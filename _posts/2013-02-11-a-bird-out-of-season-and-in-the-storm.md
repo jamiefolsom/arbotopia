@@ -13,14 +13,14 @@ comments: []
 ---
 The feeders in my side yard in Jamaica Plain get pretty good action during the winter.  Over the years I have recorded 28 species drawn to the free lunch, including some less common ones like this Red-breasted Nuthatch:
 
-![Red-breasted Nuthatch](/images/2013/02/P1030926.jpg)![](/images/P1150212.jpg)
+![](/images/P1150212.jpg)
 
 Red-breasted Nuthatch
 Photo: Bob Mayer
 
 On February 8th, the day that Blizzard 2013 began, I was watching a flurry of activity at the feeders, a typical pre-storm surge.  I noticed a bird that had some yellow coloration; an American Goldfinch perhaps?  On closer inspection the bird was too big for a goldfinch, and the bill was too thin.  After further observation, and a check of my bird guides, I determined it was a Baltimore Oriole!
 
-![](/images/P1040021.jpg)![Baltimore Oriole, first year female](/images/2013/02/P1040021.jpg)
+![](/images/P1040021.jpg)
 
 Baltimore Oriole, first year female
 Photo: Bob Mayer
@@ -54,13 +54,13 @@ Will this bird make it until the spring?  If so she could re-unite with others 
 
 But each morning I check the feeders and am happy when I see her again:
 
-![](/images/P1040068.jpg)![A drizzle has made the oriole especially bedraggled this afternoon.](/images/2013/02/P1040068.jpg)
+![](/images/P1040068.jpg)
 
 A drizzle has made the oriole especially bedraggled this afternoon.
 Photo: Bob Mayer
 
 Many years ago while I was in Ethiopia with the Peace Corps I learned that in rural villages babies were not named until after they had survived the passage of a smallpox epidemic.  If I were of a mind to start naming my feeder birds she would be up for a christening by now.  But I’m not.  I don’t expect to see her in the Arboretum this summer, but she does look determined.
 
-![](/images/P1040048.jpg)![](/images/2013/02/P10400481.jpg)
+![](/images/P1040048.jpg)
 
 Keep watching those feeders- you never know what might show up!
