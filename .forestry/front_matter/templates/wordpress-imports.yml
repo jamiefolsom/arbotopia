@@ -10,7 +10,7 @@ fields:
   default: post
 - name: title
   label: Title
-  type: text
+  type: file
   hidden: false
   default: ''
 - name: author
