@@ -12,12 +12,6 @@ fields:
   name: author
   label: Author
   description: Who wrote this?
-- type: datetime
-  name: date_posted
-  label: Date posted
-  description: The date of this post
-  config:
-    required: true
 - type: boolean
   name: featured
   label: Featured?
