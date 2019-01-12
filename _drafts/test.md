@@ -2,7 +2,6 @@
 layout: post
 title: Test
 author: Jamie
-date_posted: 2019-01-12 05:00:00 +0000
 featured: false
 categories:
 - test
