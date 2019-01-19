@@ -31,5 +31,5 @@ fields:
     required: true
   default: post
 pages:
-- _posts/good-weather-and-good-birds-to-open-2019.md
+- _posts/2019-01-13-good-weather-and-good-birds-to-open-2019.md
 - _posts/test.md
