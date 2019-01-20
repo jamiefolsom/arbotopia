@@ -20,3 +20,7 @@ As we moved along Meadow Road the birding picked up. Beneath some shrubs we loca
 ![whtie-crowned spp](/images/P1050933.jpg "Immature White-crowned Sparrow")
 
 There were several White-Throated Sparrows and a Song Sparrow in the mix, providing a great  chance to compare and contrast:
+
+![](/images/2016/04/P1110340.jpg)
+
+![](/images/P1280094.jpg)
