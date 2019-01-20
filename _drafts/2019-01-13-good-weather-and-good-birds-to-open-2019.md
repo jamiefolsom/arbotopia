@@ -24,3 +24,7 @@ There were several White-Throated Sparrows and a Song Sparrow in the mix, provid
 ![](/images/2016/04/P1110340.jpg)
 
 ![](/images/P1280094.jpg)
+
+![](/images/133485821.jpg)
+
+![](/images/133485751.jpg)
