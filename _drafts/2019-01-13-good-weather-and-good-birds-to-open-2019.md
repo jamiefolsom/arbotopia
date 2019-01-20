@@ -15,6 +15,8 @@ There was a huge turnout for the first Arboretum bird walk in the new year; more
 
 ![](/images/P1150212.jpg "Red-breasted Nuthatch")
 
-As we moved along Meadow Road the birding \[icked up. Beneathspome shrubs we located a group of sparrpws, and among them was an uncommon one:
+As we moved along Meadow Road the birding picked up. Beneath some shrubs we located a group of sparrows, and among them was an uncommon one:
 
-![](/images/P1050933.jpg)
+![whtie-crowned spp](/images/P1050933.jpg "Immature White-crowned Sparrow")
+
+There were several White-Throated Sparrows and a Song Sparrow in the mix, providing a great  chance to compare and contrast:
