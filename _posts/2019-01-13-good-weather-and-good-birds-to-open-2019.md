@@ -31,7 +31,7 @@ We saw or heard three species of woodpecker, including this uncommon one:
 
 ![](/images/133485751.jpg)
 
-After we got to the ponds, which were almost completely iced over, we returned ticking of some other resident and winter birds, including a Northern Mockingbird:
+After we got to the nearly completely iced-over ponds we returned, ticking off some other resident and winter birds, including a Northern Mockingbird:
 
 ![](/images/P1150229.jpg)
 
@@ -45,7 +45,7 @@ This is the "winter kinglet"; the other in this group is seen more often in warm
 
 They are fast-moving gems; hard to see and photograph.
 
-Here is our nice list for this winter walk:
+Here is our list for this winter walk:
 
 Arnold Arboretum, Suffolk, Massachusetts, US  
 Jan 6, 2019 9:00 AM - 10:40 AM  
@@ -80,3 +80,7 @@ Northern Cardinal  6
 View this checklist online at [https://ebird.org/view/checklist/S51382763](https://ebird.org/view/checklist/S51382763 "https://ebird.org/view/checklist/S51382763")  
   
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S51382763 "https://ebird.org/view/checklist/S51382763"))
+
+My partner Brendan Keegan will be leading monthly walks in the Arnold Arboretum throughout the winter and early spring; his next walk will be on Sunday January 27th.  I hope you can join him at the main gate at 9 AM.  I will start up my spring walks on Saturday April 27th, beginning at the same gate but at 8AM.
+
+Good Birding!
