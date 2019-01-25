@@ -5,8 +5,8 @@ author: Bob Mayer
 featured: true
 categories:
 - Bird Walks
-- " Avain"
 - Arboretum
+- Avian
 feature_photo: ''
 date: 2019-01-13 16:51:32 +0000
 
