@@ -15,6 +15,8 @@ There was a huge turnout for the first Arboretum bird walk in the new year; more
 
 ![This male Red-breasted Nuthatch is enjoying the suet at the Hunnewell feeders](/images/P1150212.jpg "Red-breasted Nuthatch")
 
+> _This is a caption_
+
 As we moved along Meadow Road the birding picked up. Beneath some shrubs we located a group of sparrows, and among them was an uncommon one:
 
 ![whtie-crowned spp](/images/P1050933.jpg "Immature White-crowned Sparrow")
@@ -84,3 +86,7 @@ This report was generated automatically by eBird v3 ([https://ebird.org/home](ht
 My partner Brendan Keegan will be leading monthly walks in the Arnold Arboretum throughout the winter and early spring; his next walk will be on Sunday January 27th.  I hope you can join him at the main gate at 9 AM.  I will start up my spring walks on Saturday April 27th, beginning at the same gate but at 8AM.
 
 Good Birding!
+
+<audio controls src="/images/2016/10/Carolina-Wren-1.mp3">
+Your browser does not support the <code>audio</code> element.
+</audio>
