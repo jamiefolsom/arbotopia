@@ -13,7 +13,7 @@ date: 2019-01-13 16:51:32 +0000
 ---
 There was a huge turnout for the first Arboretum bird walk in the new year; more than fifty people showed up hoping start their year list with some regular winter species as well as some rarities.  We were not disappointed.   The walk started at the feeding station near the Administration Building but there were few birds on the feeders. One nice one made a brief appearance and was seen by some.
 
-![](/images/P1150212.jpg "Red-breasted Nuthatch")
+![This male Red-breasted Nuthatch is enjoying the suet at the Hunnewell feeders](/images/P1150212.jpg "Red-breasted Nuthatch")
 
 As we moved along Meadow Road the birding picked up. Beneath some shrubs we located a group of sparrows, and among them was an uncommon one:
 
@@ -52,8 +52,8 @@ Jan 6, 2019 9:00 AM - 10:40 AM
 Protocol: Traveling  
 2\.0 mile(s)  
 Comments:     sun and clouds windless 35 BBC walk  
-22 species  
-  
+22 species
+
 Mallard  1  
 Mourning Dove  30  
 Herring Gull  1  
@@ -75,10 +75,10 @@ Dark-eyed Junco  24
 White-crowned Sparrow  1     in with WTSP and SOSP, continuing immature, photos  
 White-throated Sparrow  12  
 Song Sparrow  5  
-Northern Cardinal  6  
-  
-View this checklist online at [https://ebird.org/view/checklist/S51382763](https://ebird.org/view/checklist/S51382763 "https://ebird.org/view/checklist/S51382763")  
-  
+Northern Cardinal  6
+
+View this checklist online at [https://ebird.org/view/checklist/S51382763](https://ebird.org/view/checklist/S51382763 "https://ebird.org/view/checklist/S51382763")
+
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S51382763 "https://ebird.org/view/checklist/S51382763"))
 
 My partner Brendan Keegan will be leading monthly walks in the Arnold Arboretum throughout the winter and early spring; his next walk will be on Sunday January 27th.  I hope you can join him at the main gate at 9 AM.  I will start up my spring walks on Saturday April 27th, beginning at the same gate but at 8AM.
