@@ -15,7 +15,7 @@ There was a huge turnout for the first Arboretum bird walk in the new year; more
 
 ![This male Red-breasted Nuthatch is enjoying the suet at the Hunnewell feeders](/images/P1150212.jpg "Red-breasted Nuthatch")
 
-> _Red-breasted Nuthatch_
+> _This male Red-breasted Nuthatch was enjoying the suet at the Hunnewell feeders._
 
 As we moved along Meadow Road the birding picked up. Beneath some shrubs we located a group of sparrows, and among them was an uncommon one:
 
