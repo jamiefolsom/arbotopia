@@ -99,6 +99,6 @@ View this checklist online at [https://ebird.org/view/checklist/S51382763](http
 
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S51382763 "https://ebird.org/view/checklist/S51382763"))
 
-My partner Brendan Keegan will be leading monthly walks in the Arnold Arboretum throughout the winter and early spring; his next walk will be on Sunday January 27th.  I hope you can join him at the main gate at 9 AM.  I will start up my spring walks on Saturday April 27th, beginning at the same gate but at 8AM.
+My partner Brendan Keegan will be leading monthly walks in the Arnold Arboretum throughout the winter and early spring; his next walk will be on Saturday February 23rd.  I hope you can join him at the main gate at 9 AM.  I will start up my spring walks on Saturday April 27th, beginning at the same gate but at 8AM.
 
 Good Birding!
