@@ -15,35 +15,51 @@ There was a huge turnout for the first Arboretum bird walk in the new year; more
 
 ![This male Red-breasted Nuthatch is enjoying the suet at the Hunnewell feeders](/images/P1150212.jpg "Red-breasted Nuthatch")
 
-> _This is a caption_
+> _Red-breasted Nuthatch_
 
 As we moved along Meadow Road the birding picked up. Beneath some shrubs we located a group of sparrows, and among them was an uncommon one:
 
-![whtie-crowned spp](/images/P1050933.jpg "Immature White-crowned Sparrow")
+![](/images/P1050933.jpg)
+
+_Immature White-crowned Sparrow. The plain breast, brown and cream head stripes, and orange bill are distinctive_
 
 There were several White-Throated Sparrows and a Song Sparrow in the mix, providing a great  chance to compare and contrast:
 
 ![](/images/2016/04/P1110340.jpg)
 
+_Male White-throated Sparrow with it's white throat patch and black and white crown with yellow patch in front_
+
 ![](/images/P1280094.jpg)
+
+_Song Sparrow showing a streaked breast with a coalescing spot in front, and brown/gray head stripes._
 
 We saw or heard three species of woodpecker, including this uncommon one:
 
 ![](/images/133485821.jpg)
 
+_Male Yellow-bellied Sapsucker._ Photo: Jason Platt
+
 ![](/images/133485751.jpg)
 
-After we got to the nearly completely iced-over ponds we returned, ticking off some other resident and winter birds, including a Northern Mockingbird:
+_Immature Yellow-bellied Sapsucker._ Photo: Jason Platt
+
+After we got to almost fully iced-over ponds we returned, ticking off some other resident and winter birds, including a Northern Mockingbird:
 
 ![](/images/P1150229.jpg)
+
+_Northern Mockingbird, with it's clear breast and long tail._
 
 A couple of us got a quick look at this tiny beauty, a Golden-crowned Kinglet:
 
 ![](/images/P1150439.jpg)
 
+_This Golden-crowned Kinglet has indeed a golden-yellow central head stripe._
+
 This is the "winter kinglet"; the other in this group is seen more often in warmer weather:
 
 ![](/images/P1010930.jpg)
+
+_Ruby-crowned Kinglet. These  birds don't always show their red top-knot as this agitated one is. They also have a thin white eye-ring._
 
 They are fast-moving gems; hard to see and photograph.
 
@@ -86,7 +102,3 @@ This report was generated automatically by eBird v3 ([https://ebird.org/home](ht
 My partner Brendan Keegan will be leading monthly walks in the Arnold Arboretum throughout the winter and early spring; his next walk will be on Sunday January 27th.  I hope you can join him at the main gate at 9 AM.  I will start up my spring walks on Saturday April 27th, beginning at the same gate but at 8AM.
 
 Good Birding!
-
-<audio controls src="/images/2016/10/Carolina-Wren-1.mp3">
-Your browser does not support the <code>audio</code> element.
-</audio>
