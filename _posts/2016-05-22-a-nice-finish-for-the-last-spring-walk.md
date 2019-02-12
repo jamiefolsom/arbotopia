@@ -1,19 +1,18 @@
 ---
 layout: post
-published: true
 title: A nice finish for the last Spring Walk
 author: Bob Mayer
 wordpress_id: 64
 wordpress_url: https://arbotopia.com/?p=64
-date: '2016-05-22 17:16:40 -0500'
+date: 2016-05-22 17:16:40 -0500
 categories:
 - Bird Walks
 - Avian
 - Arnold Arboretum
 tags: []
 comments: []
----
 
+---
 Two dozen birders joined me on a beautiful morning for a walk from the main gate to Bussey Hill and back at the Arnold Arboretum.  As the passerine migration begins to subside we were hoping for some warbler action, but it was not to be.  A number of nesting Yellow Warblers were seen and heard throughout the walk, but the only other warbler was an American Redstart at the top of the hill.
 
 ![American Redstart, male. The bird we had today was a less colorful female.](/images/2018/11/P1050239.jpg)
