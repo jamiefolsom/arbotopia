@@ -10,7 +10,7 @@ author:
 author_login: admin
 wordpress_id: 419
 wordpress_url: https://arbotopia.com/?p=419
-date: '2018-12-27 15:13:30 -0500'
+date: '2013-01-27 15:13:30 -0500'
 categories:
 - Bird Walks
 - Avian
@@ -27,7 +27,7 @@ comments: []
 <p><!-- wp:image {"id":420} --></p>
  <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/P1070591.jpg?fit=525%2C386&amp;ssl=1" alt="" class="wp-image-420"/><br />
 <figcaption>This male Mandarin Duck, seen&nbsp; to left of it's cousin a male Wood Duck, hung out on Leverett Pond with a flotilla of Wood Ducks for several weeks in winter 2013</figcaption>
- 
+
 
 
 
@@ -45,7 +45,7 @@ comments: []
 <p><!-- wp:image {"id":421} --></p>
  <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/Ring-necked-DuckJPG.jpg?fit=525%2C398&amp;ssl=1" alt="" class="wp-image-421"/><br />
 <figcaption>Two male and one female Ring-necked Ducks showing,-not a ringed neck- but a white ring around their bills, diagnostic of the species. How did the taxonomists get that wrong?</figcaption>
- 
+
 
 
 
@@ -63,7 +63,7 @@ comments: []
 <p><!-- wp:image {"id":422} --></p>
  <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/P1010412.jpg?fit=525%2C356&amp;ssl=1" alt="" class="wp-image-422"/><br />
 <figcaption>How handsome can a duck be?</figcaption>
- 
+
 
 
 
@@ -81,7 +81,7 @@ comments: []
 <p><!-- wp:image {"id":423} --></p>
  <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/P1100739.jpg?fit=525%2C251&amp;ssl=1" alt="" class="wp-image-423"/><br />
 <figcaption>A female Wood Duck, left, and her 6 ducklings on the edge of Leverett Pond, August 9, 2015</figcaption>
- 
+
 
 
 
@@ -93,7 +93,7 @@ comments: []
 <p><!-- wp:image {"id":424} --></p>
  <img src="/images/2018/12/Wood-Duck-f..jpg" alt="" class="wp-image-424"/><br />
 <figcaption>Female Wood Duck</figcaption>
- 
+
 
 
 
@@ -105,7 +105,7 @@ comments: []
 <p><!-- wp:image {"id":425} --></p>
  <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/P1010908.jpg?fit=525%2C367&amp;ssl=1" alt="" class="wp-image-425"/><br />
 <figcaption>Two female and a male Wood duck on the move</figcaption>
- 
+
 
 
 
@@ -117,7 +117,7 @@ comments: []
 <p><!-- wp:image {"id":426} --></p>
  <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/12/P1160316.jpg?fit=525%2C355&amp;ssl=1" alt="" class="wp-image-426"/><br />
 <figcaption>Belted Kingfisher male, without the brown breast band of the female</figcaption>
- 
+
 
 
 
@@ -135,7 +135,7 @@ comments: []
 <p><!-- wp:image {"id":432} --></p>
  <img src="/images/2018/12/H.-Merg.-m-5.jpg" alt="" class="wp-image-432"/><br />
 <figcaption>Male Hooded Merganser</figcaption>
- 
+
 
 
 
@@ -147,7 +147,7 @@ comments: []
 <p><!-- wp:image {"id":128} --></p>
  <img src="/images/2018/11/P1030156-815x1024.jpg" alt="" class="wp-image-128"/><br />
 <figcaption>Male Red-bellied Woodpecker; in the female the red does not extend up to the head from the nape<br></figcaption>
- 
+
 
 
 
@@ -164,7 +164,7 @@ comments: []
 <p><!-- wp:image {"id":399} --></p>
  <img src="/images/2018/11/P1030573-1-1024x878.jpg" alt="" class="wp-image-399"/><br />
 <figcaption>Three Ruddy Ducks; the male is on top.</figcaption>
- 
+
 
 
 
@@ -176,7 +176,7 @@ comments: []
 <p><!-- wp:image {"id":398} --></p>
  <img src="/images/2018/11/P1010232-1024x519.jpg" alt="" class="wp-image-398"/><br />
 <figcaption>Stiff-tail is the nickname for this small diving duck, and for good reason.</figcaption>
- 
+
 
 
 
@@ -188,7 +188,7 @@ comments: []
 <p><!-- wp:image {"id":433} --></p>
  <img src="/images/2018/12/P1010828-1024x821.jpg" alt="" class="wp-image-433"/><br />
 <figcaption>Bufflehead female showing a clear white cheek against a black head</figcaption>
- 
+
 
 
 
@@ -200,7 +200,7 @@ comments: []
 <p><!-- wp:image {"id":301} --></p>
  <img src="/images/2018/11/P1010836-1024x677.jpg" alt="" class="wp-image-301"/><br />
 <figcaption>Striking white and black markings on this male Bufflehead.</figcaption>
- 
+
 
 
 
@@ -216,6 +216,4 @@ comments: []
 
 
 <p><!-- wp:image --></p>
- <img alt=""/> 
-
-
+ <img alt=""/>

@@ -10,19 +10,12 @@ author:
 author_login: admin
 wordpress_id: 376
 wordpress_url: https://arbotopia.com/?p=376
-date: '2018-11-19 20:50:34 -0500'
+date: '2018-01-03 20:50:34 -0500'
 categories:
 - Uncategorized
 tags: []
 comments: []
 ---
-
-
-
-<p>Posted on January 3, 2018</a></p>
-
-
-
 
 
 <p>The weather&nbsp;folks are claiming that this Saturday will be the coldest day so far this winter.&nbsp; Sunday morning at 9AM, the scheduled kickoff for the January Winter Bird Walk in the Arboretum, is predicted to be minus 3, with winds at 10-12 mph.&nbsp; Therefore I&rsquo;m postponing the walk until Sunday January 14th, same time, same station.&nbsp; Let&rsquo;s hope for winter, not arctic, weather.</p>
@@ -41,7 +34,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":379} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010460.jpg?fit=525%2C372&amp;ssl=1" alt="" class="wp-image-379"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010460.jpg?fit=525%2C372&amp;ssl=1" alt="" class="wp-image-379"/>
 
 
 
@@ -57,7 +50,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":380} --></p>
- <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010468.jpg?fit=525%2C367&amp;ssl=1" alt="" class="wp-image-380"/> 
+ <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010468.jpg?fit=525%2C367&amp;ssl=1" alt="" class="wp-image-380"/>
 
 
 
@@ -73,11 +66,11 @@ comments: []
 
 
 <p><!-- wp:image {"id":1575} --></p>
- <img src="https://web.archive.org/web/20180401052920im_/http://www.arbotopia.com/wp-content/uploads/2018/01/P1010398.jpg" alt="" class="wp-image-1575"/> 
+ <img src="https://web.archive.org/web/20180401052920im_/http://www.arbotopia.com/wp-content/uploads/2018/01/P1010398.jpg" alt="" class="wp-image-1575"/>
 
 
 <p><!-- wp:image {"id":382} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010398-1.jpg?fit=525%2C278&amp;ssl=1" alt="" class="wp-image-382"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010398-1.jpg?fit=525%2C278&amp;ssl=1" alt="" class="wp-image-382"/>
 
 
 
@@ -87,11 +80,11 @@ comments: []
 
 
 <p><!-- wp:image {"id":1576} --></p>
- <img src="https://web.archive.org/web/20180401052920im_/http://www.arbotopia.com/wp-content/uploads/2018/01/P1010399.jpg" alt="" class="wp-image-1576"/> 
+ <img src="https://web.archive.org/web/20180401052920im_/http://www.arbotopia.com/wp-content/uploads/2018/01/P1010399.jpg" alt="" class="wp-image-1576"/>
 
 
 <p><!-- wp:image {"id":383} --></p>
- <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010399.jpg?fit=525%2C495&amp;ssl=1" alt="" class="wp-image-383"/> 
+ <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010399.jpg?fit=525%2C495&amp;ssl=1" alt="" class="wp-image-383"/>
 
 
 
@@ -107,7 +100,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":384} --></p>
- <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010415.jpg?fit=525%2C434&amp;ssl=1" alt="" class="wp-image-384"/> 
+ <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010415.jpg?fit=525%2C434&amp;ssl=1" alt="" class="wp-image-384"/>
 
 
 
@@ -117,7 +110,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":385} --></p>
- <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010412.jpg?fit=525%2C356&amp;ssl=1" alt="" class="wp-image-385"/> 
+ <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010412.jpg?fit=525%2C356&amp;ssl=1" alt="" class="wp-image-385"/>
 
 
 
@@ -278,5 +271,3 @@ comments: []
 
 
 <p>Good Birding!</p>
-
-

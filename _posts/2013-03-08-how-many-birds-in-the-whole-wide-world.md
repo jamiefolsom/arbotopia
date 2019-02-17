@@ -10,17 +10,12 @@ author:
 author_login: admin
 wordpress_id: 352
 wordpress_url: https://arbotopia.com/?p=352
-date: '2018-11-19 12:53:12 -0500'
+date: '2013-03-08 12:53:12 -0500'
 categories:
 - Uncategorized
 tags: []
 comments: []
 ---
-
-
-
-<p>Posted on March 8, 2013</a></p>
-
 
 <p><!-- wp:heading {"level":1} --></p>
 <h1><a href="https://web.archive.org/web/20171113130559/http://www.arbotopia.com/how-many-birds-in-the-whole-wide-world/"></a></h1>
@@ -232,5 +227,3 @@ comments: []
 
 
 <p><em>&ndash; Papa</em></p>
-
-

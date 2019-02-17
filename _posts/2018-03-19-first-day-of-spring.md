@@ -10,26 +10,18 @@ author:
 author_login: admin
 wordpress_id: 94
 wordpress_url: https://arbotopia.com/?p=94
-date: '2018-11-14 15:13:36 -0500'
+date: '2018-03-19 15:13:36 -0500'
 categories:
 - Uncategorized
 tags: []
 comments: []
 ---
 
-
-
-<p>Posted on March 19, 2018</a></p>
-
-
-
-
-
 <p>Punxsutawney Phil is&nbsp;not the best&nbsp;weather forecaster, but this year he got it right. It seems this winter just won&rsquo;t quit; weekly Nor&rsquo;easters, with windy and cold temperatures in between.&nbsp; Nonetheless time marches on, and flora and fauna are moving on too.</p>
 
 
 <p><!-- wp:image {"id":227} --></p>
- <img src="/images/2018/11/P1010610.jpg" alt="" class="wp-image-227"/> 
+ <img src="/images/2018/11/P1010610.jpg" alt="" class="wp-image-227"/>
 
 
 
@@ -39,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":228} --></p>
- <img src="/images/2018/11/P1120215.jpg" alt="" class="wp-image-228"/> 
+ <img src="/images/2018/11/P1120215.jpg" alt="" class="wp-image-228"/>
 
 
 
@@ -49,7 +41,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":229} --></p>
- <img src="/images/2018/11/P1010595.jpg" alt="" class="wp-image-229"/> 
+ <img src="/images/2018/11/P1010595.jpg" alt="" class="wp-image-229"/>
 
 
 
@@ -65,7 +57,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":231} --></p>
- <img src="/images/2018/11/P1010668.jpg" alt="" class="wp-image-231"/> 
+ <img src="/images/2018/11/P1010668.jpg" alt="" class="wp-image-231"/>
 
 
 
@@ -75,7 +67,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":232} --></p>
- <img src="/images/2018/11/P1010657.jpg" alt="" class="wp-image-232"/> 
+ <img src="/images/2018/11/P1010657.jpg" alt="" class="wp-image-232"/>
 
 
 
@@ -91,7 +83,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":230} --></p>
- <img src="/images/2018/11/P1010663.jpg" alt="" class="wp-image-230"/> 
+ <img src="/images/2018/11/P1010663.jpg" alt="" class="wp-image-230"/>
 
 
 
@@ -145,5 +137,3 @@ comments: []
 
 
 <p>Good Birding!</p>
-
-

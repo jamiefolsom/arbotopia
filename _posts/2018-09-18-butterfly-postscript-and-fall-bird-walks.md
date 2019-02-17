@@ -10,7 +10,7 @@ author:
 author_login: admin
 wordpress_id: 75
 wordpress_url: https://arbotopia.com/?p=75
-date: '2018-11-14 15:49:18 -0500'
+date: '2018-09-18 15:49:18 -0500'
 categories:
 - Avian
 - Arnold Arboretum
@@ -20,19 +20,11 @@ tags: []
 comments: []
 ---
 
-
-
-<p>Posted on September 18, 2017</a></p>
-
-
-
-
-
 <p>In my<a href="https://web.archive.org/web/20171004090603/http://www.arbotopia.com/how-rare-is-rare-a-butterfly-tale/">&nbsp;last post</a>&nbsp;I promised a followup on the Pipevine Swallowtail caterpillars that the Arboretum staff and I had collected and placed in inclosures back in late July. Here is a shot of some of them&nbsp;in their last stage, or instar;</p>
 
 
 <p><!-- wp:image {"id":1497} --></p>
- <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170445.jpg" alt="" class="wp-image-1497"/> 
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170445.jpg" alt="" class="wp-image-1497"/>
 
 
 
@@ -48,7 +40,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1498} --></p>
- <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170608.jpg" alt="" class="wp-image-1498"/> 
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170608.jpg" alt="" class="wp-image-1498"/>
 
 
 
@@ -58,7 +50,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1499} --></p>
- <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170614.jpg" alt="" class="wp-image-1499"/> 
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1170614.jpg" alt="" class="wp-image-1499"/>
 
 
 
@@ -80,7 +72,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1500} --></p>
- <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/Pipevine-Swallowtail.jpg" alt="" class="wp-image-1500"/> 
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/Pipevine-Swallowtail.jpg" alt="" class="wp-image-1500"/>
 
 
 
@@ -102,7 +94,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1501} --></p>
- <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1180389.jpg" alt="" class="wp-image-1501"/> 
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1180389.jpg" alt="" class="wp-image-1501"/>
 
 
 
@@ -124,7 +116,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1502} --></p>
- <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/IMG_4019.jpg" alt="" class="wp-image-1502"/> 
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/IMG_4019.jpg" alt="" class="wp-image-1502"/>
 
 
 
@@ -146,7 +138,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1503} --></p>
- <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000159.jpg" alt="" class="wp-image-1503"/> 
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000159.jpg" alt="" class="wp-image-1503"/>
 
 
 
@@ -156,7 +148,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1504} --></p>
- <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000160.jpg" alt="" class="wp-image-1504"/> 
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000160.jpg" alt="" class="wp-image-1504"/>
 
 
 
@@ -166,7 +158,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1505} --></p>
- <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000161.jpg" alt="" class="wp-image-1505"/> 
+ <img src="https://web.archive.org/web/20171004090603im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000161.jpg" alt="" class="wp-image-1505"/>
 
 
 
@@ -203,5 +195,3 @@ comments: []
 
 
 <p>Good birding!<br></p>
-
-

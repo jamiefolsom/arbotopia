@@ -22,7 +22,6 @@ tags: []
 comments: []
 
 ---
-<p>Posted on April 30, 2018</a></p>
 
 <p>The weather was&nbsp;quite different for the two spring bird walks I led this weekend; Saturday was sunny and quite warm but Sunday was cool and cloudy with occasional rain.&nbsp; The attendance was reflected by the weather; 46 on Saturday and 17 on Sunday.&nbsp; The locale for the first was the Arnold Arboretum, designed by Fredrick Law Olmsted, and the second was another Olmsted creation farther down the Emerald Necklace at&nbsp;<a href="https://goo.gl/8ocH2s">Leverett Pond</a>&nbsp;and Olmsted Park.</p>
 

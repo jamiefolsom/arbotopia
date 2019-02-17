@@ -10,7 +10,7 @@ author:
 author_login: admin
 wordpress_id: 74
 wordpress_url: https://arbotopia.com/?p=74
-date: '2018-11-14 16:06:58 -0500'
+date: '2017-09-24 16:06:58 -0500'
 categories:
 - Avian
 - Arnold Arboretum
@@ -32,7 +32,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1516} --></p>
- <img src="https://web.archive.org/web/20171004090633im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000153.jpg" alt="" class="wp-image-1516"/> 
+ <img src="https://web.archive.org/web/20171004090633im_/http://www.arbotopia.com/wp-content/uploads/2017/09/P1000153.jpg" alt="" class="wp-image-1516"/>
 
 
 
@@ -60,7 +60,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1513} --></p>
- <img src="https://web.archive.org/web/20171004090633im_/http://www.arbotopia.com/wp-content/uploads/2017/09/Painted-Lady-and-Praying-Mantis.jpg" alt="" class="wp-image-1513"/> 
+ <img src="https://web.archive.org/web/20171004090633im_/http://www.arbotopia.com/wp-content/uploads/2017/09/Painted-Lady-and-Praying-Mantis.jpg" alt="" class="wp-image-1513"/>
 
 
 
@@ -79,5 +79,3 @@ comments: []
 
 
 <p>Thank&nbsp;you for drawing all of this to my attention.<br></p>
-
-

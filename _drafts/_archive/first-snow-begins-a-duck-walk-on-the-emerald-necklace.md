@@ -10,7 +10,7 @@ author:
 author_login: admin
 wordpress_id: 374
 wordpress_url: https://arbotopia.com/?p=374
-date: '2018-11-19 22:28:48 -0500'
+date: '2017-12-10 22:28:48 -0500'
 categories:
 - Bird Walks
 - Avian
@@ -18,14 +18,6 @@ categories:
 tags: []
 comments: []
 ---
-
-
-
-<p>Posted on December 10, 2017</a></p>
-
-
-
-
 
 <p>I always like to lead walks focusing on waterfowl.&nbsp; The birds are pretty predictable, and often allow for&nbsp;good looks for everyone.&nbsp; I had scouted for this walk several times in the last week, and all the ducks and other waterfowl I had seen were on full display this morning.&nbsp; The weather was not as bad as had been predicted but&nbsp;did make for some slow and careful walking for the sixteen of us that spent more than two hours on the walk.</p>
 
@@ -37,7 +29,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":388} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1090463.jpg?fit=525%2C393&amp;ssl=1" alt="" class="wp-image-388"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1090463.jpg?fit=525%2C393&amp;ssl=1" alt="" class="wp-image-388"/>
 
 
 
@@ -53,7 +45,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":389} --></p>
- <img src="/images/2018/11/Wood-Duck-f..jpg" alt="" class="wp-image-389"/> 
+ <img src="/images/2018/11/Wood-Duck-f..jpg" alt="" class="wp-image-389"/>
 
 
 
@@ -69,7 +61,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":390} --></p>
- <img src="https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1110415.jpg?fit=525%2C559&amp;ssl=1" alt="" class="wp-image-390"/> 
+ <img src="https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1110415.jpg?fit=525%2C559&amp;ssl=1" alt="" class="wp-image-390"/>
 
 
 
@@ -85,7 +77,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":391} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1070679.jpg?fit=525%2C374&amp;ssl=1" alt="" class="wp-image-391"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1070679.jpg?fit=525%2C374&amp;ssl=1" alt="" class="wp-image-391"/>
 
 
 
@@ -101,7 +93,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":936} --></p>
- <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1070671.jpg" alt="" class="wp-image-936"/> 
+ <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1070671.jpg" alt="" class="wp-image-936"/>
 
 
 
@@ -117,7 +109,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":392} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1070656.jpg?fit=525%2C313&amp;ssl=1" alt="" class="wp-image-392"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1070656.jpg?fit=525%2C313&amp;ssl=1" alt="" class="wp-image-392"/>
 
 
 
@@ -133,7 +125,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":393} --></p>
- <img src="/images/2018/11/Black-2.jpg" alt="" class="wp-image-393"/> 
+ <img src="/images/2018/11/Black-2.jpg" alt="" class="wp-image-393"/>
 
 
 
@@ -143,7 +135,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":394} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1270462.jpg?fit=525%2C401&amp;ssl=1" alt="" class="wp-image-394"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1270462.jpg?fit=525%2C401&amp;ssl=1" alt="" class="wp-image-394"/>
 
 
 
@@ -159,7 +151,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":395} --></p>
- <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010194.jpg?fit=525%2C461&amp;ssl=1" alt="" class="wp-image-395"/> 
+ <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010194.jpg?fit=525%2C461&amp;ssl=1" alt="" class="wp-image-395"/>
 
 
 
@@ -175,11 +167,11 @@ comments: []
 
 
 <p><!-- wp:image {"id":397} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010186.jpg?fit=525%2C491&amp;ssl=1" alt="" class="wp-image-397"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010186.jpg?fit=525%2C491&amp;ssl=1" alt="" class="wp-image-397"/>
 
 
 <p><!-- wp:image {"id":1548} --></p>
- <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1010167.jpg" alt="" class="wp-image-1548"/> 
+ <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1010167.jpg" alt="" class="wp-image-1548"/>
 
 
 
@@ -196,12 +188,12 @@ comments: []
 
 <p><!-- wp:image {"id":1549,"align":"center"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter"><img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1010232.jpg" alt="" class="wp-image-1549"/> 
+<figure class="aligncenter"><img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1010232.jpg" alt="" class="wp-image-1549"/>
 </div>
 
 
 <p><!-- wp:image {"id":398} --></p>
- <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010232.jpg?fit=525%2C266&amp;ssl=1" alt="" class="wp-image-398"/> 
+ <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010232.jpg?fit=525%2C266&amp;ssl=1" alt="" class="wp-image-398"/>
 
 
 
@@ -211,11 +203,11 @@ comments: []
 
 
 <p><!-- wp:image {"id":1550} --></p>
- <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1030573.jpg" alt="" class="wp-image-1550"/> 
+ <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1030573.jpg" alt="" class="wp-image-1550"/>
 
 
 <p><!-- wp:image {"id":399} --></p>
- <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1030573-1.jpg?fit=525%2C450&amp;ssl=1" alt="" class="wp-image-399"/> 
+ <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1030573-1.jpg?fit=525%2C450&amp;ssl=1" alt="" class="wp-image-399"/>
 
 
 
@@ -231,7 +223,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":276} --></p>
- <img src="/images/2018/11/P1160589-1024x839.jpg" alt="" class="wp-image-276"/> 
+ <img src="/images/2018/11/P1160589-1024x839.jpg" alt="" class="wp-image-276"/>
 
 
 
@@ -247,11 +239,11 @@ comments: []
 
 
 <p><!-- wp:image {"id":129} --></p>
- <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1310793.jpg" alt="" class="wp-image-129"/> 
+ <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1310793.jpg" alt="" class="wp-image-129"/>
 
 
 <p><!-- wp:image {"id":400} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1070879.jpg?fit=525%2C545&amp;ssl=1" alt="" class="wp-image-400"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1070879.jpg?fit=525%2C545&amp;ssl=1" alt="" class="wp-image-400"/>
 
 
 
@@ -267,12 +259,12 @@ comments: []
 
 
 <p><!-- wp:image {"id":401} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1090253.jpg?fit=525%2C246&amp;ssl=1" alt="" class="wp-image-401"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1090253.jpg?fit=525%2C246&amp;ssl=1" alt="" class="wp-image-401"/>
 
 
 <p><!-- wp:image {"id":1552,"align":"center"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter"><img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1310881.jpg" alt="" class="wp-image-1552"/> 
+<figure class="aligncenter"><img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1310881.jpg" alt="" class="wp-image-1552"/>
 </div>
 
 
@@ -283,11 +275,11 @@ comments: []
 
 
 <p><!-- wp:image {"id":402} --></p>
- <img src="https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1000967.jpg?fit=525%2C282&amp;ssl=1" alt="" class="wp-image-402"/> 
+ <img src="https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1000967.jpg?fit=525%2C282&amp;ssl=1" alt="" class="wp-image-402"/>
 
 
 <p><!-- wp:image {"id":1553} --></p>
- <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1000971.jpg" alt="" class="wp-image-1553"/> 
+ <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1000971.jpg" alt="" class="wp-image-1553"/>
 
 
 
@@ -303,11 +295,11 @@ comments: []
 
 
 <p><!-- wp:image {"id":1554} --></p>
- <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1090952.jpg" alt="" class="wp-image-1554"/> 
+ <img src="https://web.archive.org/web/20180128153914im_/http://www.arbotopia.com/wp-content/uploads/2017/12/P1090952.jpg" alt="" class="wp-image-1554"/>
 
 
 <p><!-- wp:image {"id":403} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1090952.jpg?fit=525%2C295&amp;ssl=1" alt="" class="wp-image-403"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1090952.jpg?fit=525%2C295&amp;ssl=1" alt="" class="wp-image-403"/>
 
 
 
@@ -323,7 +315,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":404} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010246.jpg?fit=525%2C394&amp;ssl=1" alt="" class="wp-image-404"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010246.jpg?fit=525%2C394&amp;ssl=1" alt="" class="wp-image-404"/>
 
 
 
@@ -333,7 +325,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":405} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010252.jpg?fit=525%2C394&amp;ssl=1" alt="" class="wp-image-405"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010252.jpg?fit=525%2C394&amp;ssl=1" alt="" class="wp-image-405"/>
 
 
 
@@ -349,7 +341,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":406} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1060589.jpg?fit=525%2C326&amp;ssl=1" alt="" class="wp-image-406"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1060589.jpg?fit=525%2C326&amp;ssl=1" alt="" class="wp-image-406"/>
 
 
 
@@ -467,5 +459,3 @@ comments: []
 
 
 <p>Good Birding!</p>
-
-

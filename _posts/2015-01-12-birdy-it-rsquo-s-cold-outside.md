@@ -10,7 +10,7 @@ author:
 author_login: admin
 wordpress_id: 50
 wordpress_url: https://arbotopia.com/?p=50
-date: '2018-11-15 18:54:49 -0500'
+date: '2015-01-12 18:54:49 -0500'
 categories:
 - Bird Walks
 - Avian
@@ -18,13 +18,6 @@ categories:
 tags: []
 comments: []
 ---
-
-
-
-<p>Posted on January 12, 2015</a></p>
-
-
-
 
 
 <p>Saturday was the annual January Arnold Arboretum bird walk and 30 people signed up on the Arboretum website.&nbsp; When I awakened and saw the temperature at 12&deg; F, I wondered if anyone would show up.&nbsp; I got to the main gate at 9AM (Temp 16&deg; F) and was greeted by 19 bundled-up birders, eager and ready to go!&nbsp; Our first stop was the feeders next to the Hunnewell Building; maintained with funds from the 1912 Edward Whitney Bird Fund (more about that in a future post).&nbsp; There was little bird activity in the trees and bushes on the grounds, but the feeders were hopping!&nbsp; Nothing special; but this group of mostly beginning birders were delighted with close-up views of House Finches, American Goldfinches, cardinals and four sparrow species.&nbsp; I also discussed the&nbsp;<a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/?s=what+about+bird+feeders">&ldquo;magic halo&rdquo;</a>&nbsp;I put around the feeders in December; it was doing it&rsquo;s job.&nbsp; All the House Sparrows were on the ground waiting for cast-offs from the birds at the feeders.</p>
@@ -37,7 +30,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":296} --></p>
- <img src="/images/2018/11/P1080186.jpg" alt="" class="wp-image-296"/> 
+ <img src="/images/2018/11/P1080186.jpg" alt="" class="wp-image-296"/>
 
 
 
@@ -53,7 +46,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":982,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1030635.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1030635.jpg" alt="P1030635" class="wp-image-982"/></a> 
+ <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1030635.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1030635.jpg" alt="P1030635" class="wp-image-982"/></a>
 
 
 
@@ -69,7 +62,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":983,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1070732.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1070732.jpg" alt="P1070732" class="wp-image-983"/></a> 
+ <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1070732.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1070732.jpg" alt="P1070732" class="wp-image-983"/></a>
 
 
 
@@ -115,7 +108,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":985,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1090303.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1090303.jpg" alt="P1090303" class="wp-image-985"/></a> 
+ <a href="https://web.archive.org/web/20150113012755/http://www.arbotopia.com/wp-content/uploads/2015/01/P1090303.jpg"><img src="https://web.archive.org/web/20150113012755im_/http://www.arbotopia.com/wp-content/uploads/2015/01/P1090303.jpg" alt="P1090303" class="wp-image-985"/></a>
 
 
 
@@ -134,5 +127,3 @@ comments: []
 
 
 <p>Good luck, and Good Birding!<br></p>
-
-

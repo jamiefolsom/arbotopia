@@ -10,7 +10,7 @@ author:
 author_login: admin
 wordpress_id: 19
 wordpress_url: https://arbotopia.com//?p=19
-date: '2018-11-16 16:36:18 -0500'
+date: '2014-03-23 16:36:18 -0500'
 categories:
 - Bird Walks
 - Avian
@@ -31,7 +31,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":789,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070966.jpg"><img src="https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070966.jpg" alt="P1070966" class="wp-image-789"/></a> 
+ <a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070966.jpg"><img src="https://web.archive.org/web/20140426104415im_/http://www.arbotopia.com/wp-content/uploads/2014/03/P1070966.jpg" alt="P1070966" class="wp-image-789"/></a>
 
 
 
@@ -47,7 +47,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":184} --></p>
- <img src="/images/2018/11/P1130421-728x1024.jpg" alt="" class="wp-image-184"/> 
+ <img src="/images/2018/11/P1130421-728x1024.jpg" alt="" class="wp-image-184"/>
 
 
 
@@ -102,5 +102,3 @@ comments: []
 
 
 <p>Good Birding<a href="https://web.archive.org/web/20140426104415/http://www.arbotopia.com:80/#"><br></a></p>
-
-
