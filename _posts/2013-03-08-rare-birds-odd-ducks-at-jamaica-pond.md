@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Rare Birds & Odd Ducks at Jamaica Pond
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 44
 wordpress_url: https://arbotopia.com/?p=44

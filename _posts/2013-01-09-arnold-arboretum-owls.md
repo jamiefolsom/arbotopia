@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Arnold Arboretum Owls
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 46
 wordpress_url: https://arbotopia.com/?p=46

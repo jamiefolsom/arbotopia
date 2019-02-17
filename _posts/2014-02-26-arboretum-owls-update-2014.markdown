@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Arboretum Owls Update 2014
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 48
 wordpress_url: https://arbotopia.com/?p=48

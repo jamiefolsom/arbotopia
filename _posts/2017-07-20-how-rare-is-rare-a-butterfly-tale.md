@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: How rare is rare? &ndash; a butterfly tale
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 76
 wordpress_url: https://arbotopia.com/?p=76

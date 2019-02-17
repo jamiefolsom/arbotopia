@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: First Day of Spring?
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 94
 wordpress_url: https://arbotopia.com/?p=94

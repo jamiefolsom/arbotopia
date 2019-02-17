@@ -2,11 +2,7 @@
 layout: jetpack_migration
 status: draft
 title: sidebars_widgets
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 8
 wordpress_url: https://arbotopia.com//?post_type=jetpack_migration&p=8

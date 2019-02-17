@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: How many birds in the whole wide world?
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 352
 wordpress_url: https://arbotopia.com/?p=352

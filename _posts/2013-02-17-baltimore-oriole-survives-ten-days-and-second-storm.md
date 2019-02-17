@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Baltimore Oriole survives ten days and second storm
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 347
 wordpress_url: https://arbotopia.com/?p=347

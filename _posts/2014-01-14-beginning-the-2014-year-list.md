@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Beginning the 2014 Year List!
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 367
 wordpress_url: https://arbotopia.com/?p=367

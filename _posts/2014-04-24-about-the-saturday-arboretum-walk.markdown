@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: About the Saturday Arboretum Walk
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 21
 wordpress_url: https://arbotopia.com//?p=21

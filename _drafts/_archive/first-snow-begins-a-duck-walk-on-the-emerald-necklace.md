@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: First Snow begins a Duck Walk on the Emerald Necklace
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 374
 wordpress_url: https://arbotopia.com/?p=374

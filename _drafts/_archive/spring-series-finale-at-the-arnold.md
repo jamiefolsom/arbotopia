@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Spring Series Finale at the Arnold
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 32
 wordpress_url: https://arbotopia.com//?p=32

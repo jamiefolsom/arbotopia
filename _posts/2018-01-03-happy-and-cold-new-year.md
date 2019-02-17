@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Happy and Cold New Year!
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 376
 wordpress_url: https://arbotopia.com/?p=376

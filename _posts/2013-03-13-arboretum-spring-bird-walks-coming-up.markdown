@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Arboretum spring bird walks coming up!
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 351
 wordpress_url: https://arbotopia.com/?p=351

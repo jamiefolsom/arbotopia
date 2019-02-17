@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Birding an Urban Oasis
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 25
 wordpress_url: https://arbotopia.com//?p=25

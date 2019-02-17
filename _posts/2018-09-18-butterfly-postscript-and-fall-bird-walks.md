@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Butterfly postscript- and fall bird walks
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 75
 wordpress_url: https://arbotopia.com/?p=75

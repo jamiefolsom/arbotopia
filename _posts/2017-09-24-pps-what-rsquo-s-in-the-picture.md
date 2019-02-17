@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: 'PPS: What&rsquo;s in the picture?'
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 74
 wordpress_url: https://arbotopia.com/?p=74

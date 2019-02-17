@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Back-to-back Spring Bird Walks in the Arboretum
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 29
 wordpress_url: https://arbotopia.com//?p=29

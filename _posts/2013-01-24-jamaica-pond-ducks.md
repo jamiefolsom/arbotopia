@@ -2,11 +2,7 @@
 layout: post
 status: draft
 title: Jamaica Pond Ducks
-author:
-  display_name: admin
-  login: admin
-  email: ''
-  url: ''
+author: Bob Mayer
 author_login: admin
 wordpress_id: 56
 wordpress_url: https://arbotopia.com/?p=56
