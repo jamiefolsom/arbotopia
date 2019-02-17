@@ -10,7 +10,7 @@ author:
 author_login: admin
 wordpress_id: 44
 wordpress_url: https://arbotopia.com/?p=44
-date: 2018-11-19 14:05:20 -0500
+date: 2013-03-08 14:05:20 -0500
 categories:
 - Avian
 - Waterfowl
@@ -18,10 +18,6 @@ tags: []
 comments: []
 
 ---
-<p>Posted on March 8, 2013</a></p>
-
-
-
 
 
 <p>In my first&nbsp;<a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/birdjamaica-pond-ducks/">Jamaica Pond Ducks post</a>&nbsp;I covered the more common waterfowl likely to be seen on&nbsp;<a href="https://web.archive.org/web/20140426115604/https://www.google.com/maps/ms?msa=0&amp;msid=217541233018515973334.0004d3f5dfbfb11f8bc5f&amp;ie=UTF8&amp;ll=42.309117,-71.112356&amp;spn=0.056111,0.080166&amp;t=m&amp;z=14&amp;vpsrc=6&amp;iwloc=0004d3f5e8b64e73efc5f" target="_blank" rel="noreferrer noopener">Jamaica Pond</a>.&nbsp; Here I will discuss less common ducks and other birds attracted to the Pond, especially in the fall and winter.</p>
@@ -36,7 +32,7 @@ comments: []
 <p><!-- wp:audio {"id":356} --></p>
 <figure class="wp-block-audio"><audio controls src="/images/2018/11/Com-Loon.wav"></audio><br />
 <figcaption><br>Sound recording courtesy of LangElliott NatureSound Studio&nbsp;<br>&nbsp;</figcaption>
- 
+
 <p><!-- /wp:audio --></p>
 
 
@@ -45,7 +41,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":176,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/p1030094/"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030094.jpg" alt="P1030094" class="wp-image-176"/></a> 
+ <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/p1030094/"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030094.jpg" alt="P1030094" class="wp-image-176"/></a>
 
 
 
@@ -67,7 +63,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":173,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/p1020913/"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1020913.jpg" alt="P1020913" class="wp-image-173"/></a> 
+ <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/p1020913/"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1020913.jpg" alt="P1020913" class="wp-image-173"/></a>
 
 
 
@@ -83,7 +79,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":177,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/snared-shoveler-2/"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/Snared-Shoveler-2.jpg" alt="Snared Shoveler #2" class="wp-image-177"/></a> 
+ <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/snared-shoveler-2/"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/Snared-Shoveler-2.jpg" alt="Snared Shoveler #2" class="wp-image-177"/></a>
 
 
 
@@ -105,7 +101,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":305} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/Ring-necked-DuckJPG.jpg?fit=525%2C398&amp;ssl=1" alt="" class="wp-image-305"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/Ring-necked-DuckJPG.jpg?fit=525%2C398&amp;ssl=1" alt="" class="wp-image-305"/>
 
 
 
@@ -121,7 +117,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":183,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030762.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030762.jpg" alt="P1030762" class="wp-image-183"/></a> 
+ <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030762.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030762.jpg" alt="P1030762" class="wp-image-183"/></a>
 
 
 
@@ -137,7 +133,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":184,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030831.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030831.jpg" alt="P1030831" class="wp-image-184"/></a> 
+ <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030831.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030831.jpg" alt="P1030831" class="wp-image-184"/></a>
 
 
 
@@ -153,7 +149,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":231,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1020942.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1020942.jpg" alt="P1020942" class="wp-image-231"/></a> 
+ <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1020942.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1020942.jpg" alt="P1020942" class="wp-image-231"/></a>
 
 
 
@@ -169,7 +165,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":301} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010836.jpg?fit=525%2C347&amp;ssl=1" alt="" class="wp-image-301"/> 
+ <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010836.jpg?fit=525%2C347&amp;ssl=1" alt="" class="wp-image-301"/>
 
 
 
@@ -185,7 +181,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":187,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1260810.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1260810.jpg" alt="P1260810" class="wp-image-187"/></a> 
+ <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1260810.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1260810.jpg" alt="P1260810" class="wp-image-187"/></a>
 
 
 
@@ -201,7 +197,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":302} --></p>
- <img src="https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1030585.jpg?fit=525%2C434&amp;ssl=1" alt="" class="wp-image-302"/> 
+ <img src="https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1030585.jpg?fit=525%2C434&amp;ssl=1" alt="" class="wp-image-302"/>
 
 
 
@@ -217,7 +213,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":235,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P10100161.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P10100161.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-235"/></a> 
+ <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P10100161.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P10100161.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-235"/></a>
 
 
 
@@ -239,7 +235,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":239,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1010021.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1010021.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-239"/></a> 
+ <a href="https://web.archive.org/web/20140426115604/http://www.arbotopia.com/wp-content/uploads/2013/02/P1010021.jpg"><img src="https://web.archive.org/web/20140426115604im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1010021.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-239"/></a>
 
 
 
@@ -255,7 +251,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":303} --></p>
- <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1290387.jpg?fit=525%2C280&amp;ssl=1" alt="" class="wp-image-303"/> 
+ <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1290387.jpg?fit=525%2C280&amp;ssl=1" alt="" class="wp-image-303"/>
 
 
 <p><!-- wp:paragraph {"align":"left"} --></p>
