@@ -10,7 +10,7 @@ author:
 author_login: admin
 wordpress_id: 68
 wordpress_url: https://arbotopia.com/?p=68
-date: '2018-11-14 20:20:07 -0500'
+date: '2016-10-08 20:20:07 -0500'
 categories:
 - Bird Walks
 - Avian
@@ -18,14 +18,6 @@ categories:
 tags: []
 comments: []
 ---
-
-
-
-<p>Posted on October 8, 2016</a></p>
-
-
-
-
 
 <p>This morning twenty people faced 40 degree&nbsp;fall weather for a bird walk in the Arnold Arboretum. &nbsp;Most were local folks but we had a visitor from London and a newly arrived transplant&nbsp;from North Carolina. &nbsp;She was especially pleased when we heard the clarion call of a Carolina Wren:</p>
 
@@ -37,7 +29,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1321} --></p>
- <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/10/P1060458.jpg" alt="p1060458" class="wp-image-1321"/> 
+ <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/10/P1060458.jpg" alt="p1060458" class="wp-image-1321"/>
 
 
 
@@ -53,7 +45,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":405} --></p>
- <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1060706.jpg" alt="P1060706" class="wp-image-405"/> 
+ <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1060706.jpg" alt="P1060706" class="wp-image-405"/>
 
 
 
@@ -75,7 +67,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1322} --></p>
- <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/10/P1130390.jpg" alt="p1130390" class="wp-image-1322"/> 
+ <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/10/P1130390.jpg" alt="p1130390" class="wp-image-1322"/>
 
 
 
@@ -97,7 +89,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1324} --></p>
- <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/10/P1070753.jpg" alt="p1070753" class="wp-image-1324"/> 
+ <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/10/P1070753.jpg" alt="p1070753" class="wp-image-1324"/>
 
 
 
@@ -113,7 +105,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1232} --></p>
- <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1110340.jpg" alt="P1110340" class="wp-image-1232"/> 
+ <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1110340.jpg" alt="P1110340" class="wp-image-1232"/>
 
 
 
@@ -220,7 +212,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1216} --></p>
- <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1090463.jpg" alt="P1090463" class="wp-image-1216"/> 
+ <img src="https://web.archive.org/web/20161228190641im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1090463.jpg" alt="P1090463" class="wp-image-1216"/>
 
 
 
@@ -239,5 +231,3 @@ comments: []
 
 
 <p>Good Birding!</p>
-
-

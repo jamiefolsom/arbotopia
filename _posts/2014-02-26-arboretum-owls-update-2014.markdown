@@ -10,7 +10,7 @@ author:
 author_login: admin
 wordpress_id: 48
 wordpress_url: https://arbotopia.com/?p=48
-date: '2018-11-15 19:01:55 -0500'
+date: '2014-02-26 19:01:55 -0500'
 categories:
 - Uncategorized
 tags: []
@@ -18,18 +18,11 @@ comments: []
 ---
 
 
-
-<p>Posted on February 26, 2014</a></p>
-
-
-
-
-
 <p>I began this blog with a post on&nbsp;<a href="http://www.arbotopia.com/arnold-arboretum-owls/">Owls in the Arnold Arboretum</a>&nbsp;just over a year ago, so it seems time for an update on these very popular birds of prey.&nbsp; The winter of 2012-13 was the year of the Barred Owl; an irruption of this species from northern forests produced many sightings in our neighborhood and throughout Massachusetts.&nbsp; Here is one seen back in December of 2012:</p>
 
 
 <p><!-- wp:image {"id":716,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426141601/http://www.arbotopia.com/wp-content/uploads/2014/02/P1030005.jpg"><img src="https://web.archive.org/web/20140426141601im_/http://www.arbotopia.com/wp-content/uploads/2014/02/P1030005.jpg" alt="P1030005" class="wp-image-716"/></a> 
+ <a href="/images/2014/02/P1030005.jpg"><img src="/images/2014/02/P1030005.jpg" alt="P1030005" class="wp-image-716"/></a>
 
 
 
@@ -57,7 +50,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":719,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426141601/http://www.arbotopia.com/wp-content/uploads/2014/02/P1070709.jpg"><img src="https://web.archive.org/web/20140426141601im_/http://www.arbotopia.com/wp-content/uploads/2014/02/P1070709.jpg" alt="P1070709" class="wp-image-719"/></a> 
+ <a href="/images/2014/02/P1070709.jpg"><img src="/images/2014/02/P1070709.jpg" alt="P1070709" class="wp-image-719"/></a>
 
 
 
@@ -69,7 +62,7 @@ comments: []
 
 
 
-<p>Closer to home there have been other developments in the owl world over the past year.&nbsp; As I reported in a post in&nbsp;<a href="https://web.archive.org/web/20140426141601/http://arbotopia.com/new-great-horned-owl-nesting/">April</a>, the locally famous one-eyed female Great Horned Owl successfully raised a pair of owlets in Forest Hills Cemetery last spring.&nbsp; There is an early report that she is sitting on eggs again this year, but the location of the nest is being closely held so as not to disturb the pair at this critical time. Great Horned Owls are the earliest bird species to nest in Massachusetts.</p>
+<p>Closer to home there have been other developments in the owl world over the past year.&nbsp; As I reported in a post in&nbsp;<a href="http://arbotopia.com/new-great-horned-owl-nesting/">April</a>, the locally famous one-eyed female Great Horned Owl successfully raised a pair of owlets in Forest Hills Cemetery last spring.&nbsp; There is an early report that she is sitting on eggs again this year, but the location of the nest is being closely held so as not to disturb the pair at this critical time. Great Horned Owls are the earliest bird species to nest in Massachusetts.</p>
 
 
 
@@ -79,7 +72,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":723,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426141601/http://www.arbotopia.com/wp-content/uploads/2014/02/P1050131.jpg"><img src="https://web.archive.org/web/20140426141601im_/http://www.arbotopia.com/wp-content/uploads/2014/02/P1050131.jpg" alt="P1050131" class="wp-image-723"/></a> 
+ <a href="/images/2014/02/P1050131.jpg"><img src="/images/2014/02/P1050131.jpg" alt="P1050131" class="wp-image-723"/></a>
 
 
 
@@ -101,7 +94,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":730,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20140426141601/http://www.arbotopia.com/wp-content/uploads/2014/02/P1070921.jpg"><img src="https://web.archive.org/web/20140426141601im_/http://www.arbotopia.com/wp-content/uploads/2014/02/P1070921.jpg" alt="P1070921" class="wp-image-730"/></a> 
+ <a href="/images/2014/02/P1070921.jpg"><img src="/images/2014/02/P1070921.jpg" alt="P1070921" class="wp-image-730"/></a>
 
 
 
@@ -136,5 +129,3 @@ comments: []
 
 
 <p>Good Birding.<br></p>
-
-
