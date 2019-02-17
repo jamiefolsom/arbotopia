@@ -172,7 +172,7 @@ comments: []
 <p style="text-align:center">Two female and a male Wood Duck.</p>
 
 
-<p>The interesting history of these colorful ducks in the Emerald Necklace was discussed in a&nbsp;<a href="https://web.archive.org/web/20180602142840/http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/">previous blog</a>.&nbsp; Chances that these ducks will once again breed on this or another close by pond are excellent!&nbsp; We headed up along the Boston side of this pond that straddles&nbsp;the Boston/Brookline boundary and heard a Red-bellied Woodpecker:</p>
+<p>The interesting history of these colorful ducks in the Emerald Necklace was discussed in a&nbsp;<a href="http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/">previous blog</a>.&nbsp; Chances that these ducks will once again breed on this or another close by pond are excellent!&nbsp; We headed up along the Boston side of this pond that straddles&nbsp;the Boston/Brookline boundary and heard a Red-bellied Woodpecker:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:audio {"id":208} --></p>
 <figure class="wp-block-audio"><audio controls src="/images/2018/11/R-B-Woodpecker-1.mp3"></audio>
@@ -246,7 +246,7 @@ comments: []
 <p>View this checklist online at&nbsp;<a href="https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45060984">https://ebird.org/view/checklist/S45060984</a></p>
 
 
-<p>This report was generated automatically by eBird v3 (<a href="https://web.archive.org/web/20180602142840/http://ebird.org/">http://ebird.org</a>)</p>
+<p>This report was generated automatically by eBird v3 (<a href="http://ebird.org/">http://ebird.org</a>)</p>
 
 
 <p>Next weekend, weather permitting, I will be leading two walks in the Arnold Arboretum;</p>

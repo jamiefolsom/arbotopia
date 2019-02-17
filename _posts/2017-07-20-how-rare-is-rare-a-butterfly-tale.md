@@ -29,11 +29,11 @@ comments: []
 
 
 
-<p>I&rsquo;ve discussed dragonflies in<a href="https://web.archive.org/web/20170912192358/http://www.arbotopia.com/an-ode-to-odonata/">&nbsp;two</a>&nbsp;previous&nbsp;<a href="https://web.archive.org/web/20170912192358/http://www.arbotopia.com/dragonflies-are-everywhere/">posts</a>. &nbsp;Recently however, I went in search of a butterfly that has eluded me for more than&nbsp;ten years. &nbsp;The Pipevine Swallowtail is one of five species in the Swallowtail family,&nbsp;<em>Papilionidae,&nbsp;</em>that can be seen in the Boston area. &nbsp;Perhaps the most common of this group is the Eastern Tiger Swallowtail:</p>
+<p>I&rsquo;ve discussed dragonflies in<a href="http://www.arbotopia.com/an-ode-to-odonata/">&nbsp;two</a>&nbsp;previous&nbsp;<a href="http://www.arbotopia.com/dragonflies-are-everywhere/">posts</a>. &nbsp;Recently however, I went in search of a butterfly that has eluded me for more than&nbsp;ten years. &nbsp;The Pipevine Swallowtail is one of five species in the Swallowtail family,&nbsp;<em>Papilionidae,&nbsp;</em>that can be seen in the Boston area. &nbsp;Perhaps the most common of this group is the Eastern Tiger Swallowtail:</p>
 
 
 <p><!-- wp:image {"id":1468} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1080473.jpg" alt="" class="wp-image-1468"/>
+ <img src="/images/2017/07/P1080473.jpg" alt="" class="wp-image-1468"/>
 
 
 
@@ -49,7 +49,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1469} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160832.jpg" alt="" class="wp-image-1469"/>
+ <img src="/images/2017/07/P1160832.jpg" alt="" class="wp-image-1469"/>
 
 
 
@@ -65,7 +65,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1470} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1080961.jpg" alt="" class="wp-image-1470"/>
+ <img src="/images/2017/07/P1080961.jpg" alt="" class="wp-image-1470"/>
 
 
 
@@ -81,7 +81,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1471} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1250889.jpg" alt="" class="wp-image-1471"/>
+ <img src="/images/2017/07/P1250889.jpg" alt="" class="wp-image-1471"/>
 
 
 
@@ -119,7 +119,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1473} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160754.jpg" alt="" class="wp-image-1473"/>
+ <img src="/images/2017/07/P1160754.jpg" alt="" class="wp-image-1473"/>
 
 
 
@@ -135,7 +135,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1474} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160763.jpg" alt="" class="wp-image-1474"/>
+ <img src="/images/2017/07/P1160763.jpg" alt="" class="wp-image-1474"/>
 
 
 
@@ -163,7 +163,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1481} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/IMG_0628.jpg" alt="" class="wp-image-1481"/>
+ <img src="/images/2017/07/IMG_0628.jpg" alt="" class="wp-image-1481"/>
 
 
 
@@ -191,7 +191,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1475} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1160914.jpg" alt="" class="wp-image-1475"/>
+ <img src="/images/2017/07/P1160914.jpg" alt="" class="wp-image-1475"/>
 
 
 
@@ -201,7 +201,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1476} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170001.jpg" alt="" class="wp-image-1476"/>
+ <img src="/images/2017/07/P1170001.jpg" alt="" class="wp-image-1476"/>
 
 
 
@@ -211,7 +211,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1477} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170064.jpg" alt="" class="wp-image-1477"/>
+ <img src="/images/2017/07/P1170064.jpg" alt="" class="wp-image-1477"/>
 
 
 
@@ -221,7 +221,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1478} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170133.jpg" alt="" class="wp-image-1478"/>
+ <img src="/images/2017/07/P1170133.jpg" alt="" class="wp-image-1478"/>
 
 
 
@@ -237,7 +237,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1479} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170157.jpg" alt="" class="wp-image-1479"/>
+ <img src="/images/2017/07/P1170157.jpg" alt="" class="wp-image-1479"/>
 
 
 
@@ -247,7 +247,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1480} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1170156.jpg" alt="" class="wp-image-1480"/>
+ <img src="/images/2017/07/P1170156.jpg" alt="" class="wp-image-1480"/>
 
 
 
@@ -263,7 +263,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1483} --></p>
- <img src="https://web.archive.org/web/20170912192358im_/http://www.arbotopia.com/wp-content/uploads/2017/07/P1210692.jpg" alt="" class="wp-image-1483"/>
+ <img src="/images/2017/07/P1210692.jpg" alt="" class="wp-image-1483"/>
 
 
 

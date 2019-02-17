@@ -22,7 +22,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1144,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1030908.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1030908.jpg" alt="P1030908" class="wp-image-1144"/></a>
+ <a href="/images/2015/12/P1030908.jpg"><img src="/images/2015/12/P1030908.jpg" alt="P1030908" class="wp-image-1144"/></a>
 
 
 
@@ -34,11 +34,11 @@ comments: []
 
 
 
-<p>The unusually cold weather may have brought us the best bird for the year, a&nbsp;<a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/birdy-its-cold-outside/">Black-backed Woodpecker</a>&nbsp;in Forest Hills Cemetery. &nbsp;Another rarity was a Grasshopper Sparrow, first found by Paul Peterson in late December 2014, which lingered more than a month into 2015 in an overgrown field near the Boston Nature Center.</p>
+<p>The unusually cold weather may have brought us the best bird for the year, a&nbsp;<a href="http://www.arbotopia.com/birdy-its-cold-outside/">Black-backed Woodpecker</a>&nbsp;in Forest Hills Cemetery. &nbsp;Another rarity was a Grasshopper Sparrow, first found by Paul Peterson in late December 2014, which lingered more than a month into 2015 in an overgrown field near the Boston Nature Center.</p>
 
 
 <p><!-- wp:image {"id":1146,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/Grasshopper-Sparrow.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/Grasshopper-Sparrow.jpg" alt="Grasshopper Sparrow" class="wp-image-1146"/></a>
+ <a href="/images/2015/12/Grasshopper-Sparrow.jpg"><img src="/images/2015/12/Grasshopper-Sparrow.jpg" alt="Grasshopper Sparrow" class="wp-image-1146"/></a>
 
 
 
@@ -54,7 +54,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1147,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1090964.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1090964.jpg" alt="P1090964" class="wp-image-1147"/></a>
+ <a href="/images/2015/12/P1090964.jpg"><img src="/images/2015/12/P1090964.jpg" alt="P1090964" class="wp-image-1147"/></a>
 
 
 
@@ -76,7 +76,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1149,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1100739.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1100739.jpg" alt="P1100739" class="wp-image-1149"/></a>
+ <a href="/images/2015/12/P1100739.jpg"><img src="/images/2015/12/P1100739.jpg" alt="P1100739" class="wp-image-1149"/></a>
 
 
 
@@ -92,7 +92,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1150,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1090463.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1090463.jpg" alt="P1090463" class="wp-image-1150"/></a>
+ <a href="/images/2015/12/P1090463.jpg"><img src="/images/2015/12/P1090463.jpg" alt="P1090463" class="wp-image-1150"/></a>
 
 
 
@@ -108,7 +108,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1151,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1100773.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1100773.jpg" alt="P1100773" class="wp-image-1151"/></a>
+ <a href="/images/2015/12/P1100773.jpg"><img src="/images/2015/12/P1100773.jpg" alt="P1100773" class="wp-image-1151"/></a>
 
 
 
@@ -125,7 +125,7 @@ comments: []
 
 <p><!-- wp:image {"id":1152,"align":"center","linkDestination":"custom"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter"><a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1110018.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1110018.jpg" alt="P1110018" class="wp-image-1152"/></a>
+<figure class="aligncenter"><a href="/images/2015/12/P1110018.jpg"><img src="/images/2015/12/P1110018.jpg" alt="P1110018" class="wp-image-1152"/></a>
 </div>
 
 
@@ -142,7 +142,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1165,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1110424.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1110424.jpg" alt="P1110424" class="wp-image-1165"/></a>
+ <a href="/images/2015/12/P1110424.jpg"><img src="/images/2015/12/P1110424.jpg" alt="P1110424" class="wp-image-1165"/></a>
 
 
 
@@ -154,7 +154,7 @@ comments: []
 
 
 
-<p>Finally, the 43rd Boston Christmas Bird Count (BCBC) was conducted this year on Sunday December 20th, in comfortable weather. &nbsp;I have discussed past&nbsp;BCBC&rsquo;s in posts in&nbsp;<a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-admin/post.php?post=960&amp;action=edit">2014</a>&nbsp; and in&nbsp;<a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-admin/post.php?post=656&amp;action=edit">2013</a>.</p>
+<p>Finally, the 43rd Boston Christmas Bird Count (BCBC) was conducted this year on Sunday December 20th, in comfortable weather. &nbsp;I have discussed past&nbsp;BCBC&rsquo;s in posts in&nbsp;<a href="http://www.arbotopia.com/wp-admin/post.php?post=960&amp;action=edit">2014</a>&nbsp; and in&nbsp;<a href="http://www.arbotopia.com/wp-admin/post.php?post=656&amp;action=edit">2013</a>.</p>
 
 
 
@@ -164,13 +164,13 @@ comments: []
 
 
 <p><!-- wp:image {"id":1158,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1090370.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1090370.jpg" alt="P1090370" class="wp-image-1158"/></a>
+ <a href="/images/2015/12/P1090370.jpg"><img src="/images/2015/12/P1090370.jpg" alt="P1090370" class="wp-image-1158"/></a>
 
 
 
 
 
-<p>This Rufous Morph Eastern Screech-owl has returned for the third year to the same&nbsp;<a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-admin/post.php?post=713&amp;action=edit">roost hole</a>where it suns itself on cold winter mornings.</p>
+<p>This Rufous Morph Eastern Screech-owl has returned for the third year to the same&nbsp;<a href="http://www.arbotopia.com/wp-admin/post.php?post=713&amp;action=edit">roost hole</a>where it suns itself on cold winter mornings.</p>
 
 
 
@@ -180,7 +180,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1160,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1090334.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1090334.jpg" alt="P1090334" class="wp-image-1160"/></a>
+ <a href="/images/2015/12/P1090334.jpg"><img src="/images/2015/12/P1090334.jpg" alt="P1090334" class="wp-image-1160"/></a>
 
 
 
@@ -196,7 +196,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1162,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-content/uploads/2015/12/P1010016.jpg"><img src="https://web.archive.org/web/20160206083839im_/http://www.arbotopia.com/wp-content/uploads/2015/12/P1010016.jpg" alt="" class="wp-image-1162"/></a>
+ <a href="/images/2015/12/P1010016.jpg"><img src="/images/2015/12/P1010016.jpg" alt="" class="wp-image-1162"/></a>
 
 
 

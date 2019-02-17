@@ -41,7 +41,7 @@ Speaking of nests, we saw a number of robin nests; then we watched this bird f
 
 Male Red-bellied Woodpecker at nest hole
 
-As we walked up the grassy southern slope to the top of Bussey Hill, we spotted two flycatchers in the same tree; Eastern Phoebe and Eastern Kingbird.  I posted images of these birds on my blog [last week](https://web.archive.org/web/20160725160650/http://www.arbotopia.com/an-urban-wild-in-the-arnold-arboretum/).  At another location, two members of the group heard the distinct call of a different flycatcher, the Eastern Wood-pewee.  These birds stay in the deep woods where they are usually identified by their song:
+As we walked up the grassy southern slope to the top of Bussey Hill, we spotted two flycatchers in the same tree; Eastern Phoebe and Eastern Kingbird.  I posted images of these birds on my blog [last week](http://www.arbotopia.com/an-urban-wild-in-the-arnold-arboretum/).  At another location, two members of the group heard the distinct call of a different flycatcher, the Eastern Wood-pewee.  These birds stay in the deep woods where they are usually identified by their song:
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
@@ -105,7 +105,7 @@ May 21, 2016 8:00 AM – 10:00 AM
 
 View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S29834917](http://ebird.org/ebird/view/checklist?subID=S29834917)
 
-This report was generated automatically by eBird v3 ([http://ebird.org](https://web.archive.org/web/20160725160650/http://ebird.org/))
+This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org/))
 
 This was my last public bird walk this spring.  Stay tuned for the fall!
 

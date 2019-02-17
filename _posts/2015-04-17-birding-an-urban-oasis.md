@@ -32,7 +32,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":943,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1040765.jpg" alt="P1040765" class="wp-image-943"/></a>
+ <a href="/images/2014/12/P1040765.jpg"><img src="/images/2014/12/P1040765.jpg" alt="P1040765" class="wp-image-943"/></a>
 
 
 
@@ -54,7 +54,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":333,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2013/03/P1000414.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2013/03/P1000414.jpg" alt="P1000414" class="wp-image-333"/></a>
+ <a href="/images/2013/03/P1000414.jpg"><img src="/images/2013/03/P1000414.jpg" alt="P1000414" class="wp-image-333"/></a>
 
 
 
@@ -112,13 +112,13 @@ comments: []
 
 
 
-<p>Mass Audubon&rsquo;s&nbsp;Boston Nature Center&nbsp;is a special place for experiencing nature close up within the urban environment.&nbsp; They have many programs focused on kids including a certified pre-school, school vacation and summer day camps, and other activities year around.&nbsp; They deserve everyone&rsquo;s support.&nbsp; One way is to support the Center&rsquo;s&nbsp;<a href="https://web.archive.org/web/20150501173156/http://www.massaudubon.org/get-outdoors/birds-birding/bird-a-thon">Bird-a-thon</a>&nbsp;team, which will join other Mass Audubon birding groups throughout the Commonwealth, competing to see and hear as many birds as possible beginning at 6PM Friday May 15th for the next 24 hours.&nbsp; I&rsquo;ll be part of the Boston team.</p>
+<p>Mass Audubon&rsquo;s&nbsp;Boston Nature Center&nbsp;is a special place for experiencing nature close up within the urban environment.&nbsp; They have many programs focused on kids including a certified pre-school, school vacation and summer day camps, and other activities year around.&nbsp; They deserve everyone&rsquo;s support.&nbsp; One way is to support the Center&rsquo;s&nbsp;<a href="http://www.massaudubon.org/get-outdoors/birds-birding/bird-a-thon">Bird-a-thon</a>&nbsp;team, which will join other Mass Audubon birding groups throughout the Commonwealth, competing to see and hear as many birds as possible beginning at 6PM Friday May 15th for the next 24 hours.&nbsp; I&rsquo;ll be part of the Boston team.</p>
 
 
 
 
 
-<p>I&rsquo;ll be doing a series of spring walks in the&nbsp;<a href="https://web.archive.org/web/20150501173156/http://arboretum.harvard.edu/visit/directions/" target="_blank" rel="noreferrer noopener">Arnold Arboretum</a>, beginning tomorrow, April 18th at 8AM and starting for the Main Gate of the Arboretum on the Arborway.&nbsp; Hope to see you there!</p>
+<p>I&rsquo;ll be doing a series of spring walks in the&nbsp;<a href="http://arboretum.harvard.edu/visit/directions/" target="_blank" rel="noreferrer noopener">Arnold Arboretum</a>, beginning tomorrow, April 18th at 8AM and starting for the Main Gate of the Arboretum on the Arborway.&nbsp; Hope to see you there!</p>
 
 
 

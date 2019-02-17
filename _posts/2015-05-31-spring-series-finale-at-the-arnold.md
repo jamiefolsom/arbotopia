@@ -23,7 +23,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1104,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150706071037/http://www.arbotopia.com/wp-content/uploads/2015/05/P1080704.jpg"><img src="https://web.archive.org/web/20150706071037im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1080704.jpg" alt="P1080704" class="wp-image-1104"/></a>
+ <a href="/images/2015/05/P1080704.jpg"><img src="/images/2015/05/P1080704.jpg" alt="P1080704" class="wp-image-1104"/></a>
 
 
 
@@ -35,11 +35,11 @@ comments: []
 
 
 
-<p>By then we had heard or seen several birds, including a flyover Great Blue Heron.&nbsp; As we did the circle up to the&nbsp;<a href="https://web.archive.org/web/20150706071037/http://www.arboretum.harvard.edu/plants/featured-plants/shrub-and-vine-garden/">Leventritt Shrub and Vine Garden</a>, past the lilacs and down to the ponds and back, we ticked off many of the resident birds and nesting migrants to be seen late in the spring.&nbsp; I had been seeing and hearing lots of Baltimore Orioles since the first of May, and several sharp-eyed birders were able to locate three active nests.&nbsp; Such lovely birds; and so talented in their nest-building skills:</p>
+<p>By then we had heard or seen several birds, including a flyover Great Blue Heron.&nbsp; As we did the circle up to the&nbsp;<a href="http://www.arboretum.harvard.edu/plants/featured-plants/shrub-and-vine-garden/">Leventritt Shrub and Vine Garden</a>, past the lilacs and down to the ponds and back, we ticked off many of the resident birds and nesting migrants to be seen late in the spring.&nbsp; I had been seeing and hearing lots of Baltimore Orioles since the first of May, and several sharp-eyed birders were able to locate three active nests.&nbsp; Such lovely birds; and so talented in their nest-building skills:</p>
 
 
 <p><!-- wp:image {"id":845,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150706071037/http://www.arbotopia.com/wp-content/uploads/2014/05/P1030005_1.jpg"><img src="https://web.archive.org/web/20150706071037im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1030005_1.jpg" alt="P1030005_1" class="wp-image-845"/></a>
+ <a href="/images/2014/05/P1030005_1.jpg"><img src="/images/2014/05/P1030005_1.jpg" alt="P1030005_1" class="wp-image-845"/></a>
 
 
 
@@ -49,7 +49,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1106,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150706071037/http://www.arbotopia.com/wp-content/uploads/2015/05/P1080772.jpg"><img src="https://web.archive.org/web/20150706071037im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1080772.jpg" alt="P1080772" class="wp-image-1106"/></a>
+ <a href="/images/2015/05/P1080772.jpg"><img src="/images/2015/05/P1080772.jpg" alt="P1080772" class="wp-image-1106"/></a>
 
 
 
@@ -65,7 +65,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":869,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150706071037/http://www.arbotopia.com/wp-content/uploads/2014/06/P1080351.jpg"><img src="https://web.archive.org/web/20150706071037im_/http://www.arbotopia.com/wp-content/uploads/2014/06/P1080351.jpg" alt="P1080351" class="wp-image-869"/></a>
+ <a href="/images/2014/06/P1080351.jpg"><img src="/images/2014/06/P1080351.jpg" alt="P1080351" class="wp-image-869"/></a>
 
 
 
@@ -81,7 +81,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1107,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150706071037/http://www.arbotopia.com/wp-content/uploads/2015/05/P1010122.jpg"><img src="https://web.archive.org/web/20150706071037im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1010122.jpg" alt="P1010122" class="wp-image-1107"/></a>
+ <a href="/images/2015/05/P1010122.jpg"><img src="/images/2015/05/P1010122.jpg" alt="P1010122" class="wp-image-1107"/></a>
 
 
 
@@ -112,7 +112,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":354,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150706071037/http://www.arboretum.harvard.edu/"><img src="https://web.archive.org/web/20150706071037im_/http://www.arbotopia.com/wp-content/uploads/2013/03/P1030156.jpg" alt="P1030156" class="wp-image-354"/></a>
+ <a href="http://www.arboretum.harvard.edu/"><img src="/images/2013/03/P1030156.jpg" alt="P1030156" class="wp-image-354"/></a>
 
 
 
@@ -128,7 +128,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1110,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150706071037/http://www.arbotopia.com/wp-content/uploads/2015/05/P1100267.jpg"><img src="https://web.archive.org/web/20150706071037im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1100267.jpg" alt="P1100267" class="wp-image-1110"/></a>
+ <a href="/images/2015/05/P1100267.jpg"><img src="/images/2015/05/P1100267.jpg" alt="P1100267" class="wp-image-1110"/></a>
 
 
 
@@ -144,7 +144,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1111,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150706071037/http://www.arbotopia.com/wp-content/uploads/2015/05/P1100253.jpg"><img src="https://web.archive.org/web/20150706071037im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1100253.jpg" alt="P1100253" class="wp-image-1111"/></a>
+ <a href="/images/2015/05/P1100253.jpg"><img src="/images/2015/05/P1100253.jpg" alt="P1100253" class="wp-image-1111"/></a>
 
 
 
@@ -186,7 +186,7 @@ comments: []
 
 
 
-<p>Those who joined the walk, and who scan this list carefully, will note the absence of a bird we thought we identified. High up in a tree I spotted a small bird which I initially thought was a flycatcher in the Empid. group.&nbsp; As some of us zeroed in on the distant bird we thought it showed a yellow rump before it flew, and declared it a Yellow-rumped Warbler.&nbsp; I commented that this was unusual since this warbler,&nbsp;common during the migration, should be long gone farther north by now.&nbsp; When I put the bird in the eBird system it brought me up short; &ldquo;details please&rdquo;, as this would be a rare sighting in Suffolk County at the end of May.&nbsp; They wanted a full description of the sighting, or a photograph.&nbsp; I&nbsp; reflected on the sighting and decided that in fact we had not seen this bird well enough for a certain identification, and deleted the bird from our list.&nbsp; Birding operates mostly on the honor system and most birders are honest.&nbsp; Like the cruiser sitting at the traffic light,&nbsp;<a href="https://web.archive.org/web/20150706071037/http://ebird.org/content/ebird/">eBird</a>&nbsp;helps to keep us that way.</p>
+<p>Those who joined the walk, and who scan this list carefully, will note the absence of a bird we thought we identified. High up in a tree I spotted a small bird which I initially thought was a flycatcher in the Empid. group.&nbsp; As some of us zeroed in on the distant bird we thought it showed a yellow rump before it flew, and declared it a Yellow-rumped Warbler.&nbsp; I commented that this was unusual since this warbler,&nbsp;common during the migration, should be long gone farther north by now.&nbsp; When I put the bird in the eBird system it brought me up short; &ldquo;details please&rdquo;, as this would be a rare sighting in Suffolk County at the end of May.&nbsp; They wanted a full description of the sighting, or a photograph.&nbsp; I&nbsp; reflected on the sighting and decided that in fact we had not seen this bird well enough for a certain identification, and deleted the bird from our list.&nbsp; Birding operates mostly on the honor system and most birders are honest.&nbsp; Like the cruiser sitting at the traffic light,&nbsp;<a href="http://ebird.org/content/ebird/">eBird</a>&nbsp;helps to keep us that way.</p>
 
 
 
@@ -196,7 +196,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1115,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150706071037/http://www.arbotopia.com/wp-content/uploads/2015/05/P1100162.jpg"><img src="https://web.archive.org/web/20150706071037im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1100162.jpg" alt="P1100162" class="wp-image-1115"/></a>
+ <a href="/images/2015/05/P1100162.jpg"><img src="/images/2015/05/P1100162.jpg" alt="P1100162" class="wp-image-1115"/></a>
 
 
 
@@ -214,7 +214,7 @@ comments: []
 
 
 
-<p>This was the last spring walk for the season.&nbsp; Check the&nbsp;<a href="https://web.archive.org/web/20150706071037/http://www.arboretum.harvard.edu/">Arboretum website</a>&nbsp;later in the summer for the fall schedule of walks.</p>
+<p>This was the last spring walk for the season.&nbsp; Check the&nbsp;<a href="http://www.arboretum.harvard.edu/">Arboretum website</a>&nbsp;later in the summer for the fall schedule of walks.</p>
 
 
 

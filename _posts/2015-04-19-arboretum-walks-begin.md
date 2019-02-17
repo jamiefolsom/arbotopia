@@ -18,7 +18,7 @@ comments: []
 <p>Saturday April 18th marked the first of a series of spring bird walks in the Arnold Arboretum.  We got off with a bang, the weather was fine, and after this dreadful winter the birders came out in droves; over forty people joined the group.  After first checking the feeders, where there was only a White-breasted Nuthatch, we moved down Meadow Road and found several Tree Swallows checking out the birdhouses on the grassy slope:</p>
 
 <p><!-- wp:image {"id":1063,"linkDestination":"custom"} --></p>
-<a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/04/P1090999.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/04/P1090999.jpg" alt="P1090999" class="wp-image-1063"/></a>
+<a href="/images/2015/04/P1090999.jpg"><img src="/images/2015/04/P1090999.jpg" alt="P1090999" class="wp-image-1063"/></a>
 
 <p>Two male Tree Swallows inspecting a nest box.</p>
 
@@ -29,14 +29,14 @@ comments: []
 <p>We headed up the grass slope above the Forsythia Path to the top of Bussey Hill; I was determined to find the first warbler of the year for the group.  We entered a group of White Pines where this early arrival likes to hang out; appropriately called the Pine warbler.</p>
 
 <p><!-- wp:image {"id":407,"linkDestination":"custom"} --></p>
-<a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2013/04/P1080271.jpg" alt="P1080271" class="wp-image-407"/></a>
+<a href="/images/2013/04/P1080271.jpg"><img src="/images/2013/04/P1080271.jpg" alt="P1080271" class="wp-image-407"/></a>
 
 <p>Pine Warbler. These warblers are heard more than seen as they spend much of their time high up in conifers. This one was nice enough to come to ground for a photo op.</p>
 
 <p>As we approached the area another recent arrival, a Chipping Sparrow, posed for us and sang its trill; a call so similar to the Pine Warbler that even seasoned birders can confuse them.</p>
 
 <p><!-- wp:image {"id":1066,"linkDestination":"custom"} --></p>
-<a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/04/P1010816.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/04/P1010816.jpg" alt="P1010816" class="wp-image-1066"/></a>
+<a href="/images/2015/04/P1010816.jpg"><img src="/images/2015/04/P1010816.jpg" alt="P1010816" class="wp-image-1066"/></a>
 
 <p>Chipping Sparrow</p>
 

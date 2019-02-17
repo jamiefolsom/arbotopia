@@ -26,7 +26,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":30,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150905210114/http://www.arbotopia.com/arboretums-owls/p1290535/"><img src="https://web.archive.org/web/20150905210114im_/http://www.arbotopia.com/wp-content/uploads/2012/12/P1290535-1024x917.jpg" alt="" class="wp-image-30"/></a> 
+ <a href="http://www.arbotopia.com/arboretums-owls/p1290535/"><img src="/images/2012/12/P1290535-1024x917.jpg" alt="" class="wp-image-30"/></a> 
 
 
 
@@ -44,11 +44,11 @@ comments: []
 
 
 
-<p>This year there has been an irruption of Barred Owls in Massachusetts, and at least one has taken a liking to the conifer section of the Arb. Irruptions of birds usually occur due to compromises in the food supply for that species; in this case the supposition is that a poor acorn crop in 2011 led to a marked reduction in the small rodent population-the Barred Owl&rsquo;s main food source. This has brought hungry owls into very urban locations; the Boston Common, the Public Garden, the Fenway and the Arboretum. I caught sight of this beauty in early December just off&nbsp;<a href="https://web.archive.org/web/20150905210114/http://arboretum.harvard.edu/plants/featured-plants/hemlock-hill/" target="_blank" rel="noreferrer noopener">Hemlock Hill Road</a>:</p>
+<p>This year there has been an irruption of Barred Owls in Massachusetts, and at least one has taken a liking to the conifer section of the Arb. Irruptions of birds usually occur due to compromises in the food supply for that species; in this case the supposition is that a poor acorn crop in 2011 led to a marked reduction in the small rodent population-the Barred Owl&rsquo;s main food source. This has brought hungry owls into very urban locations; the Boston Common, the Public Garden, the Fenway and the Arboretum. I caught sight of this beauty in early December just off&nbsp;<a href="http://arboretum.harvard.edu/plants/featured-plants/hemlock-hill/" target="_blank" rel="noreferrer noopener">Hemlock Hill Road</a>:</p>
 
 
 <p><!-- wp:image {"id":35,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150905210114/http://www.arbotopia.com/arnold-arboretum-owls/p1020996-2/"><img src="https://web.archive.org/web/20150905210114im_/http://www.arbotopia.com/wp-content/uploads/2012/12/P1020996-792x1024.jpg" alt="" class="wp-image-35"/></a> 
+ <a href="http://www.arbotopia.com/arnold-arboretum-owls/p1020996-2/"><img src="/images/2012/12/P1020996-792x1024.jpg" alt="" class="wp-image-35"/></a> 
 
 
 
@@ -70,7 +70,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":51,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150905210114/http://www.arbotopia.com/arnold-arboretum-owls/papa/"><img src="https://web.archive.org/web/20150905210114im_/http://www.arbotopia.com/wp-content/uploads/2012/12/papa.jpg" alt="Great Horned OwlPhoto Eudardo DelSolar" class="wp-image-51"/></a> 
+ <a href="http://www.arbotopia.com/arnold-arboretum-owls/papa/"><img src="/images/2012/12/papa.jpg" alt="Great Horned OwlPhoto Eudardo DelSolar" class="wp-image-51"/></a> 
 
 
 
@@ -86,7 +86,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":37,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150905210114/http://www.arbotopia.com/arnold-arboretum-owls/p1180833/"><img src="https://web.archive.org/web/20150905210114im_/http://www.arbotopia.com/wp-content/uploads/2012/12/P1180833-1018x1024.jpg" alt="Opened Owl Pellet Photo Bob Mayer" class="wp-image-37"/></a> 
+ <a href="http://www.arbotopia.com/arnold-arboretum-owls/p1180833/"><img src="/images/2012/12/P1180833-1018x1024.jpg" alt="Opened Owl Pellet Photo Bob Mayer" class="wp-image-37"/></a> 
 
 
 
@@ -108,7 +108,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":38,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150905210114/http://www.arbotopia.com/arnold-arboretum-owls/p1220371/"><img src="https://web.archive.org/web/20150905210114im_/http://www.arbotopia.com/wp-content/uploads/2012/12/P1220371-995x1024.jpg" alt="" class="wp-image-38"/></a> 
+ <a href="http://www.arbotopia.com/arnold-arboretum-owls/p1220371/"><img src="/images/2012/12/P1220371-995x1024.jpg" alt="" class="wp-image-38"/></a> 
 
 
 
@@ -124,7 +124,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":56,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150905210114/http://www.arbotopia.com/arnold-arboretum-owls/composite/"><img src="https://web.archive.org/web/20150905210114im_/http://www.arbotopia.com/wp-content/uploads/2013/01/composite.jpg" alt="composite" class="wp-image-56"/></a> 
+ <a href="http://www.arbotopia.com/arnold-arboretum-owls/composite/"><img src="/images/2013/01/composite.jpg" alt="composite" class="wp-image-56"/></a> 
 
 
 
@@ -142,6 +142,6 @@ comments: []
 
 
 
-<p><a href="https://web.archive.org/web/20150905210114/http://ebird.org/ebird/GuideMe?step=saveChoices&amp;getLocations=counties&amp;parentState=US-MA&amp;bMonth=01&amp;bYear=1900&amp;eMonth=12&amp;eYear=2013&amp;reportType=location&amp;counties=US-MA-025&amp;continue.x=24&amp;continue.y=12" target="_blank" rel="noreferrer noopener">Of the nine species of owl documented in Suffolk County since 1900</a>,&nbsp;only the three species discussed above are likely to be seen in the Arnold Arboretum. But keep your eyes and ears at the ready for them or possibly even a Snowy, Saw-whet or Boreal Owl that may appear or be heard hidden somewhere in the dense canopy of Olmsted&rsquo;s forests.</p>
+<p><a href="http://ebird.org/ebird/GuideMe?step=saveChoices&amp;getLocations=counties&amp;parentState=US-MA&amp;bMonth=01&amp;bYear=1900&amp;eMonth=12&amp;eYear=2013&amp;reportType=location&amp;counties=US-MA-025&amp;continue.x=24&amp;continue.y=12" target="_blank" rel="noreferrer noopener">Of the nine species of owl documented in Suffolk County since 1900</a>,&nbsp;only the three species discussed above are likely to be seen in the Arnold Arboretum. But keep your eyes and ears at the ready for them or possibly even a Snowy, Saw-whet or Boreal Owl that may appear or be heard hidden somewhere in the dense canopy of Olmsted&rsquo;s forests.</p>
 
 

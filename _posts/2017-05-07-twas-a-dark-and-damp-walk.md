@@ -107,7 +107,7 @@ Comments:     56, overcast w some rain
 
 View this checklist online at [http://ebird.org/ebird/view/checklist/S36585503](http://ebird.org/ebird/view/checklist/S36585503)
 
-This report was generated automatically by eBird v3 ([http://ebird.org](https://web.archive.org/web/20170912192054/http://ebird.org/))
+This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org/))
 
 I’m hoping for better weather for tomorrow’s walk.
 

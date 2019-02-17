@@ -49,7 +49,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":999,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/P1010131.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/P1010131.jpg" alt="P1010131" class="wp-image-999"/></a> 
+ <a href="/images/2015/02/P1010131.jpg"><img src="/images/2015/02/P1010131.jpg" alt="P1010131" class="wp-image-999"/></a> 
 
 
 
@@ -81,7 +81,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1001,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/P1070262.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/P1070262.jpg" alt="P1070262" class="wp-image-1001"/></a> 
+ <a href="/images/2015/02/P1070262.jpg"><img src="/images/2015/02/P1070262.jpg" alt="P1070262" class="wp-image-1001"/></a> 
 
 
 
@@ -113,7 +113,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1003,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/P1270215.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/P1270215.jpg" alt="P1270215" class="wp-image-1003"/></a> 
+ <a href="/images/2015/02/P1270215.jpg"><img src="/images/2015/02/P1270215.jpg" alt="P1270215" class="wp-image-1003"/></a> 
 
 
 
@@ -129,7 +129,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1007,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/G-of-Snow-Chionodoxa-2.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/G-of-Snow-Chionodoxa-2.jpg" alt="G of Snow  Chionodoxa #2" class="wp-image-1007"/></a> 
+ <a href="/images/2015/02/G-of-Snow-Chionodoxa-2.jpg"><img src="/images/2015/02/G-of-Snow-Chionodoxa-2.jpg" alt="G of Snow  Chionodoxa #2" class="wp-image-1007"/></a> 
 
 
 
@@ -139,7 +139,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1008,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/P3230021.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/P3230021.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-1008"/></a> 
+ <a href="/images/2015/02/P3230021.jpg"><img src="/images/2015/02/P3230021.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-1008"/></a> 
 
 
 
@@ -171,7 +171,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":790,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2014/03/P1130421.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2014/03/P1130421.jpg" alt="P1130421" class="wp-image-790"/></a> 
+ <a href="/images/2014/03/P1130421.jpg"><img src="/images/2014/03/P1130421.jpg" alt="P1130421" class="wp-image-790"/></a> 
 
 
 
@@ -261,7 +261,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1020,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/P1180449.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/P1180449.jpg" alt="P1180449" class="wp-image-1020"/></a> 
+ <a href="/images/2015/02/P1180449.jpg"><img src="/images/2015/02/P1180449.jpg" alt="P1180449" class="wp-image-1020"/></a> 
 
 
 
@@ -287,7 +287,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1022,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/P1010511.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/P1010511.jpg" alt="P1010511" class="wp-image-1022"/></a> 
+ <a href="/images/2015/02/P1010511.jpg"><img src="/images/2015/02/P1010511.jpg" alt="P1010511" class="wp-image-1022"/></a> 
 
 
 
@@ -313,7 +313,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1026,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/P1140418.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/P1140418.jpg" alt="P1140418" class="wp-image-1026"/></a> 
+ <a href="/images/2015/02/P1140418.jpg"><img src="/images/2015/02/P1140418.jpg" alt="P1140418" class="wp-image-1026"/></a> 
 
 
 
@@ -339,7 +339,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1030,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/P1100780.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/P1100780.jpg" alt="P1100780" class="wp-image-1030"/></a> 
+ <a href="/images/2015/02/P1100780.jpg"><img src="/images/2015/02/P1100780.jpg" alt="P1100780" class="wp-image-1030"/></a> 
 
 
 
@@ -355,7 +355,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1031,"linkDestination":"custom"} --></p>
- <a href="https://web.archive.org/web/20150501173156/http://www.arbotopia.com/wp-content/uploads/2015/02/P1080522.jpg"><img src="https://web.archive.org/web/20150501173156im_/http://www.arbotopia.com/wp-content/uploads/2015/02/P1080522.jpg" alt="P1080522" class="wp-image-1031"/></a> 
+ <a href="/images/2015/02/P1080522.jpg"><img src="/images/2015/02/P1080522.jpg" alt="P1080522" class="wp-image-1031"/></a> 
 
 
 
@@ -367,7 +367,7 @@ comments: []
 
 
 
-<p>Can spring be that far away?&nbsp; My spring series of bird walks will begin on Saturday April&nbsp; 18th beginning at the main gate at 8AM.&nbsp; See the&nbsp;<a href="https://web.archive.org/web/20150501173156/http://www.arboretum.harvard.edu/">AA website</a>&nbsp;for more information.</p>
+<p>Can spring be that far away?&nbsp; My spring series of bird walks will begin on Saturday April&nbsp; 18th beginning at the main gate at 8AM.&nbsp; See the&nbsp;<a href="http://www.arboretum.harvard.edu/">AA website</a>&nbsp;for more information.</p>
 
 
 

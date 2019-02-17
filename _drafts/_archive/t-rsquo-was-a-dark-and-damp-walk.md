@@ -215,7 +215,7 @@ comments: []
 
 
 
-<p>This report was generated automatically by eBird v3 (<a href="https://web.archive.org/web/20170912192054/http://ebird.org/">http://ebird.org</a>)</p>
+<p>This report was generated automatically by eBird v3 (<a href="http://ebird.org/">http://ebird.org</a>)</p>
 
 
 

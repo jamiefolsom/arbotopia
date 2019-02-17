@@ -238,4 +238,4 @@ comments: []
 
 
 
-<p>Enjoy the winter ducks before they depart to their breeding areas in a few months!<a href="https://web.archive.org/web/20150907112408/http://www.arbotopia.com/2013/01/#"><br></a></p>
+<p>Enjoy the winter ducks before they depart to their breeding areas in a few months!<a href="http://www.arbotopia.com/2013/01/#"><br></a></p>

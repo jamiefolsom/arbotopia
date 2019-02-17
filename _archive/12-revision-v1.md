@@ -41,7 +41,7 @@ Photo: Bob Mayer
 
 Thrashers share their family with the more common Northern Mockingbird, a year round resident and famous mimic, and the Gray Catbird, which will not arrive in Boston for another week or so.
 
-We ended up the walk with the discovery of many owl pellets on Hemlock Hill, but couldn’t find the owl. Instead the group was regaled with stories of the one-eyed Great Horned Owl mother and her two owlets that fledged recently at [Forest Hills Cemetery](https://web.archive.org/web/20140426142538/http://www.arbotopia.com/new-great-horned-owl-nesting/).    One person said she felt like she was back at scout camp!   A good time was had by all.   The full list of birds:
+We ended up the walk with the discovery of many owl pellets on Hemlock Hill, but couldn’t find the owl. Instead the group was regaled with stories of the one-eyed Great Horned Owl mother and her two owlets that fledged recently at [Forest Hills Cemetery](http://www.arbotopia.com/new-great-horned-owl-nesting/).    One person said she felt like she was back at scout camp!   A good time was had by all.   The full list of birds:
 
 Arnold Arboretum, Suffolk, US-MA
 Apr 27, 2013 8:00 AM – 10:00 AM
@@ -82,11 +82,11 @@ Good birding!
 
 Posted in [Arnold Arboretum](category/arboretum/), [Avian](category/avian/), [Bird walks](category/bird-walks/).
 
-# [New Great Horned Owl Nesting!](https://web.archive.org/web/20140426142538/http://www.arbotopia.com/new-great-horned-owl-nesting/)
+# [New Great Horned Owl Nesting!](http://www.arbotopia.com/new-great-horned-owl-nesting/)
 
 Posted on April 12, 2013
 
-In my last post on [Owls in the Arboretum](https://web.archive.org/web/20140426142538/http://www.arbotopia.com/arnold-arboretum-owls/) I commented that after the death of a patriarch male Great Horned Owl in 2008 there had been no reported nests of this species in the Emerald Necklace.   Recently however I was told of a nest in Forest Hills Cemetery, technically not part of the necklace but very close by.   Great Horned Owls have nested in this magnificent garden cemetery off and on for years; the most recent nest was in 2010.   I went to the area reported and quickly spotted the nest:
+In my last post on [Owls in the Arboretum](http://www.arbotopia.com/arnold-arboretum-owls/) I commented that after the death of a patriarch male Great Horned Owl in 2008 there had been no reported nests of this species in the Emerald Necklace.   Recently however I was told of a nest in Forest Hills Cemetery, technically not part of the necklace but very close by.   Great Horned Owls have nested in this magnificent garden cemetery off and on for years; the most recent nest was in 2010.   I went to the area reported and quickly spotted the nest:
 
 [![P1040603](images/2013/04/P1040603.jpg)](images/2013/04/P1040603.jpg)
 

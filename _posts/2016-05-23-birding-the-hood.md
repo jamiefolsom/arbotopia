@@ -32,7 +32,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":343} --></p>
- <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2013/03/P1000818.jpg" alt="P1000818" class="wp-image-343"/>
+ <img src="/images/2013/03/P1000818.jpg" alt="P1000818" class="wp-image-343"/>
 
 
 
@@ -54,7 +54,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1290} --></p>
- <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1120526.jpg" alt="P1120526" class="wp-image-1290"/>
+ <img src="/images/2016/05/P1120526.jpg" alt="P1120526" class="wp-image-1290"/>
 
 
 
@@ -87,7 +87,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1291} --></p>
- <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/P1030156.jpg" alt="P1030156" class="wp-image-1291"/>
+ <img src="/images/2016/05/P1030156.jpg" alt="P1030156" class="wp-image-1291"/>
 
 
 
@@ -103,7 +103,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":1293} --></p>
- <img src="https://web.archive.org/web/20160604143124im_/http://www.arbotopia.com/wp-content/uploads/2016/05/W-B-Nuthatch.jpg" alt="W-B Nuthatch" class="wp-image-1293"/>
+ <img src="/images/2016/05/W-B-Nuthatch.jpg" alt="W-B Nuthatch" class="wp-image-1293"/>
 
 
 
@@ -165,7 +165,7 @@ comments: []
 
 
 
-<p>This report was generated automatically by eBird v3 (<a href="https://web.archive.org/web/20160604143124/http://ebird.org/">http://ebird.org</a>)</p>
+<p>This report was generated automatically by eBird v3 (<a href="http://ebird.org/">http://ebird.org</a>)</p>
 
 
 
