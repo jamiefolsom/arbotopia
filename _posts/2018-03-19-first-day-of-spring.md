@@ -20,17 +20,11 @@ comments: []
  <img src="/images/2018/11/P1010610.jpg" alt="" class="wp-image-227"/>
 
 
-
-
-
 <p>Skunk Cabbage&nbsp;<em>Symplocarpus foetidus</em>&nbsp;at the end of February, putting out it&rsquo;s fetid odor to attract pollinating beetles.</p>
 
 
 <p><!-- wp:image {"id":228} --></p>
  <img src="/images/2018/11/P1120215.jpg" alt="" class="wp-image-228"/>
-
-
-
 
 
 <p>Japanese Cornel Dogwood&nbsp;<em>Cornus officinalis</em>&nbsp;beginning to show color in early bud break; one of the first trees to flower in the Arboretum every spring.</p>
@@ -40,13 +34,7 @@ comments: []
  <img src="/images/2018/11/P1010595.jpg" alt="" class="wp-image-229"/>
 
 
-
-
-
 <p>This male Red-winged Blackbird appeared in the cattail marsh on Meadow Road on February 21; my earliest sighting of this true harbinger of spring since 2009</p>
-
-
-
 
 
 <p>The Arboretum suffered the loss of more than 20 accessioned trees in the second storm of the current series. The most recent one last week was less intense but it took a big toll on an iconic Silver Maple.</p>
@@ -56,9 +44,6 @@ comments: []
  <img src="/images/2018/11/P1010668.jpg" alt="" class="wp-image-231"/>
 
 
-
-
-
 <p>This giant (deemed the tallest tree in the Arboretum at about 125 feet in 2005) Silver Maple Silver Maple Acer saccharinum 12560-C was started from seed in 1881. It survived the deadly Hurricane of 1938, but lost it&rsquo;s main trunk in Hurricane Irene in 2011.</p>
 
 
@@ -66,13 +51,7 @@ comments: []
  <img src="/images/2018/11/P1010657.jpg" alt="" class="wp-image-232"/>
 
 
-
-
-
 <p>The damage last week was so extensive that most arborists would have removed the tree. After much discussion, the administration decided it was so beloved by the public that major pruning&nbsp;was done to try to save it, at least for the time being.</p>
-
-
-
 
 
 <p>That left at lest one creature relieved:</p>
@@ -82,19 +61,10 @@ comments: []
  <img src="/images/2018/11/P1010663.jpg" alt="" class="wp-image-230"/>
 
 
-
-
-
 <p>The Manager of Horticulture told me that this Gray Squirrel jumped out of it&rsquo;s favorite hole on the main trunk of the tree while arborists were removing major limbs to &ldquo;rebalance&rdquo; the specimen.</p>
 
 
-
-
-
 <p>So it is no longer the tallest, but it remains for future school children to discover how many forth graders it takes to&nbsp;link arms around it (about eight in most cases).</p>
-
-
-
 
 
 <p>I have&nbsp;five spring walks planned for 2018, beginning on Saturday April 28th. Here is the list:</p>
@@ -125,11 +95,7 @@ comments: []
 <p><!-- /wp:list --></p>
 
 
-
 <p>I hope many of you will be able to attend</p>
-
-
-
 
 
 <p>Good Birding!</p>

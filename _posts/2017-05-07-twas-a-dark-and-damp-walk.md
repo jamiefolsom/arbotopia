@@ -25,7 +25,6 @@ Male Pine Warbler on a hemlock tree
 We may have ducked some of the rain, but the tradeoff was very poor light in the dense conifer forest. We heard several pines:
 
 
-
 Pine Warbler
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_

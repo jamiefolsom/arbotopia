@@ -17,15 +17,7 @@ comments: []
 
 
 
-
-
-
-
-
 <p>On Sunday morning 28 neighbors met at my home on Sumner Hill in Jamaica Plain for some casual urban birding. &nbsp;I have a little game I play with myself; trying to find more bird species than there are birders on my&nbsp;walks. &nbsp;The last time I did a walk for the&nbsp;<a href="https://www.jphs.org/locales/2005/4/14/sumner-hill-historic-district.html">Sumner Hill Association</a>&nbsp;there were over fifty people and we got only 14 species. &nbsp;This year we beat the record, but again didn&rsquo;t come close on my game.</p>
-
-
-
 
 
 <p>Starting in our side yard, we listened for bird song, and saw a few birds as well. &nbsp;Everyone got a good look at a Gray Catbird, true to it&rsquo;s name it is all gray except for a rusty patch&nbsp;under the tail:</p>
@@ -35,19 +27,10 @@ comments: []
  <img src="/images/2013/03/P1000818.jpg" alt="P1000818" class="wp-image-343"/>
 
 
-
-
-
 <p>Gray Catbird showing off it&rsquo;s "butt". The official name is undertail coverts.</p>
 
 
-
-
-
 <p>As the group moved on I noticed that we had several very&nbsp;young people among us; and some of them were into birds. &nbsp;A next door neighbor arrived with her twin daughters who had just graduated from college in western Massachusetts. They had not spent all their time&nbsp;on the textbooks; they knew their birds. &nbsp;Even more impressive, several youngsters still in grade school were using their binoculars with dexterity. &nbsp;And one ten year old clearly had some grownup birding chops. &nbsp;Turns out his Grandma is the editor of a&nbsp;distinguished birding journal, &nbsp;and he told me he started birding when he was three!</p>
-
-
-
 
 
 <p>We continued down to the Southwest Corridor, which runs along the Green Line and Commuter Rail tracks and forms the southern &nbsp;boundary of our neighborhood. &nbsp;A birding friend had told me that she was seeing Baltimore Orioles in the area, so I had some hopes of finding one. &nbsp;No luck. &nbsp;But we did pick up a Chipping Sparrow along the way:</p>
@@ -57,13 +40,7 @@ comments: []
  <img src="/images/2016/05/P1120526.jpg" alt="P1120526" class="wp-image-1290"/>
 
 
-
-
-
 <p>Chipping Sparrow. This seasonal sparrow arrives in April, breeds in the area, and is gone south by&nbsp;November.</p>
-
-
-
 
 
 <p>We listened to it&rsquo;s trill, but it wouldn&rsquo;t reveal itself. &nbsp;We got the non-native urban birds, plus&nbsp;some other year round birds.&nbsp;Our ten year old prodigy thought he heard a Red-bellied Woodpecker. &nbsp;Too eager perhaps? &nbsp;No, in fact when we put out an iPhone call it responded for many to hear. &nbsp;Here is it&rsquo;s call:</p>
@@ -76,11 +53,7 @@ comments: []
 <p><!-- /wp:audio --></p>
 
 
-
 <p><em>Sound recording courtesy of&nbsp;Lang Elliott NatureSound Studio</em></p>
-
-
-
 
 
 <p>And here is an image of this lovely, once southern, woodpecker; now commonplace in Boston:</p>
@@ -90,13 +63,7 @@ comments: []
  <img src="/images/2016/05/P1030156.jpg" alt="P1030156" class="wp-image-1291"/>
 
 
-
-
-
 <p>Red-bellied Woodpecker, male. &nbsp;Twenty&nbsp;years ago a sighting of this species would have drawn birders from all over New England; now it nests regularly on the Emerald Necklace.</p>
-
-
-
 
 
 <p>After admiring a few more Northern Cardinals, the new college graduates saw a White-breasted Nuthatch in a big oak on the street. &nbsp;Regrettably,&nbsp;it flew before others&nbsp;could see it; here is what it would have been:</p>
@@ -106,31 +73,16 @@ comments: []
  <img src="/images/2016/05/W-B-Nuthatch.jpg" alt="W-B Nuthatch" class="wp-image-1293"/>
 
 
-
-
-
 <p>The White-breasted Nuthatch is the commonest nuthatch in this area. Look for it moving along a tree trunk, seeking out tiny insects to eat.</p>
-
-
-
 
 
 <p>Here is our meager list for the walk:</p>
 
 
-
-
-
 <p>Sumner Hill JP, Suffolk, Massachusetts, US</p>
 
 
-
-
-
 <p>May 22, 2016 8:30 AM &ndash; 10:00 AM</p>
-
-
-
 
 
 <p><strong>16 species</strong></p>
@@ -158,23 +110,13 @@ comments: []
 <p><!-- /wp:list --></p>
 
 
-
 <p>View this checklist online at&nbsp;<a href="http://ebird.org/ebird/view/checklist?subID=S29833318">http://ebird.org/ebird/view/checklist?subID=S29833318</a><br></p>
-
-
-
 
 
 <p>This report was generated automatically by eBird v3 (<a href="http://ebird.org/">http://ebird.org</a>)</p>
 
 
-
-
-
 <p>Hey, Sumner Hill isn&rsquo;t Mount Auburn Cemetery. &nbsp;But it&rsquo;s still a great place for a Sunday bird walk!</p>
-
-
-
 
 
 <p>Good Birding!<br></p>

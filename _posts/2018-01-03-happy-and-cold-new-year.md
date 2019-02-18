@@ -17,13 +17,7 @@ comments: []
 <p>The weather&nbsp;folks are claiming that this Saturday will be the coldest day so far this winter.&nbsp; Sunday morning at 9AM, the scheduled kickoff for the January Winter Bird Walk in the Arboretum, is predicted to be minus 3, with winds at 10-12 mph.&nbsp; Therefore I&rsquo;m postponing the walk until Sunday January 14th, same time, same station.&nbsp; Let&rsquo;s hope for winter, not arctic, weather.</p>
 
 
-
-
-
 <p>Even though it has been nasty cold, I have gotten out briefly and seen and photographed a few birds. Yesterday I sought a rarity that has been hanging out in a park near Carson Beach in South Boston&nbsp;since Christmas- Ross&rsquo;s Goose.&nbsp; This is the first&nbsp;Suffolk County record ever for this small goose that closely resembles another locally rare goose- Snow Goose. They are differentiated&nbsp;by the Ross&rsquo;s smaller size, shorter bill, and the absence of a &ldquo;grin patch&rdquo;.&nbsp;Who knew geese could grin?&nbsp;</p>
-
-
-
 
 
 <p>&nbsp;In any case my wife drove&nbsp;as we circled&nbsp;Moakley Park and I quickly spotted the bird, hanging out with a small flock of much larger Canada Geese on the barren field:</p>
@@ -33,13 +27,7 @@ comments: []
  <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010460.jpg?fit=525%2C372&amp;ssl=1" alt="" class="wp-image-379"/>
 
 
-
-
-
 <p>Ross&rsquo;s Goose. A small white goose with black primaries and tiny triangle pink bill. These geese are common in California, but very rare on the Atlantic Coast.</p>
-
-
-
 
 
 <p>Here is another shot of the bird after it took flight.</p>
@@ -49,13 +37,7 @@ comments: []
  <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010468.jpg?fit=525%2C367&amp;ssl=1" alt="" class="wp-image-380"/>
 
 
-
-
-
 <p>In this image you can see the black primary wing feathers and barely see the reddish legs.&nbsp; The bird was a lifer for me!</p>
-
-
-
 
 
 <p>I also checked out the local ponds on the Emerald Necklace.&nbsp; Jamaica Pond is down to a small swimming pool of open water with four swans and a few other winter waterfowl; not&nbsp;clear how much longer they can hold out there.&nbsp; Leverett Pond, as usual, was partly open at its northern end and held a few very photographable ducks.</p>
@@ -69,9 +51,6 @@ comments: []
  <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010398-1.jpg?fit=525%2C278&amp;ssl=1" alt="" class="wp-image-382"/>
 
 
-
-
-
 <p>Male Northern Pintail, aptly named.</p>
 
 
@@ -83,13 +62,7 @@ comments: []
  <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010399.jpg?fit=525%2C495&amp;ssl=1" alt="" class="wp-image-383"/>
 
 
-
-
-
 <p>Another image of the pintail, above a common but lovely male Mallard.</p>
-
-
-
 
 
 <p>And I can never get enough of the spectacular Wood Ducks; there were at least 6 still surviving in the open patch.</p>
@@ -99,9 +72,6 @@ comments: []
  <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010415.jpg?fit=525%2C434&amp;ssl=1" alt="" class="wp-image-384"/>
 
 
-
-
-
 <p>Male Wood Duck.</p>
 
 
@@ -109,25 +79,13 @@ comments: []
  <img src="https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010412.jpg?fit=525%2C356&amp;ssl=1" alt="" class="wp-image-385"/>
 
 
-
-
-
 <p>Note the iridescent sheen on the crest and the subtle patterns on the breast and side. And what eyes!</p>
-
-
-
 
 
 <p>While I have your attention, the annual Boston Christmas Bird Count was held in relatively balmy weather (highs&nbsp;nearing thirty!) on December 17, 2017.&nbsp; The seven people in the Jamaica Plain sector tallied 48 species.&nbsp; Here is the list for the entire Boston count (thanks Bob Stymeist):</p>
 
 
-
-
-
 <p><strong>The 45th Greater Boston Christmas Count was held Sunday December 17th.&nbsp; 124 birders&nbsp;</strong><strong>recorded 115 species and an additional five species during the Count Week.&nbsp;&nbsp;</strong><strong>There was one new species, a Ruby-throated Hummingbird added to the overall&nbsp;</strong><strong>list which is an amazing 231 species!</strong></p>
-
-
-
 
 
 <p><strong>Greater Boston Christmas Bird Count-&nbsp;Bob Stymeist, compiler</strong></p>
@@ -259,11 +217,7 @@ comments: []
 <p><!-- /wp:list --></p>
 
 
-
 <p>I hope many of you will join me and my co-leader Brendan Keegan, who will discuss how birds utilize the woody plant collection in the AA as we walk, on Sunday January 14th, beginning at 9 AM from the front gate.</p>
-
-
-
 
 
 <p>Good Birding!</p>

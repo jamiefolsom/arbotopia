@@ -21,13 +21,7 @@ comments: []
  <a href="/images/2013/02/P1040093.jpg"><img src="/images/2013/02/P1040093.jpg" alt="P1040093" class="wp-image-224"/></a>
 
 
-
-
-
 <p>Baltimore Oriole, female, eating sunflower seeds.</p>
-
-
-
 
 
 <p>A few days ago I recalled that the traditional attraction for orioles at the feeder is oranges so I put one out.&nbsp; At first she ignored it, continuing to feast on seeds for the next several visits.&nbsp; Eventually though she went to the orange half and by dusk she had cleaned it out:</p>
@@ -37,13 +31,7 @@ comments: []
  <a href="/images/2013/02/P1040159.jpg"><img src="/images/2013/02/P1040159.jpg" alt="P1040159" class="wp-image-225"/></a>
 
 
-
-
-
 <p>Baltimore Oriole eating orange fruit, with House Sparrow looking on.</p>
-
-
-
 
 
 <p>Fortunately we have some HoneyBell oranges left over from a holiday gift and going downhill.&nbsp; Nothing like a sugar high at the end of the day to build up some calories for the long, cold winter night.</p>
@@ -51,9 +39,6 @@ comments: []
 
 <p><!-- wp:image {"id":226,"linkDestination":"custom"} --></p>
  <a href="/images/2013/02/P1040126.jpg"><img src="/images/2013/02/P1040126.jpg" alt="P1040126" class="wp-image-226"/></a>
-
-
-
 
 
 <p>Baltimore Oriole<br>Photo: Bob Mayer<br></p>
