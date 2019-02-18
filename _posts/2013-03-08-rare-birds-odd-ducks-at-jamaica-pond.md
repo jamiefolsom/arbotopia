@@ -16,7 +16,7 @@ comments: []
 ---
 
 
-<p>In my first&nbsp;<a href="http://www.arbotopia.com/birdjamaica-pond-ducks/">Jamaica Pond Ducks post</a>&nbsp;I covered the more common waterfowl likely to be seen on&nbsp;<a href="https://web.archive.org/web/20140426115604/https://www.google.com/maps/ms?msa=0&amp;msid=217541233018515973334.0004d3f5dfbfb11f8bc5f&amp;ie=UTF8&amp;ll=42.309117,-71.112356&amp;spn=0.056111,0.080166&amp;t=m&amp;z=14&amp;vpsrc=6&amp;iwloc=0004d3f5e8b64e73efc5f" target="_blank" rel="noreferrer noopener">Jamaica Pond</a>.&nbsp; Here I will discuss less common ducks and other birds attracted to the Pond, especially in the fall and winter.</p>
+<p>In my first&nbsp;<a href="http://www.arbotopia.com/birdjamaica-pond-ducks/">Jamaica Pond Ducks post</a>&nbsp;I covered the more common waterfowl likely to be seen on&nbsp;<a href="https://www.google.com/maps/ms?msa=0&amp;msid=217541233018515973334.0004d3f5dfbfb11f8bc5f&amp;ie=UTF8&amp;ll=42.309117,-71.112356&amp;spn=0.056111,0.080166&amp;t=m&amp;z=14&amp;vpsrc=6&amp;iwloc=0004d3f5e8b64e73efc5f" target="_blank" rel="noreferrer noopener">Jamaica Pond</a>.&nbsp; Here I will discuss less common ducks and other birds attracted to the Pond, especially in the fall and winter.</p>
 
 
 <p>When we think of loons, we imagine being on a tranquil lake in upper New England and listening to their melancholy call:</p>
