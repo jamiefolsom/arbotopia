@@ -144,16 +144,34 @@ comments: []
 </div>
 
 
-<p><!-- wp:paragraph --></p>
 <p>Here is the list of birds we tallied on Saturday:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:list --></p>
-<ul>
-<li><strong>Arnold Arboretum</strong>, Suffolk, Massachusetts, US<br>Apr 28, 2018 8:00 AM &ndash; 10:00 AM<br>Comments: &nbsp;&nbsp;&nbsp;&nbsp;55-62. sunny. &nbsp;&nbsp;BBC walk, 45 participants<br>20 species</li>
-</ul>
-<p><!-- /wp:list --></p>
-<p><!-- wp:paragraph --></p>
-<p>Mallard &nbsp;2<br>Turkey Vulture &nbsp;1<br>Herring Gull &nbsp;2<br>Rock Pigeon (Feral Pigeon) &nbsp;1<br>Mourning Dove &nbsp;1<br>Red-bellied Woodpecker &nbsp;3<br>Northern Flicker &nbsp;2<br>Blue Jay &nbsp;1<br>Tree Swallow &nbsp;1<br>Hermit Thrush &nbsp;1<br>American Robin &nbsp;20<br>Pine Warbler &nbsp;1 heard<br>Chipping Sparrow &nbsp;4<br>Song Sparrow &nbsp;3<br>Northern Cardinal &nbsp;1<br>Red-winged Blackbird &nbsp;2<br>Brown-headed Cowbird &nbsp;5<br>Common Grackle &nbsp;15<br>American Goldfinch &nbsp;2<br>House Sparrow &nbsp;3</p>
+
+<strong>Arnold Arboretum</strong>, Suffolk, Massachusetts, US<br>
+Apr 28, 2018 8:00 AM &ndash; 10:00 AM<br>
+Comments: &nbsp;&nbsp;&nbsp;&nbsp;55-62. sunny. &nbsp;&nbsp;BBC walk, 45 participants<br>
+20 species
+
+
+- Mallard: 2
+- Turkey Vulture: 1
+- Herring Gull: 2
+- Rock Pigeon (Feral Pigeon): 1
+- Mourning Dove: 1
+- Red-bellied Woodpecker: 3
+- Northern Flicker: 2
+- Blue Jay: 1
+- Tree Swallow: 1
+- Hermit Thrush: 1
+- American Robin : 0
+- Pine Warbler &nbsp: d
+- Chipping Sparrow: 4
+- Song Sparrow: 3
+- Northern Cardinal: 1
+- Red-winged Blackbird: 2
+- Brown-headed Cowbird: 5
+- Common Grackle : 5
+- American Goldfinch: 2
+- House Sparrow: 3
 
 
 <p>View this checklist online at&nbsp;<a href="https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45021462">https://ebird.org/view/checklist/S45021462</a></p>
@@ -163,23 +181,16 @@ comments: []
 
 
 <p>When I first looked at my favorite weather app on Sunday at 6:30 AM rain was predicted for 9:45.&nbsp; Perfect; the walk would just be ending!&nbsp; But by the time I got to our starting point in&nbsp;Brookline the update&nbsp;showed rain starting at 8 AM, just when we began.&nbsp; It was right, but fortunately the rain never became too heavy so those that showed up went home a bit cold but not too wet.&nbsp; The target bird for the Leverett Pond walk was the first one we saw:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":139} --></p>
+
  <img src="/images/2018/11/P1010908.jpg" alt="" class="wp-image-139"/>
 
-
-<p><!-- wp:paragraph {"align":"center"} --></p>
-<p style="text-align:center">Two female and a male Wood Duck.</p>
-
+<p>Two female and a male Wood Duck.</p>
 
 <p>The interesting history of these colorful ducks in the Emerald Necklace was discussed in a&nbsp;<a href="http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/">previous blog</a>.&nbsp; Chances that these ducks will once again breed on this or another close by pond are excellent!&nbsp; We headed up along the Boston side of this pond that straddles&nbsp;the Boston/Brookline boundary and heard a Red-bellied Woodpecker:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:audio {"id":208} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/R-B-Woodpecker-1.mp3"></audio>
-<p><!-- /wp:audio --></p>
-<p><!-- wp:paragraph --></p>
-<p><em>Sound recording courtesy of Lang Elliott NatureSound Studio</em></p>
 
+<figure class="wp-block-audio"><audio controls src="/images/2018/11/R-B-Woodpecker-1.mp3"></audio>
+
+<p><em>Sound recording courtesy of Lang Elliott NatureSound Studio</em></p>
 
 <p>This call is so distinctive that you don&rsquo;t have to see the bird for a positive identification; nothing else sounds like it.&nbsp; We also picked up another woodpecker species nearby:</p>
 <p><!-- /wp:paragraph --></p>
@@ -237,10 +248,31 @@ comments: []
 <p>Here is our list for Sundays walk:</p>
 
 
-<p><strong>Olmsted Park&ndash;Leverett Pond</strong>, Suffolk/Norfolk Counties,&nbsp;Massachusetts<br>Apr 29, 2018 8:00 AM &ndash; 9:30 AM<br>Comments: &nbsp;&nbsp;&nbsp;&nbsp;BBC walk 48-50. clouds and rain,&nbsp; 17 participants<br>19 species</p>
+<p><strong>Olmsted Park&ndash;Leverett Pond</strong>, Suffolk/Norfolk Counties,&nbsp;Massachusetts<br>
+Apr 29, 2018 8:00 AM &ndash; 9:30 AM<br>
+Comments: &nbsp;&nbsp;&nbsp;&nbsp;BBC walk 48-50. clouds and rain,&nbsp; 17 participants<br>
+19 species</p>
 
 
-<p>Canada Goose &nbsp;25<br>Wood Duck &nbsp;4<br>Mallard &nbsp;6<br>Double-crested Cormorant &nbsp;1<br>Red-tailed Hawk &nbsp;2<br>Herring Gull &nbsp;1<br>Red-bellied Woodpecker &nbsp;2<br>Downy Woodpecker &nbsp;1<br>Eastern Phoebe &nbsp;1<br>Blue Jay &nbsp;4<br>Tufted Titmouse &nbsp;2<br>American Robin &nbsp;20<br>European Starling &nbsp;4<br>Yellow-rumped Warbler &nbsp;6<br>Song Sparrow &nbsp;1<br>Northern Cardinal &nbsp;1<br>Red-winged Blackbird &nbsp;4<br>Common Grackle &nbsp;30<br>House Sparrow &nbsp;3</p>
+<p>Canada Goose &nbsp;25<br>
+Wood Duck &nbsp;4<br>
+Mallard &nbsp;6<br>
+Double-crested Cormorant &nbsp;1<br>
+Red-tailed Hawk &nbsp;2<br>
+Herring Gull &nbsp;1<br>
+Red-bellied Woodpecker &nbsp;2<br>
+Downy Woodpecker &nbsp;1<br>
+Eastern Phoebe &nbsp;1<br>
+Blue Jay &nbsp;4<br>
+Tufted Titmouse &nbsp;2<br>
+American Robin &nbsp;20<br>
+European Starling &nbsp;4<br>
+Yellow-rumped Warbler &nbsp;6<br>
+Song Sparrow &nbsp;1<br>
+Northern Cardinal &nbsp;1<br>
+Red-winged Blackbird &nbsp;4<br>
+Common Grackle &nbsp;30<br>
+House Sparrow &nbsp;3</p>
 
 
 <p>View this checklist online at&nbsp;<a href="https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45060984">https://ebird.org/view/checklist/S45060984</a></p>
@@ -260,9 +292,9 @@ comments: []
 <li>Bussey Brook Meadow, Arnold Arboretum, Boston. Morning.</li>
 <li>The Arboretum Park Conservancy and the BBC are sponsoring this 90-minute walk in the Bussey Brook area of the Arboretum. The walk is suitable for beginning birders as well as those more experienced. Meeting location: South Street gate to the Arboretum, on South Street, where there is limited parking. Also accessible from Forest Hills T Station path from Washington Street 8:00 AM to 9:30 AM</li>
 </ul>
-<p><!-- /wp:list --></p>
+
 
 <p>Finally, On May 12th I will be doing the 2018 Bird-a-thon to support nature programs at&nbsp;Mass Audubon&rsquo;s Boston Nature Center.&nbsp;To learn more about that, and&nbsp;to support me and my team&nbsp; you can&nbsp;<a href="https://goo.gl/sVXdFu">click here</a>.</p>
 
 
-<p>Thanks, and Good Birding!<br></p>
+<p>Thanks, and Good Birding!</p>
