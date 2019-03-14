@@ -1,19 +1,18 @@
 ---
 layout: post
-published: true
 title: A bright and windy walk in Bussey Brook Meadow
 author: Bob Mayer
 wordpress_id: 81
 wordpress_url: https://arbotopia.com/?p=81
-date: '2017-05-07 17:33:57 -0500'
+date: 2017-05-07 17:33:57 -0500
 categories:
 - Bird Walks
 - Avian
 - Arnold Arboretum
 tags: []
 comments: []
----
 
+---
 There was a major shift in the weather compared to yesterdays walk on Hemlock Hill and Peter’s Hill, and the turnout reflected that. Nearly 50 folks showed up for this walk, sponsored by the [Brookline Bird Club](http://www.brooklinebirdclub.org/), the Arnold Arboretum and the [Arboretum Park Conservancy](http://www.arboretumparkconservancy.org/)(APC).  The APC developed and helps to maintain this 28 acre section of the Arboretum where AA researchers study the impact of the urban environment on native and non-native invasive plants. It also provides a pleasant link to the Arboretum from the Orange Line Forest Hills MBTA.  We first walked in the grass along South Street where a coalition of groups is working to build a walk and bike pathway that will connect the Roslindale commuter rail station to the Southwest Corridor at Forest Hills.
 
 There was a lot of familiar bird call as we began the walk; Song Sparrows, jays, cardinals, robins and Baltimore Orioles.  But the birds were hard to locate at first.  When we returned to the main Blackwell Path we spotted the first of only two warbler species we had on the walk; Yellow-rumped Warbler.
@@ -30,7 +29,7 @@ Male Yellow Warbler
 
 Also heard in the same location was another early migrant, Warbling Vireo:
 
-_Sound recording courtesy of Lang Elliott NatureSound Studio﻿_
+_Sound recording courtesy of Lang Elliott NatureSound Studio_﻿
 
 While we were listening to this melodious song someone noticed a nest high in a tree that appeared to have a bird in it.  My first guess was that we were looking at a partially built oriole nest, but when the bird flew out others saw no yellow on the exiting bird, putting my call in question.  Indeed, the bird, and the nest, was that of the singing vireo!
 
@@ -74,29 +73,29 @@ Comments:     56, sunny, windy
 
 **23 species**
 
-*   Red-tailed Hawk  1
-*   Herring Gull  2
-*   Mourning Dove  2
-*   Chimney Swift  1
-*   Red-bellied Woodpecker  2
-*   Downy Woodpecker  2
-*   Warbling Vireo  2
-*   Blue Jay  4
-*   Tree Swallow  2
-*   Tufted Titmouse  1
-*   White-breasted Nuthatch  1
-*   American Robin  15
-*   Gray Catbird  3
-*   Yellow Warbler  1
-*   Yellow-rumped Warbler  4
-*   Chipping Sparrow  2
-*   Song Sparrow  5
-*   Northern Cardinal  4
-*   Red-winged Blackbird  6
-*   Common Grackle  5
-*   Baltimore Oriole  8
-*   American Goldfinch  2
-*   House Sparrow  3
+* Red-tailed Hawk  1
+* Herring Gull  2
+* Mourning Dove  2
+* Chimney Swift  1
+* Red-bellied Woodpecker  2
+* Downy Woodpecker  2
+* Warbling Vireo  2
+* Blue Jay  4
+* Tree Swallow  2
+* Tufted Titmouse  1
+* White-breasted Nuthatch  1
+* American Robin  15
+* Gray Catbird  3
+* Yellow Warbler  1
+* Yellow-rumped Warbler  4
+* Chipping Sparrow  2
+* Song Sparrow  5
+* Northern Cardinal  4
+* Red-winged Blackbird  6
+* Common Grackle  5
+* Baltimore Oriole  8
+* American Goldfinch  2
+* House Sparrow  3
 
 View this checklist online at [http://ebird.org/ebird/view/checklist/S36617594](http://ebird.org/ebird/view/checklist/S36617594)
 
