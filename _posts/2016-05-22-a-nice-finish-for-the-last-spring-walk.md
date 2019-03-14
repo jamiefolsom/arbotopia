@@ -44,14 +44,12 @@ Male Red-bellied Woodpecker at nest hole
 As we walked up the grassy southern slope to the top of Bussey Hill, we spotted two flycatchers in the same tree; Eastern Phoebe and Eastern Kingbird.  I posted images of these birds on my blog [last week](http://www.arbotopia.com/an-urban-wild-in-the-arnold-arboretum/).  At another location, two members of the group heard the distinct call of a different flycatcher, the Eastern Wood-pewee.  These birds stay in the deep woods where they are usually identified by their song:
 
 <audio controls src="/images/2018/11/2-28-Belted-Kingfisher.wav"></audio>
-  
+
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 In a nearby tree we found a flock of Cedar Waxwings, dressed for a formal occasion:
 
-![Cedar Waxwing in its pristine plumage](/images/2015/05/P1010122.jpg)
-
-Cedar Waxwing in it’s pristine plumage.
+![](/images/P1010122.jpg)Cedar Waxwing in it’s pristine plumage.
 
 I had taken the group to the Explorer’s Garden near the top of the hill because I had had some good migrating birds there two days before.  Today the only warbler was the Redstart mentioned earlier.  I listened for the song of the Scarlet Tanager, but heard nothing.  Then as we prepared to descend the hill I heard it. Then we saw it!
 
