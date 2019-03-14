@@ -4,7 +4,7 @@ title: A nice finish for the last Spring Walk
 author: Bob Mayer
 wordpress_id: 64
 wordpress_url: https://arbotopia.com/?p=64
-date: 2016-05-22 17:16:40 -0500
+date: 2016-05-22 22:16:40 +0000
 categories:
 - Bird Walks
 - Avian
@@ -43,6 +43,8 @@ Male Red-bellied Woodpecker at nest hole
 
 As we walked up the grassy southern slope to the top of Bussey Hill, we spotted two flycatchers in the same tree; Eastern Phoebe and Eastern Kingbird.  I posted images of these birds on my blog [last week](http://www.arbotopia.com/an-urban-wild-in-the-arnold-arboretum/).  At another location, two members of the group heard the distinct call of a different flycatcher, the Eastern Wood-pewee.  These birds stay in the deep woods where they are usually identified by their song:
 
+<audio controls src="/images/2018/11/2-28-Belted-Kingfisher.wav"></audio>
+  
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 In a nearby tree we found a flock of Cedar Waxwings, dressed for a formal occasion:
@@ -64,44 +66,44 @@ _Sound recording courtesy of Lang Elliott NatureSound Studio_
 Here is the complete list for the walk:
 Arnold Arboretum, Suffolk, Massachusetts, US
 May 21, 2016 8:00 AM – 10:00 AM
-2.0 mile(s), 63 and overcast
+2\.0 mile(s), 63 and overcast
 
 **34 species**
 
-*   Canada Goose  2
-*   Red-tailed Hawk  2
-*   Herring Gull  2
-*   Rock Pigeon (Feral Pigeon)  4
-*   Mourning Dove  3
-*   Chimney Swift  4
-*   Red-bellied Woodpecker  2
-*   Downy Woodpecker  2
-*   Northern Flicker  1
-*   Eastern Wood-Pewee  1
-*   Eastern Phoebe  1
-*   Eastern Kingbird  2
-*   Warbling Vireo  4
-*   Blue Jay  3
-*   Tree Swallow  2
-*   Black-capped Chickadee  2
-*   Tufted Titmouse  3
-*   Wood Thrush  2
-*   American Robin  40
-*   Gray Catbird  2
-*   European Starling  4
-*   Cedar Waxwing  8
-*   American Redstart  1
-*   Yellow Warbler  5
-*   Chipping Sparrow  2
-*   Song Sparrow  4
-*   Scarlet Tanager  1
-*   Northern Cardinal  2
-*   Red-winged Blackbird  10
-*   Common Grackle  20
-*   Brown-headed Cowbird  2
-*   Baltimore Oriole  8
-*   American Goldfinch  1
-*   House Sparrow  20
+* Canada Goose  2
+* Red-tailed Hawk  2
+* Herring Gull  2
+* Rock Pigeon (Feral Pigeon)  4
+* Mourning Dove  3
+* Chimney Swift  4
+* Red-bellied Woodpecker  2
+* Downy Woodpecker  2
+* Northern Flicker  1
+* Eastern Wood-Pewee  1
+* Eastern Phoebe  1
+* Eastern Kingbird  2
+* Warbling Vireo  4
+* Blue Jay  3
+* Tree Swallow  2
+* Black-capped Chickadee  2
+* Tufted Titmouse  3
+* Wood Thrush  2
+* American Robin  40
+* Gray Catbird  2
+* European Starling  4
+* Cedar Waxwing  8
+* American Redstart  1
+* Yellow Warbler  5
+* Chipping Sparrow  2
+* Song Sparrow  4
+* Scarlet Tanager  1
+* Northern Cardinal  2
+* Red-winged Blackbird  10
+* Common Grackle  20
+* Brown-headed Cowbird  2
+* Baltimore Oriole  8
+* American Goldfinch  1
+* House Sparrow  20
 
 View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S29834917](http://ebird.org/ebird/view/checklist?subID=S29834917)
 
