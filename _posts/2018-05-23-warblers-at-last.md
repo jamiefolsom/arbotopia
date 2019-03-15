@@ -47,23 +47,13 @@ Undeterred we headed to the top of Bussey Hill where some good warblering can be
 
 Male Bay-breasted Warbler. Photo: Ted Bradford
 
-![](/images/2018/05/101455011-1.jpg)
-
 ![](/images/101455011-1.jpg)
 
 Blackburnian Warbler Photo: Ajay Sicloot
 
-![](/images/2018/05/P1000627.jpg)
-
 Black-throated Green Warbler
 
-![](/images/2018/05/P1050239.jpg)
-
-![](/images/P1050239-1.jpg)
-
-Male American Redstart
-
-![](/images/2018/05/P1020265.jpg)
+![](/images/P1050239-1.jpg)American Redstart
 
 ![](/images/P1020287.jpg)
 
@@ -73,7 +63,7 @@ Black and white Warbler
 
 Northern Parula
 
-![](/images/2018/05/P1020287.jpg)
+Northern Parula
 
 ![](/images/P1020287-1.jpg)
 
