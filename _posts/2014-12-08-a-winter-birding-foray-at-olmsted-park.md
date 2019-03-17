@@ -1,18 +1,17 @@
 ---
 layout: post
-published: true
 title: A Winter Birding Foray at Olmsted Park
 author: Bob Mayer
 wordpress_id: 54
-date: '2014-12-08 18:38:53 -0500'
+date: 2014-12-08 18:38:53 -0500
 categories:
 - Bird Walks
 - Avian
 - Waterfowl
 tags: []
 comments: []
----
 
+---
 About 15 birders joined me and National Park Ranger Mark Swartz for a walk along [Leverett Pond and through Olmsted Park up to Ward’s Pond](https://www.google.com/maps/place/Olmsted+Park/@42.3251659,-71.1152747,16z/data=!4m2!3m1!1s0x89e3799e7cec8f07:0x23a597f711bb181f) and back.  It was cold and damp following the heavy rains overnight but the group was in good spirits, even though the avian harvest was far from abundant.
 
 We began by searching for the Wood Ducks that have been hanging out on the Boston side of one of the small islands in Leverett.  The water was so high from the rains it was hard to find the island!  But after a search we did manage to discover a few “woodies” among the sunken shrubbery.  Near the end of the walk we were lucky enough to see a beautiful pair close up.  The Wood Duck may be the most spectacular native duck in this area:
@@ -40,14 +39,14 @@ After this hat trick we spent a few minutes comparing female Mallards and Americ
 
 Our search for land birds was disappointing.  Other than the usual winter species- robins, titmouses, chickadees, and several sparrow species- we came up short.  The youngest member of our group, perhaps ten years old,  treated us to his perfect rendition of the call of the Mourning Dove.  No real MODO’s responded however.  As we circled Ward’s Pond we did have one Hermit Thrush hidden in a tangled bittersweet vine.  This is a lovely bird:
 
-![Hermit Thrush. The rusty tail and wing primaries distinguish it from other similar thrushes, and it is the only one likely to be seen in this weather.](/images/2014/12/P1040765.jpg)
+![](/images/P1040765.jpg)
 
 Hermit Thrush. The rusty tail and wing primaries distinguish it from other similar thrushes, and it is the only one likely to be seen in this weather.
 Photo: Bob Mayer
 
 The other nice surprise was two Great Blue Herons hunkered down in the reeds around that pond.  Seeing them up close demonstrated how big these birds are:
 
-![Great Blue Heron. Judging from the plumage of this bird it is likely a juvenile.](/images/2014/12/P1090225.jpg)
+![](/images/P1090225.jpg)
 
 Great Blue Heron. Judging from the plumage of this bird it is likely a juvenile.
 Photo: Bob Mayer
@@ -68,7 +67,7 @@ Photo: Bob Mayer
 
 This tiny wren carries a big stick when it comes to vocalization however. Here is it’s lovely call (sung mostly in the spring):
 
-_Sound recording courtesy of Lang Elliott NatureSound Studio_ 
+_Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 Here is the meager list from the walk:
 
