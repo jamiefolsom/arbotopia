@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: Spring Series Finale at the Arnold
 author: Bob Mayer
 author_login: admin

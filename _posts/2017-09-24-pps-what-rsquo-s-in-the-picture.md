@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: "PPS: What's in the picture?"
 author: Bob Mayer
 author_login: admin

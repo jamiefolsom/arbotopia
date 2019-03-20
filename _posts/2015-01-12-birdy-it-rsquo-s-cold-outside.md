@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: Birdy, it&rsquo;s cold outside
 author: Bob Mayer
 author_login: admin

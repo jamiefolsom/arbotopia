@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: An Urban Wild in the Arnold Arboretum
 author: Bob Mayer
 author_login: admin

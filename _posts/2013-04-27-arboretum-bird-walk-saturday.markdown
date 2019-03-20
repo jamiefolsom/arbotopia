@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: Arboretum Bird Walk, Saturday April 27, 2013
 author: Bob Mayer
 author_login: admin
@@ -23,7 +22,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":407,"linkDestination":"custom"} --></p>
- <a href="images/2013/04/P1080271.jpg"><img src="/images/2013/04/P1080271.jpg" alt="P1080271" class="wp-image-407"/></a> 
+ <a href="images/2013/04/P1080271.jpg"><img src="/images/2013/04/P1080271.jpg" alt="P1080271" class="wp-image-407"/></a>
 
 
 <p>Pine Warbler<br>Photo: Bob Mayer</p>
@@ -33,7 +32,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":405,"linkDestination":"custom"} --></p>
- <a href="images/2013/04/P1060706.jpg"><img src="/images/2013/04/P1060706.jpg" alt="P1060706" class="wp-image-405"/></a> 
+ <a href="images/2013/04/P1060706.jpg"><img src="/images/2013/04/P1060706.jpg" alt="P1060706" class="wp-image-405"/></a>
 
 
 <p>Red-breasted Nuthatch<br>Photo: Bob Mayer</p>
@@ -43,7 +42,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":409,"linkDestination":"custom"} --></p>
- <a href="images/2013/04/P1010021.jpg"><img src="/images/2013/04/P1010021.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-409"/></a> 
+ <a href="images/2013/04/P1010021.jpg"><img src="/images/2013/04/P1010021.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-409"/></a>
 
 
 <p>Brown Thrasher<br>Photo: Bob Mayer</p>
@@ -62,5 +61,3 @@ comments: []
 
 
 <p>Good birding!</p>
-
-

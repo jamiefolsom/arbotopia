@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: How rare is rare? &ndash; a butterfly tale
 author: Bob Mayer
 author_login: admin

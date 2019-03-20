@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: SPRING IS HERE!
 author: Bob Mayer
 author_login: admin

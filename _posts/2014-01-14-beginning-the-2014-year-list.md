@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: Beginning the 2014 Year List!
 author: Bob Mayer
 author_login: admin

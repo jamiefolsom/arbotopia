@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: About the Saturday Arboretum Walk
 author: Bob Mayer
 author_login: admin

@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: Crisp start to a nice pond walk
 author: Bob Mayer
 author_login: admin

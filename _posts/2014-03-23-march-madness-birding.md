@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: March Madness Birding
 author: Bob Mayer
 author_login: admin

@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: Spring Walks Begin!
 author: Bob Mayer
 author_login: admin

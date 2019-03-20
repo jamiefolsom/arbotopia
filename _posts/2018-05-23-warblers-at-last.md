@@ -1,8 +1,7 @@
 ---
 layout: post
-
 title: Warblers at last!
-author: 
+author: Bob Mayer
 wordpress_id: 100
 date: 2018-04-23 18:20:37 -0500
 categories:

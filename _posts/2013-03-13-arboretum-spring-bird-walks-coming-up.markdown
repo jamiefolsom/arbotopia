@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: Arboretum spring bird walks coming up!
 author: Bob Mayer
 author_login: admin

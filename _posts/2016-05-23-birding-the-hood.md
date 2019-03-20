@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: Birding the Hood
 author: Bob Mayer
 author_login: admin
