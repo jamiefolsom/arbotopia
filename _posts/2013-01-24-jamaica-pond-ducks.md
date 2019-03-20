@@ -5,7 +5,7 @@ author: Bob Mayer
 author_login: admin
 wordpress_id: 56
 wordpress_url: https://arbotopia.com/?p=56
-date: 2013-01-24 21:41:04 -0500
+date: 2013-01-25 02:41:04 +0000
 categories:
 - Avian
 - Waterfowl
@@ -13,7 +13,6 @@ tags: []
 comments: []
 
 ---
-
 Since 2000, there have been at least 28 species of waterfowl recorded on the waters of [Jamaica Pond](https://en.wikipedia.org/wiki/Jamaica_Pond).  At 68 acres, this 50 feet deep spring-fed glacial kettle pond is the largest fresh water pond in Boston.  While ducks can be found here year-round, fall and winter are peak times to see a greater variety of species.  As lakes and ponds farther north begin to freeze over, waterfowl that depend on open water for food and protection move south.
 
 Probably the most common bird on the Pond is the Canada Goose.  Their numbers are greatest at night when they rest here, protected from predators like coyotes.  Each morning hundreds leave, heading to grassy areas like the [William J Devine Golf Course at Franklin Park.](https://en.wikipedia.org/wiki/William_J._Devine_Memorial_Golf_Course)  Everyone recognizes these birds, although they are not universally loved as they foul grass and paths with their excrement and can get a bit aggressive during the breeding season.
@@ -64,11 +63,9 @@ The Ruddy Duck is another winter visitor to the Pond. These small “diving” d
 Pair of Ruddies showing the erect stiff-tail and the male (right) developing its ruddy breast
 Photo: Bob Mayer
 
-!\[\](/images/P1030573.jpg)
+![](/images/P1030573-1.jpg)
 
-![](/images/2018/11/P1030573.jpg)
-
-Two female Ruddies and a male (back) showing the more prominent white cheek patch and the bill beginning to develop the intense blue of a breeding duck.
+Two female Ruddies and a male (back) showing the more prominent white cheek patch and the bill beginning to develop the intense blue of a breeding duck. Photo: Bob Mayer
 
 Almost all ducks have two plumages each year.  In most species the alternate or “breeding” plumage is displayed in the colder months and the basic plumage—often much less fancy in males—is worn in the fall. Ruddy Ducks are the reverse, so we don’t get to see the male Ruddy Duck with his rusty body and shocking bill color when breeding:
 
@@ -108,5 +105,4 @@ Photo: Bob Mayer
 
 As stated above, there are many species of waterfowl that have been seen on the pond in recent years.  My next post on Jamaica Pond ducks will discuss some of its less frequent visitors.
 
-Enjoy the winter ducks before they depart to their breeding areas in a few months![
-](http://www.arbotopia.com/2013/01/#)
+Enjoy the winter ducks before they depart to their breeding areas in a few months![](http://www.arbotopia.com/2013/01/#)
