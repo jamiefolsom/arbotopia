@@ -4,7 +4,7 @@ title: A Bird out of Season and in the Storm
 author: Bob Mayer
 wordpress_id: 349
 wordpress_url: https://arbotopia.com/?p=349
-date: 2013-02-11 14:13:16 -0500
+date: 2013-02-11 19:13:16 +0000
 categories:
 - Avian
 tags: []
@@ -26,7 +26,7 @@ In early May, Baltimore Orioles begin to arrive from as far away as Central Amer
 ![Male Baltimore Oriole feeding young in a nest.](/images/2013/02/P1010016.jpg)Male Baltimore Oriole feeding young in a nest.
 Photo: Bob Mayer
 
-But in early fall both the adults and their new young head south.  That is they are supposed to head south.  The female bird at my feeder didn’t get it right.  She is one of four Baltimore Orioles that have been recorded since the beginning of the year in Massachusetts.  One was seen on Nantucket Island, another on Cape Cod. Oddly, the third one, a bright male, began coming to a feeder in Roslindale, only a few miles from my home,  in December of 2012, and continued to return well into January.
+But in early fall both the adults and their new young head south.  That is they are supposed to head south.  The female bird at my feeder didn’t get it right.  She is one of four Baltimore Orioles that have been recorded since the beginning of the year in Massachusetts.  One was seen on Nantucket Island, another on Cape Cod. Oddly, the third one, a bright male, began coming to a feeder in Roslindale- only a few miles from my home- in December of 2012, and continued to return well into January.
 
 “My” oriole continued to hold out as the wind and snow intensified and the competition for food increased:
 
@@ -40,7 +40,7 @@ Photo: Bob Mayer
 
 Out of place and time birds like this one attract a lot of attention.  People empathize with these stragglers and root for them against the weather.  In the process they are often seen as strong, adventurous and courageous.  Some have just fallen prey to heavy winds that blow them far off course. But many of these vagrants are immature birds and may be defective in some way.  Perhaps their GPS system is not up to par.
 
-Will this bird make it until the spring?  If so she could re-unite with others of her species, breed, and have another chance to get it right in next fall’s migration. The odds are not in her favor.  Avian mortality is quite high, even for those that are on track.  Fifty percent or more of some species perish one way or another, especially in the first year.
+Will this bird make it until spring?  If so she could re-unite with others of her species, breed, and have another chance to get it right in next fall’s migration. The odds are not in her favor.  Avian mortality is quite high, even for those that are on track.  Fifty percent or more of some species perish one way or another, especially in the first year.
 
 But each morning I check the feeders and am happy when I see her again:
 

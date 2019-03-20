@@ -2,17 +2,17 @@
 layout: post
 status: draft
 title: Warblers at last!
-author:
+author: 
 wordpress_id: 100
-date: '2018-04-23 18:20:37 -0500'
+date: 2018-04-23 18:20:37 -0500
 categories:
 - Bird Walks
 - Avian
 - Arnold Arboretum
 tags: []
 comments: []
----
 
+---
 After overnight rains the air was damp and humid when 31 birders arrived at 8 AM for my last scheduled bird walk in the Arboretum this spring.  Given reports from other nearby locales I was hopful that we would locate some good migrant warblers.  We headed down Meadow Road to Linden Path, noting a pair of Tree Swallows defending a nest box that has been involved in a real estate battle with nasty House Sparrows; they killed a female swallow just a week ago at this house:
 
 ![](/images/2018/11/P1020388.jpg)
@@ -35,6 +35,8 @@ All of these birds are pretty plain so it wasn’t a big loss that we didn’t s
 
 ![](/images/2018/05/P1010954.jpg)
 
+![](/images/2018/11/P1010954-1688x1200.jpg)
+
 Red-eyed Vireo
 
 But we wanted warblers!  As we walked along a mulch path under giant oaks- a perfect spot for warblers- we saw and heard nothing. It was as quiet as an empty church.
@@ -45,19 +47,15 @@ Undeterred we headed to the top of Bussey Hill where some good warblering can be
 
 Male Bay-breasted Warbler. Photo: Ted Bradford
 
-![](/images/2018/05/101455011-1.jpg)
+![](/images/101455011-1.jpg)
 
 Blackburnian Warbler Photo: Ajay Sicloot
 
-![](/images/2018/05/P1000627.jpg)
-
 Black-throated Green Warbler
 
-![](/images/2018/05/P1050239.jpg)
+![](/images/P1050239-1.jpg)American Redstart
 
-Male American Redstart
-
-![](/images/2018/05/P1020265.jpg)
+![](/images/P1020287.jpg)
 
 Black and white Warbler
 
@@ -65,7 +63,9 @@ Black and white Warbler
 
 Northern Parula
 
-![](/images/2018/05/P1020287.jpg)
+Northern Parula
+
+![](/images/P1020287-1.jpg)
 
 Chest-sided Warbler
 
@@ -87,13 +87,13 @@ A perfectly manicured Cedar Waxwing. Photo: Ajay Sicloot
 
 My birding friend and nature photographer Ajay was along on this walk, chronicling it with his SLR camera and big zoom lens.  To see his (slightly different) eBird list for the walk, which includes many more of his photographs, go to [https://ebird.org/view/checklist/S45917461](https://ebird.org/view/checklist/S45917461)
 
-*   Here is my list:
-    **Arnold Arboretum**, Suffolk, Massachusetts, US
-    May 20, 2018 8:00 AM – 10:40 AM
-    Protocol: Traveling
-    2.5 mile(s)
-    Comments:     sun and clouds, humid and windy  68
-    **36 species**
+* Here is my list:
+  **Arnold Arboretum**, Suffolk, Massachusetts, US
+  May 20, 2018 8:00 AM – 10:40 AM
+  Protocol: Traveling
+  2\.5 mile(s)
+  Comments:     sun and clouds, humid and windy  68
+  **36 species**
 
 Canada Goose  2
 Red-tailed Hawk  1
@@ -131,8 +131,8 @@ Common Grackle  12
 American Goldfinch  2
 House Sparrow  5
 
-*   View this checklist online at [https://ebird.org/view/checklist/S45855629](https://ebird.org/view/checklist/S45855629)
-*   This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org))
+* View this checklist online at [https://ebird.org/view/checklist/S45855629](https://ebird.org/view/checklist/S45855629)
+* This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org))
 
 Finally I want to report on an exciting find at the ponds at the Arnold Arboretum, and an amazing back story.  A few weeks ago I was doing a program with elementary school kids and was showing them the odd way that Eastern Redbud, _Cercis canadensis_, will grow its lovely spring flowers directly out of the bark on the trunk of the tree:
 
