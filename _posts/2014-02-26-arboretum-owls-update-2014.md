@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Arboretum Owls Update 2014
 author: Bob Mayer
 author_login: admin

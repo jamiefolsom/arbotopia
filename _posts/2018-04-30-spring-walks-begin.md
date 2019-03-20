@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Spring Walks Begin!
 author: Bob Mayer
 author_login: admin

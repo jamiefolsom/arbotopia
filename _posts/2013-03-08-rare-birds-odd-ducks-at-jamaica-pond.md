@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Rare Birds & Odd Ducks at Jamaica Pond
 author: Bob Mayer
 author_login: admin

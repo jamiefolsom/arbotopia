@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: T'was a dark and damp walk
 author: Bob Mayer
 author_login: admin

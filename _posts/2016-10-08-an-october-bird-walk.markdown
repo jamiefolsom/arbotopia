@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: An October Bird Walk
 author: Bob Mayer
 author_login: admin

@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Arboretum Bird Walk, Saturday April 27, 2013
 author: Bob Mayer
 author_login: admin

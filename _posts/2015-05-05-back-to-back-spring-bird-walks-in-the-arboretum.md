@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Back-to-back Spring Bird Walks in the Arboretum
 author: Bob Mayer
 author_login: admin

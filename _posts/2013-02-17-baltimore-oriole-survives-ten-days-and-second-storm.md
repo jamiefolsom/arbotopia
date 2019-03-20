@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Baltimore Oriole survives ten days and second storm
 author: Bob Mayer
 author_login: admin

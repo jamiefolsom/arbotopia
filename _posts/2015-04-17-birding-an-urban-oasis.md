@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Birding an Urban Oasis
 author: Bob Mayer
 author_login: admin

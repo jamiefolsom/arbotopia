@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Happy and Cold New Year!
 author: Bob Mayer
 author_login: admin

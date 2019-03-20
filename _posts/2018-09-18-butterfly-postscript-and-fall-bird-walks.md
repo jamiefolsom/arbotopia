@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Butterfly postscript- and fall bird walks
 author: Bob Mayer
 author_login: admin

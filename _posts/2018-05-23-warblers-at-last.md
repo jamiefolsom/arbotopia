@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Warblers at last!
 author: 
 wordpress_id: 100

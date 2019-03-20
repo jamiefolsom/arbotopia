@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: "PPS: What's in the picture?"
 author: Bob Mayer
 author_login: admin

@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Beginning the 2014 Year List!
 author: Bob Mayer
 author_login: admin

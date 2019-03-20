@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: SPRING IS HERE!
 author: Bob Mayer
 author_login: admin

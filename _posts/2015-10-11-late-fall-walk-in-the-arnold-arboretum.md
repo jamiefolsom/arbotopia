@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Late Fall Walk in the Arnold Arboretum
 author: Bob Mayer
 author_login: admin

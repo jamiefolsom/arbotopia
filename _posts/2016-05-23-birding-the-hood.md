@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Birding the Hood
 author: Bob Mayer
 author_login: admin

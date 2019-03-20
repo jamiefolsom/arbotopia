@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Birdy, it&rsquo;s cold outside
 author: Bob Mayer
 author_login: admin

@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Arboreutm Walks Begin!
 author: Bob Mayer
 author_login: admin

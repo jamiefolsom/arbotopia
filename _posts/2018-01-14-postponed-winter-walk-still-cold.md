@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: Postponed Winter Walk- Still Cold!
 author: Bob Mayer
 author_login: admin

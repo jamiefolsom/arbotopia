@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: First Day of Spring?
 author: Bob Mayer
 author_login: admin

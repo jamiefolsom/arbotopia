@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+
 title: How many birds in the whole wide world?
 author: Bob Mayer
 author_login: admin
