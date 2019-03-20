@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Winter Bird Walk &ndash; January 13, 2013
+title: Winter Bird Walk – January 13, 2013
 author: Bob Mayer
 wordpress_id: 60
-date: 2013-01-14 20:55:27 -0500
+date: 2013-01-13 20:55:27 -0500
 categories:
 - Bird Walks
 - Avian
 - Arnold Arboretum
 tags: []
 comments: []
-
 ---
+
 This morning my birding colleague Andrew Joslin and I led a bird walk along Meadow Road in the Arnold Arboretum for about two hours.  We were joined by more than 25 enthusiastic birders, many of whom were just testing their wings in the wonderful avocation of birding.  Although the weather was a bit damp, neither the birds nor the birders were discouraged and we had some nice sightings.  A Red-breasted Nuthatch at the feeders near the Administration Building was a “life bird” for several in the group. A Red-tailed Hawk posed in the giant Silver Maple farther down the road for all to admire. A Carolina Wren began to call loudly from the wetland.  Most of us never saw this tiny wren but it’s call is unmistakable.  How such a small bird can emit this intense call always amazes me!
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
@@ -31,31 +31,31 @@ Comments:     BBC walk, Bob Mayer and Andrew Joslin plus 26 other birders. O
 
 **26 species**
 
-* Canada Goose  8  
+* Canada Goose  8
 * Rock Pigeon (Feral Pigeon)  4
-* Mourning Dove  5 
-* Herring Gull  2 
-* Red-tailed Hawk  2 
-* Yellow-bellied Sapsucker  1 medium sized woodpecker with white wing panel seen clearly 
+* Mourning Dove  5
+* Herring Gull  2
+* Red-tailed Hawk  2
+* Yellow-bellied Sapsucker  1 medium sized woodpecker with white wing panel seen clearly
 * Red-bellied Woodpecker  1
-* Downy Woodpecker  5 
-* Northern Flicker  2 
-* Blue Jay  10 
-* Black-capped Chickadee  8 
-* Tufted Titmouse  4 
-* Red-breasted Nuthatch  1 
-* White-breasted Nuthatch  2 
-* Carolina Wren  1 
-* Golden-crowned Kinglet  1 
-* American Robin  12 
-* Northern Mockingbird  1 
-* European Starling  4 
+* Downy Woodpecker  5
+* Northern Flicker  2
+* Blue Jay  10
+* Black-capped Chickadee  8
+* Tufted Titmouse  4
+* Red-breasted Nuthatch  1
+* White-breasted Nuthatch  2
+* Carolina Wren  1
+* Golden-crowned Kinglet  1
+* American Robin  12
+* Northern Mockingbird  1
+* European Starling  4
 * House Finch  
 * 5 American Goldfinch  
-* 3 Dark-eyed Junco  5 
-* White-throated Sparrow  15 
-* Song Sparrow  1 
-* Northern Cardinal  10 
+* 3 Dark-eyed Junco  5
+* White-throated Sparrow  15
+* Song Sparrow  1
+* Northern Cardinal  10
 * House Sparrow  10
 
 View this checklist online at [https://ebird.org/view/checklist/S12586667](https://ebird.org/view/checklist/S12586667)
