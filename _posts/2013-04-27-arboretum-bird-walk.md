@@ -7,7 +7,6 @@ author: Bob Mayer
 wordpress_id: 34
 wordpress_url: https://arbotopia.com//2018/11/02/12-revision-v1/
 date: '2013-04-27 18:03:57 -0400'
-date_gmt: '2013-04-27 18:03:57 -0400'
 categories: []
 tags: []
 comments: []

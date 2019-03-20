@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Arboretum Bird Walk, Saturday April 27, 2013
+published: false
 author: Bob Mayer
 author_login: admin
 wordpress_id: 12
