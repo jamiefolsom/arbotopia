@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Birdy, it&rsquo;s cold outside
+title: Birdy, it's cold outside
 author: Bob Mayer
 author_login: admin
 wordpress_id: 50
