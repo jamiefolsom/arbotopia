@@ -49,7 +49,9 @@ _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 In a nearby tree we found a flock of Cedar Waxwings, dressed for a formal occasion:
 
-![](/images/P1010122.jpg)Cedar Waxwing in it’s pristine plumage.
+![](/images/P1010122-1.jpg)
+
+Cedar Waxwing in it’s pristine plumage.
 
 I had taken the group to the Explorer’s Garden near the top of the hill because I had had some good migrating birds there two days before.  Today the only warbler was the Redstart mentioned earlier.  I listened for the song of the Scarlet Tanager, but heard nothing.  Then as we prepared to descend the hill I heard it. Then we saw it!
 
