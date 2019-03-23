@@ -77,8 +77,6 @@ Red-breasted Nuthatch atop a spruce in the Arboretum.
 
 Overall, the JP sector group produced 47 species for the count; the BCBC tallied 114 species, about average for a BCBC in recent years.  The only other highlight for our local group was the discovery of a huge flock of at least 2,000 Common Grackles at the Mass Audubon Nature Center. Normally only a few of these birds- common in the warmer months- are found during the BCBC (only four in 2014).  When seen in the sunlight, they are striking birds:
 
-![Common Grackle](/images/2018/11/P1140752.jpg)
-
 ![Common Grackle](/images/2015/12/P1010016.jpg)
 
 Common Grackle, showing the iridescent sheen of it’s feathers and the yellow iris.
