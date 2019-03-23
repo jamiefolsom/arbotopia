@@ -28,8 +28,7 @@ comments: []
 
 <p>Dorsal view of one of the PV chrysalis attached to a vine stem.</p>
 
-<p><!-- wp:image {"id":1499} --></p>
-<img src="/images/2017/09/P1170614.jpg" alt="" class="wp-image-1499"/>
+![](/images/P1170614.jpg)
 
 <p>The other two chrysalides, seen sideways, attached to the wall of the inclosure.</p>
 
