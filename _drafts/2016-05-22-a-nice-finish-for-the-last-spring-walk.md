@@ -21,7 +21,7 @@ American Redstart, male. The bird we had today was a less colorful female.
 
 One member of the group heard a Common Yellowthroat, another warbler that nests in the Arboretum, but as no one else heard it, we kept with the “two observers must see or hear for it to count” birding rule.  Warbling Vireos, a bird better heard than seen, were heard frequently, and seen less so:
 
-![The Warbling Vireo makes up for it’s drab appearance with a delightful song.](/images/2016/05/P1030436.jpg)
+![](/images/P1030436.jpg)
 
 The Warbling Vireo makes up for it’s drab appearance with a delightful song.
 
