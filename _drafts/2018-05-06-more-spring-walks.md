@@ -6,15 +6,15 @@ author: Bob Mayer
 author_login: admin
 wordpress_id: 103
 wordpress_url: https://arbotopia.com/2018/11/03/102-revision-v1/
-date: '2018-05-06 20:07:52 -0400'
+date: 2018-05-06 20:07:52 -0400
 categories: []
 tags: []
 comments: []
----
 
+---
 On Saturday May 5, I led more than 40 happy birders on a two hour walk on Peters Hill in the Arnold Arboretum. The weather could not have been nicer, and with WSW winds overnight we were hopeful for some warblers and other migrants. We kicked off with a common one and had good looks as he sang in a leafing out birch:
 
-![](/images/2018/05/P1080518_1.jpg)
+![](/images/P1080518_1.jpg)
 
 Singing male Yellow Warbler, showing the rust colored streaks on breast and sides. The song is sometime rendered as “sweet, sweet, a little more sweet”. Can you hear that?
 
@@ -22,19 +22,19 @@ _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 As we moved along we saw and heard several Baltimore Orioles:
 
-![](/images/2018/05/P1160016.jpg)
+![](/images/P1160016.jpg)
 
 Two male Baltimore Orioles competing for territory.
 
 Nearby we spent some time at a flowering cherry where I often find warblers in spring; they were there but were very hard to tease out and weren't singing. Maybe a Nashville, maybe a Yellow-rumped? We had to settle for “warbler species”. But a bit farther on we had good looks at a Black-and-white Warbler:
 
-![](/images/2018/05/P1020244.jpg)
+![](/images/P1160029.jpg)
 
-Black-and-white Warbler in its typical pose on a tree branch.
+Black-and-white Warbler
 
 We ticked off other warblers as we proceeded; Yellow-rumped, Northern Parula, Common Yellowthroat. Then we had our best bird of the walk:
 
-![](/images/2018/05/P1080348.jpg)
+![](/images/P1080348.jpg)
 
 Male Indigo Bunting
 
@@ -42,7 +42,7 @@ This was my earliest first of year (FOY) sighting ever of this species and a “
 
 Topographically much of the rest of the walk was uphill but in terms of birds it was mostly downhill. We had seen a Red-tailed Hawk overhead carrying a small rodent and watched it finally settle into some trees some distance away.. With help from another birder we were able to locate the nest. I had seen what was probably the same bird two days earlier; with mouths to feed these raptors have to keep busy:
 
-![](/images/2018/05/P1020147.jpg)
+![](/images/P1020147.jpg)
 
 I located this adult red-tail because it was being harassed by several jays. Note the hawk is protecting a recent kill.
 
@@ -63,41 +63,41 @@ Let's hope they are able to hold their new nesting site and successfully raise a
 Here is the complete list for the Peters Hill Walk:
 
 **Arnold Arboretum, Suffolk, Massachusetts, US**
-- May 5, 2018 8:00 AM – 10:00 AM
-- Comments: BBC walk, **Peters Hill** 56. sunny
-- **31 species**
 
-- Turkey Vulture 1
-- Red-tailed Hawk 2
-- Herring Gull 2
-- Mourning Dove 2
-- Red-bellied Woodpecker 1
-- Northern Flicker 1
-- Red-eyed Vireo 1
-- Blue Jay 5
-- American Crow 2
-- Black-capped Chickadee 1
-- Tufted Titmouse 1
-- White-breasted Nuthatch 2
-- Eastern Bluebird 2
-- American Robin 30
-- Gray Catbird 2
-- European Starling 4
-- Black-and-white Warbler 1
-- Common Yellowthroat 2
-- Northern Parula 1
-- Yellow Warbler 2
-- Yellow-rumped Warbler 3
-- Chipping Sparrow 5
-- Song Sparrow 3
-- Northern Cardinal 3
-- Indigo Bunting 1
-- Orchard Oriole 1
-- Baltimore Oriole 6
-- Red-winged Blackbird 4
-- Common Grackle 25
-- American Goldfinch 1
-- House Sparrow 4
+* May 5, 2018 8:00 AM – 10:00 AM
+* Comments: BBC walk, **Peters Hill** 56. sunny
+* **31 species**
+* Turkey Vulture 1
+* Red-tailed Hawk 2
+* Herring Gull 2
+* Mourning Dove 2
+* Red-bellied Woodpecker 1
+* Northern Flicker 1
+* Red-eyed Vireo 1
+* Blue Jay 5
+* American Crow 2
+* Black-capped Chickadee 1
+* Tufted Titmouse 1
+* White-breasted Nuthatch 2
+* Eastern Bluebird 2
+* American Robin 30
+* Gray Catbird 2
+* European Starling 4
+* Black-and-white Warbler 1
+* Common Yellowthroat 2
+* Northern Parula 1
+* Yellow Warbler 2
+* Yellow-rumped Warbler 3
+* Chipping Sparrow 5
+* Song Sparrow 3
+* Northern Cardinal 3
+* Indigo Bunting 1
+* Orchard Oriole 1
+* Baltimore Oriole 6
+* Red-winged Blackbird 4
+* Common Grackle 25
+* American Goldfinch 1
+* House Sparrow 4
 
 View this checklist online at [https://ebird.org/view/checklist/S45287689](https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45287689)
 
@@ -154,37 +154,38 @@ _Sound recording courtesy of Lang Elliott NatureSound Studio_
 Here is the list for the Bussey Brook Meadow walk:
 
 **Arnold Arboretum, Suffolk, Massachusetts, US**
-- May 6, 2018 8:00 AM – 9:30 AM
-- Comments: BBC walk, Bussey Brook Meadow
-- Cloudy, 58
+
+* May 6, 2018 8:00 AM – 9:30 AM
+* Comments: BBC walk, Bussey Brook Meadow
+* Cloudy, 58
 
 **25 species**
 
-- Mallard 4
-- Great Blue Heron 1
-- Herring Gull 2
-- Mourning Dove 3
-- Ruby-throated Hummingbird 1
-- Red-bellied Woodpecker 3
-- Downy Woodpecker 4
-- Northern Flicker 1
-- Warbling Vireo 1
-- Blue Jay 5
-- Tufted Titmouse 2
-- House Wren 1
-- American Robin 6
-- Gray Catbird 1
-- Northern Mockingbird 1
-- Northern Parula 1
-- Yellow Warbler 1
-- Black-throated Green Warbler 1
-- Chipping Sparrow 1
-- Song Sparrow 3
-- Northern Cardinal 3
-- Baltimore Oriole 6
-- Red-winged Blackbird 5
-- Common Grackle 20
-- House Sparrow 3
+* Mallard 4
+* Great Blue Heron 1
+* Herring Gull 2
+* Mourning Dove 3
+* Ruby-throated Hummingbird 1
+* Red-bellied Woodpecker 3
+* Downy Woodpecker 4
+* Northern Flicker 1
+* Warbling Vireo 1
+* Blue Jay 5
+* Tufted Titmouse 2
+* House Wren 1
+* American Robin 6
+* Gray Catbird 1
+* Northern Mockingbird 1
+* Northern Parula 1
+* Yellow Warbler 1
+* Black-throated Green Warbler 1
+* Chipping Sparrow 1
+* Song Sparrow 3
+* Northern Cardinal 3
+* Baltimore Oriole 6
+* Red-winged Blackbird 5
+* Common Grackle 20
+* House Sparrow 3
 
 View this checklist online at [https://ebird.org/view/checklist/S45352886](https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45352886)
 
