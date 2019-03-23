@@ -48,13 +48,13 @@ I located this adult red-tail because it was being harassed by several jays. Not
 
 We found our last highlight thru a circuitous route. Earlier in the week I found a pair of bluebirds that were flying in and out of a new nestbox that an Arboretum staff member had placed on the hill. I was pretty excited, because while bluebirds had nested in boxes I put up in 2005, they hadn't done so for over ten years. But the day before our walk the house builder emailed me to say that he saw a House Sparrow sitting on top of the box. Bummer!
 
-![](/images/2018/05/House-Sparrow.jpg)
+![](/images/P1120950.jpg)
 
 Male House Sparrow. This non-native import is a menace to native cavity nest builders as they evict them from nestboxes, sometimes destroying eggs or nestlings in the process.
 
 In the early years of the nestbox program at the Arboretum, House Sparrows were seldom a problem. In recent years however they have taken over most of the dozen or so boxes. I feared this had happened to my long sought after bluebirds, but was heading to the box with the group in hopes it hadn't. A local birding friend who joined the walk told me she had actually seen bluebirds on a box, but not the one I was heading for! We quickly re-directed to another box on the hill, which I thought was unused. Bingo! The Eastern Bluebirds had relocated to this box, and the group had good looks at the pair.
 
-![](/images/2018/05/P1130669.jpg)
+![](/images/P1130669.jpg)
 
 Male Eastern Bluebird guarding a nestbox
 
@@ -105,19 +105,19 @@ Sunday morning's walk was in the newest section of the Arboretum, Bussey Brook M
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
-![](/images/2018/05/P1120536.jpg)
+![](/images/P1120536.jpg)
 
 Red-bellied Woodpecker, formerly a southern species, at a nest hole
 
 It's not often that one starts off a walk with a well seen and heard bird! We proceeded down Blackwell Path- named for the man whose vision and hard work opened up this area to public access- looking for other spring arrivals. After hearing orioles several times we finally got good looks at several:
 
-![](/images/2018/05/P1160015.jpg)
+![](/images/P1160015.jpg)
 
 Male Baltimore Oriole in breeding plumage. Note the bluish bill.
 
 Someone pointed out the beginnings of an oriole nest; these birds are famous for the finely woven nests they suspend from a sturdy branch:
 
-![](/images/2018/05/P1120269.jpg)
+![](/images/P1120269.jpg)
 
 This old nest, captured in silhouette, shows the intricate weaving that allows these nests to remain through winter. The nests are not reused, but sometimes orioles will recycle materials from an old nest when rebuilding.
 
