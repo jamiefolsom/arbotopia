@@ -1,7 +1,6 @@
 ---
 layout: post
 title: End of Year Musings in the Emerald Necklace
-published: true
 author: Bob Mayer
 wordpress_id: 39
 wordpress_url: https://arbotopia.com//2018/11/02/38-revision-v1/
@@ -10,8 +9,8 @@ date_gmt: 2018-11-02 22:35:28 +0000
 categories: []
 tags: []
 comments: []
----
 
+---
 2015 was a year of record breaking weather.  The year started off with a series of overwhelming snowstorms that put much of the area in weather lock-down and wreaked havoc in nature.  Vulnerable avian species, especially species that have moved north as the climate warmed, experienced heavier than usual winter die off.  I usually have one or two Carolina Wrens at my feeders in winter; this year none showed after the storms hit, and I didn’t see or hear one throughout the spring and summer anywhere in the area.  Finally one appeared last month:
 
 ![Disgruntled Carolina Wren](/images/2015/12/P1030908.jpg)
@@ -34,7 +33,7 @@ Gadwalls are regular inhabitants of coastal marshes like Plum Island in Newburyp
 
 At least a few Wood Ducks appear nearly every winter on one or more of the waterways in the Emerald Necklace. This year was the first time that breeding was confirmed however;  a family of seven ducklings and their mother was discovered on Leverett Pond (again by the illustrious Paul Peterson) in late July.
 
-![Family of Wood Ducks on a dead tree limb on Leverett Pond; the adult female is at far left.](/images/2018/12/P1100739-300x143.jpg)
+![](/images/P1100739.jpg)
 
 Family of Wood Ducks on a dead tree limb on Leverett Pond; the adult female is at far left.
 
