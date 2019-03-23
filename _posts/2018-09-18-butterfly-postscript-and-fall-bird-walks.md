@@ -54,8 +54,7 @@ comments: []
 
 <p>On August 25 I had a swallowtail home run; all five species present in a grouping of the same flowering shrub, Harlequin Glorybower <em>Clerodendrum trichotomum.  </em>The Giant Swallowtail that has eluded me in Massachusetts finally appeared, just as the battery in my camera died!  I had to settle for a lousy shot of the lep on my old iPhone:</p>
 
-<p><!-- wp:image {"id":1502} --></p>
-<img src="/images/2017/09/IMG_4019.jpg" alt="" class="wp-image-1502"/>
+![](/images/IMG_4019.jpg)
 
 <p>Giant Swallowtail <em>Papilio cresphontes</em> near Harlequin Glorybower <em>Clerodendrum trichotomum</em></p>
 
