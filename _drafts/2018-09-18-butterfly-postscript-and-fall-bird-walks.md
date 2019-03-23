@@ -50,7 +50,7 @@ comments: []
 
 <p>Pipevine Swallowtail on Harlequin Glorybower</p>
 
-<p>We were not able to determine if any of them had mated and laid eggs.  There are still eight chrysalides that have not eclosed and we will try to successfully hold them over the winter in a variety of settings- outdoors and exposed, outdoors but covered and protected and indoors in an unheated environment- and await the coming of spring and hopefully another batch of butterflies for release.</p>
+<p>We were not able to determine if any of them had mated and laid eggs.  There are still eight chrysalides that have not eclosed and we will try to successfully hold them over the winter in a variety of settings- outdoors and exposed, outdoors but covered and protected and indoors in an unheated environment- and await the coming of spring and hopefully another batch of butterflies for release.</p>
 
 <p>On August 25 I had a swallowtail home run; all five species present in a grouping of the same flowering shrub, Harlequin Glorybower <em>Clerodendrum trichotomum.  </em>The Giant Swallowtail that has eluded me in Massachusetts finally appeared, just as the battery in my camera died!  I had to settle for a lousy shot of the lep on my old iPhone:</p>
 
