@@ -3,7 +3,7 @@ layout: post
 title: Warblers at last!
 author: Bob Mayer
 wordpress_id: 100
-date: 2018-04-23 18:20:37 -0500
+date: 2018-04-23 23:20:37 +0000
 categories:
 - Bird Walks
 - Avian
@@ -32,8 +32,6 @@ _Sound recordings courtesy of Lang Elliott NatureSound Studio_
 
 All of these birds are pretty plain so it wasn’t a big loss that we didn’t see them well. Here is an image of the most colorful of this drab lot:
 
-![](/images/2018/05/P1010954.jpg)
-
 ![](/images/2018/11/P1010954-1688x1200.jpg)
 
 Red-eyed Vireo
@@ -50,21 +48,23 @@ Male Bay-breasted Warbler. Photo: Ted Bradford
 
 Blackburnian Warbler Photo: Ajay Sicloot
 
-Black-throated Green Warbler
-
-![](/images/P1050239-1.jpg)American Redstart
-
-![](/images/P1020287.jpg)
+![](/images/P1020265.jpg)
 
 Black and white Warbler
+
+![](/images/P1010002_2.jpg)
+
+Black-throated Green Warbler
+
+![](/images/P1050239-1.jpg)
+
+American Redstart
 
 ![](/images/2018/11/P1050177.jpg)
 
 Northern Parula
 
-Northern Parula
-
-![](/images/P1020287-1.jpg)
+![](/images/P1020287-2.jpg)
 
 Chest-sided Warbler
 
@@ -78,9 +78,9 @@ Male Yellow-bellied Sapsucker, next to it’s characteristic bark probes, seekin
 
 This was one of five woodpecker species we logged; missing only Pileated Woodpecker.  We then proceeded south where we birded Wompatuck State Park, World’s End and Daniel Webster Wildlife Sanctuary in Marshfield.  The whole day was chilly and damp with occasional rain.  Our target each year is to get at least 80 species; this year we fell short with only 74.  It was all for a good cause; raising money for the summer camp at Mass Audubon’s Boston Nature Center in Mattapan.  All together the BNC raised nearly $14,000 and our team was responsible for $1700 of that.  It’s not too late to donate; here is a link to my [donor site](https://goo.gl/fuocvG).
 
-Returning to Sunday’s Arboretum walk,  we pulled ourselfs away from the warbler bonanza and returned to our starting point, picking up a few more species, including one that was new to some in the group:
+Returning to Sunday’s Arboretum walk,  we pulled ourselves away from the warbler bonanza and returned to our starting point, picking up a few more species, including one that was new to some in the group:
 
-![](/images/2018/05/101455741.jpg)
+![](/images/101455741.jpg)
 
 A perfectly manicured Cedar Waxwing. Photo: Ajay Sicloot
 
@@ -139,7 +139,7 @@ Finally I want to report on an exciting find at the ponds at the Arnold Arbore
 
 One youngster said, “There’s a frog in the tree!”  Disbelieving, I looked on the branch where he was looking and saw this:
 
-![](/images/2018/05/IMG_0388.jpg)
+![](/images/IMG_0383-1.jpg)
 
 Like the boy said, “There’s a frog in the tree!”
 
