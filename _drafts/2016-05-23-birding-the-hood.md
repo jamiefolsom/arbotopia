@@ -41,15 +41,13 @@ comments: []
 
 <p>And here is an image of this lovely, once southern, woodpecker; now commonplace in Boston:</p>
 
-<p><!-- wp:image {"id":1291} --></p>
-<img src="/images/2016/05/P1030156.jpg" alt="P1030156" class="wp-image-1291"/>
+![](/images/P1030156.jpg)
 
 <p>Red-bellied Woodpecker, male.  Twenty years ago a sighting of this species would have drawn birders from all over New England; now it nests regularly on the Emerald Necklace.</p>
 
 <p>After admiring a few more Northern Cardinals, the new college graduates saw a White-breasted Nuthatch in a big oak on the street.  Regrettably, it flew before others could see it; here is what it would have been:</p>
 
-<p><!-- wp:image {"id":1293} --></p>
-<img src="/images/2016/05/W-B-Nuthatch.jpg" alt="W-B Nuthatch" class="wp-image-1293"/>
+![](/images/W-B Nuthatch.jpg)
 
 <p>The White-breasted Nuthatch is the commonest nuthatch in this area. Look for it moving along a tree trunk, seeking out tiny insects to eat.</p>
 
