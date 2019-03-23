@@ -94,17 +94,16 @@ comments: []
 <p>We stopped at an area on the Bussey Hill slope where trillum bloom every spring; I thought it was too early but some were just opening from the bud stage:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":1638} --></p>
-<img src="/images/2018/04/Large-flowered-Trillium-Trillium-grandiflorum.JPG.jpg" alt="" class="wp-image-1638"/>
+
+![](/images/P1120613.jpg)
 
 <p><!-- wp:paragraph --></p>
 <p>Large-flowered Trillium Trillium grandiflorum</p>
 
 <p>As we ended the Arboretum walk a keen eyed member spotted a robin on a nest;  breeding season has begun!</p>
 <p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":1639,"align":"center"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter"><img src="/images/2018/04/P1100059.jpg" alt="" class="wp-image-1639"/>
-</div>
+
+![](/images/P1100059.jpg)
 
 <p>Here is the list of birds we tallied on Saturday:</p>
 
