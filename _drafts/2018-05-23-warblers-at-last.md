@@ -72,7 +72,7 @@ Last weekend when I did the Bird-a-thon (BAT) with three other birders we had o
 
 A brief aside.  The BAT this year was last weekend from 6 PM Friday evening to 6 PM Saturday.  I didn’t join my team of four Friday evening due to a family conflict, but they went to Millennium Park in W. Roxbury and tallied more than 25 species. On Saturday we started off at 6 AM in a small park at the top of Mission Hill, McLaughlin Woods. This has become an urban hot spot in recent years and we got a few nice birds there, including Yellow-bellied Sapsucker:
 
-![](/images/2018/05/P1000348.jpg)
+![](/images/P1000348.jpg)
 
 Male Yellow-bellied Sapsucker, next to it’s characteristic bark probes, seeking sap and the insects drawn to it.
 
