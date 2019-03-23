@@ -135,7 +135,7 @@ Comments:     55-62. sunny.   BBC walk, 45 participants<br>
 
 <p>View this checklist online at <a href="https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45021462">https://ebird.org/view/checklist/S45021462</a></p>
 
-<p>THE SECOND WALK</p>
+**<p>THE SECOND WALK</p>**
 
 <p>When I first looked at my favorite weather app on Sunday at 6:30 AM rain was predicted for 9:45.  Perfect; the walk would just be ending!  But by the time I got to our starting point in Brookline the update showed rain starting at 8 AM, just when we began.  It was right, but fortunately the rain never became too heavy so those that showed up went home a bit cold but not too wet.  The target bird for the Leverett Pond walk was the first one we saw:</p>
 
@@ -159,10 +159,9 @@ Comments:     55-62. sunny.   BBC walk, 45 participants<br>
 
 <p>When the rain lessened we decided to go all the way up through Olmsted Park to Ward’s Pond.  The pond was empty of waterfowl, as it often is, but there was some activity in the nearby trees.  Only a few saw the Eastern Phoebe before it flew off:</p>
 <p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":1644} --></p>
-<img src="/images/2018/04/P1000731.jpg" alt="" class="wp-image-1644"/>
 
-<p><!-- wp:paragraph --></p>
+![](/images/P1000731.jpg)
+
 <p>Eastern Phoebe is a spring species that bobs or pumps it’s tail, as do Palm Warbler and Hermit Thrush. It is a good field sign for quick identification.</p>
 
 <p>We also heard and saw several Tufted Titmouses (yes that’s the official ornithological plural): </p>
@@ -183,8 +182,8 @@ Comments:     55-62. sunny.   BBC walk, 45 participants<br>
 
 <p>I was about to declare that we would have to end the walk without seeing a migrant warbler when someone noticed some small birds moving about high in the trees against the gray sky. Yellow-rumped Warblers!</p>
 <p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":1647} --></p>
-<img src="/images/2018/04/P1120856.jpg" alt="" class="wp-image-1647"/>
+
+![](/images/P1120856.jpg)
 
 <p><!-- wp:paragraph --></p>
 <p>Male Yellow-rumped Warbler. You have to look closely in this image to see the yellow patch above the tail, which defines it’s name and also it’s nickname- Butterbutt</p>
