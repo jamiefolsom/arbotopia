@@ -4,7 +4,7 @@ title: A bright and windy walk in Bussey Brook Meadow
 author: Bob Mayer
 wordpress_id: 81
 wordpress_url: https://arbotopia.com/?p=81
-date: 2017-05-07 17:33:57 -0500
+date: 2017-05-07 22:33:57 +0000
 categories:
 - Bird Walks
 - Avian
@@ -29,7 +29,7 @@ Male Yellow Warbler
 
 Also heard in the same location was another early migrant, Warbling Vireo:
 
-_Sound recording courtesy of Lang Elliott NatureSound Studio_﻿
+_Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 While we were listening to this melodious song someone noticed a nest high in a tree that appeared to have a bird in it.  My first guess was that we were looking at a partially built oriole nest, but when the bird flew out others saw no yellow on the exiting bird, putting my call in question.  Indeed, the bird, and the nest, was that of the singing vireo!
 
@@ -39,7 +39,7 @@ Warbling Vireo on nest.
 
 I stood corrected!  We saw another nesting species on the walk:
 
-![P1240744](/images/2015/05/P1240744.jpg)
+![](/images/P1240744.jpg)
 
 American Robin on nest. Robins build heavy nests often low down in the landscape.
 
