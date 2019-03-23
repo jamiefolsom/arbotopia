@@ -45,15 +45,13 @@ comments: []
 
 <p>We proceeded to the ponds where there wasn’t much action bird wise, but we did enjoy a few turtles:</p>
 
-<p><!-- wp:image {"id":1634} --></p>
-<img src="/images/2018/04/P1010865.jpg" alt="" class="wp-image-1634"/>
+![](/images/P1010865.jpg)
 
 <p>This Eastern Painted Turtle emerged from the mud beneath Faxon Pond just a few weeks ago.</p>
 
 <p>The three ponds created by Olmsted are the only major water feature in the park and can attract some unusual fauna; this mink was spotted there about a month ago</p>
 
-<p><!-- wp:image {"id":1635} --></p>
-<img src="/images/2018/04/P1010692.jpg" alt="" class="wp-image-1635"/>
+![](/images/P1010692.jpg)
 
 <p>American Mink. This member of the weasel family is uncommon away from rivers or other large bodies of water.</p>
 
@@ -73,8 +71,7 @@ comments: []
 
 <p>We knew chippers were present because we saw them:</p>
 
-<p><!-- wp:image {"id":1290} --></p>
-<img src="/images/2016/05/P1120526.jpg" alt="" class="wp-image-1290"/>
+![](/images/P1120526 2.jpg)
 
 <p>Chipping Sparrow, a small sparrow with a plain whitish breast and a crisp rusty cap and eyeline is an early spring arrival.</p>
 
