@@ -123,11 +123,11 @@ This old nest, captured in silhouette, shows the intricate weaving that allows t
 
 We heard a few spring warblers but they were high up in the canopy and hard to see especially in the flat light. We did tease out a few, here are some close-up images of them for better viewing:
 
-![](/images/2018/05/P1050177.jpg)
+![](/images/P1050177.jpg)
 
 Northern Parula, a real gem of spring!
 
-![](/images/2018/05/P1290885.jpg)
+![](/images/P1290885.jpg)
 
 Yellow Warblers are common breeders in the Arboretum
 
@@ -137,13 +137,13 @@ Male Black-throated-green Warbler. I have not been able to confirm breeding of t
 
 A few people got a quick glimpse of a just arrived migrant:
 
-![](/images/2018/05/P1080596.jpg)
+![](/images/P1080596.jpg)
 
 This male Ruby-throated Hummingbird was too fast for my lens.
 
 As we ended the walk we saw a regular summer visitor:
 
-![](/images/2018/05/P1110297.jpg)
+![](/images/P1110297.jpg)
 
 Gray Catbirds are commonplace in spring and summer, many breed here, and they all are gone in fall. True to their name they are all shades of gray, except for the rust coloration under the tail seen in this image
 
