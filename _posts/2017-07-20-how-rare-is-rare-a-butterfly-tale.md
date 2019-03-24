@@ -101,15 +101,9 @@ comments: []
 
 <p>The butterfly inclosure at the Visitor’s Center in the Hunnewell Building.</p>
 
-<p><!-- wp:image {"id":1480} --></p>
-<img src="/images/2017/07/P1170156.jpg" alt="" class="wp-image-1480"/>
-
-<p>Four of the transplanted Pipevine caterpillars seen through the screen inclosure.</p>
-
 <p>As I mentioned at the beginning of this long post, there are five swallowtail species that can be seen on the Arboretum grounds.  I still have one to go, although I did see it a few years ago while vacationing in Pennsylvania:</p>
 
-<p><!-- wp:image {"id":1483} --></p>
-<img src="/images/2017/07/P1210692.jpg" alt="" class="wp-image-1483"/>
+![](/images/P1210692.jpg)
 
 <p>Giant Swallowtail <em>Papilio cresphontes</em>. Although this is a very poor photo, it is enough to confirm the identity of the specimen. The yellow spot within the tail, seen to the right of the lower berries, is diagnostic.</p>
 
