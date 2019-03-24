@@ -46,8 +46,7 @@ comments: []
 
 <p>After crossing Bussey Street we walked a forested path parallel to South Street to the South Street Gate and continued in the woods along Hemlock Hill Road, but saw little avian activity.  As we walked back to the Bussey Street Gate where we began, a keen- eared birder heard a high pitched twittering warble, much too high for my aging ears. A Pine Siskin was calling from the top of a big conifer!</p>
 
-<p><!-- wp:image {"id":1088,"linkDestination":"custom"} --></p>
-<a href="/images/2015/05/P1220603.jpg"><img src="/images/2015/05/P1220603.jpg" alt="P1220603" class="wp-image-1088"/></a>
+![](/images/P1220603.jpg)
 
 <p>Pine Siskin. Note the very sharp bill and yellow cast to the wings and tail.</p>
 
@@ -74,8 +73,7 @@ comments: []
 
 <p>Shortly thereafter we found another cavity nester, Northern Flicker:</p>
 
-<p><!-- wp:image {"id":1094,"linkDestination":"custom"} --></p>
-<a href="/images/2015/05/P1100050.jpg"><img src="/images/2015/05/P1100050.jpg" alt="P1100050" class="wp-image-1094"/></a>
+![](/images/P1100050.jpg)
 
 <p>Male Northern Flicker at nest hole</p>
 
@@ -90,8 +88,7 @@ comments: []
 
 <p>We also found, low down, some regular nests which provided good looks of a female Northern Cardinal on her nest and of two American Robins also sitting on eggs:</p>
 
-<p><!-- wp:image {"id":1095,"linkDestination":"custom"} --></p>
-<a href="/images/2015/05/P1240744.jpg"><img src="/images/2015/05/P1240744.jpg" alt="P1240744" class="wp-image-1095"/></a>
+![](/images/P1240744-1.jpg)
 
 <p>American Robin on nest</p>
 
