@@ -97,8 +97,7 @@ comments: []
 
 <p>Another colleague at the Arboretum has agreed to share her Monarch caterpillar inclosure on display in the Visitors Center, and we have put about a dozen of the Pipevine caterpillars inside along with host plant offerings.  Will they pupate?  Stay tuned, or better yet, come and visit the display when you’re nearby.</p>
 
-<p><!-- wp:image {"id":1479} --></p>
-<img src="/images/2017/07/P1170157.jpg" alt="" class="wp-image-1479"/>
+![](/images/P1170157.jpg)
 
 <p>The butterfly inclosure at the Visitor’s Center in the Hunnewell Building.</p>
 
