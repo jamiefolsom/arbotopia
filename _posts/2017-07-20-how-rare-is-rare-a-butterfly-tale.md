@@ -51,7 +51,7 @@ comments: []
 
 <p>The Editor of the Arboretum’s scientific publication <em>Arnoldia</em> has recently written a great post on <a href="https://web.archive.org/web/20170912192358/https://www.arboretum.harvard.edu/pipevine-dreams/">her blog ARblog</a> which describes this symbiotic relationship in detail.</p>
 
-<p>The Arboretum has a number of these vines growing on the chain link fence surrounding the garage near the main entrance.  I’ve searched them every summer since I learned of the swallowtail connection- in vain.  But this time I spotted something interesting fluttering around the massive leaves of <em>Aristolochia macrophylla</em>:</p>
+<p>The Arboretum has a number of these vines growing on the chain link fence surrounding the garage near the main entrance.  I’ve searched them every summer since I learned of the swallowtail connection- in vain.  But this time I spotted something interesting fluttering around the massive leaves of <em>Aristolochia macrophylla</em>:
 
 <p>Could this be my illusive lep?  A moment later it perched and I got a closer look:</p>
 
