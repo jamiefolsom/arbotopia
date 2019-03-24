@@ -16,8 +16,7 @@ comments: []
 ---
 <p>Saturday April 18th marked the first of a series of spring bird walks in the Arnold Arboretum.  We got off with a bang, the weather was fine, and after this dreadful winter the birders came out in droves; over forty people joined the group.  After first checking the feeders, where there was only a White-breasted Nuthatch, we moved down Meadow Road and found several Tree Swallows checking out the birdhouses on the grassy slope:</p>
 
-<p><!-- wp:image {"id":1063,"linkDestination":"custom"} --></p>
-<a href="/images/2015/04/P1090999.jpg"><img src="/images/2015/04/P1090999.jpg" alt="P1090999" class="wp-image-1063"/></a>
+![](/images/P1090999.jpg)
 
 <p>Two male Tree Swallows inspecting a nest box.</p>
 
