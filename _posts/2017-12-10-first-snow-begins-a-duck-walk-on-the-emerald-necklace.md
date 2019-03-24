@@ -1,18 +1,17 @@
 ---
 layout: post
 status: inherit
-published: true
 title: First Snow begins a Duck Walk on the Emerald Necklace
 author: Bob Mayer
 wordpress_id: 407
 wordpress_url: https://arbotopia.com/2018/11/19/374-revision-v1/
-date: 2017-12-10 22:25:15 -0500
-date_gmt: 2017-12-10 22:25:15 -0500
+date: 2017-12-11 03:25:15 +0000
+date_gmt: 2017-12-11 03:25:15 +0000
 categories: []
 tags: []
 comments: []
----
 
+---
 I always like to lead walks focusing on waterfowl.  The birds are pretty predictable, and often allow for good looks for everyone.  I had scouted for this walk several times in the last week, and all the ducks and other waterfowl I had seen were on full display this morning.  The weather was not as bad as had been predicted but did make for some slow and careful walking for the sixteen of us that spent more than two hours on the walk.
 
 We started by circumnavigating Leverett Pond and by the end had six species of ducks plus a few other birds.  This pond has become a regular home to Wood ducks; recently they have bred here and in the winter months more that 50 have been recorded.  Today we had great looks at a smaller number:
@@ -59,7 +58,7 @@ American Black Duck; darker and a bit larger than the Mallard female, and with a
 
 ![](/images/2018/11/P1270462.jpg?fit=525%2C401&ssl=1)
 
-This shotof a female Mallard shows the different bill color, the overall lighter appearance and the white lining on the wing speculum.
+This shot of a female Mallard with chicks shows the different bill color, the overall lighter appearance and the white lining on the wing speculum.
 
 Finally, one sharp observer noticed a peculiar looking Mallard among the rest:
 
@@ -141,19 +140,19 @@ Comments:     BBC walk, 30, sunny, snow covered
 
 12 species (+1 other taxa)
 
-*   Canada Goose  30
-*   Wood Duck  9
-*   Mallard  60
-*   Mallard (Domestic type)  1
-*   American Black Duck  4
-*   Ring-necked Duck  10
-*   Hooded Merganser  8
-*   Red-tailed Hawk  1
-*   Herring Gull  2
-*   Mourning Dove  1
-*   Blue Jay  1
-*   Tufted Titmouse  1
-*   House Sparrow  6
+* Canada Goose  30
+* Wood Duck  9
+* Mallard  60
+* Mallard (Domestic type)  1
+* American Black Duck  4
+* Ring-necked Duck  10
+* Hooded Merganser  8
+* Red-tailed Hawk  1
+* Herring Gull  2
+* Mourning Dove  1
+* Blue Jay  1
+* Tufted Titmouse  1
+* House Sparrow  6
 
 Jamaica Pond, Suffolk, Massachusetts, US
 
@@ -163,18 +162,18 @@ Comments:     BBC walk. 30,sunny, snow covered
 
 12 species
 
-*   Mute Swan  3
-*   Gadwall  1     continuing female w coots
-*   Ring-necked Duck  1
-*   Hooded Merganser  1
-*   Ruddy Duck  22
-*   Common Loon  1
-*   Great Cormorant  1
-*   Red-tailed Hawk  2
-*   American Coot  11
-*   Ring-billed Gull  25
-*   Herring Gull  5
-*   House Sparrow  4
+* Mute Swan  3
+* Gadwall  1     continuing female w coots
+* Ring-necked Duck  1
+* Hooded Merganser  1
+* Ruddy Duck  22
+* Common Loon  1
+* Great Cormorant  1
+* Red-tailed Hawk  2
+* American Coot  11
+* Ring-billed Gull  25
+* Herring Gull  5
+* House Sparrow  4
 
 View this checklist online at [http://ebird.org/ebird/view/checklist/S41008358](http://ebird.org/ebird/view/checklist/S41008358)
 
