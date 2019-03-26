@@ -22,6 +22,8 @@ comments: []
 
 <p>More often than not the hawk shows you it’s front and displays a creamy-white breast and frequently a speckled “belly band”:</p>
 
+![](/images/P1070147.jpg)
+
 <p>This immature Red-Tailed Hawk was photographed recently stalking my bird feeders. They prefer a mammalian diet but are not above a bird snack in the harsh winter months.<br>Photo: Bob Mayer</p>
 
 <p>We saw a number of Houses Finches; at the Arboretum feeder as well as in trees.  The males are a particularly lovely sight against the drab winter landscape:</p>
