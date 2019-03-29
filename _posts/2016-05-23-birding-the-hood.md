@@ -47,6 +47,8 @@ comments: []
 
 <p>After admiring a few more Northern Cardinals, the new college graduates saw a White-breasted Nuthatch in a big oak on the street.  Regrettably, it flew before others could see it; here is what it would have been:</p>
 
+![](/images/W-B Nuthatch-1.jpg)
+
 <p>The White-breasted Nuthatch is the commonest nuthatch in this area. Look for it moving along a tree trunk, seeking out tiny insects to eat.</p>
 
 <p>Here is our meager list for the walk:</p>
