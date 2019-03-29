@@ -57,7 +57,7 @@ comments: []
 
 <p>We also inspected several of the fifteen nest boxes that are scattered about on the AA grounds.  In one of the boxes in Leventritt Garden we caught a House Wren peering out of the hole before it flew.</p>
 
-![](/images/P1100267_1.jpg)
+![](/images/P1100267_1-1.jpg)
 
 <p>House Wren on a Honey Locust tree</p>
 
