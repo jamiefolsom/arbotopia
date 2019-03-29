@@ -63,7 +63,7 @@ comments: []
 
 <p>We didn’t disturb the nest, but here is what we might have seen if we had:</p>
 
-![](/images/P1100253.jpg)
+![](/images/P1100253-1.jpg)
 
 <p>House Wren nestlings. The stick nest is typical of the species. This image was taken in 2006 during a survey of nest boxes. No birds were harmed during this survey!</p>
 
