@@ -104,8 +104,7 @@ comments: []
 
 <p>Here is one species we should see on that walk:</p>
 
-<p><!-- wp:image {"id":1216} --></p>
-<img src="/images/2016/04/P1090463.jpg" alt="P1090463" class="wp-image-1216"/>
+![](/images/P1090463.jpg)
 
 <p>Male Wood Duck</p>
 
