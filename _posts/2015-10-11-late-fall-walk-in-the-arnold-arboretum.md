@@ -43,8 +43,7 @@ comments: []
 
 <p>Flying back and forth over Dawson Pond we saw the bird, a Belted Kingfisher!  Kingfishers are never far from open water, and they usually seek greater bodies than the Arboretum has to offer.  Perhaps the concentration of fish brought on by the dry summer brought this one in. In less than a minute, it flew off to the north. They are striking birds:
 
-  
-![](/images/P1040808.jpg)
+![](/images/P1040808-1.jpg)
 
 <p>This distant image of a Belted Kingfisher shows it to be a female, from the brown belly band.</p>
 
