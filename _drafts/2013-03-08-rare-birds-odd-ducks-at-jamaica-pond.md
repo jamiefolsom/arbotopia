@@ -37,8 +37,7 @@ comments: []
 
 <p>Northern Shovelers are well named for their very wide bill, built for scooping along the water’s surface to pick up small invertebrates or bits of vegetation.  In 2002, one of them ran afoul of urban bad habits in the <a href="https://web.archive.org/web/20140426115604/https://www.google.com/maps/ms?msa=0&msid=217541233018515973334.0004d3f5dfbfb11f8bc5f&ie=UTF8&ll=42.340854,-71.095555&spn=0.007042,0.010021&t=m&z=17&vpsrc=6&iwloc=0004d6f87eeeb073c2c5c" target="_blank" rel="noreferrer noopener">Muddy River’s North Basin</a> behind the Museum of Fine Arts in the Fenway, probably because of that feeding pattern:</p>
 
-<p><!-- wp:image {"id":177,"linkDestination":"custom"} --></p>
-<a href="http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/snared-shoveler-2/"><img src="/images/2013/02/Snared-Shoveler-2.jpg" alt="Snared Shoveler #2" class="wp-image-177"/></a>
+![](/images/Snared Shoveler #2.jpg)
 
 <p>Snared Northern Shoveler in the Muddy River behind the MFA in 2002.<br>Photo: Bob Mayer</p>
 
@@ -53,15 +52,13 @@ comments: []
 
 <p>These handsome ducks should have been called “ring-billed” due to the white ring around their bill. The bill marking is far more distinctive than the chestnut neck ring, found on males and seen only at close range.  One or more Ring-necks have been seen every year recently on the Pond.  On the other hand, the Canvasback—the largest of the <em>Aythya g</em>roup—was documented only once before in this century until two males arrived in January, departing less than 48 hours later.</p>
 
-<p><!-- wp:image {"id":183,"linkDestination":"custom"} --></p>
-<a href="/images/2013/02/P1030762.jpg"><img src="/images/2013/02/P1030762.jpg" alt="P1030762" class="wp-image-183"/></a>
+![](/images/P1030762.jpg)
 
 <p>Canvasback, male. This image captures the beauty of the duck when it made a brief appearance on the Pond on January 14, 2013.<br>Photo: Bob Mayer</p>
 
 <p>As in many duck genera, <em>Aythya</em> females are much less intensely patterned than the males, which makes them harder to identify.</p>
 
-<p><!-- wp:image {"id":184,"linkDestination":"custom"} --></p>
-<a href="/images/2013/02/P1030831.jpg"><img src="/images/2013/02/P1030831.jpg" alt="P1030831" class="wp-image-184"/></a>
+![](/images/P1030833.jpg)
 
 <p>Redhead <em>Aythyra americana</em>, female. The male of this species has a distinct red head (not unlike the Canvasback pictured above).   <em>Aythyra</em> females can be easily confused with one another.<br>Photo: Bob Mayer</p>
 
