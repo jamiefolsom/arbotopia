@@ -64,8 +64,7 @@ comments: []
 
 <p>The last of the <em>Aythyra</em> genus which appear on the Pond occasionally in winter are the Scaups, Greater and Lesser, the latter more commonly.</p>
 
-<p><!-- wp:image {"id":231,"linkDestination":"custom"} --></p>
-<a href="/images/2013/02/P1020942.jpg"><img src="/images/2013/02/P1020942.jpg" alt="P1020942" class="wp-image-231"/></a>
+![](/images/P1020942.jpg)
 
 <p>Lesser Scaup, male.<br>Photo: Bob Mayer</p>
 
@@ -78,8 +77,7 @@ comments: []
 
 <p>Another water bird is common on the Pond much of the year, but is rarely seen in the winter:</p>
 
-<p><!-- wp:image {"id":187,"linkDestination":"custom"} --></p>
-<a href="/images/2013/02/P1260810.jpg"><img src="/images/2013/02/P1260810.jpg" alt="P1260810" class="wp-image-187"/></a>
+![](/images/P1260810.jpg)
 
 <p>Double-Crested Cormorant. These birds often hold this position, thought to be for drying out their feathers which are less waterproof than most waterfowl.<br>Photo: Bob Mayer</p>
 
@@ -101,8 +99,7 @@ comments: []
 
 <p>Finally I should mention another bird that everyone recognizes when they arrive— Mute Swans.  Mute Swans were imported from Europe in the late 1800s as decorative waterfowl on city ponds and estates and so are not native.  They have multiplied rapidly in the wild and with a voracious appetite and an aggressive attitude they are now considered an invasive species.  They will chase other waterfowl and even people. Here is one getting in your face:</p>
 
-<p><!-- wp:image {"id":239,"linkDestination":"custom"} --></p>
-<a href="/images/2013/02/P1010021.jpg"><img src="/images/2013/02/P1010021.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-239"/></a>
+![](/images/P1010021.jpg)
 
 <p>A male Mute Swan staring me down.<br>Photo: Bob Mayer</p>
 
