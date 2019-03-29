@@ -114,8 +114,7 @@ comments: []
 
 <p>Another early bloomer, fragrant as is the Witch Hazel above, is the Spicebush:</p>
 
-<p><!-- wp:image {"id":1020,"linkDestination":"custom"} --></p>
-<a href="/images/2015/02/P1180449.jpg"><img src="/images/2015/02/P1180449.jpg" alt="P1180449" class="wp-image-1020"/></a>
+![](/images/P1180449.jpg)
 
 <p>Japanese Spicebush <em>Lindera obtusiloba</em>, showing it’s handsome bark as well as it’s inflorescence.</p>
 
@@ -150,15 +149,13 @@ comments: []
 
 <p>All those blossoms bring out the insects:</p>
 
-<p><!-- wp:image {"id":1030,"linkDestination":"custom"} --></p>
-<a href="/images/2015/02/P1100780.jpg"><img src="/images/2015/02/P1100780.jpg" alt="P1100780" class="wp-image-1030"/></a>
+![](/images/P1100780.jpg)
 
 <p>Honeybee on <em>clethra sps</em>.</p>
 
 <p>Which bring in the birds:</p>
 
-<p><!-- wp:image {"id":1031,"linkDestination":"custom"} --></p>
-<a href="/images/2015/02/P1080522.jpg"><img src="/images/2015/02/P1080522.jpg" alt="P1080522" class="wp-image-1031"/></a>
+![](/images/P1080522.jpg)
 
 <p>Yellow Warbler, male</p>
 
