@@ -22,6 +22,8 @@ comments: []
 
 <p>That is indeed where many nest, but for the rest of the year they move about on both salt water and fresh.  This Common Loon, wearing its winter plumage rather than the classic summer tuxedo, hung out on Jamaica Pond for at least six weeks this winter. As the Pond began to ice up in early January, it departed:</p>
 
+![](/images/P1030094.jpg)
+
 <p>Common Loon in winter plumage. The long bill, size and low carriage are diagnostic.<br>Photo: Bob Mayer</p>
 
 <p>Just recently, another member of the loon family appeared on the Pond—an immature Red-throated Loon.  It never got close enough to the shore to allow for a photo op.</p>
