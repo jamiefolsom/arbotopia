@@ -90,8 +90,7 @@ comments: []
 
 <p>In my view, the most beautiful duck on Jamaica Pond is the Wood Duck.</p>
 
-<p><!-- wp:image {"id":235,"linkDestination":"custom"} --></p>
-<a href="/images/2013/02/P10100161.jpg"><img src="/images/2013/02/P10100161.jpg" alt="OLYMPUS DIGITAL CAMERA" class="wp-image-235"/></a>
+![](/images/P1010016.jpg)
 
 <p>Wood Duck, male. This species is seen more often on other waterways of the Emerald Necklace than on Jamaica Pond.<br>Photo: Bob Mayer</p>
 
