@@ -12,26 +12,7 @@ tags: []
 comments: []
 
 ---
-<p>When I postponed the January winter walk I was hoping for warmer weather and we got it; the thermometer was 20 degrees higher than last Sunday.  But it was still only 15 degrees and despite that over 20 energetic people showed up for the walk in the Arnold Arboretum.  Fortunately I had a co-leader on the walk, Brendan Keegan who in addition to being a good birder is an Arboretum Gardener. On the walk he talked with the group about some of the woody plants in the collection that provide food and shelter for our avian friends.  Here is a pictorial spread of some of the shrubs he discussed during the walk:</p>
-
-<p><!-- wp:image {"id":193} --></p>
-<img src="/images/2018/11/Fall-Berries-PS-2.jpg" alt="" class="wp-image-193"/>
-
-<p><!-- wp:image {"id":192} --></p>
-<img src="/images/2018/11/Fall-Berries-PS-1.jpg" alt="" class="wp-image-192"/>
-
-<p><!-- wp:image --></p>
-<img src="blob:https://arbotopia.com/085ff270-5495-499f-9b2a-d9253f139715" alt=""/>
-
-<p><!-- wp:image --></p>
-<img src="blob:https://arbotopia.com/77f60ef2-e09a-4a1d-91be-f10aefb37975" alt=""/>
-
-<p><!-- wp:image {"id":191} --></p>
-<img src="/images/2018/11/Fall-Berries-PS.jpg" alt="" class="wp-image-191"/>
-
-<p>Clockwise from upper left; Amur Honeysuckle <em>Lonicera maackii</em>, Harlequin Glorybower <em>Clerodendrum trichotomum</em>, Purple Beautyberry <em>Callicarpa japonica var. luxurians</em>, Common Winterberry <em>Ilex verticillata</em>, Cultivar of Holly <em>Ilex</em> ‘Lidia Morris’, <em>Lindera umbellata</em>.</p>
-
-<p>All of these beautiful shrubs, and many more, provide food for fall migrants in preparation for their long migratory travels, as well as for our winter residents.  Brendan noted the variation in berry maturation time of these plants and how that is good for the birds as well as the plants themselves by fostering seed distribution.  In the Children’s Field Study Program we have a name for that- Eat and Excrete- much fancier than eat and poop!</p>
+<p>When I postponed the January winter walk I was hoping for warmer weather and we got it; the thermometer was 20 degrees higher than last Sunday.  But it was still only 15 degrees and despite that over 20 energetic people showed up for the walk in the Arnold Arboretum.  Fortunately I had a co-leader on the walk, Brendan Keegan who in addition to being a good birder is an Arboretum Gardener. On the walk he talked with the group about some of the woody plants in the collection that provide food and shelter for our avian friends.  These beautiful shrubs provide food for fall migrants in preparation for their long migratory travels, as well as for our winter residents.  Brendan noted the variation in berry maturation time of these plants and how that is good for the birds as well as the plants themselves by fostering seed distribution.  In the Children’s Field Study Program we have a name for that- Eat and Excrete- much fancier than eat and poop!</p>
 
 <p>Far and away the best birding on this cold morning was at the Hunnewell feeding station and we spent time there at the start and finish of the walk.  In fact, every species we encountered were on or near the feeders at one time or another, although several were also seen elsewhere in the landscape.  At the start we had good looks at both common local finches, House Finch and American Goldfinch,  as well as chickadees, and Downy Woodpeckers.</p>
 
