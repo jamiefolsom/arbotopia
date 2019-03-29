@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arboretum Bird Walk, Saturday April 27, 2013
+title: Great Horned Owl Nesting!
 author: Bob Mayer
 featured: false
 categories: []
