@@ -71,7 +71,7 @@ comments: []
 
 <p>We knew chippers were present because we saw them:</p>
 
-![](/images/P1120526 2.jpg)
+![](/images/P1010814.jpg)
 
 <p>Chipping Sparrow, a small sparrow with a plain whitish breast and a crisp rusty cap and eyeline is an early spring arrival.</p>
 
