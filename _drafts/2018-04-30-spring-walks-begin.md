@@ -28,7 +28,7 @@ comments: []
 <figure class="alignright"><img src="/images/2018/11/P1030156.jpg" alt="" class="wp-image-128"/><br />
 <figcaption>Male Red-bellied woodpecker</figcaption>
 
-![](/images/P1100068.jpg)
+![](/images/Grackle #3.jpg)
 
 <p style="text-align:center">The Common Grackle in some light is solid black, but can show a beautiful iridescence on the head setting off its white eyes.</p>
 
