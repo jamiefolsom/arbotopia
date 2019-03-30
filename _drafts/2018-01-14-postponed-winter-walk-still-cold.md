@@ -50,7 +50,6 @@ comments: []
 <p><!-- wp:image {"id":1588,"align":"center"} --></p>
 <div class="wp-block-image">
 <figure class="aligncenter"><img src="/images/2018/01/P1090443.jpg" alt="" class="wp-image-1588"/>
-</div>
 
 <p><!-- wp:image {"id":176} --></p>
 <img src="/images/2018/11/P1090443.jpg" alt="" class="wp-image-176"/>
