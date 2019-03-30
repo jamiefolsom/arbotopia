@@ -1,23 +1,20 @@
 ---
 layout: post
-published: true
 title: 2017 Bird-a-thon for the Boston Nature Center
 author: Bob Mayer
 wordpress_id: 72
 wordpress_url: https://arbotopia.com/?p=72
-date: 2017-05-15 16:40:29 -0500
+date: 2017-05-15 21:40:29 +0000
 categories:
 - Avian
 - Waterfowl
 tags: []
 comments: []
----
 
+---
 On Saturday May 13th I joined two other birders for a full day of birding to support the Boston Nature Center’s Bird-a-thon (BAT) team.  The time frame for Bird-a-thon is 24 hours, and some of our team started at 6 PM Friday night; I was home cooking supper during their local excursion to Millennium Park. It’s good that they went because more than a half dozen of our total recorded birds were Friday night finds that we didn’t see on Saturday.
 
 We left Boston at 6 AM and hit our first stop, [Wompatuck State Park](https://www.mass.gov/locations/wompatuck-state-park), before 7.  This huge park in Hingham is often a great location for migrating warblers in mid May, but the crazy spring weather has thrown the migration off.  Many of the 20 or so warbler species that can be seen there were missing.  We did get some though, including the uncommon Bay-breasted Warbler.  I have never been able to get a good image of this bird- they’re often high in the canopy- so I borrowed one from a friend who is an excellent birder and photographer:
-
-![Bay-breasted Warbler- Ted Bradford](/images/2017/05/Bay-breasted-Warbler-Ted-Bradford.jpg)
 
 A great shot of the striking Bay-breasted Warbler- Photo courtesy of Ted Bradford
 
@@ -65,7 +62,7 @@ As we were heading back to the car our youngest member spied something high up i
 
 ![](/images/2018/11/P1120818.jpg)
 
-Blue-headed Vireo. This vireo was once lumped with two others as Solitary Vireo, but DNA studies in 199o’s lead to the three types being split into three distinct species.
+Blue-headed Vireo. This vireo was once lumped with two others as Solitary Vireo, but DNA studies in 1990’s lead to the three types being split into three distinct species.
 
 So we ended up seeing three of the six possible vireos in this region.  It was a fine way to end a long day.
 
