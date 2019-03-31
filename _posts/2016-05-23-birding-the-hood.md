@@ -51,10 +51,8 @@ After admiring a few more Northern Cardinals, the new college graduates saw a Wh
 The White-breasted Nuthatch is the commonest nuthatch in this area. Look for it moving along a tree trunk, seeking out tiny insects to eat.
 
 Here is our meager list for the walk:
-
-Sumner Hill JP, Suffolk, Massachusetts, US
-
-May 22, 2016 8:30 AM – 10:00 AM
+* Sumner Hill JP, Suffolk, Massachusetts, US
+* May 22, 2016 8:30 AM – 10:00 AM
 
 **16 species**
 
