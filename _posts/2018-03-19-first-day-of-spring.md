@@ -47,24 +47,29 @@ So it is no longer the tallest, but it remains for future school children to dis
 I have five spring walks planned for 2018, beginning on Saturday April 28th. Here is the list:
 
 **Saturday, April 28**
+
 *   Arnold Arboretum, Boston. Morning.
 *   A 90-minute walk suitable for beginners as well as more experienced birders. See the arboretum website [http://www.arboretum.harvard.edu](http://www.arboretum.harvard.edu) for directions or to download a checklist of birds. Meeting location: Main Gate off the Arborway, park along Arborway 8:00 AM to 9:30 AM
 *   Bob Mayer, Jamaica Plain Jamaica Plain(617) 983-3330
 *   rgmayer38@gmail.com
 
 **Sunday, April 29**
+
 *   Olmstead Park and Leverett Pond, Brookline. Morning.
 *   This 90-minute walk is co-sponsored by the Brookline Green Space Alliance and is suitable for beginning birders as well as those more experienced. Meeting location: Parking lot at 33 Pond Avenue in front of the Brook House. 8;00 am to 9:30 AM
 
 **Saturday, May 5**
+
 *   Arnold Arboretum, Boston. Morning.
 *   A 90-minute walk suitable for beginners as well as more experienced birders. See the arboretum website [http://www.arboretum.harvard.edu](http://www.arboretum.harvard.edu) for directions or to download a checklist of birds. Meeting location: Peters Hill Gate on Bussey Street 8:00 AM to 9:30 AM
 
 **Sunday, May 6**
+
 *   Bussey Brook Meadow, Arnold Arboretum, Boston. Morning.
 *   The Arboretum Park Conservancy and the BBC are sponsoring this 90-minute walk in the Bussey Brook area of the Arboretum. The walk is suitable for beginning birders as well as those more experienced. Meeting location: South Street gate to the Arboretum, on South Street, where there is limited parking. Also accessible from Forest Hills T Station path from Washington Street 8:00 AM to 9:30 AM
 
 **Sunday, May 20**
+
 *   Arnold Arboretum, Boston. Morning.
 *   A 90-minute walk suitable for beginners as well as more experienced birders. See the arboretum website https://www.arboretum.harvard.edu/ for directions or to download a checklist of birds. Meeting location: Main Gate off the Arborway, park along Arborway 8:00 AM to 9:30 AM
 *   Bob Mayer, Jamaica Plain Jamaica Plain(617) 983-3330
