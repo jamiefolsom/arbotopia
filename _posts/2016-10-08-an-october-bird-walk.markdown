@@ -14,100 +14,91 @@ tags: []
 comments: []
 
 ---
-<p>This morning twenty people faced 40 degree fall weather for a bird walk in the Arnold Arboretum.  Most were local folks but we had a visitor from London and a newly arrived transplant from North Carolina.  She was especially pleased when we heard the clarion call of a Carolina Wren:</p>
 
-<p>We were never able to tease it out of the thick underbrush at the edge of the property; too bad as it is a striking little bird:</p>
+This morning twenty people faced 40 degree fall weather for a bird walk in the Arnold Arboretum.  Most were local folks but we had a visitor from London and a newly arrived transplant from North Carolina.  She was especially pleased when we heard the clarion call of a Carolina Wren:
 
-<p><!-- wp:image {"id":1321} --></p>
-<img src="/images/2016/10/P1060458.jpg" alt="p1060458" class="wp-image-1321"/>
+We were never able to tease it out of the thick underbrush at the edge of the property; too bad as it is a striking little bird:
 
-<p>Carolina Wren, with downturned bill.</p>
+![p1060458](/images/2016/10/P1060458.jpg)
 
-<p>Another “good” bird was only seen by a few people, one of whom was a very competent birder. It was a Red-breasted Nuthatch!</p>
+Carolina Wren, with downturned bill.
 
-<p><!-- wp:image {"id":405} --></p>
-<img src="/images/2013/04/P1060706.jpg" alt="P1060706" class="wp-image-405"/>
+Another “good” bird was only seen by a few people, one of whom was a very competent birder. It was a Red-breasted Nuthatch!
 
-<p>Red-breasted Nuthatch. In contrast to the Carolina Wren, above, this bird has a straight, almost upturned bill.</p>
+![P1060706](/images/2013/04/P1060706.jpg)
 
-<p>This is the much less common cousin of the White-breasted Nuthatch, but for some reason “RB Nuts”  are being seen a lot this year.</p>
+Red-breasted Nuthatch. In contrast to the Carolina Wren, above, this bird has a straight, almost upturned bill.
 
-<p>Our first bird on the walk was a migrant straggler:</p>
+This is the much less common cousin of the White-breasted Nuthatch, but for some reason “RB Nuts”  are being seen a lot this year.
 
-<p><!-- wp:image {"id":1322} --></p>
-<img src="/images/2016/10/P1130390.jpg" alt="p1130390" class="wp-image-1322"/>
+Our first bird on the walk was a migrant straggler:
 
-<p>Gray Catbird. Most of these common summer migrants have left by late October, heading as far south as Central America.</p>
+![p1130390](/images/2016/10/P1130390.jpg)
 
-<p>We saw only one migrating fall warbler and it was too high up and fast moving for a positive identification.</p>
+Gray Catbird. Most of these common summer migrants have left by late October, heading as far south as Central America.
 
-<p>In the lilac collection we came upon several flocks of House Finches, the most numerous bird on the walk.</p>
+We saw only one migrating fall warbler and it was too high up and fast moving for a positive identification.
+
+In the lilac collection we came upon several flocks of House Finches, the most numerous bird on the walk.
 
 ![](/images/P1070753.jpg)
 
-<p>House Finch, male</p>
+House Finch, male
 
-<p>We did see one new arrival; a species seldom seen in summer but common in fall and winter:</p>
+We did see one new arrival; a species seldom seen in summer but common in fall and winter:
 
-<p><!-- wp:image {"id":1232} --></p>
-<img src="/images/2016/04/P1110340.jpg" alt="P1110340" class="wp-image-1232"/>
+![P1110340](/images/2016/04/P1110340.jpg)
 
-<p>White-throated Sparrow, Male</p>
+White-throated Sparrow, Male
 
-<p>When I played it’s melancholic song it perked right up!</p>
+When I played it’s melancholic song it perked right up!
 
-<p>As we finished the walk we picked up a juvenile Red-tailed Hawk moving about over the wet meadow near the main entrance, thus managing to see at least as many bird species as there were participants in the walk.</p>
+As we finished the walk we picked up a juvenile Red-tailed Hawk moving about over the wet meadow near the main entrance, thus managing to see at least as many bird species as there were participants in the walk.
 
-<p>Here is the list:</p>
+Here is the list:
 
-<p>Arnold Arboretum, Suffolk, Massachusetts, US</p>
+* Arnold Arboretum, Suffolk, Massachusetts, US
+* Oct 8, 2016 8:00 AM – 10:00 AM
+* Comments:     overcast, 46 F
 
-<p>Oct 8, 2016 8:00 AM – 10:00 AM</p>
+20 species (+1 other taxa)
 
-<p>Comments:     overcast, 46 F</p>
+*   Red-tailed Hawk  1
+*   Herring Gull 1
+*   Rock Pigeon (Feral Pigeon)  2
+*   Mourning Dove  1
+*   Red-bellied Woodpecker  1
+*   Downy Woodpecker  1
+*   Blue Jay  5
+*   American Crow  1
+*   Black-capped Chickadee  4
+*   Red-breasted Nuthatch  1
+*   Carolina Wren 1
+*   American Robin  15
+*   Gray Catbird  1
+*   Northern Mockingbird  1
+*   warbler sp. (Parulidae sp.)  1
+*   White-throated Sparrow  1
+*   Song Sparrow  3
+*   Northern Cardinal  3
+*   House Finch  25
+*   American Goldfinch  3
+*   House Sparrow  10
 
-<p>20 species (+1 other taxa)</p>
+View this checklist online at [http://ebird.org/ebird/view/checklist/S31943584](http://ebird.org/ebird/view/checklist/S31943584)
 
-<p><!-- wp:list --></p>
-<ul>
-<li>Red-tailed Hawk  1</li>
-<li>Herring Gull 1</li>
-<li>Rock Pigeon (Feral Pigeon)  2</li>
-<li>Mourning Dove  1</li>
-<li>Red-bellied Woodpecker  1</li>
-<li>Downy Woodpecker  1</li>
-<li>Blue Jay  5</li>
-<li>American Crow  1</li>
-<li>Black-capped Chickadee  4</li>
-<li>Red-breasted Nuthatch  1</li>
-<li>Carolina Wren 1</li>
-<li>American Robin  15</li>
-<li>Gray Catbird  1</li>
-<li>Northern Mockingbird  1</li>
-<li>warbler sp. (Parulidae sp.)  1</li>
-<li>White-throated Sparrow  1</li>
-<li>Song Sparrow  3</li>
-<li>Northern Cardinal  3</li>
-<li>House Finch  25</li>
-<li>American Goldfinch  3</li>
-<li>House Sparrow  10</li>
-</ul>
-<p><!-- /wp:list --></p>
+This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org/))
 
-<p>View this checklist online at <a href="http://ebird.org/ebird/view/checklist/S31943584">http://ebird.org/ebird/view/checklist/S31943584</a></p>
+This is my last bird walk in the Arboretum this year. We will kick off 2017 with a winter walk, starting from the main gate, on Sunday January 8th and beginning at 9 AM.  I will also be doing a waterfowl walk on Sunday December 11th; here is the announcement for that:
 
-<p>This report was generated automatically by eBird v3 (<a href="http://ebird.org/">http://ebird.org</a>)</p>
+Emerald Necklace Ponds, Boston/ Brookline.This 90-minute walk will focus on waterfowl and other winter species in the ponds and adjacent woods of the Emerald Necklace.  Suitable for beginning birders as well as more experienced birders.  The walk is co-sponsored by the National Park Service/Frederick Law Olmsted National Historic Site, the Brookline GreenSpace Alliance and the Emerald Necklace Bird Club.  Meeting Location: Parking lot for Daisy Field, Olmsted Park on Willow Pond Road, between Pond Avenue and the Jamaicaway, 9AM to 10:30 AM
 
-<p>This is my last bird walk in the Arboretum this year. We will kick off 2017 with a winter walk, starting from the main gate, on Sunday January 8th and beginning at 9 AM.  I will also be doing a waterfowl walk on Sunday December 11th; here is the announcement for that:</p>
-
-<p>Emerald Necklace Ponds, Boston/ Brookline.This 90-minute walk will focus on waterfowl and other winter species in the ponds and adjacent woods of the Emerald Necklace.  Suitable for beginning birders as well as more experienced birders.  The walk is co-sponsored by the National Park Service/Frederick Law Olmsted National Historic Site, the Brookline GreenSpace Alliance and the Emerald Necklace Bird Club.  Meeting Location: Parking lot for Daisy Field, Olmsted Park on Willow Pond Road, between Pond Avenue and the Jamaicaway, 9AM to 10:30 AM</p>
-
-<p>Here is one species we should see on that walk:</p>
+Here is one species we should see on that walk:
 
 ![](/images/P1090463.jpg)
 
-<p>Male Wood Duck</p>
+Male Wood Duck
 
-<p>I hope some of you will be able to attend.</p>
+I hope some of you will be able to attend.
 
-<p>Good Birding!</p>
+Good Birding!

@@ -88,7 +88,7 @@ Last year a single male Ruddy remained on Jamaica Pond until June, and though th
 
 ![](/images/2018/11/P1160589-1024x839.jpg)
 
-Male Ruddy Duck in breeding plumage, showing why they are called “ruddy” and also displaying it’s “[cartoonishly bold, sky-blue bill](https://web.archive.org/web/20180128153914/https://www.allaboutbirds.org/guide/Ruddy_Duck/id)“
+Male Ruddy Duck in breeding plumage, showing why they are called “ruddy” and also displaying it’s “[cartoonishly bold, sky-blue bill](https://www.allaboutbirds.org/guide/Ruddy_Duck/id)“
 
 The other reliable winter visitor to Jamaica Pond is the American Coot:
 
