@@ -30,8 +30,8 @@ fields:
     required: true
   default: post
 pages:
+- _posts/2019-03-10-where-s-arbotopia-been.md
 - _posts/2019-03-29-arboretum-bird-walk-saturday-april-27-2013-1.md
 - _posts/where-s-arbotopia-been.md
-- _posts/2019-03-10-where-s-arbotopia-been.md
 - _posts/where-s-arbotopia-been.md
 - _posts/2019-01-13-good-weather-and-good-birds-to-open-2019.md
