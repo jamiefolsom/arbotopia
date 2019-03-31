@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arboreutm Walks Begin!
+title: Arboretum Walks Begin!
 author: Bob Mayer
 author_login: admin
 wordpress_id: 27
