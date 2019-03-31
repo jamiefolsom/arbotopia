@@ -17,7 +17,7 @@ comments: []
 ---
 
 
-Saturday was the annual January Arnold Arboretum bird walk and 30 people signed up on the Arboretum website.  When I awakened and saw the temperature at 12° F, I wondered if anyone would show up.  I got to the main gate at 9AM (Temp 16° F) and was greeted by 19 bundled-up birders, eager and ready to go!  Our first stop was the feeders next to the Hunnewell Building; maintained with funds from the 1912 Edward Whitney Bird Fund (more about that in a future post).  There was little bird activity in the trees and bushes on the grounds, but the feeders were hopping!  Nothing special; but this group of mostly beginning birders were delighted with close-up views of House Finches, American Goldfinches, cardinals and four sparrow species.  I also discussed the [“magic halo”](http://www.arbotopia.com/?s=what+about+bird+feeders) I put around the feeders in December; it was doing it’s job.  All the House Sparrows were on the ground waiting for cast-offs from the birds at the feeders.
+Saturday was the annual January Arnold Arboretum bird walk and 30 people signed up on the Arboretum website.  When I awakened and saw the temperature at 12° F, I wondered if anyone would show up.  I got to the main gate at 9AM (Temp 16° F) and was greeted by 19 bundled-up birders, eager and ready to go!  Our first stop was the feeders next to the Hunnewell Building; maintained with funds from the 1912 Edward Whitney Bird Fund (more about that in a future post).  There was little bird activity in the trees and bushes on the grounds, but the feeders were hopping!  Nothing special; but this group of mostly beginning birders were delighted with close-up views of House Finches, American Goldfinches, cardinals and four sparrow species.  I also discussed the [“magic halo”](/2014/03/14/what-about-birdfeeders.html) I put around the feeders in December; it was doing it’s job.  All the House Sparrows were on the ground waiting for cast-offs from the birds at the feeders.
 
 As we moved on, the birding went from active to nearly absent.  We picked up a Northern Mockingbird in the Leventritt Gardens that responded to my pishing:
 
@@ -25,7 +25,7 @@ As we moved on, the birding went from active to nearly absent.  We picked up a 
 
 Northern Mockingbird. This is a year-round species in the Arboretum.                                        Photo: Bob Mayer
 
-We circled down Bussey Hill Road to the ponds which were solid ice.  I showed the group [last winter’s roosting hole](http://www.arbotopia.com/2014/02/) for an Eastern Screech-owl, but it was vacant.  As we walked past the hole however, a passerby reported there had been an owl in the hole earlier in the morning.  Arboretum birders, keep on the lookout!  We did find some open water farther along on the way back and there were several species in and around that “seep”, including about six of the more than 30 Mourning Doves we admired:
+We circled down Bussey Hill Road to the ponds which were solid ice.  I showed the group [last winter’s roosting hole](#) for an Eastern Screech-owl, but it was vacant.  As we walked past the hole however, a passerby reported there had been an owl in the hole earlier in the morning.  Arboretum birders, keep on the lookout!  We did find some open water farther along on the way back and there were several species in and around that “seep”, including about six of the more than 30 Mourning Doves we admired:
 
 ![](/images/P1030635.jpg)
 
@@ -39,33 +39,34 @@ American Tree Sparrow. This is a winter sparrow, departing in the early spring a
 
 We ended up with exactly the same number of bird species as there were people in our hardy group. Here is the list:
 
-Arnold Arboretum, Suffolk, US-MA
-Jan 11, 2015 9:00 AM – 10:30 AM
-Protocol: Traveling
-2.0 mile(s)
-Comments:     16-20, sunny
+* Arnold Arboretum, Suffolk, US-MA
+* Jan 11, 2015 9:00 AM – 10:30 AM
+* Protocol: Traveling
+* 2.0 mile(s)
+* Comments:     16-20, sunny
+
 20 species
 
-Red-tailed Hawk  1
-Herring Gull  6
-Mourning Dove  30
-Downy Woodpecker  1
-Northern Flicker  1
-Blue Jay  4
-Black-capped Chickadee  2
-Tufted Titmouse  1
-White-breasted Nuthatch  3
-American Robin  5
-Northern Mockingbird  1
-European Starling  8
-American Tree Sparrow  1
-Song Sparrow  6
-White-throated Sparrow  12
-Dark-eyed Junco  8
-Northern Cardinal  5
-House Finch  18
-American Goldfinch  6
-House Sparrow  4
+* Red-tailed Hawk  1
+* Herring Gull  6
+* Mourning Dove  30
+* Downy Woodpecker  1
+* Northern Flicker  1
+* Blue Jay  4
+* Black-capped Chickadee  2
+* Tufted Titmouse  1
+* White-breasted Nuthatch  3
+* American Robin  5
+* Northern Mockingbird  1
+* European Starling  8
+* American Tree Sparrow  1
+* Song Sparrow  6
+* White-throated Sparrow  12
+* Dark-eyed Junco  8
+* Northern Cardinal  5
+* House Finch  18
+* American Goldfinch  6
+* House Sparrow  4
 
 View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S21296939](http://ebird.org/ebird/view/checklist?subID=S21296939)
 
@@ -96,7 +97,7 @@ Skunk Cabbage _Symplocarpus foetidus_. True to it’s latin name, the flower (s
 
 Pussy Willows begin to show themselves in February as well. Here is one type:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1220766.jpg?fit=525%2C419&ssl=1)
+![](/images/2018/11/P1220766.jpg)
 
 Rosegold Pussy Willow _Salix gracilistyla_
 
@@ -148,7 +149,7 @@ Male Eastern Bluebird, preening
 
 By April, many flowering trees will erupt into bloom.  Maples are not known for their floral display, but up close their early blooms can be spectacular:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1180549.jpg?fit=525%2C531&ssl=1)
+![](/images//2018/11/P1180549.jpg?fit=525%2C531&ssl=1)
 
 Silver Maple _Acer saccharinum_
 
@@ -160,13 +161,13 @@ Japanese Cornel Dogwood _Cornus officinalis_
 
 This early March flowering shrub was cloned at the Arnold Arboretum in 1928, and was given the name “Arnold Promise:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1040500.jpg?fit=525%2C379&ssl=1)
+![](/images//2018/11/P1040500.jpg?fit=525%2C379&ssl=1)
 
 Hamamelis x intermedia ‘Arnold Promise’ in bloom on March 2, 2002.
 
 Here is it’s lovely flower close up:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/H.-x-intermedia-22Arnold-Promise.jpg?fit=525%2C376&ssl=1)
+![](/images//2018/11/H.-x-intermedia-22Arnold-Promise.jpg?fit=525%2C376&ssl=1)
 
 Another early bloomer, fragrant as is the Witch Hazel above, is the Spicebush:
 
@@ -176,7 +177,7 @@ Japanese Spicebush _Lindera obtusiloba_, showing it’s handsome bark as well a
 
 Early spring can bring out beauty in emerging leaves as well; here are two examples:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1080087.jpg?fit=525%2C532&ssl=1)
+![](/images//2018/11/P1080087.jpg?fit=525%2C532&ssl=1)
 
 Mountain Ash Sorbus sp. near Dawson Pond
 
@@ -195,7 +196,7 @@ Formosan Cherry _Prunus_‘Okame’
 
 Tokyo Cherry _Prunus X yedoensis_
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1180850_1.jpg?fit=525%2C394&ssl=1)
+![](/images//2018/11/P1180850_1.jpg?fit=525%2C394&ssl=1)
 
 Sargent Cherry _Prunus Sargentii_
 

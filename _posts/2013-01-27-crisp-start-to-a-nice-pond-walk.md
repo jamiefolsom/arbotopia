@@ -17,7 +17,7 @@ comments: []
 
 Well below freezing temperatures greeted the nearly forty birders on Sunday December 9th for a walk around the ponds and landscape  of the middle Emerald Necklace.  As we began I mentioned that a Mandarin Duck that was present in one of the water ways in Central Park, NYC currently that was getting a lot of national press lately had been seen here five years ago. 
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/P1070591.jpg?fit=525%2C386&ssl=1)
+![](/images//2018/12/P1070591.jpg?fit=525%2C386&ssl=1)
 
 This male Mandarin Duck, seen  to left of it's cousin a male Wood Duck, hung out on Leverett Pond with a flotilla of Wood Ducks for several weeks in winter 2013
 
@@ -25,7 +25,7 @@ It too had been declared an "escape", an Asian duck that had wandered from someo
 
 Because of constant freezing temperatures in the last two days much of Leverett Pond was iced over, but we found pockets of open water and they were full of waterfowl.  Resident Canada Geese and Mallards predominated, but as we scanned the collection other species were identified, including these:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/Ring-necked-DuckJPG.jpg?fit=525%2C398&ssl=1)
+![](/images//2018/12/Ring-necked-DuckJPG.jpg?fit=525%2C398&ssl=1)
 
 Two male and one female Ring-necked Ducks showing,-not a ringed neck- but a white ring around their bills, diagnostic of the species. How did the taxonomists get that wrong?
 
@@ -33,13 +33,13 @@ Like many of the duck species that appear here only in winter, these ducks breed
 
 Then  we spotted our target species for this pond, the beautiful Wood Duck:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/P1010412.jpg?fit=525%2C356&ssl=1)
+![](/images//2018/12/P1010412.jpg?fit=525%2C356&ssl=1)
 
 How handsome can a duck be?
 
 Wood ducks began being seen on this pond at the turn of the century and since then their numbers in winter have greatly expanded. One experienced local birder who was along for the walk said he counted close to 100 Wood Ducks here about five years ago and breeding was documented  in this busy urban area for this usually skittish species in 2015:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/P1100739.jpg?fit=525%2C251&ssl=1)
+![](/images//2018/12/P1100739.jpg?fit=525%2C251&ssl=1)
 
 A female Wood Duck, left, and her 6 ducklings on the edge of Leverett Pond, August 9, 2015
 
@@ -51,7 +51,7 @@ Female Wood Duck
 
 Our birds today were mostly sleeping, but later began to move about:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/12/P1010908.jpg?fit=525%2C367&ssl=1)
+![](/images//2018/12/P1010908.jpg?fit=525%2C367&ssl=1)
 
 Two female and a male Wood duck on the move
 

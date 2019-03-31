@@ -23,7 +23,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":379} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010460.jpg?fit=525%2C372&amp;ssl=1" alt="" class="wp-image-379"/>
+ <img src="/images//2018/11/P1010460.jpg?fit=525%2C372&amp;ssl=1" alt="" class="wp-image-379"/>
 
 
 <p>Ross&rsquo;s Goose. A small white goose with black primaries and tiny triangle pink bill. These geese are common in California, but very rare on the Atlantic Coast.</p>
@@ -47,7 +47,7 @@ comments: []
 
 
 <p><!-- wp:image {"id":382} --></p>
- <img src="https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010398-1.jpg?fit=525%2C278&amp;ssl=1" alt="" class="wp-image-382"/>
+ <img src="/images//2018/11/P1010398-1.jpg?fit=525%2C278&amp;ssl=1" alt="" class="wp-image-382"/>
 
 
 <p>Male Northern Pintail, aptly named.</p>

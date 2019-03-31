@@ -51,7 +51,7 @@ This poor duck managed to get a Gatorade cap ring in its bill and up over its he
 
 The avian genus_ Aythya _is represented by six species in Massachusetts and five of them have been recorded on the Pond.  The most commonly seen is the Ring-necked Duck:
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/Ring-necked-DuckJPG.jpg?fit=525%2C398&ssl=1)
+![](/images//2018/11/Ring-necked-DuckJPG.jpg?fit=525%2C398&ssl=1)
 
 Ring-necked Ducks, two males and a female on the right.
 Photo: Bob Mayer
@@ -79,7 +79,7 @@ Photo: Bob Mayer
 
 A small diving duck that occasionally visits the Pond is the Bufflehead.  They are never numerous on the Pond—usually appearing singly or as a pair— whereas in salt water settings there may a sizable raft of them.
 
-![](https://i0.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1010836.jpg?fit=525%2C347&ssl=1)
+![](/images//2018/11/P1010836.jpg?fit=525%2C347&ssl=1)
 
 Bufflehead, male. When these foot long ducks appear on the Pond the males are unmistakable.
 Photo: Bob Mayer
