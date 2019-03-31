@@ -5,6 +5,11 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
+  path: media
+  label: Audio
+  create: all
+  match: "**/*"
+- type: directory
   path: _posts
   label: Published
   create: all
