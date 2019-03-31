@@ -29,11 +29,12 @@ As we concluded our stroll and headed to a fine brunch hosted by the neighbor wh
 
 Here is the list of birds we saw or heard:
 
-Sumner Hill JP, Suffolk, US-MA
-May 5, 2013 8:00 AM – 8:00 AM
-Protocol: Traveling
-1\.0 mile(s)
-Comments:     46, sunny
+- Sumner Hill JP, Suffolk, US-MA
+- May 5, 2013 8:00 AM – 8:00 AM
+- Protocol: Traveling
+- 1.0 mile(s)
+- Comments:     46, sunny
+
 14 species
 
 * Herring Gull  3
@@ -53,7 +54,7 @@ Comments:     46, sunny
 
 View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S13996607](https://ebird.org/view/checklist/S13996607)
 
-This report was generated automatically by eBird v3 (http://ebird.org)
+This report was generated automatically by [eBird v3](http://ebird.org)
 
 We’ll do it again next spring.
 
