@@ -65,35 +65,36 @@ They are fast-moving gems; hard to see and photograph.
 
 Here is our list for this winter walk:
 
-Arnold Arboretum, Suffolk, Massachusetts, US  
-Jan 6, 2019 9:00 AM - 10:40 AM  
-Protocol: Traveling  
-2\.0 mile(s)  
-Comments:     sun and clouds windless 35 BBC walk  
+* Arnold Arboretum, Suffolk, Massachusetts, US
+* Jan 6, 2019 9:00 AM - 10:40 AM
+* Protocol: Traveling
+* 2.0 mile(s)
+* Comments:     sun and clouds windless 35 BBC walk
+
 22 species
 
-Mallard  1  
-Mourning Dove  30  
-Herring Gull  1  
-Red-tailed Hawk  3  
-Yellow-bellied Sapsucker  2     immature and adult, photos  
-Red-bellied Woodpecker  1  
-Downy Woodpecker  5  
-Blue Jay  6  
-Black-capped Chickadee  3  
-Tufted Titmouse  1  
-Red-breasted Nuthatch  1  
-White-breasted Nuthatch  2  
-Golden-crowned Kinglet  1  
-American Robin  35  
-Northern Mockingbird  1  
-House Finch  1  
-American Goldfinch  6  
-Dark-eyed Junco  24  
-White-crowned Sparrow  1     in with WTSP and SOSP, continuing immature, photos  
-White-throated Sparrow  12  
-Song Sparrow  5  
-Northern Cardinal  6
+* Mallard  1
+* Mourning Dove  30
+* Herring Gull  1
+* Red-tailed Hawk  3
+* Yellow-bellied Sapsucker  2     immature and adult, photos
+* Red-bellied Woodpecker  1
+* Downy Woodpecker  5
+* Blue Jay  6
+* Black-capped Chickadee  3
+* Tufted Titmouse  1
+* Red-breasted Nuthatch  1
+* White-breasted Nuthatch  2
+* Golden-crowned Kinglet  1
+* American Robin  35
+* Northern Mockingbird  1
+* House Finch  1
+* American Goldfinch  6
+* Dark-eyed Junco  24
+* White-crowned Sparrow  1     in with WTSP and SOSP, continuing immature, photos
+* White-throated Sparrow  12
+* Song Sparrow  5
+* Northern Cardinal  6
 
 View this checklist online at [https://ebird.org/view/checklist/S51382763](https://ebird.org/view/checklist/S51382763 "https://ebird.org/view/checklist/S51382763")
 
