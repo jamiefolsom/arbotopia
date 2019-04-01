@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2014 Boston CBC &ndash; good weather, fair birding in the JP sector
+title: 2014 Boston CBC - good weather, fair birding in the JP sector
 author: Bob Mayer
 wordpress_id: " "
 wordpress_url: https://arbotopia.com/?p=52

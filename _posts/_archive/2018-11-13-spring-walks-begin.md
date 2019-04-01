@@ -41,7 +41,6 @@ comments: []
 
 <p>My co-leader Brendan pointed out a Tree Swallow peeking out of a nest box that he had erected just a few weeks earlier:</p>
 
-<p><!-- wp:image {"id":1092} --></p>
 <img src="/images/2015/05/P1140750.jpg" alt="" class="wp-image-1092"/>
 
 <p>Male Tree Swallow inspecting a nest site.</p>
@@ -60,21 +59,19 @@ comments: []
 
 <p>We ascended to the top of Bussey Hill where we spent some time trying to tease out the calls of two recent spring arrivals; Chipping Sparrow:</p>
 
-<p><!-- wp:audio {"id":206} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/Chipping-Sparrow-1.mp3"></audio>
-<p><!-- /wp:audio --></p>
+<audio controls src="/media/2018/11/Chipping-Sparrow-1.mp3"></audio><br />
+<figcaption>Pine Warbler</figcaption>
 
 <p>and and Pine Warbler:</p>
 
-<p><!-- wp:audio {"id":209} --></p>
-<figure class="wp-block-audio"><audio controls src="/images/2018/11/3-21-Pine-Warbler.wav"></audio>
-<p><!-- /wp:audio --></p>
+<audio controls src="/media/3-21-Pine-Warbler.mp3"></audio><br />
+<figcaption>Pine Warbler</figcaption>
+
 
 <p><em>Sound recordings courtesy of Lang Elliott NatureSound Studio</em></p>
 
 <p>We knew chippers were present because we saw them:</p>
 
-<p><!-- wp:image {"id":1290} --></p>
 <img src="/images/2016/05/P1120526.jpg" alt="" class="wp-image-1290"/>
 
 <p>Chipping Sparrow, a small sparrow with a plain whitish breast and a crisp rusty cap and eyeline is an early spring arrival.</p>

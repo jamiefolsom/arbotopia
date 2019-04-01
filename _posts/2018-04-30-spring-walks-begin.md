@@ -36,7 +36,7 @@ The Common Grackle in some light is solid black, but can show a beautiful irides
 
 ![](/images/2018/11/P1080609.jpg)
 
-American Goldfinches are rather drab in winter but the spring plumage is striking, often looking like warbler at first glance.
+American Goldfinches are rather drab in winter but the spring plumage is striking, often looking like  at first glance.
 
 My co-leader Brendan pointed out a Tree Swallow peeking out of a nest box that he had erected just a few weeks earlier:
 
@@ -60,7 +60,9 @@ We ascended to the top of Bussey Hill where we spent some time trying to tease o
 
 and and Pine Warbler:
 
+<audio controls src="/media/3-21-Pine-Warbler.wav"></audio>
 _Sound recordings courtesy of Lang Elliott NatureSound Studio_
+
 
 We knew chippers were present because we saw them:
 

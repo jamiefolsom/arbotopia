@@ -26,7 +26,7 @@ Pine Warbler
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
-<audio controls src="/images/2018/11/3-21-Pine-Warbler.mp3"></audio><br />
+<audio controls src="/media/3-21-Pine-Warbler.mp3"></audio><br />
 <figcaption>Pine Warbler</figcaption>
 
 We were eventually able to get glimpses of the bird high in a White Pine.  This was the first of several disappointing warbler experiences.
