@@ -2,11 +2,18 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: "/admin/"
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: _posts
   label: Published Posts
+  create: all
+  match: "**/*"
+  templates:
+  - posts
+- type: directory
+  path: _drafts
+  label: Draft Posts
   create: all
   match: "**/*"
   templates:
