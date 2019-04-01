@@ -13,16 +13,11 @@ tags: []
 comments: []
 
 ---
-
 In my first [Jamaica Pond Ducks post](/2013/01/25/jamaica-pond-ducks.html) I covered the more common waterfowl likely to be seen on [Jamaica Pond](https://www.google.com/maps/ms?msa=0&msid=217541233018515973334.0004d3f5dfbfb11f8bc5f&ie=UTF8&ll=42.309117,-71.112356&spn=0.056111,0.080166&t=m&z=14&vpsrc=6&iwloc=0004d3f5e8b64e73efc5f).  Here I will discuss less common ducks and other birds attracted to the Pond, especially in the fall and winter.
 
 When we think of loons, we imagine being on a tranquil lake in upper New England and listening to their melancholy call:
 
-
-
-
-Sound recording courtesy of LangElliott NatureSound Studio 
- 
+Sound recording courtesy of LangElliott NatureSound Studio
 
 That is indeed where many nest, but for the rest of the year they move about on both salt water and fresh.  This Common Loon, wearing its winter plumage rather than the classic summer tuxedo, hung out on Jamaica Pond for at least six weeks this winter. As the Pond began to ice up in early January, it departed:
 
@@ -91,7 +86,7 @@ Another water bird is common on the Pond much of the year, but is rarely seen in
 Double-Crested Cormorant. These birds often hold this position, thought to be for drying out their feathers which are less waterproof than most waterfowl.
 Photo: Bob Mayer
 
-A close-up of this bird seems to hint at the reptilian origin of birds, possibly arising from an ancient bird named _**[Archaeopteryx:](http://en.wikipedia.org/wiki/Archaeopteryx)**_
+A close-up of this bird seems to hint at the reptilian origin of birds, possibly arising from an ancient bird named [**_Archaeopteryx:_**](http://en.wikipedia.org/wiki/Archaeopteryx)
 
 ![](https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1030585.jpg?fit=525%2C434&ssl=1)
 
@@ -116,9 +111,8 @@ Photo: Bob Mayer
 
 In the past The Boston Parks Department used to bring a pair of swans to the Pond—as they continue to do at the Public Garden— but most recently the Mute Swans seen here are part of the wild population. This winter there were two birds on the Pond most of the time.  In December 2009 at least eleven were recorded.  They can be a haunting sight in the fog of a winters day:
 
-![](https://i1.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1290387.jpg?fit=525%2C280&ssl=1)
+![](/images/P1290387.jpg)
 
-Six of a group of eight Mute Swans on the Pond in January 2011.
-Photo: ob Mayer
+Six of a group of eight Mute Swans on the Pond in January 2011. Photo: Bob Mayer
 
 Debate continues about how to control these agressive waterfowl—the largest birds in Massachusetts—as they spread throughout the country.  In the meantime enjoy those few that come to our local waterways, but show them some respect.
