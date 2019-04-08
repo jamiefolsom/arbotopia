@@ -17,7 +17,7 @@ comments: []
 
 As spring slides into summer birds go quiet; nesting, rearing their young, preparing for their southern migration or just hanging out.  I switch to Lepidoptera and Odontata to keep me busy.  Butterflies and dragonflies have elaborate life cycles; eggs become larvae which grow, sometimes over long time periods, bigger and bigger and finally transform to often spectacular adults who spend their short lives looking for mates, mating- and for the females- laying eggs to renew the cycle.
 
-I’ve discussed dragonflies in [two](#) previous [posts](#).  Recently however, I went in search of a butterfly that has eluded me for more than ten years.  The Pipevine Swallowtail is one of five species in the Swallowtail family, _Papilionidae, _that can be seen in the Boston area.  Perhaps the most common of this group is the Eastern Tiger Swallowtail:
+I’ve discussed dragonflies in [two](/2014/07/26/dragonflies-are-everywhere.html) previous [posts](/2013/08/10/an-ode-to-odonata.html).  Recently however, I went in search of a butterfly that has eluded me for more than ten years.  The Pipevine Swallowtail is one of five species in the Swallowtail family, _Papilionidae, _that can be seen in the Boston area.  Perhaps the most common of this group is the Eastern Tiger Swallowtail:
 
 ![](/images/2017/07/P1080473.jpg)
 

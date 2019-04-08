@@ -58,6 +58,8 @@ American Mink. This member of the weasel family is uncommon away from rivers or 
 
 We ascended to the top of Bussey Hill where we spent some time trying to tease out the calls of two recent spring arrivals; Chipping Sparrow:
 
+<audio controls src="/media/2018/11/Chipping-Sparrow-1.mp3"></audio>
+
 and and Pine Warbler:
 
 <audio controls src="/media/3-21-Pine-Warbler.wav"></audio>
@@ -132,6 +134,8 @@ When I first looked at my favorite weather app on Sunday at 6:30 AM rain was pre
 Two female and a male Wood Duck.
 
 The interesting history of these colorful ducks in the Emerald Necklace was discussed in a [previous blog](http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/).  Chances that these ducks will once again breed on this or another close by pond are excellent!  We headed up along the Boston side of this pond that straddles the Boston/Brookline boundary and heard a Red-bellied Woodpecker:
+
+<audio controls src="/media/2018/11/R-B-Woodpecker-1.mp3"></audio>
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
