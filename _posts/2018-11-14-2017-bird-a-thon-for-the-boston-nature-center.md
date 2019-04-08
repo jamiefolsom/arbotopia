@@ -16,6 +16,8 @@ On Saturday May 13th I joined two other birders for a full day of birding to sup
 
 We left Boston at 6 AM and hit our first stop, [Wompatuck State Park](https://www.mass.gov/locations/wompatuck-state-park), before 7.  This huge park in Hingham is often a great location for migrating warblers in mid May, but the crazy spring weather has thrown the migration off.  Many of the 20 or so warbler species that can be seen there were missing.  We did get some though, including the uncommon Bay-breasted Warbler.  I have never been able to get a good image of this bird- they’re often high in the canopy- so I borrowed one from a friend who is an excellent birder and photographer:
 
+![](/images/26844267190_7a2ddb3be1_k.jpg)
+
 A great shot of the striking Bay-breasted Warbler- Photo courtesy of Ted Bradford
 
 We birded sections of this 3200 acre park for more than two hours and picked up more than 40 species, a pretty good haul in spite of the cold and dreary weather.  Some of the birds we ticked off were heard but not seen; this is one of them:
