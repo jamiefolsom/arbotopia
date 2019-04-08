@@ -33,8 +33,7 @@ The eggs are laid on the leaves of water plants or in water where they hatch int
 
 ![](/images/P1060474.jpg)
 
-This dragonfly larva may live longer than the adult form, but it sure doesn’t compete on an aesthetic scale!
-Photo: Bob Mayer
+This dragonfly larva may live longer than the adult form, but it won't compete in a beauty contest! Photo: Bob Mayer
 
 All odes are carnivores, in both larval and adult form, and adult dragonflies capture and eat all sorts of flying insects, including other dragonflies, on the wing.
 
@@ -42,14 +41,14 @@ Over the last ten years I’ve recorded about a dozen different species of Odona
 
 One of the smallest and prettiest pond species in the AA is the Eastern Amberwing:
 
-[![P1200902](/images/2013/08/P1200902.jpg)](/images/2013/08/P1200902.jpg)
+![](/images/P1200902.jpg)
 
 A well named Eastern Amberwing male resting on a Pickerelweed leaf on Rehder Pond
 Photo: Bob Mayer
 
 Like many dragonfly species, the female is patterned differently
 
-[![P1060242](/images/2013/08/P1060242.jpg)](/images/2013/08/P1060242.jpg)
+![](/images/P1060242.jpg)
 
 Eastern Amberwing female. Note the dark patches on her wings, not seen on the male of this small dragonfly.
 Photo: Bob Mayer
@@ -58,20 +57,20 @@ Dragonflies are aerial acrobats, showing many different flying habits that are r
 
 Blue Dashers are medium-sized dragonflies that are common around the ponds during much of the summer.  The male is pictured above, representing a “typical dragonfly”.  Females are seen less frequently and have different markings:
 
-[![P1060208](/images/2013/08/P10602081.jpg)](/images/2013/08/P10602081.jpg)
+![](/images/P1280726.jpg)
 
 The female Blue Dasher has no blue color on it’s abdomen, instead showing paired yellow streaks along the sides.
 Photo: Bob Mayer
 
 Another very common dragonfly near the ponds is well named:
 
-[![P1100509](/images/2013/08/P1100509.jpg)](/images/2013/08/P1100509.jpg)
+![](/images/P1100509.jpg)
 
 Common Whitetail male resting on a rock beside Faxon Pond. Note the single broad black wing band. Photo: Bob Mayer
 
 Here again the female of this species is quite different:
 
-[![P1060238](/images/2013/08/P1060238.jpg)](/images/2013/08/P1060238.jpg)
+![](/images/P1060238.jpg)
 
 This female Common Whitetail does not have a white abdomen and has three black patches on each wing
 Photo: Bob Mayer
@@ -85,14 +84,14 @@ Photo: Bob Mayer
 
 Once again the female is less flashy, and closely resembles the female Common Whitetail:
 
-[![OLYMPUS DIGITAL CAMERA](/images/2013/08/P1010010.jpg)](/images/2013/08/P1010010.jpg)
+![](/images/P1010010.jpg)
 
 Twelve-spotted Skimmer female.
 Photo: Bob Mayer
 
 Much less common, but equally flashy, is the male Widow Skimmer:
 
-[![P1200905](/images/2013/08/P1200905.jpg)](/images/2013/08/P1200905.jpg)
+![](/images/Widow Skimmer_1.jpg)
 
 Widow Skimmer male. The single large black band and white patches on all four wings are diagnostic for this species.
 Photo: Bob Mayer
@@ -106,7 +105,7 @@ Photo: Bob Mayer
 
 There is another large skimmer which frequents the ponds, seen here resting on a plant at pond edge:
 
-[![P1100599](/images/2013/08/P1100599.jpg)](/images/2013/08/P1100599.jpg)
+![](/images/P1100599.jpg)
 
 Male Slaty Skimmer on Swamp Mallow flower.  This species has no wing markings (except for the small stigma seen on most dragonflies) and a uniformly slate-blue thorax and abdomen. The female is a drab brown.
 Photo: Bob Mayer
