@@ -5,10 +5,9 @@ author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2013-04-12 16:57:03 -0400
+date: 2013-04-12 20:57:03 +0000
 
 ---
-
 In my last post on [Owls in the Arboretum](http://www.arbotopia.com/arnold-arboretum-owls/) I commented that after the death of a patriarch male Great Horned Owl in 2008 there had been no reported nests of this species in the Emerald Necklace.  Recently however I was told of a nest in Forest Hills Cemetery, technically not part of the necklace but very close by.  Great Horned Owls have nested in this magnificent garden cemetery off and on for years; the most recent nest was in 2010.  I went to the area reported and quickly spotted the nest:
 
 [![P1040603](/images/2013/04/P1040603.jpg)](/images/2013/04/P1040603.jpg)
@@ -17,7 +16,7 @@ Great Horned Owl with owlet. Note the absent left eye in the adult female. Photo
 
 The site of this nest is exactly the same as a Great Horned nest in 2006.  Owls frequently use old nests of Red-tailed Hawks and may re-use them for several years.  Farther down on the tree there was a second owlet that had either fledged or had fallen out of the nest:
 
-![](/images/P1040965.jpg)
+![](/images/P1040965 2.jpg)
 
 A furry Great Horned owlet out of the nest in Forest Hills Cemetery. At last report this baby is being fed by the parents and is doing well. Photo: Bob Mayer
 
