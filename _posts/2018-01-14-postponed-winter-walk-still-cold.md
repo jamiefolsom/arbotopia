@@ -86,7 +86,7 @@ Cedar Waxwing dining on Tartarian Honeysuckle.
 
 We ended the walk back at the feeders and picked up our best bird of the day, Red-breasted Nuthatch.
 
-![](/images/W-B Nuthatch-2.jpg)
+![](/images/P1150200-1.jpg)
 
 Red-breasted Nuthatch.  Smaller than it’s much more common cousin the White-breasted Nuthatch, it is identified by the striking white eyebrow, black eye line and ruddy breast.
 
