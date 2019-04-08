@@ -30,7 +30,7 @@ plugins:
   - jekyll-feed
 
 permalink: /:year/:month/:day/:title:output_ext
-
+google_analytics: UA-137954405-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
