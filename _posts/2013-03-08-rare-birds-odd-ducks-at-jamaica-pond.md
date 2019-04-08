@@ -17,7 +17,9 @@ In my first [Jamaica Pond Ducks post](/2013/01/25/jamaica-pond-ducks.html) I c
 
 When we think of loons, we imagine being on a tranquil lake in upper New England and listening to their melancholy call:
 
-Sound recording courtesy of LangElliott NatureSound Studio
+<audio controls src="/media/2013/03/loon-common-pair-tremelo.mp3"></audio>
+
+_Sound recording courtesy of LangElliott NatureSound Studio_
 
 That is indeed where many nest, but for the rest of the year they move about on both salt water and fresh.  This Common Loon, wearing its winter plumage rather than the classic summer tuxedo, hung out on Jamaica Pond for at least six weeks this winter. As the Pond began to ice up in early January, it departed:
 
@@ -37,7 +39,7 @@ Photo: Bob Mayer
 
 Northern Shovelers are well named for their very wide bill, built for scooping along the water’s surface to pick up small invertebrates or bits of vegetation.  In 2002, one of them ran afoul of urban bad habits in the [Muddy River’s North Basin](https://www.google.com/maps/ms?msa=0&msid=217541233018515973334.0004d3f5dfbfb11f8bc5f&ie=UTF8&ll=42.340854,-71.095555&spn=0.007042,0.010021&t=m&z=17&vpsrc=6&iwloc=0004d6f87eeeb073c2c5c) behind the Museum of Fine Arts in the Fenway, probably because of that feeding pattern:
 
-![](/images/Snared Shoveler #2.jpg)
+![](/images/snared-shoveler-2.jpg)
 
 Snared Northern Shoveler in the Muddy River behind the MFA in 2002.
 Photo: Bob Mayer
