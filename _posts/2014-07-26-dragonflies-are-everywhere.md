@@ -3,21 +3,21 @@ layout: post
 title: Dragonflies are everywhere!
 author: Bob Mayer
 date: 2014-07-26 20:56:02 +0000
-categories:
+categories: 
 tags: []
 comments: []
----
 
+---
 My [last post](/2013/08/10/an-ode-to-odonata/ "last post") on the Odonata insect family focused on those who like to hang out close to ponds or other open water.  If you missed that piece, go back and read about the interesting life cycle of these fast-flying carnivores.  Some species roam away from water and can be seen hovering or zipping around open fields in search of prey.  One of the commonest genera are the meadowhawks.
 
-[![P1070223](/images/2014/03/P1070223.jpg)](/images/2014/03/P1070223.jpg)
+![](/images/P1070223.jpg)
 
 Meadowhawk species- probably Ruby Meadowhawk, male
 Photo: Bob Mayer
 
 Meadowhawks are small; only a little over an inch in body length.  They are often seen perched and some, like the one shown above, are brightly colored.  Another closely related species is the White-faced Meadowhawk:
 
-[![P1060217](/images/2014/03/P1060217.jpg)](/images/2014/03/P1060217.jpg)
+![](/images/P1060217.jpg)
 
 Meadowhawk species, probably White-faced Meadowhawk, female.
 
@@ -25,21 +25,21 @@ All meadowhawk females are yellow or beige, and distinguishing the species is of
 
 Another odontate, this time in the damselfly group, is the Ebony Jewelwing:
 
-[![AJ's EJ](/images/2014/03/AJs-EJ.jpg)](/images/2014/03/AJs-EJ.jpg)
+![](/images/EbonyJewelwing0947cs.jpg)
 
 Ebony Jewelwing, male. They are most likely to be found at forest edges near streams.
 Photo: Andrew Joslin
 
 An early summer wanderer is the Painted Skimmer:
 
-[![P1080872](/images/2014/07/P1080872.jpg)](/images/2014/07/P1080872.jpg)
+![](/images/P1080872.jpg)
 
 Painted Skimmer, male
 Photo: Bob Mayer
 
 These striking orange odes can be seen regularly along the stream bed adjacent to Hemlock Hill Road in the Arboretum. In this same area I found another dragonfly species, back in 2009:
 
-[![P1250182](/images/2014/07/P1250182.jpg)](/images/2014/07/P1250182.jpg)
+![](/images/P1250182.jpg)
 
 Mocha Emerald, female.
 Photo: Bob Mayer
@@ -48,7 +48,7 @@ While Mocha’s are often reported in other areas of Massachusetts, my sighting 
 
 Dragonflies show seasonal variation; one of the latest to fly is the Shadow Darner:
 
-[![P1260178](/images/2014/07/P1260178.jpg)](/images/2014/07/P1260178.jpg)
+![](/images/P1260178.jpg)
 
 Male Shadow Darner _Aeshna umbrosa_. This genus of large odentata is hard to identify to species in the field.
 Photo: Bob Mayer
