@@ -40,7 +40,7 @@ Photo: Bob Mayer
 
 Those who get into attracting unusual birds in winter will put out meal worms or fruits like blueberries and orange sections.  I’ve tried to pull in bluebirds with such offerings without success. Last winter though, I posted about a [Baltimore Oriole](/a-bird-out-of-season-and-in-the-storm/) that came to my feeders for seed and was encouraged to stay with orange halves:
 
-![](/images/P1040159.jpg)[![P1040159](/images/2013/02/P1040159.jpg)](/images/2013/02/P1040159.jpg)
+![](/images/P1040159-2.jpg)
 
 Female Baltimore Oriole eyeing orange half with House Sparrow eating hulled sunflower seeds above.
 Photo: Bob Mayer
@@ -63,7 +63,7 @@ A home made magic halo designed to keep House Sparrows away from bird feeders.
 
 It is no wonder that commercial makers of these devices call them Magic Halos. They indeed “magically” keep non-native House Sparrows away from seed and suet while allowing native seed eating birds in.  The House Sparrows will fly toward the feeders but shy away at the last minute, ending up sitting forlornly beneath the feeding station:
 
-[![P1070439](/images/2014/03/P1070439.jpg)](/images/2014/03/P1070439.jpg)
+![](/images/P1230272-1.jpg)
 
 Male House Sparrow
 Photo: Bob Mayer
