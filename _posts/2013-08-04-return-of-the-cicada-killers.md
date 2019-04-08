@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Return of the Cicada Killers!"
+title: Return of the Cicada Killers!
 author: Bob Mayer
 date: 2013-08-04 20:56:02 +0000
-categories:
+categories: 
 tags: []
 comments: []
----
 
+---
 Five years ago I was walking along Forest Hills Road near Lawson Pond in the Arnold Arboretum when I was confronted by several large wasps who seemed to have a great interest in me; I beat a hasty retreat- but not before I got a picture of one of them:
 
-[![P1020042](/images/2013/08/P1020042.jpg)](/images/2013/08/P1020042.jpg)
+![](/images/P1020042.jpg)
 
 Eastern Cicada Killer wasp
 All photos- Bob Mayer
@@ -19,7 +19,7 @@ After reviewing some field guides I determined the insects were solitary wasps c
 
 Gerry Bunker is an amateur entomologist who had been asked by a fellow bug guy to help him collect specimens of the annual Dog-day Cicada _Tibicen linnei_.
 
-[![P1100580](/images/2013/08/P1100580.jpg)](/images/2013/08/P1100580.jpg)
+![](/images/P1100580.jpg)
 
 Dog-day Cicada _Tibicen linnei_. This is not the 17 year periodical cicada that recently had a massive emergence along the east coast (but not in Massachusetts).
 
@@ -29,13 +29,13 @@ The first thing I learned was that despite their formidable appearance and intru
 
 Male Cicada Killers emerge from the ground in July in areas that were used as leks in the previous year.  They establish territory and search for virgin females who emerge a week or so later.  Following a complicated ritual mating sequence the females begin to dig a hole in the dry, sandy soil using their jaws as diggers and their hind legs to shove the loose dirt up and out of nest holes that can be up to two feet long.
 
-[![P1060830](/images/2013/08/P1060830.jpg)](/images/2013/08/P1060830.jpg)
+![](/images/P1060830.jpg)
 
 The entrance to the nest hole is the small dark circle in the middle of this photo.
 
 The female wasp then goes hunting.  Apparently using sight rather than sound (since most of the cicadas caught are females that don’t emit any noise) they search nearby deciduous trees and capture and sting a cicada, paralyzing it.  Dog-day Cicadas are more than twice the size of the hefty female Cicada Killers so it often takes some time and effort to deliver the prey to her nest hole.
 
-[![P1210192](/images/2013/08/P1210192.jpg)](/images/2013/08/P1210192.jpg)
+![](/images/P1210192.jpg)
 
 This female Cicada Killer is struggling to carry the paralyzed cicada through the grass to her nest site.
 
