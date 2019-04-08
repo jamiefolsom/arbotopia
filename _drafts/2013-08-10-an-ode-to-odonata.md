@@ -3,36 +3,35 @@ layout: post
 title: An Ode to Odonata
 author: Bob Mayer
 date: 2013-08-10 20:56:02 +0000
-categories:
+categories: 
 tags: []
 comments: []
----
 
+---
 In the spring I love to go birding in the Arnold Arboretum and elsewhere on the Emerald Necklace.   By late June, however, most of the migratory birds have either moved farther north to their breeding grounds or are nesting locally and want to be as inconspicuous as possible to avoid detection.  That’s when I look elsewhere in the natural world for some interesting and colorful sightings.
 
 Dragonflies are an ancient invertebrate group, at least 250 million years old.  Some of the prehistoric ones had wingspans of three feet, probably due to the higher levels of oxygen in the atmosphere way back then. Today’s versions are still large for an insect, some with body lengths of more than three inches.  There are two main subgroups– damselflies and dragonflies.  Here are examples of each, showing the primary differences:
 
-[![P1060186](/images/2013/07/P1060186.jpg)](/images/2013/07/P1060186.jpg)
+![](/images/P1060186.jpg)
 
 Blue Dasher male. This is a typical dragonfly showing the two separate shaped wing sets held open at rest, and the robust body. Dragonflies are very strong and agile fliers, sometimes traveling at more than 20 mph!
 Photo: Bob Mayer
 
-[![](/images/2013/07/Azure-Bluet.jpg)](/images/2013/07/Azure-Bluet.jpg)
+![](/images/P1060714.jpg)
 
 Azure Bluet, male. This pond damselfly is fairly characteristic of the damselfly sub-group; slender, delicate and holding its wings closed when at rest. They are weaker fliers than their cousins the dragonflies.
 
 All members of the order Odonata (odes for short) have peculiar mating behaviors. The male grasps the female either behind the eyes (dragonfly) or by the neck (damselfly) as seen below:
 
-[![](/images/2013/07/Emerald-Spreadwing.jpg)](/images/2013/07/Emerald-Spreadwing.jpg)
+![](/images/P1060732.jpg)
 
-Probable Northern Spreadwing tandem pair; the male is the bluish one. Several odontata experts studied this image taken recently in Vermont and couldn’t positively identify it. Many damselflies can only be distinguished from one another by a careful study of their external genitalia!
-Photo: Bob Mayer
+Probable Northern Spreadwing tandem pair; the male is the bluish one. Several odonata experts studied this image taken recently in Vermont and couldn’t positively identify it. Many damselflies can only be distinguished from one another by a careful study of their external genitalia! Photo: Bob Mayer
 
 After mating the female dragonfly stores sperm in her spermetheca. The males compete for fertilization and some will scrape out previous sperm from the female’s spermetheca.  Talk about male competitiveness!
 
 The eggs are laid on the leaves of water plants or in water where they hatch into larvae.  The larvae can be nearly as large as the adult insect but because they live in water they are seldom seen. They also live much longer than the adults, most of whom fly around for less than a month. The larvae of some odes live and grow for several years, moulting their exoskeletons many times before finally undergoing metamorphosis into the winged adult.  Here is an image of a dragonfly larva my grandson discovered while digging in the sand in a lake in Vermont:
 
-[![P1060474](/images/2013/08/P1060474.jpg)](/images/2013/08/P1060474.jpg)
+![](/images/P1060474.jpg)
 
 This dragonfly larva may live longer than the adult form, but it sure doesn’t compete on an aesthetic scale!
 Photo: Bob Mayer
@@ -68,8 +67,7 @@ Another very common dragonfly near the ponds is well named:
 
 [![P1100509](/images/2013/08/P1100509.jpg)](/images/2013/08/P1100509.jpg)
 
-Common Whitetail male resting on a rock beside Faxon Pond. Note the single broad black wingband.
-Photo: Bob Mayer
+Common Whitetail male resting on a rock beside Faxon Pond. Note the single broad black wing band. Photo: Bob Mayer
 
 Here again the female of this species is quite different:
 
@@ -131,6 +129,6 @@ Finally I should mention two more members of the skimmer family that are actuall
 
 In a subsequent post I will discuss some other odonates that can be found on the AA grounds, often at some distance from open bodies of water.  In the meantime please check out the ponds, especially in the mid-day. You will almost certainly see some beautiful dragonflies if you look carefully!
 
-There will be an [“Insect Mob”](http://arboretum.harvard.edu/visit/tree-mob/?utm_source=Insect+Mob+Details+for+Monday%2C+August+12%2C+2013&utm_campaign=Tree+Mob&utm_medium=email ""Insect Mob"") on Monday August 12th at 4:00 PM starting at the ponds in the Arnold Arboretum. This brief field visit will be led by an expert on dragonflies from Harvard’s Organismic and Evolutionary Biology Department.  Check it out if your available then!
+There will be an \[“Insect Mob” on Monday August 12th at 4:00 PM starting at the ponds in the Arnold Arboretum. This brief field visit will be led by an expert on dragonflies from Harvard’s Organismic and Evolutionary Biology Department.  Check it out if your available then!
 
 Good Odeing!
