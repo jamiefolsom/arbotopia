@@ -27,7 +27,7 @@ A resident Song Sparrow, showing it’s streaky breast coalescing into a central
 
 ![](/images/2018/11/P1030156.jpg)
 
-Male Red-bellied woodpecker
+Male Red-bellied Woodpecker
 
 ![](/images/P1100068 2.jpg)
 
