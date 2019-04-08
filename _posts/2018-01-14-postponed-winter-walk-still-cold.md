@@ -86,7 +86,7 @@ Cedar Waxwing dining on Tartarian Honeysuckle.
 
 We ended the walk back at the feeders and picked up our best bird of the day, Red-breasted Nuthatch.
 
-!\[\](/images/P1150200.jpg)
+![](/images/W-B Nuthatch-2.jpg)
 
 Red-breasted Nuthatch.  Smaller than it’s much more common cousin the White-breasted Nuthatch, it is identified by the striking white eyebrow, black eye line and ruddy breast.
 
@@ -106,24 +106,24 @@ Jan 14, 2018 9:00 AM – 10:15 AM
 
 Comments:     BBC walk, 15 F, sun
 
-*   **17 species**
-*   Red-tailed Hawk  1
-*   Herring Gull  1
-*   Mourning Dove  2
-*   Red-bellied Woodpecker  1
-*   Downy Woodpecker  2
-*   Blue Jay  2
-*   Black-capped Chickadee  6
-*   Tufted Titmouse  3
-*   Red-breasted Nuthatch  1
-*   White-breasted Nuthatch  1
-*   European Starling  6
-*   Dark-eyed Junco  35
-*   Song Sparrow  3
-*   Northern Cardinal  2
-*   House Finch  20
-*   American Goldfinch  15
-*   House Sparrow  2
+* **17 species**
+* Red-tailed Hawk  1
+* Herring Gull  1
+* Mourning Dove  2
+* Red-bellied Woodpecker  1
+* Downy Woodpecker  2
+* Blue Jay  2
+* Black-capped Chickadee  6
+* Tufted Titmouse  3
+* Red-breasted Nuthatch  1
+* White-breasted Nuthatch  1
+* European Starling  6
+* Dark-eyed Junco  35
+* Song Sparrow  3
+* Northern Cardinal  2
+* House Finch  20
+* American Goldfinch  15
+* House Sparrow  2
 
 View this checklist online at [http://ebird.org/ebird/view/checklist/S41898013](http://ebird.org/ebird/view/checklist/S41898013)
 
@@ -137,7 +137,7 @@ Female, upper left, and male White-winged Crossbills. The female is showing the 
 
 A former Arboretum staff member, who now works for the Cornell Lab of Ornithology, has just written an excellent article on the [expected irruption](https://www.allaboutbirds.org/a-crush-of-crossbills/).
 
- And we are hoping for another nesting of Great Horned Owls in that area this month as well, here is a shot of the nest in 2016:
+And we are hoping for another nesting of Great Horned Owls in that area this month as well, here is a shot of the nest in 2016:
 
 ![](/images/2018/11/P1120355.jpg)
 
