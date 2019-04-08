@@ -17,7 +17,6 @@ tags: []
 comments: []
 
 ---
-
 The weather was quite different for the two spring bird walks I led this weekend; Saturday was sunny and quite warm but Sunday was cool and cloudy with occasional rain.  The attendance was reflected by the weather; 46 on Saturday and 17 on Sunday.  The locale for the first was the Arnold Arboretum, designed by Fredrick Law Olmsted, and the second was another Olmsted creation farther down the Emerald Necklace at [Leverett Pond](https://goo.gl/8ocH2s) and Olmsted Park.
 
 In the Arboretum we ticked off some resident birds as our large group moved down Meadow Road; Song Sparrow, Red-belied Woodpecker, Common Grackle and American Goldfinch.  Here are some images of them:
@@ -30,7 +29,7 @@ A resident Song Sparrow, showing it’s streaky breast coalescing into a central
 
 Male Red-bellied woodpecker
 
-![](/images/Grackle #3.jpg)
+![](/images/P1100068 2.jpg)
 
 The Common Grackle in some light is solid black, but can show a beautiful iridescence on the head setting off its white eyes.
 
@@ -64,7 +63,6 @@ and and Pine Warbler:
 
 <audio controls src="/media/3-21-Pine-Warbler.wav"></audio>
 _Sound recordings courtesy of Lang Elliott NatureSound Studio_
-
 
 We knew chippers were present because we saw them:
 
@@ -151,7 +149,7 @@ When the rain lessened we decided to go all the way up through Olmsted Park to W
 
 Eastern Phoebe is a spring species that bobs or pumps it’s tail, as do Palm Warbler and Hermit Thrush. It is a good field sign for quick identification.
 
-We also heard and saw several Tufted Titmouses (yes that’s the official ornithological plural): 
+We also heard and saw several Tufted Titmouses (yes that’s the official ornithological plural):
 
 ![](/images/2018/11/P1280017.jpg)
 
@@ -206,12 +204,14 @@ This report was generated automatically by eBird v3 ([http://ebird.org](http://e
 Next weekend, weather permitting, I will be leading two walks in the Arnold Arboretum;
 
 **Saturday, May 5**
-*   Arnold Arboretum, Boston. Morning.
-*   A 90-minute walk suitable for beginners as well as more experienced birders. See the arboretum website[ http://www.arboretum.harvard.edu](https://www.arboretum.harvard.edu/) for directions or to download a checklist of birds. Meeting location: Peters Hill Gate on Bussey Street 8:00 AM to 9:30 AM
+
+* Arnold Arboretum, Boston. Morning.
+* A 90-minute walk suitable for beginners as well as more experienced birders. See the arboretum website[ http://www.arboretum.harvard.edu](https://www.arboretum.harvard.edu/) for directions or to download a checklist of birds. Meeting location: Peters Hill Gate on Bussey Street 8:00 AM to 9:30 AM
 
 **Sunday, May 6**
-*   Bussey Brook Meadow, Arnold Arboretum, Boston. Morning.
-*   The Arboretum Park Conservancy and the BBC are sponsoring this 90-minute walk in the Bussey Brook area of the Arboretum. The walk is suitable for beginning birders as well as those more experienced. Meeting location: South Street gate to the Arboretum, on South Street, where there is limited parking. Also accessible from Forest Hills T Station path from Washington Street 8:00 AM to 9:30 AM
+
+* Bussey Brook Meadow, Arnold Arboretum, Boston. Morning.
+* The Arboretum Park Conservancy and the BBC are sponsoring this 90-minute walk in the Bussey Brook area of the Arboretum. The walk is suitable for beginning birders as well as those more experienced. Meeting location: South Street gate to the Arboretum, on South Street, where there is limited parking. Also accessible from Forest Hills T Station path from Washington Street 8:00 AM to 9:30 AM
 
 Finally, On May 12th I will be doing the 2018 Bird-a-thon to support nature programs at Mass Audubon’s Boston Nature Center. To learn more about that, and to support me and my team  you can [click here](https://goo.gl/sVXdFu).
 
