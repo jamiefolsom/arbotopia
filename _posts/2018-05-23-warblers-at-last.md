@@ -24,7 +24,11 @@ We heard but didn’t see our first warbler early on the path; Northern Parula.�
 
 Red-eyed Vireo has a sing-song, monotonous call that can often be heard even in the heat of the afternoon
 
+<audio controls src="/media/Red-eyed_Vireo_1.mp3"></audio>
+
 Warbling Vireo has a more musical song:
+
+<audio controls src="/media/2015/05/Warlbing-Vireo.mp3"></audio>
 
 The Eastern Wood-peewee, our smallest flycatcher, calls out a persistent whistle:
 

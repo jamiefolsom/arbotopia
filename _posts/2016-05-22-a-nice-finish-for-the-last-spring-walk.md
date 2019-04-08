@@ -27,6 +27,8 @@ The Warbling Vireo makes up for it’s drab appearance with a delightful song.
 
 Here is a recording of this bird’s song:
 
+<audio controls src="/media/2015/05/Warlbing-Vireo.mp3"></audio>
+
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 Even more common than the vireos were Baltimore Orioles, and we saw several of their hanging nests:
@@ -58,6 +60,8 @@ I had taken the group to the Explorer’s Garden near the top of the hill becaus
 Scarlet Tanager, male.
 
 This bird was a “lifer” for many in the group.  Beyond that it was all downhill ornithologically as well as topographically .  Except for the Wood Thrushes calling in the North Woods:
+
+<audio controls src="/media/Wood_Thrush_1.mp3"></audio>
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 

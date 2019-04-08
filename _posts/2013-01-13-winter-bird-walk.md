@@ -14,6 +14,8 @@ comments: []
 
 This morning my birding colleague Andrew Joslin and I led a bird walk along Meadow Road in the Arnold Arboretum for about two hours.  We were joined by more than 25 enthusiastic birders, many of whom were just testing their wings in the wonderful avocation of birding.  Although the weather was a bit damp, neither the birds nor the birders were discouraged and we had some nice sightings.  A Red-breasted Nuthatch at the feeders near the Administration Building was a “life bird” for several in the group. A Red-tailed Hawk posed in the giant Silver Maple farther down the road for all to admire. A Carolina Wren began to call loudly from the wetland.  Most of us never saw this tiny wren but it’s call is unmistakable.  How such a small bird can emit this intense call always amazes me!
 
+<audio controls src="/media/2016/10/Carolina-Wren-1.mp3"></audio>
+
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 As we continued down to the cork trees and the buckeyes we added to our list of woodpecker species with a Red-bellied Woodpecker, a Yellow-bellied Sapsucker and a Northern Flicker.  The sapsucker disappeared after a brief stop and was not seen by all,  which was too bad as it is a stunning bird – here is an image of one I took last spring in my side yard:

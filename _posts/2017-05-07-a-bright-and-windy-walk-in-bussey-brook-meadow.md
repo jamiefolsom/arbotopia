@@ -27,7 +27,11 @@ Farther down the path we kept hearing the song of a Yellow Warbler but couldn’
 
 Male Yellow Warbler
 
+<audio controls src="/media/2018/11/Yellow-Warbler.mp3"></audio>
+
 Also heard in the same location was another early migrant, Warbling Vireo:
+
+<audio controls src="/media/2015/05/Warlbing-Vireo.mp3"></audio>
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
