@@ -71,7 +71,7 @@ Northern Parula
 
 ![](/images/P1020287-2.jpg)
 
-Chest-sided Warbler
+Chestnut-sided Warbler
 
 Last weekend when I did the Bird-a-thon (BAT) with three other birders we had only a few more warbler species after searching nearly 12 hours.  Such is the way with birding; very unpredictable and reliant on serendipity.
 
