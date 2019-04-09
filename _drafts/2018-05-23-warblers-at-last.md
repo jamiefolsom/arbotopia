@@ -36,7 +36,7 @@ _Sound recordings courtesy of Lang Elliott NatureSound Studio_
 
 All of these birds are pretty plain so it wasn’t a big loss that we didn’t see them well. Here is an image of the most colorful of this drab lot:
 
-![](/images/2018/11/P1010954-1688x1200.jpg)
+![Red-eyed Vireo](/images/2018/11/P1010954-1688x1200.jpg "Red-Eyed Vireo")
 
 Red-eyed Vireo
 
