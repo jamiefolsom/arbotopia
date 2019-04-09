@@ -10,6 +10,7 @@ categories:
 - Arnold Arboretum
 tags: []
 comments: []
+feature_photo: "/images/IMG_0381.jpg"
 
 ---
 After overnight rains the air was damp and humid when 31 birders arrived at 8 AM for my last scheduled bird walk in the Arboretum this spring.  Given reports from other nearby locales I was hopful that we would locate some good migrant warblers.  We headed down Meadow Road to Linden Path, noting a pair of Tree Swallows defending a nest box that has been involved in a real estate battle with nasty House Sparrows; they killed a female swallow just a week ago at this house:
