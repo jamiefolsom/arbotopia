@@ -89,12 +89,50 @@ Returning to Sunday’s Arboretum walk,  we pulled ourselves away from the warb
 
 A perfectly manicured Cedar Waxwing. Photo: Ajay Sicloot
 
-* Here is my list: **Arnold Arboretum**, Suffolk, Massachusetts, US May 20, 2018 8:00 AM – 10:40 AM Protocol: Traveling 2.5 mile(s) Comments:     sun and clouds, humid and windy  68 **36 species**
-
-Canada Goose  2 Red-tailed Hawk  1 Herring Gull  2 Rock Pigeon (Feral Pigeon)  1 Mourning Dove  1 Chimney Swift  3 Red-bellied Woodpecker  1 Eastern Wood-Pewee  1Eastern Kingbird 1 Warbling Vireo  3 Red-eyed Vireo  2 Blue Jay  1 Tree Swallow  4 Black-capped Chickadee  2 American Robin  25 Gray Catbird  5 European Starling  3 Cedar Waxwing  4 Black-and-white Warbler  4 American Redstart  2 Northern Parula  5 Bay-breasted Warbler  1 Blackburnian Warbler  1 Yellow Warbler  2 Chestnut-sided Warbler  1 Black-throated Green Warbler  2 Chipping Sparrow  5 Savannah Sparrow  1 Song Sparrow  5 Northern Cardinal  1 Baltimore Oriole  3 Red-winged Blackbird  4 Brown-headed Cowbird  1 Common Grackle  12 American Goldfinch  2 House Sparrow  5
-
-* View this checklist online at [https://ebird.org/view/checklist/S45855629](https://ebird.org/view/checklist/S45855629 "https://ebird.org/view/checklist/S45855629")
-* This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
+* Here is my list: Arnold Arboretum, Suffolk, Massachusetts, US  
+  May 20, 2018 8:00 AM - 10:40 AM  
+  Comments: sun and clouds, humid and windy 68   
+  35 species  
+    
+  Canada Goose 2  
+  Rock Pigeon (Feral Pigeon) 1  
+  Mourning Dove 1  
+  Chimney Swift 3  
+  Herring Gull 2  
+  Red-tailed Hawk 1  
+  Red-bellied Woodpecker 1  
+  Eastern Wood-Pewee 1  
+  Warbling Vireo 3  
+  Red-eyed Vireo 2  
+  Blue Jay 1  
+  Tree Swallow 4  
+  Black-capped Chickadee 2  
+  American Robin 25  
+  Gray Catbird 5  
+  European Starling 3  
+  Cedar Waxwing 4  
+  American Goldfinch 2  
+  Chipping Sparrow 5  
+  Savannah Sparrow 1  
+  Song Sparrow 5  
+  Baltimore Oriole 3  
+  Red-winged Blackbird 4  
+  Brown-headed Cowbird 1  
+  Common Grackle 12  
+  Black-and-white Warbler 4  
+  American Redstart 2  
+  Northern Parula 5  
+  Bay-breasted Warbler 1  
+  Blackburnian Warbler 1  
+  Yellow Warbler 2  
+  Chestnut-sided Warbler 1  
+  Black-throated Green Warbler 2  
+  Northern Cardinal 1  
+  House Sparrow 5  
+    
+  View this checklist online at [https://ebird.org/view/checklist/S45855629](https://ebird.org/view/checklist/S45855629 "https://ebird.org/view/checklist/S45855629")  
+    
+  This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S45855629 "https://ebird.org/view/checklist/S45855629"))
 
 My birding friend and nature photographer Ajay was along on this walk, chronicling it with his SLR camera and big zoom lens.  To see his (slightly different) eBird list for the walk, which includes many more of his photographs, go to [https://ebird.org/view/checklist/S45917461](https://ebird.org/view/checklist/S45917461)
 
