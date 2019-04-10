@@ -61,7 +61,7 @@ Speaking of spring, unseasonably warm days in December fooled some local trees 
 
 Out of season bloom on a Fugi Cherry in the Rose Garden attracted a hardy honey bee on December 15th!
 
-Finally, the 43rd Boston Christmas Bird Count (BCBC) was conducted this year on Sunday December 20th, in comfortable weather.  I have discussed past BCBC’s in posts in [2014](960) and in [2013](656).
+Finally, the 43rd Boston Christmas Bird Count (BCBC) was conducted this year on Sunday December 20th, in comfortable weather.  I have discussed past BCBC’s in posts in [2014](https://www.arbotopia.com/2014/12/18/boston-cbc-good-weather-fair-birding-in-the-jp-sector.html) and in[ 2013](https://www.arbotopia.com/2013/03/08/how-many-birds-in-the-whole-wide-world.html).
 
 This year the Jamaica Plain group of six birders had to hustle to cover all of the Emerald Necklace and adjacent areas of Forest Hills Cemetery and the Boston Nature Center in Mattapan that are traditionally birded for the count.  The early “owlers” heard or saw three Eastern Screech-owls between 4:30 and 7:00 AM, better than last year.  Here is a photo of that species, taken in the Arboretum back in January:
 
