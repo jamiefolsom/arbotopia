@@ -63,7 +63,7 @@ A home made magic halo designed to keep House Sparrows away from bird feeders.
 
 It is no wonder that commercial makers of these devices call them Magic Halos. They indeed “magically” keep non-native House Sparrows away from seed and suet while allowing native seed eating birds in.  The House Sparrows will fly toward the feeders but shy away at the last minute, ending up sitting forlornly beneath the feeding station:
 
-![](/images/P1230272-1.jpg)
+![](/images/P1070439.jpg)
 
 Male House Sparrow
 Photo: Bob Mayer
