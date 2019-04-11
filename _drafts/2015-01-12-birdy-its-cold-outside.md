@@ -5,7 +5,7 @@ author: Bob Mayer
 author_login: admin
 wordpress_id: 50
 wordpress_url: https://arbotopia.com/?p=50
-date: 2015-01-12 18:54:49 -0500
+date: 2015-01-12 23:54:49 +0000
 categories:
 - Bird Walks
 - Avian
@@ -14,8 +14,7 @@ tags: []
 comments: []
 
 ---
-
-Saturday was the annual January Arnold Arboretum bird walk and 30 people signed up on the Arboretum website.  When I awakened and saw the temperature at 12° F, I wondered if anyone would show up.  I got to the main gate at 9AM (Temp 16° F) and was greeted by 19 bundled-up birders, eager and ready to go!  Our first stop was the feeders next to the Hunnewell Building; maintained with funds from the 1912 Edward Whitney Bird Fund (more about that in a future post).  There was little bird activity in the trees and bushes on the grounds, but the feeders were hopping!  Nothing special; but this group of mostly beginning birders were delighted with close-up views of House Finches, American Goldfinches, cardinals and four sparrow species.  I also discussed the [“magic halo”](http://www.arbotopia.com/?s=what+about+bird+feeders) I put around the feeders in December; it was doing it’s job.  All the House Sparrows were on the ground waiting for cast-offs from the birds at the feeders.
+Saturday was the annual January Arnold Arboretum bird walk and 30 people signed up on the Arboretum website.  When I awakened and saw the temperature at 12° F, I wondered if anyone would show up.  I got to the main gate at 9AM (Temp 16° F) and was greeted by 19 bundled-up birders, eager and ready to go!  Our first stop was the feeders next to the Hunnewell Building; maintained with funds from the 1912 Edward Whitney Bird Fund (more about that in a future post).  There was little bird activity in the trees and bushes on the grounds, but the feeders were hopping!  Nothing special; but this group of mostly beginning birders were delighted with close-up views of House Finches, American Goldfinches, cardinals and four sparrow species.  I also discussed the [“magic halo”](https://www.arbotopia.com/2014/03/14/what-about-birdfeeders.htmlhttps://www.arbotopia.com/2014/03/14/what-about-birdfeeders.html) I put around the feeders in December; it was doing it’s job.  All the House Sparrows were on the ground waiting for cast-offs from the birds at the feeders.
 
 As we moved on, the birding went from active to nearly absent.  We picked up a Northern Mockingbird in the Leventritt Gardens that responded to my pishing:
 
@@ -37,34 +36,34 @@ American Tree Sparrow. This is a winter sparrow, departing in the early spring a
 
 We ended up with exactly the same number of bird species as there were people in our hardy group. Here is the list:
 
-- Arnold Arboretum, Suffolk, US-MA
-- Jan 11, 2015 9:00 AM – 10:30 AM
-- Protocol: Traveling
-- 2.0 mile(s)
-- Comments:     16-20, sunny
+* Arnold Arboretum, Suffolk, US-MA
+* Jan 11, 2015 9:00 AM – 10:30 AM
+* Protocol: Traveling
+* 2.0 mile(s)
+* Comments:     16-20, sunny
 
 20 species
 
-- Red-tailed Hawk  1
-- Herring Gull  6
-- Mourning Dove  30
-- Downy Woodpecker  1
-- Northern Flicker  1
-- Blue Jay  4
-- Black-capped Chickadee  2
-- Tufted Titmouse  1
-- White-breasted Nuthatch  3
-- American Robin  5
-- Northern Mockingbird  1
-- European Starling  8
-- American Tree Sparrow  1
-- Song Sparrow  6
-- White-throated Sparrow  12
-- Dark-eyed Junco  8
-- Northern Cardinal  5
-- House Finch  18
-- American Goldfinch  6
-- House Sparrow  4
+* Red-tailed Hawk  1
+* Herring Gull  6
+* Mourning Dove  30
+* Downy Woodpecker  1
+* Northern Flicker  1
+* Blue Jay  4
+* Black-capped Chickadee  2
+* Tufted Titmouse  1
+* White-breasted Nuthatch  3
+* American Robin  5
+* Northern Mockingbird  1
+* European Starling  8
+* American Tree Sparrow  1
+* Song Sparrow  6
+* White-throated Sparrow  12
+* Dark-eyed Junco  8
+* Northern Cardinal  5
+* House Finch  18
+* American Goldfinch  6
+* House Sparrow  4
 
 View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S21296939](http://ebird.org/ebird/view/checklist?subID=S21296939)
 
