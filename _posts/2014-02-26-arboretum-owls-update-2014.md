@@ -12,7 +12,7 @@ tags: []
 comments: []
 
 ---
-I began this blog with a post on [Owls in the Arnold Arboretum](http://www.arbotopia.com/arnold-arboretum-owls/) just over a year ago, so it seems time for an update on these very popular birds of prey.  The winter of 2012-13 was the year of the Barred Owl; an irruption of this species from northern forests produced many sightings in our neighborhood and throughout Massachusetts.  Here is one seen back in December of 2012:
+I began this blog with a post on [Owls in the Arnold Arboretum](https://www.arbotopia.com/2013/01/09/arnold-arboretum-owls.html) just over a year ago, so it seems time for an update on these very popular birds of prey.  The winter of 2012-13 was the year of the Barred Owl; an irruption of this species from northern forests produced many sightings in our neighborhood and throughout Massachusetts.  Here is one seen back in December of 2012:
 
 ![](/images/P1030005.jpg)
 
