@@ -5,7 +5,7 @@ author: Bob Mayer
 author_login: admin
 wordpress_id: 48
 wordpress_url: https://arbotopia.com/?p=48
-date: 2014-02-26 19:01:55 -0500
+date: 2014-02-27 00:01:55 +0000
 categories:
 - Uncategorized
 tags: []
@@ -30,7 +30,7 @@ So far there has only been one report of a Snowy Owl in the Emerald Necklace in 
 Snowy Owl, probably a female given the amount of black markings.
 Photo: Bob Mayer
 
-Closer to home there have been other developments in the owl world over the past year.  As I reported in a post in [April](http://arbotopia.com/new-great-horned-owl-nesting/), the locally famous one-eyed female Great Horned Owl successfully raised a pair of owlets in Forest Hills Cemetery last spring.  There is an early report that she is sitting on eggs again this year, but the location of the nest is being closely held so as not to disturb the pair at this critical time. Great Horned Owls are the earliest bird species to nest in Massachusetts.
+Closer to home there have been other developments in the owl world over the past year.  As I reported in a post in [April](https://www.arbotopia.com/2013/04/12/great-horned-owl-nesting.html), the locally famous one-eyed female Great Horned Owl successfully raised a pair of owlets in Forest Hills Cemetery last spring.  There is an early report that she is sitting on eggs again this year, but the location of the nest is being closely held so as not to disturb the pair at this critical time. Great Horned Owls are the earliest bird species to nest in Massachusetts.
 
 Another occurrence of nesting Great Horned Owls this year did not turn out as well.  Back in May I was told by an Arboretum staffer that a fledgling owl was found injured beneath a nest in a White Pine atop Bussey Hill.  It was taken to a rehab center where it had to be euthanized due to a badly broken wing.  As a second owlet was said to be at the nest I went there right away.  I was too late; I found the nest but no owls. Not far away I discovered this grisly scene:
 
