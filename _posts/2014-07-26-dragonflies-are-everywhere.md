@@ -64,6 +64,6 @@ Photo: Bob Mayer
 
 I have seen these big fellows all over the Arboretum, as late as October.  So keep your eyes open for dragonflies anywhere in the landscape.
 
-On Sunday August 17th I’ll be leading a walk around the ponds at the end of Meadow Road in the Arboretum, beginning at 1:00 PM.  We’ll be looking for all kinds of invertebrates and observing what plants they favor for food or just as a place to rest.  In addition we will look at the [giant cicada killers](http://www.arbotopia.com/return-of-the-cicada-killers/  "giant cicada killers") that breed and nest in that area.  I hope you can join me.
+On Sunday August 17th I’ll be leading a walk around the ponds at the end of Meadow Road in the Arboretum, beginning at 1:00 PM.  We’ll be looking for all kinds of invertebrates and observing what plants they favor for food or just as a place to rest.  In addition we will look at the [giant cicada killers](https://www.arbotopia.com/2013/08/04/return-of-the-cicada-killers.html "giant cicada killers") that breed and nest in that area.  I hope you can join me.
 
 Enjoy the summer!
