@@ -67,7 +67,7 @@ This year the Jamaica Plain group of six birders had to hustle to cover all of t
 
 ![Rufous Morph Eastern Screech-owl](/images/2015/12/P1090370.jpg)
 
-This Rufous Morph Eastern Screech-owl has returned for the third year to the same [roost hole](713) where it suns itself on cold winter mornings.
+This Rufous Morph Eastern Screech-owl has returned for the third year to the same [roost hole](https://www.arbotopia.com/2014/02/27/arboretum-owls-update-2014.html) where it suns itself on cold winter mornings.
 
 During the day our group found two of the three Red-breasted Nuthatches that were seen in the entire 15 mile diameter Boston circle.  The conifer section of the Arboretum is a good place to find these little relatives of the much more common White-breasted Nuthatch.
 
