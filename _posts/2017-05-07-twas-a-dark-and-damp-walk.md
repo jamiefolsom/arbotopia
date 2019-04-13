@@ -21,9 +21,6 @@ Male Pine Warbler on a hemlock tree
 
 We may have ducked some of the rain, but the tradeoff was very poor light in the dense conifer forest. We heard several pines:
 
-
-Pine Warbler
-
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 <audio controls src="/media/3-21-Pine-Warbler.mp3"></audio><br />
@@ -39,11 +36,13 @@ Northern Flicker
 
 We did hear several Red-bellied Woodpeckers:
 
+_Sound recording courtesy of Lang Elliott NatureSound Studio_
+
 Their call is so distinctive that one doesn’t need to see the bird to check it off on the list.
 
 After spending a lot of time trying to see a Scarlet Tanager that we thought might be singing high in the canopy, I eventually decided it was just a noisy, and harsh, American Robin. These two birds songs, as well as that of the beautiful Rose-breasted Grosbeak, are easily confused.
 
-We left the darkness of Hemlock Hill and proceeded to Peters Hill; I was hoping we might come upon some of the 8 species of warblers I had there just 48 hours earlier.  We did pick up a new species; Great Crested Flycatcher;
+We left the darkness of Hemlock Hill and proceeded to Peters Hill; I was hoping we might come upon some of the 8 species of warblers I had there just 48 hours earlier.  We did pick up a new species; Great Crested Flycatcher:
 
 ![](/images/2018/11/P1050424.jpg)
 
@@ -73,33 +72,33 @@ Comments:     56, overcast w some rain
 
 **27 species**
 
-*   Mallard  1
-*   Herring Gull  3
-*   Mourning Dove  2
-*   Red-bellied Woodpecker  2
-*   Northern Flicker  1
-*   Great Crested Flycatcher  2
-*   Warbling Vireo  1
-*   Blue Jay  3
-*   American Crow  1
-*   Tree Swallow  1
-*   Black-capped Chickadee  2
-*   American Robin  20
-*   Gray Catbird  3
-*   European Starling  2
-*   Black-and-white Warbler  2
-*   Yellow Warbler  1
-*   Pine Warbler  2
-*   Yellow-rumped Warbler  5
-*   Chipping Sparrow  5
-*   Song Sparrow  2
-*   Northern Cardinal  2
-*   Red-winged Blackbird  3
-*   Common Grackle  6
-*   Brown-headed Cowbird  2
-*   Baltimore Oriole  5
-*   American Goldfinch  3
-*   House Sparrow  3
+* Mallard  1
+* Herring Gull  3
+* Mourning Dove  2
+* Red-bellied Woodpecker  2
+* Northern Flicker  1
+* Great Crested Flycatcher  2
+* Warbling Vireo  1
+* Blue Jay  3
+* American Crow  1
+* Tree Swallow  1
+* Black-capped Chickadee  2
+* American Robin  20
+* Gray Catbird  3
+* European Starling  2
+* Black-and-white Warbler  2
+* Yellow Warbler  1
+* Pine Warbler  2
+* Yellow-rumped Warbler  5
+* Chipping Sparrow  5
+* Song Sparrow  2
+* Northern Cardinal  2
+* Red-winged Blackbird  3
+* Common Grackle  6
+* Brown-headed Cowbird  2
+* Baltimore Oriole  5
+* American Goldfinch  3
+* House Sparrow  3
 
 View this checklist online at [http://ebird.org/ebird/view/checklist/S36585503](http://ebird.org/ebird/view/checklist/S36585503)
 
