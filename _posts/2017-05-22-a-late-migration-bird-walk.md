@@ -1,11 +1,10 @@
 ---
 layout: post
-published: true
 title: A Late Migration Bird Walk
 author: Bob Mayer
 wordpress_id: 78
 wordpress_url: https://arbotopia.com/?p=78
-date: '2017-05-22 17:47:03 -0500'
+date: 2017-05-22 17:47:03 -0500
 categories:
 - Bird Walks
 - Avian
@@ -13,8 +12,8 @@ categories:
 - Plants &amp; Trees
 tags: []
 comments: []
----
 
+---
 Those of you who are birders know that the spring migration in Boston this year has had its up and downs.  The lingering cold and inauspicious winds kept the migrants back, and to some extent moved them inland. Then this past week there was a sudden weather shift, and the warblers and other migrants fell from the skies!  Today’s walk in the Arnold Arboretum was back to high 50’s temperatures with unfavorable northeast headwinds.  But it was sunny and 43 birders of all ages enjoyed the beauty of the landscape and some nice birds, even though the viewing was less than optimal with trees fully leafed out.
 
 My co-leader Patrick brought his thirteen month old daughter, in carrier, who claimed the prize for youngest.  In keeping with Patrick’s interests, her middle name is Wren!  Next youngest was an energetic five year old who liked to hold hands as we walked; I didn’t complain! We also had a teenager from New Jersey, a solid young birder who helped me locate several birds. Not surprising that he has a passion for birding; his mother’s name is Robin!
@@ -73,7 +72,7 @@ The Arboretum is first and foremost a tree museum, so I couldn’t resist pointi
 
 Dove Tree, _Davidia involucrata_. The other common name for this unusual tree is Handkerchief Tree, for obvious reasons when in bloom.
 
-Ned Friedman, the Director of the Arboretum, has just written about this historic tree on his blog, [check it out!](https://www.arboretum.harvard.edu/dove-tree-takes-wing-2/)  As we headed back to the main gate we passed the Black Locust near the ponds where an Eastern Screech-owl  has sunned itself most days for the last four winters.  A few months ago I posted some [new information](http://www.arbotopia.com/spring-kickoff/) on this owl.  Was she pregnant?  Ten days ago I was coming down Meadow Road from the ponds and checked the roost hole.  I saw an owl in the hole, but when I got my bins on it it seemed different:
+Ned Friedman, the Director of the Arboretum, has just written about this historic tree on his blog, [check it out!](https://www.arboretum.harvard.edu/dove-tree-takes-wing-2/)  As we headed back to the main gate we passed the Black Locust near the ponds where an Eastern Screech-owl  has sunned itself most days for the last four winters.  A few months ago I posted some new information on this owl.  Was she pregnant?  Ten days ago I was coming down Meadow Road from the ponds and checked the roost hole.  I saw an owl in the hole, but when I got my bins on it it seemed different:
 
 ![](/images/2018/11/P1160121.jpg)
 
@@ -99,45 +98,45 @@ The list:
 
 May 20, 2017 8:00 AM – 10:00 AM
 
-1.5 mile(s)
+1\.5 mile(s)
 
 60, sunny,  BBC walk
 
 **33 species**
 
-*   Canada Goose  1
-*   Red-tailed Hawk  2
-*   Herring Gull  2
-*   Mourning Dove  2
-*   Black-billed Cuckoo  1    
-*   Chimney Swift  2
-*   Red-bellied Woodpecker  2
-*   Eastern Wood-Pewee  3
-*   Great Crested Flycatcher  1
-*   Eastern Kingbird  1
-*   Warbling Vireo  4
-*   Red-eyed Vireo  2
-*   Blue Jay  3
-*   Tree Swallow  1
-*   Veery  1
-*   American Robin  15
-*   Gray Catbird  8
-*   European Starling  1
-*   Cedar Waxwing  3
-*   American Redstart  4
-*   Yellow Warbler  4
-*   Blackpoll Warbler  2
-*   Yellow-rumped Warbler  1
-*   Chipping Sparrow  3
-*   Savannah Sparrow  2
-*   Song Sparrow  3
-*   Northern Cardinal  3
-*   Red-winged Blackbird  5
-*   Common Grackle  9
-*   Orchard Oriole  1
-*   Baltimore Oriole  7
-*   American Goldfinch  2
-*   House Sparrow  4
+* Canada Goose  1
+* Red-tailed Hawk  2
+* Herring Gull  2
+* Mourning Dove  2
+* Black-billed Cuckoo  1
+* Chimney Swift  2
+* Red-bellied Woodpecker  2
+* Eastern Wood-Pewee  3
+* Great Crested Flycatcher  1
+* Eastern Kingbird  1
+* Warbling Vireo  4
+* Red-eyed Vireo  2
+* Blue Jay  3
+* Tree Swallow  1
+* Veery  1
+* American Robin  15
+* Gray Catbird  8
+* European Starling  1
+* Cedar Waxwing  3
+* American Redstart  4
+* Yellow Warbler  4
+* Blackpoll Warbler  2
+* Yellow-rumped Warbler  1
+* Chipping Sparrow  3
+* Savannah Sparrow  2
+* Song Sparrow  3
+* Northern Cardinal  3
+* Red-winged Blackbird  5
+* Common Grackle  9
+* Orchard Oriole  1
+* Baltimore Oriole  7
+* American Goldfinch  2
+* House Sparrow  4
 
 View this checklist online at [http://ebird.org/ebird/view/checklist/S37007137](http://ebird.org/ebird/view/checklist/S37007137)
 
