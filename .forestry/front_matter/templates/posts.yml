@@ -29,3 +29,5 @@ fields:
   config:
     required: true
   default: post
+pages:
+- _posts/more-spring-walks-with-avian-migration-in-full-swing.md
