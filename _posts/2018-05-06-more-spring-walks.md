@@ -6,7 +6,7 @@ author: Bob Mayer
 author_login: admin
 wordpress_id: 103
 wordpress_url: https://arbotopia.com/2018/11/03/102-revision-v1/
-date: 2018-05-06 20:07:52 -0400
+date: 2018-05-07 00:07:52 +0000
 categories: []
 tags: []
 comments: []
@@ -46,17 +46,17 @@ Topographically much of the rest of the walk was uphill but in terms of birds it
 
 I located this adult red-tail because it was being harassed by several jays. Note the hawk is protecting a recent kill.
 
-We found our last highlight thru a circuitous route. Earlier in the week I found a pair of bluebirds that were flying in and out of a new nestbox that an Arboretum staff member had placed on the hill. I was pretty excited, because while bluebirds had nested in boxes I put up in 2005, they hadn't done so for over ten years. But the day before our walk the house builder emailed me to say that he saw a House Sparrow sitting on top of the box. Bummer!
+We found our last highlight thru a circuitous route. Earlier in the week I found a pair of bluebirds that were flying in and out of a new nest box that an Arboretum staff member had placed on the hill. I was pretty excited, because while bluebirds had nested in boxes I put up in 2005, they hadn't done so for over ten years. But the day before our walk the house builder emailed me to say that he saw a House Sparrow sitting on top of the box. Bummer!
 
 ![](/images/P1120950.jpg)
 
-Male House Sparrow. This non-native import is a menace to native cavity nest builders as they evict them from nestboxes, sometimes destroying eggs or nestlings in the process.
+Male House Sparrow. This non-native import is a menace to native cavity nest builders as they evict them from nest boxes, sometimes destroying eggs or nestlings in the process.
 
-In the early years of the nestbox program at the Arboretum, House Sparrows were seldom a problem. In recent years however they have taken over most of the dozen or so boxes. I feared this had happened to my long sought after bluebirds, but was heading to the box with the group in hopes it hadn't. A local birding friend who joined the walk told me she had actually seen bluebirds on a box, but not the one I was heading for! We quickly re-directed to another box on the hill, which I thought was unused. Bingo! The Eastern Bluebirds had relocated to this box, and the group had good looks at the pair.
+In the early years of the nest box program at the Arboretum, House Sparrows were seldom a problem. In recent years however they have taken over most of the dozen or so boxes. I feared this had happened to my long sought after bluebirds, but was heading to the box with the group in hopes it hadn't. A local birding friend who joined the walk told me she had actually seen bluebirds on a box, but not the one I was heading for! We quickly re-directed to another box on the hill, which I thought was unused. Bingo! The Eastern Bluebirds had relocated to this box, and the group had good looks at the pair.
 
 ![](/images/P1130669.jpg)
 
-Male Eastern Bluebird guarding a nestbox
+Male Eastern Bluebird guarding a nest box
 
 Let's hope they are able to hold their new nesting site and successfully raise a family.
 
@@ -101,7 +101,9 @@ Here is the complete list for the Peters Hill Walk:
 
 View this checklist online at [https://ebird.org/view/checklist/S45287689](https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45287689)
 
-Sunday morning's walk was in the newest section of the Arboretum, Bussey Brook Meadow. The weather report suggested some rain and we did have a few drops early on but otherwise the group of about 30 people stayed dry. A visiting couple from New Zeeland were the first to locate a nice find; nesting Red-bellied Woodpeckers. We heard the unmistakable rasping call and had full on looks at the bird.
+THE NEXT WALK
+
+Sunday morning's walk was in the newest section of the Arboretum, Bussey Brook Meadow. The weather report suggested some rain and we did have a few drops early on but otherwise the group of about 30 people stayed dry. A visiting couple from New Zealand were the first to locate a nice find; nesting Red-bellied Woodpeckers. We heard the unmistakable rasping call and had full on looks at the bird.
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
@@ -191,7 +193,7 @@ View this checklist online at [https://ebird.org/view/checklist/S45352886](https
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org/))
 
-Next weekend I will be doing the 2018 Bird-a-thon to support nature programs at Mass Audubon's Boston Nature Center. To learn more about that, and to support me and my team you can [click here](https://goo.gl/sVXdFu).
+Next weekend I will be doing the 2018 Bird-a-thon to support nature programs at Mass Audubon's Boston Nature Center. 
 
 My final walk will be on Sunday May 20th beginning at 8 AM back at the Main Gate of the AA off the Arborway. I hope you can join me.
 
