@@ -91,9 +91,9 @@ A perfectly manicured Cedar Waxwing. Photo: Ajay Sicloot
 
 * Here is my list: Arnold Arboretum, Suffolk, Massachusetts, US  
   May 20, 2018 8:00 AM - 10:40 AM  
-  Comments: sun and clouds, humid and windy 68   
-  35 species  
-    
+  Comments: sun and clouds, humid and windy 68  
+  35 species
+
   Canada Goose 2  
   Rock Pigeon (Feral Pigeon) 1  
   Mourning Dove 1  
@@ -128,10 +128,10 @@ A perfectly manicured Cedar Waxwing. Photo: Ajay Sicloot
   Chestnut-sided Warbler 1  
   Black-throated Green Warbler 2  
   Northern Cardinal 1  
-  House Sparrow 5  
-    
-  View this checklist online at [https://ebird.org/view/checklist/S45855629](https://ebird.org/view/checklist/S45855629 "https://ebird.org/view/checklist/S45855629")  
-    
+  House Sparrow 5
+
+  View this checklist online at [https://ebird.org/view/checklist/S45855629](https://ebird.org/view/checklist/S45855629 "https://ebird.org/view/checklist/S45855629")
+
   This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S45855629 "https://ebird.org/view/checklist/S45855629"))
 
 My birding friend and nature photographer Ajay was along on this walk, chronicling it with his SLR camera and big zoom lens.  To see his (slightly different) eBird list for the walk, which includes many more of his photographs, go to [https://ebird.org/view/checklist/S45917461](https://ebird.org/view/checklist/S45917461)
