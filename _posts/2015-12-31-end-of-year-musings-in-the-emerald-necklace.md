@@ -1,5 +1,6 @@
 ---
 layout: post
+status: inherit
 title: End of Year Musings in the Emerald Necklace
 author: Bob Mayer
 wordpress_id: 39
@@ -13,19 +14,19 @@ comments: []
 ---
 2015 was a year of record breaking weather.  The year started off with a series of overwhelming snowstorms that put much of the area in weather lock-down and wreaked havoc in nature.  Vulnerable avian species, especially species that have moved north as the climate warmed, experienced heavier than usual winter die off.  I usually have one or two Carolina Wrens at my feeders in winter; this year none showed after the storms hit, and I didn’t see or hear one throughout the spring and summer anywhere in the area.  Finally one appeared last month:
 
-![Disgruntled Carolina Wren](/images/2015/12/P1030908.jpg)
+[![P1030908](/arbotopia/images/2015/12/P1030908.jpg)](/arbotopia/images/2015/12/P1030908.jpg)
 
 This disgruntled Carolina Wren had seen enough of cold winter weather.
 
-The unusually cold weather may have brought us the best bird for the year, a [Black-backed Woodpecker](https://www.arbotopia.com/2015/01/12/birdy-its-cold-outside.html) in Forest Hills Cemetery.  Another rarity was a Grasshopper Sparrow, first found by Paul Peterson in late December 2014, which lingered more than a month into 2015 in an overgrown field near the Boston Nature Center.
+The unusually cold weather may have brought us the best bird for the year, a [Black-backed Woodpecker](http://www.arbotopia.com/birdy-its-cold-outside/) in Forest Hills Cemetery.  Another rarity was a Grasshopper Sparrow, first found by Paul Peterson in late December 2014, which lingered more than a month into 2015 in an overgrown field near the Boston Nature Center.
 
-![Grasshopper Sparrow](/images/2015/12/Grasshopper-Sparrow.jpg)
+[![Grasshopper Sparrow](/arbotopia/images/2015/12/Grasshopper-Sparrow.jpg)](/arbotopia/images/2015/12/Grasshopper-Sparrow.jpg)
 
 This “documentation” shot of a Grasshopper Sparrow barely shows the white eye-ring and streaked upper body of this sparrow, uncommon in Massachusetts.
 
 There were two notable sightings in the waterfowl category in 2015.  Gadwalls appeared on both Leverett and Jamaica Ponds in the Necklace.  I spotted one on Dawson Pond in the Arnold Arboretum as well:
 
-![Gadwall, male](/images/2015/12/P1090964.jpg)
+[![P1090964](/arbotopia/images/2015/12/P1090964.jpg)](/arbotopia/images/2015/12/P1090964.jpg)
 
 Gadwall, male. The black tail, white wing speculum and chestnut back are distinctive.
 
@@ -33,51 +34,51 @@ Gadwalls are regular inhabitants of coastal marshes like Plum Island in Newburyp
 
 At least a few Wood Ducks appear nearly every winter on one or more of the waterways in the Emerald Necklace. This year was the first time that breeding was confirmed however;  a family of seven ducklings and their mother was discovered on Leverett Pond (again by the illustrious Paul Peterson) in late July.
 
-![](/images/P1100739.jpg)
+[![P1100739](/arbotopia/images/2015/12/P1100739.jpg)](/arbotopia/images/2015/12/P1100739.jpg)
 
 Family of Wood Ducks on a dead tree limb on Leverett Pond; the adult female is at far left.
 
 The male of this species may be the most colorful duck in the region:
 
-![Male Wood Duck](/images/2015/12/P1090463.jpg)
+[![P1090463](/arbotopia/images/2015/12/P1090463.jpg)](/arbotopia/images/2015/12/P1090463.jpg)
 
 Male Wood Duck sitting on the snow in February 2015
 
 As 2015 comes to a close, we should note the death of a Great Blue Heron that gave pleasure to many visitors at the Arnold Arboretum this year.
 
-![Juvenile Great Blue Heron on Rehder Pond at the Arnold Arboretum](/images/2015/12/P1100773.jpg)
+[![P1100773](/arbotopia/images/2015/12/P1100773.jpg)](/arbotopia/images/2015/12/P1100773.jpg)
 
 Juvenile Great Blue Heron on Rehder Pond at the Arnold Arboretum, a few weeks before it was killed by two unleashed dogs.
 
 This bird had become accustomed to the many people who stopped to watch it hunt for prey in the pond. That no doubt made it easier for two unleashed dogs to attack and kill it in late July.  This quickly mobilized the Arboretum administration to begin a sustained educational and enforcement program aimed at unleashed dogs and their owners;
 
-![Great Blue Herons](/images/2015/12/P1110018.jpg)
+[![P1110018](/arbotopia/images/2015/12/P1110018.jpg)](/arbotopia/images/2015/12/P1110018.jpg)
 
 Great Blue Herons have been drawn to the easy fishing on the ponds at the AA for years, and I hoped another heron would quickly replace “Baby Blue”, as a group of school children nicknamed the bird this summer.  I did hear a second hand report of one being seen at the ponds, but never saw or confirmed that.  Let’s hope for next spring.
 
 Speaking of spring, unseasonably warm days in December fooled some local trees into early bloom, and even brought out pollinators:
 
-![Out of season bloom on a Fugi Cherry in the Rose Garden attracted a hardy honey bee](/images/2015/12/P1110424.jpg)
+[![P1110424](/arbotopia/images/2015/12/P1110424.jpg)](/arbotopia/images/2015/12/P1110424.jpg)
 
 Out of season bloom on a Fugi Cherry in the Rose Garden attracted a hardy honey bee on December 15th!
 
-Finally, the 43rd Boston Christmas Bird Count (BCBC) was conducted this year on Sunday December 20th, in comfortable weather.  I have discussed past BCBC’s in posts in [2014](https://www.arbotopia.com/2014/12/18/boston-cbc-good-weather-fair-birding-in-the-jp-sector.html) and in[ 2013](https://www.arbotopia.com/2013/03/08/how-many-birds-in-the-whole-wide-world.html).
+Finally, the 43rd Boston Christmas Bird Count (BCBC) was conducted this year on Sunday December 20th, in comfortable weather.  I have discussed past BCBC’s in posts in [2014](https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-admin/post.php?post=960&action=edit)  and in [2013](https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-admin/post.php?post=656&action=edit).
 
 This year the Jamaica Plain group of six birders had to hustle to cover all of the Emerald Necklace and adjacent areas of Forest Hills Cemetery and the Boston Nature Center in Mattapan that are traditionally birded for the count.  The early “owlers” heard or saw three Eastern Screech-owls between 4:30 and 7:00 AM, better than last year.  Here is a photo of that species, taken in the Arboretum back in January:
 
-![Rufous Morph Eastern Screech-owl](/images/2015/12/P1090370.jpg)
+[![P1090370](/arbotopia/images/2015/12/P1090370.jpg)](/arbotopia/images/2015/12/P1090370.jpg)
 
-This Rufous Morph Eastern Screech-owl has returned for the third year to the same [roost hole](https://www.arbotopia.com/2014/02/27/arboretum-owls-update-2014.html) where it suns itself on cold winter mornings.
+This Rufous Morph Eastern Screech-owl has returned for the third year to the same [roost hole](https://web.archive.org/web/20160206083839/http://www.arbotopia.com/wp-admin/post.php?post=713&action=edit)where it suns itself on cold winter mornings.
 
 During the day our group found two of the three Red-breasted Nuthatches that were seen in the entire 15 mile diameter Boston circle.  The conifer section of the Arboretum is a good place to find these little relatives of the much more common White-breasted Nuthatch.
 
-![Red-breasted Nuthatch](/images/2015/12/P1090334.jpg)
+[![P1090334](/arbotopia/images/2015/12/P1090334.jpg)](/arbotopia/images/2015/12/P1090334.jpg)
 
 Red-breasted Nuthatch atop a spruce in the Arboretum.
 
 Overall, the JP sector group produced 47 species for the count; the BCBC tallied 114 species, about average for a BCBC in recent years.  The only other highlight for our local group was the discovery of a huge flock of at least 2,000 Common Grackles at the Mass Audubon Nature Center. Normally only a few of these birds- common in the warmer months- are found during the BCBC (only four in 2014).  When seen in the sunlight, they are striking birds:
 
-![Common Grackle](/images/2015/12/P1010016.jpg)
+[![](/arbotopia/images/2015/12/P1010016.jpg)](/arbotopia/images/2015/12/P1010016.jpg)
 
 Common Grackle, showing the iridescent sheen of it’s feathers and the yellow iris.
 
@@ -218,6 +219,6 @@ NOTE: The Swainson’s Hawk is the first for a Christmas Count in New England.
 
 This report was generated automatically by eBird v3
 
-I will be leading a walk in the Arnold on Sunday January 10th from 9 to 10:30 AM beginning at the main gate off the Arborway, for those anxious to get going on their 2016 year lists!
+I will be leading a [walk](https://my.arboretum.harvard.edu/Info.aspx?DayPlanner=1486&DayPlannerDate=1/10/2016) in the Arnold on Sunday January 10th from 9 to 10:30 AM beginning at the main gate off the Arborway, for those anxious to get going on their 2016 year lists!
 
 Happy New Year and Good Birding in 2016!

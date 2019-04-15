@@ -39,14 +39,14 @@ After this hat trick we spent a few minutes comparing female Mallards and Americ
 
 Our search for land birds was disappointing.  Other than the usual winter species- robins, titmouses, chickadees, and several sparrow species- we came up short.  The youngest member of our group, perhaps ten years old,  treated us to his perfect rendition of the call of the Mourning Dove.  No real MODO’s responded however.  As we circled Ward’s Pond we did have one Hermit Thrush hidden in a tangled bittersweet vine.  This is a lovely bird:
 
-![](/images/P1040765.jpg)
+![Hermit Thrush. The rusty tail and wing primaries distinguish it from other similar thrushes, and it is the only one likely to be seen in this weather.](/images/2014/12/P1040765.jpg)
 
 Hermit Thrush. The rusty tail and wing primaries distinguish it from other similar thrushes, and it is the only one likely to be seen in this weather.
 Photo: Bob Mayer
 
 The other nice surprise was two Great Blue Herons hunkered down in the reeds around that pond.  Seeing them up close demonstrated how big these birds are:
 
-![](/images/P1090225.jpg)
+![Great Blue Heron. Judging from the plumage of this bird it is likely a juvenile.](/images/2014/12/P1090225.jpg)
 
 Great Blue Heron. Judging from the plumage of this bird it is likely a juvenile.
 Photo: Bob Mayer
