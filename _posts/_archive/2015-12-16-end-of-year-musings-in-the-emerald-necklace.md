@@ -6,7 +6,7 @@ author: Bob Mayer
 author_login: admin
 wordpress_id: 38
 wordpress_url: https://arbotopia.com//?p=38
-date: '2015-12-16 16:13:01 -0500'
+date: 2015-12-16 16:13:01 -0500
 categories:
 - Avian
 - Arnold Arboretum
@@ -15,9 +15,8 @@ categories:
 - Waterfowl
 tags: []
 comments: []
+
 ---
-
-
 <p>2015 was a year of record breaking weather.&nbsp; The year started off with a series of overwhelming snowstorms that put much of the area in weather lock-down and wreaked havoc in nature. &nbsp;Vulnerable avian species, especially species that have moved&nbsp;north as the climate warmed, experienced heavier than usual winter die off. &nbsp;I usually have one or two Carolina Wrens at my feeders in winter; this year none showed after the storms hit, and I didn&rsquo;t see or hear one&nbsp;throughout the spring and summer anywhere in the area. &nbsp;Finally one appeared last month:</p>
 
 
