@@ -105,7 +105,7 @@ View this checklist online at [http://ebird.org/ebird/view/checklist/S36617594]
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org/))
 
-I will not be leading walks next weekend as that Sunday is the Lilac Sunday festival and I will be doing botanical tours then.  And on Saturday May 13th I will spend the day birding with some friends in the southeastern part of the state for Mass Audubon’s Bird-a-thon. We will try to identify 70 or more species, weather permitting, in support of Boston’s urban sanctuary, the Boston Nature Center in Mattapan.  If you are interested in supporting the programs at the BNC you can go to my [fundraising page](https://goo.gl/vBoKGt)
+I will not be leading walks next weekend as that Sunday is the Lilac Sunday festival and I will be doing botanical tours then.  And on Saturday May 13th I will spend the day birding with some friends in the southeastern part of the state for Mass Audubon’s Bird-a-thon. We will try to identify 70 or more species, weather permitting, in support of Boston’s urban sanctuary, the Boston Nature Center in Mattapan.  If you are interested in supporting the programs at the BNC you can go to my fundraising page.
 
 Thanks!
 
