@@ -22,7 +22,7 @@ As we moved on, the birding went from active to nearly absent.  We picked up a 
 
 Northern Mockingbird. This is a year-round species in the Arboretum.                                        Photo: Bob Mayer
 
-We circled down Bussey Hill Road to the ponds which were solid ice.  I showed the group [last winter’s roosting hole](http://www.arbotopia.com/2014/02/) for an Eastern Screech-owl, but it was vacant.  As we walked past the hole however, a passerby reported there had been an owl in the hole earlier in the morning.  Arboretum birders, keep on the lookout!  We did find some open water farther along on the way back and there were several species in and around that “seep”, including about six of the more than 30 Mourning Doves we admired:
+We circled down Bussey Hill Road to the ponds which were solid ice.  I showed the group [last winter’s roosting hole](https://www.arbotopia.com/2014/02/27/arboretum-owls-update-2014.html) for an Eastern Screech-owl, but it was vacant.  As we walked past the hole however, a passerby reported there had been an owl in the hole earlier in the morning.  Arboretum birders, keep on the lookout!  We did find some open water farther along on the way back and there were several species in and around that “seep”, including about six of the more than 30 Mourning Doves we admired:
 
 ![](/images/P1030635.jpg)
 
