@@ -16,7 +16,7 @@ Unless you live in adjacent Roslindale, or are a dog walker, you may not be that
 
 Early on we visited some nest boxes near the top of the hill. House Sparrows were harassing the Tree swallows, but some boxes had been claimed by the swallows:
 
-[![P1140805](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1140805.jpg =1424x1696)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1140805.jpg)
+![](/images/P1140805-1.jpg)
 
 Male Tree Swallow at nestbox  
 Photo: Bob Mayer
@@ -25,7 +25,7 @@ These nest boxes have had good success since being erected eight years ago. They
 
 As the walk proceeded down the hill we ran into a group of early migrants, including this pretty warbler:
 
-[![P1080304](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080304.jpg =1821x1305)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080304.jpg)
+![](/images/P1080304.jpg)
 
 Male Yellow-rumped Warbler.  
 Photo: Bob Mayer
@@ -34,7 +34,7 @@ The yellow patch at the base of the tail for which this species is named isn’t
 
 Also in the group was a Black and White Warbler:
 
-[![P1080314](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080314.jpg =1593x1230)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080314.jpg)
+![](/images/P1080314-1.jpg)
 
 Black and White Warbler  
 Photo: Bob Mayer
@@ -43,14 +43,14 @@ This species is almost always on the trunk or a large limb rather than out in th
 
 As we left Peters Hill we saw two Northern Flickers chasing each other. It is always a nice woodpecker to observe.
 
-[![P1270256](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1270256.jpg =805x992)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1270256.jpg)
+![](/images/P1270256.jpg)
 
 Female Northern Flicker making an entrance to a nest hole  
 Photo: Bob Mayer
 
 We left Peters Hill and proceeded over to and up Hemlock Hill where the earliest warbler species to arrive almost every spring hangs out. These birds are more often heard than seen.
 
-[![P1000248](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1000248.jpg =1140x1005)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1000248.jpg)
+![](/images/P1000248.jpg)
 
 Pine Warbler  
 Photo: Bob Mayer
@@ -59,14 +59,14 @@ We compared the similar calls of this warbler and the very common Chipping Sparr
 
 We finished off the walk in the conifer area across from Hemlock Hill. Three days before the walk, on a tip from another birder, I had found this fur ball high up in a huge fir tree:
 
-[![P1080285](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080285.jpg =1728x1965)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080285.jpg)
+![](/images/P1080285.jpg)
 
 Great Horned Owl fledgling  
 Photo: Bob Mayer
 
 I searched the tree wondering where the adult, that usually guards such young birds, might be.
 
-[![P1080281](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080281.jpg =1419x1965)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080281.jpg)
+![](/images/P1080281.jpg)
 
 Adult Great Horned Owl. The horns (actually feather tufts) are very prominent in this image  
 Photo: Bob Mayer
