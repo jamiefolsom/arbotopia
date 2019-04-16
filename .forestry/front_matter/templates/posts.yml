@@ -30,6 +30,7 @@ fields:
     required: true
   default: post
 pages:
+- _posts/2019-04-16-a-windy-bird-walk-on-peters-hill.md
 - _posts/2019-04-16-a-late-fall-bird-walk-in-the-arnold.md
 - _posts/2019-04-16-a-fall-bird-walk-in-the-arboretum.md
 - _posts/2019-04-16-jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond.md
