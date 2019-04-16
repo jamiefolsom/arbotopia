@@ -12,7 +12,7 @@ date: 2019-04-16 09:56:42 -0400
 
 Posted on [**December 24, 2013**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/2013-boston-christmas-bird-count-jamaica-plain-sector/ "5:56 pm")
 
-This year’s Boston Christmas Bird Count (BCBC) was origionaly scheduled for Sunday December 15, but a wet and heavy snowstorm was considered too hazardous for road and foot traffic so it was postponed to Saturday the 21st. The weather was warmer, but the birding was not so hot.
+This year’s Boston Christmas Bird Count (BCBC) was originally scheduled for Sunday December 15, but a wet and heavy snowstorm was considered too hazardous for road and foot traffic so it was postponed to Saturday the 21st. The weather was warmer, but the birding was not so hot.
 
 This was the 41st Greater Boston Christmas Bird Count (actually some local areas, including Jamaica Plain, have been covered since the very first CBC in 1900). For those who are not familiar with the CBC, groups of dedicated birders cover sections of territory within a 15 mile diameter circle, counting every bird seen or heard well enough to be identified. Our local group of seven covered the Emerald Necklace from the Riverway through Leverett Pond, Olmsted Park, Jamaica Pond, the Arnold Arboretum and Franklin Park. In addition Forest Hills Cemetery and the Boston Nature Center in Mattapan were canvased.
 
