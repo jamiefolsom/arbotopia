@@ -18,21 +18,21 @@ This was the 41st Greater Boston Christmas Bird Count (actually some local areas
 
 Many of the local ponds were nearly frozen over but we did manage to find some ducks in Jamaica Pond and areas downstream along the Muddy River. There were ten species of waterfowl on the big pond, all amassed in an area of open water off Perkins Street. Among them were two female Northern Pintails, subtle beauties blending in with the many Mallards:
 
-[![P1030556](https://web.archive.org/web/20171113130605im_/http://www.arbotopia.com/wp-content/uploads/2013/12/P1030556.jpg =2560x1730)](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/wp-content/uploads/2013/12/P1030556.jpg)
+![](/images/P1030556.jpg)
 
 Female Northern Pintail  
 Photo: Bob Mayer
 
 We moved on to Leverett Pond where I had seen two males of the same species on a scouting trip the day before. One of the mysteries of following ducks in winter is when and where they arrive and then move on – and why. When a pond freezes over completely the waterfowl obviously must move. But lots of movement from one pond to another takes place for reasons only the birds know. A week earlier there were at least 40 Ruddy Ducks on Jamaica Pond; on count day only two. Of the 40+ Wood Ducks on Leverett Pond two weeks ago, half vanished and the rest showed up on Jamaica Pond when the former pond iced up. Today there were none on either pond (but two on tiny Willow Pond in between). “My” pintails on Leverett Pond were gone; too bad, because they are a truly spectacular bird:
 
-[![P1070643](https://web.archive.org/web/20171113130605im_/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070643.jpg =2472x2202)](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070643.jpg)
+![](/images/P1070643-1.jpg)
 
 Male Northern Pintail  
 Photo: Bob Mayer
 
 We picked up two more species on this narrow pond- Common Merganser and Ring-necked Duck. Here is a shot of some of the ring-necks:
 
-[![P1070627](https://web.archive.org/web/20171113130605im_/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070627.jpg =2922x1965)](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070627.jpg)
+![](/images/P1070627.jpg)
 
 Three male Ring-necked ducks. Note the prominent ring pattern on their bills.  
 Photo: Bob Mayer
@@ -41,12 +41,12 @@ While we were counting the more common waterfowl, the six Common Mergansers sudd
 
 The rest of the day- another four hours- was spent looking for land birds. We divided into smaller groups and everyone searched intently. Nonetheless the overall numbers and species diversity was below average for a Boston count. Our group had lots of European Starlings, American Robins, and some of the commoner sparrows were ticked off as well. We had five woodpecker species, mostly Downy Woodpeckers:
 
-[![OLYMPUS DIGITAL CAMERA](https://web.archive.org/web/20171113130605im_/http://www.arbotopia.com/wp-content/uploads/2013/12/Downy-Woodpecker.jpg =599x664)](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/wp-content/uploads/2013/12/Downy-Woodpecker.jpg)
+![](/images/P1010496.jpg)
 
 Downy Woodpecker, a male showing his gender specific red crown  
 Photo: Bob Mayer
 
-Some of us had started the hunt before daybreak seeking owls. That quest was minimally successful when they found only two Eastern Screech-0wls, both in Franklin Park. Another was heard calling in the Arboretum mid-day.
+Some of us had started the hunt before daybreak seeking owls. That quest was minimally successful when they found only two Eastern Screech-owls, both in Franklin Park. Another was heard calling in the Arboretum mid-day.
 
 By mid-afternoon we had covered our territory and most of us headed home. Our chief compiler joined a meeting of reporters from other Boston sectors to draw up the final tally. All of that information will then be added to the overall numbers as other states and countries complete their counts; then comparisons can be made to past years. Some species will have declined, others may have increased, and area maps will need to be modified to reflect shifts in the avian population.
 
@@ -179,9 +179,7 @@ House Finch 383
 American Goldfinch 346  
 House Sparrow 3493
 
-108 species plus Eurasian Green-winged Teal, Ipswich Sparrow and exotic Mandarin Duck, in addition there were six Count Week birds not seen on count day
-
-—  
+108 species plus Eurasian Green-winged Teal, Ipswich Sparrow and exotic Mandarin Duck, in addition there were six Count Week birds not seen on count day  
 Bob Stymeist, compiler  
 Arlington, MA  
 bobstymeist@gmail.com
