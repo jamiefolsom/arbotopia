@@ -32,7 +32,7 @@ Winter is the prime time to see Wood Ducks at Leverett. Here are at least 20 on 
 
 Other than the woodies, there wasn’t much of a waterfowl show on the walk, but we did get a chance to study side by side the differences between female Mallards and American Black Ducks:
 
-![](/images/Black #2-1.jpg)
+![](/images/Black #2 2.jpg)
 
 American Black Ducks are darker and somewhat larger than female Mallards. When visible, the blue wing speculum is bordered in black.
 
