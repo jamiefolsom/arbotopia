@@ -5,7 +5,7 @@ author: ''
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 09:43:46 -0400
+date: 2019-04-16 09:57:28 -0400
 
 ---
 [Jamaica Pond BBC Walk with side trip to Leverett Pond](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond/)
@@ -108,3 +108,5 @@ There have been many other species of waterfowl seen over the years on these two
 My next BBC walk will kick off the 2014 season on Sunday January 12, 2014 at 8:30AM beginning from the main gate in the Arnold Arboretum (see the [Arboretum website](https://web.archive.org/web/20171113130605/http://www.arboretum.harvard.edu/ "Arnold Arboretum") or the BBC Blue Guide for more details).
 
 Good Birding!
+
+Posted in [**Avian**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/category/bird-walks/), [**waterfowl**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/category/waterfowl/)
