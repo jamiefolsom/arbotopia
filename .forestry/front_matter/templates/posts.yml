@@ -30,6 +30,8 @@ fields:
     required: true
   default: post
 pages:
+- _posts/2019-04-16-misty-and-grey-fall-bird-walk.md
+- _posts/2019-04-16-indian-summer-bird-walk-in-the-arboretum.md
 - _posts/2019-04-16-spring-migration-winding-down.md
 - _posts/2019-04-16-a-well-attended-walk-on-the-other-side.md
 - _posts/2019-04-16-bussey-brook-meadow-and-the-arboretum-park-conservancy.md
