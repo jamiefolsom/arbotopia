@@ -30,4 +30,5 @@ fields:
     required: true
   default: post
 pages:
+- _posts/2019-04-16-jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond.md
 - _posts/2019-04-15-bird-a-thon-2016.md
