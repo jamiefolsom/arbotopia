@@ -16,21 +16,21 @@ The last of a series of spring bird walks in the Arnold Arboretum attracted over
 
 Early on, our youngest birder spotted something at the top of a conifer; I was ready to pass it off as a common Chipping Sparrow but she commented that it seemed too big. She was right; it was an Eastern Kingbird. This large member of the flycatcher family gave everyone good looks.
 
-[![P1010595](https://web.archive.org/web/20171114003558im_/http://www.arbotopia.com/wp-content/uploads/2014/06/P1010595.jpg =1443x1083)](https://web.archive.org/web/20171114003558/http://www.arbotopia.com/wp-content/uploads/2014/06/P1010595.jpg)
+![](/images/P1010595-1.jpg)
 
 Eastern Kingbird. The terminal white band on the tail is distinctive.  
 Photo: Bob Mayer
 
 Our other flycatcher was not as cooperative. High up in some fully leafed out trees, we first heard the “wheep” call of a Great-crested Flycatcher. After some searching, most of us got some fleeting looks as it moved about the canopy at the top of Peters Hill.
 
-[![P1050611](https://web.archive.org/web/20171114003558im_/http://www.arbotopia.com/wp-content/uploads/2014/06/P1050611.jpg =519x480)](https://web.archive.org/web/20171114003558/http://www.arbotopia.com/wp-content/uploads/2014/06/P1050611.jpg)
+![](/images/P1050611.jpg)
 
 Great-crested Flycatcher. Note the long rusty tail.  
 Photo: Bob Mayer
 
 Our only other bird of note was a nice male Orchard Oriole. Baltimore Orioles are quite common in the Arboretum during the spring and summer. Orchards also nest here, but they are seen much less frequently.
 
-[![P1080351](https://web.archive.org/web/20171114003558im_/http://www.arbotopia.com/wp-content/uploads/2014/06/P1080351.jpg =1401x1011)](https://web.archive.org/web/20171114003558/http://www.arbotopia.com/wp-content/uploads/2014/06/P1080351.jpg)
+![](/images/P1080351-1.jpg)
 
 Male Orchard Oriole. This species is identical to it’s more common cousin, the Baltimore Oriole, except for the darker, rusty breast and back rather than the orange color of the Baltimore.  
 Photo: Bob Mayer
