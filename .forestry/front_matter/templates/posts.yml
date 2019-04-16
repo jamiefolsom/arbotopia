@@ -30,6 +30,8 @@ fields:
     required: true
   default: post
 pages:
+- _posts/2019-04-16-a-well-attended-walk-on-the-other-side.md
+- _posts/2019-04-16-bussey-brook-meadow-and-the-arboretum-park-conservancy.md
 - _posts/2019-04-16-jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond.md
 - _posts/2019-04-16-2013-boston-christmas-bird-count-jamaica-plain-sector.md
 - _posts/2019-04-16-a-windy-bird-walk-on-peters-hill.md
