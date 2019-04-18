@@ -30,6 +30,7 @@ fields:
     required: true
   default: post
 pages:
+- _posts/2019-04-18-winter-waterfowl-walk.md
 - _posts/2019-04-16-misty-and-grey-fall-bird-walk.md
 - _posts/2019-04-16-season-opener-bird-walk.md
 - _posts/2019-04-16-a-leverett-pond-olmsted-park-walk.md
