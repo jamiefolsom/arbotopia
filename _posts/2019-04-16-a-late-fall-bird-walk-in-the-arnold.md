@@ -8,7 +8,6 @@ feature_photo: ''
 date: 2019-04-16 09:53:14 -0400
 
 ---
-[A late fall bird walk in the Arnold](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/a-late-fall-bird-walk-in-the-arnold/)
 
 Posted on [**October 19, 2013**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/a-late-fall-bird-walk-in-the-arnold/ "8:44 pm")
 
