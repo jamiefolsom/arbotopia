@@ -18,28 +18,28 @@ It has always been much less managed than the rest of the Arboretum. Recently th
 
 We had a good turnout for the walk and saw and heard some nice birds. Very high up in the canopy some sharp-eyed birders saw a Chestnut-sided Warbler:
 
-[![P1010089](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1010089.jpg =2091x1977)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1010089.jpg)
+![](/images/P1010089.jpg)
 
 Male Chestnut-sided Warbler  
 Photo: Bob Mayer
 
 Most of the other warblers we ticked off on the list were heard rather than seen, except for the common Yellow Warblers which were everywhere; some working on nest building.
 
-[![P1030111](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1030111.jpg =1211x1533)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1030111.jpg)
+![](/images/P1030111.jpg)
 
 Female Yellow Warbler at nest.  
 Photo: Bob Mayer
 
 Of course we saw and heard several Baltimore Orioles, as they have nested here for years.
 
-[![P1030005_1](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1030005_1.jpg =1281x1437)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2014/05/P1030005_1.jpg)
+![](/images/P1030005_1-1.jpg)
 
 Baltimore Oriole at nest.  
 Photo: Bob Mayer
 
 One of our group spotted a large woodpecker entering a nest hole in a big catalpa tree. We later confirmed that it was a Red-bellied Woodpecker nest. This lovely bird was uncommon in Boston as recently as 15 years ago. A southern species, it has moved north gradually as the climate has warmed and it is now a year around resident in the Arboretum.
 
-[![P1030156](https://web.archive.org/web/20171113131905im_/http://www.arbotopia.com/wp-content/uploads/2013/03/P1030156.jpg =1416x1780)](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/wp-content/uploads/2013/03/P1030156.jpg)
+![](/images/P1030156-2.jpg)
 
 Male Red-bellied Woodpecker. It really should be called red-headed, but that moniker was already claimed.  
 Photo: Bob Mayer
