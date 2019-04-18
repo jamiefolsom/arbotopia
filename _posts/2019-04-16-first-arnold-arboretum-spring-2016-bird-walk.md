@@ -14,31 +14,31 @@ Posted on [**April 30, 2016**](https://web.archive.org/web/20171113131919/http:/
 
 As is common this spring, the morning was chilly when 37 birders arrived at the Arborway Gate for a ninety minute bird walk. By the time we ended, more than two hours later, the temperature heated up, and so did the birding. The landscape was quiet for the first hour or so but a few birds revealed themselves and gave good looks to the crowd. We saw a goody number of lingering White-throats:
 
-![P1110340](https://web.archive.org/web/20171113131919im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1110340.jpg =2420x1735)
+![](/images/P1110340.jpg)
 
 A brightly plumaged White-throated Sparrow.
 
 The more seasonal Chipping Sparrows could be heard often but were harder to see:
 
-![P1120526](https://web.archive.org/web/20171113131919im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1120526.jpg =1683x1497)
+![](/images/P1120526-2.jpg)
 
 The diminutive Chipping Sparrow showing it’s rusty cap.
 
 The Arnold Arboretum is first and foremost a tree museum, so we spent some time looking at plants opening up to spring. Along Oak Path we admired several clusters of the protected [Large-flowered Trillium](https://web.archive.org/web/20171113131919/https://en.wikipedia.org/wiki/Trillium), a spring delight!
 
-![P1120614](https://web.archive.org/web/20171113131919im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1120614.jpg =3465x1770)
+![](/images/P1120618.jpg)
 
 Picking parts off of a trillium plant can kill it even if the rhizome is left undisturbed, so leave them alone!
 
 Of course the birds most sought after right now are the warblers. Some of us managed to see a Palm Warbler briefly:
 
-![P1120584](https://web.archive.org/web/20171113131919im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1120584.jpg =2370x1680)
+![](/images/P1120584.jpg)
 
 A somewhat washed out Palm Warbler in a cherry tree in bloom.
 
 We had better luck with a (first of year for me) Black and White Warbler; everyone got a look at it after a keen eyed person spotted it high on the big branches of an oak.
 
-![P1080314](https://web.archive.org/web/20171113131919im_/http://www.arbotopia.com/wp-content/uploads/2014/05/P1080314.jpg =1593x1230)
+![](/images/P1080314-2.jpg)
 
 Black and White Warbler. Someone in our group compared it to a zebra!
 
@@ -46,13 +46,13 @@ We tried to hear or see Pine Warblers in several places without success. Next we
 
 Yellow-rumps were everywhere:
 
-![P1120597](https://web.archive.org/web/20171113131919im_/http://www.arbotopia.com/wp-content/uploads/2016/04/P1120597.jpg =1899x1536)
+![](/images/P1120597.jpg)
 
 One of the earliest warblers to arrive, the Yellow-rumped Warbler, is very common for a few weeks and then gone as they move north to breeding territory.
 
 We picked up new species one by one, ending with a bird we really wanted to see but had only heard during the walk:
 
-![P1080772](https://web.archive.org/web/20171113131919im_/http://www.arbotopia.com/wp-content/uploads/2015/05/P1080772.jpg =891x963)
+![](/images/P1080772-1.jpg)
 
 Baltimore Oriole, male
 
