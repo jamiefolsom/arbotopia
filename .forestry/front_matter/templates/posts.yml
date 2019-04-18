@@ -30,6 +30,7 @@ fields:
     required: true
   default: post
 pages:
+- _posts/after-the-storm.md
 - _posts/spring-arrivals-on-the-necklace.md
 - _posts/spring-kickoff.md
 - _posts/2019-04-18-a-clinic-on-some-shorebirds.md
