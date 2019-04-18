@@ -37,7 +37,7 @@ We picked up two more species on this narrow pond- Common Merganser and Ring-nec
 Three male Ring-necked ducks. Note the prominent ring pattern on their bills.  
 Photo: Bob Mayer
 
-While we were counting the more common waterfowl, the six Common Mergansers suddenly took flight. I wonder where they will next show up?
+While we were counting the more common waterfowl, the six Common Mergansers suddenly took flight. I wonder where they will show up  next?
 
 The rest of the day- another four hours- was spent looking for land birds. We divided into smaller groups and everyone searched intently. Nonetheless the overall numbers and species diversity was below average for a Boston count. Our group had lots of European Starlings, American Robins, and some of the commoner sparrows were ticked off as well. We had five woodpecker species, mostly Downy Woodpeckers:
 
