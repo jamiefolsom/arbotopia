@@ -8,7 +8,6 @@ feature_photo: ''
 date: 2019-04-16 09:50:42 -0400
 
 ---
-[A fall bird walk in the Arboretum](https://web.archive.org/web/20171113130428/http://www.arbotopia.com/a-fall-bird-walk-in-the-arboretum/)
 
 Posted on [**September 29, 2013**](https://web.archive.org/web/20171113130428/http://www.arbotopia.com/a-fall-bird-walk-in-the-arboretum/ "4:13 pm")
 
@@ -16,14 +15,14 @@ This morning was the first of three fall bird walks in the Arnold Arboretum. The
 
 As we were admiring a Great Blue Heron on Faxon Pond a sharp-eyed birder picked up another much less common wading bird sitting in a tree! Well hidden in an oak at pond side was a juvenile Black-crowned Night-heron. With guidance everyone was able to find the bird. This was only my third ever Arboretum sighting of this heron, which seems to be in decline in Massachusetts. Here is a photo of a beautiful adult taken in 2003 along the Muddy River in the Fenway:
 
-[![B-C Nightheron #3](https://web.archive.org/web/20171113130428im_/http://www.arbotopia.com/wp-content/uploads/2013/09/B-C-Nightheron-3.jpg =600x606)](https://web.archive.org/web/20171113130428/http://www.arbotopia.com/wp-content/uploads/2013/09/B-C-Nightheron-3.jpg)
+![](/images/P1130252-1.jpg)
 
 Adult Black-crowned Night-heron in Phragmites in the Fenway  
 Photo: Bob Mayer
 
 Like so many other species, the juvenile bird has less dramatic coloration:
 
-[![B-C Night-heron imm.](https://web.archive.org/web/20171113130428im_/http://www.arbotopia.com/wp-content/uploads/2013/09/B-C-Night-heron-imm..jpg =600x720)](https://web.archive.org/web/20171113130428/http://www.arbotopia.com/wp-content/uploads/2013/09/B-C-Night-heron-imm..jpg)
+![](/images/P1140197.jpg)
 
 Immature Black-crowned Night-heron  
 Photo: Bob Mayer
@@ -36,7 +35,7 @@ We continued up Bussey Hill Road and back through the Leventritt Shrub & Vine Co
 
 As we looped back along Linden Path we came upon a small group of Cedar Waxwings feasting on honeysuckle berries. Many of them were first year birds but some were adults showing their formal attire:
 
-[![P1170768](https://web.archive.org/web/20171113130428im_/http://www.arbotopia.com/wp-content/uploads/2013/09/P1170768.jpg =752x979)](https://web.archive.org/web/20171113130428/http://www.arbotopia.com/wp-content/uploads/2013/09/P1170768.jpg)
+![](/images/P1170768.jpg)
 
 Two Cedar Waxwings in a honeysuckle shrub in fall  
 Photo: Bob Mayer
