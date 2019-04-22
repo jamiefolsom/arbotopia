@@ -26,7 +26,7 @@ As we circled around to the Boston side of this boundary pond we looked across t
 
 ![](/images/P1130252.jpg)
 
-Black-crowned Night-Heron
+Black-crowned Night-Heron, adult
 
 At the end of the walk someone in the group located it again, this time from the Brookline side- and much closer- allowing for great looks. We also had a Great Blue Heron that flew past us at Leverett; we later caught up with it on the edge of tiny Willow Pond.
 
@@ -38,7 +38,7 @@ This area is usually good for woodpeckers but we saw none and heard only one Nor
 
 ![](/images/P1100696.jpg)
 
-There are two “races” of the Northern Flicker, Red and Yellow Shafted, referring to the color of the wing feather shafts. Can you tell which one this is?
+There are two “races” of the Northern Flicker, Red and Yellow Shafted, referring to the color of the wing and tail feather shafts. Can you tell which one this is?
 
 Warblers were equally hard to find; we had several Yellow-rumped and one lovely Black and White Warbler that we saw in the thickets on the way up to Ward’s Pond and again on the path as we returned:
 
@@ -112,7 +112,7 @@ View this checklist online at [http://ebird.org/ebird/view/checklist/S36418547](
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
 
-Next weekend I will be leading two more [walks in the Arboretum](https://web.archive.org/web/20171113130623/http://www.arbotopia.com/spring-bird-walks-begin/). I hope you can join me.
+Next weekend I will be leading two more walks in the Arboretum. I hope you can join me.
 
 Good Birding!
 
