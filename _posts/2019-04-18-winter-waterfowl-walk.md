@@ -34,12 +34,6 @@ This was the highlight bird for the trip as several in the group had never seen 
 
 Two striking male Ring-necked Ducks and a female, all showing the classic bill pattern. Why aren’t they called Rind-billed Ducks?
 
-After looking over the hundreds of Mallards for something different, we had to settle for three American Black Ducks. When showing off their wing speculum they can be rather pretty:
-
-![](/images/Black #2-3.jpg)
-
-American Black Duck. They look much like female Mallards, but are somewhat larger, darker and males have a yellow bill.
-
 We moved on to Jamaica Pond, passing Willow, and Ward’s Ponds on the way. Ice was prominent on these smaller ponds, and there were no waterfowl.
 
 Jamaica Pond had some ice but was mostly open water. There was a huge flotilla of Hooded Mergansers moving about and feeding; I estimated more than 50. Handsome creatures:
