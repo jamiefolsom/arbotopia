@@ -8,36 +8,35 @@ feature_photo: ''
 date: 2019-04-18 10:58:29 -0400
 
 ---
-
 Posted on [**December 13, 2016**](https://web.archive.org/web/20170912192037/http://www.arbotopia.com/winter-waterfowl-walk/ "1:13 am")
 
 On Sunday morning, with temperatures hovering around 20, I had a turnout of 29 people for a two hour walk exploring the ponds and landscape of the upper Muddy River. We started on the Boston side of Leverett Pond where I expected to find a collection of Wood Ducks along the islands there. As we approached the pond edge a Great Blue Heron flew off:
 
-![P1080665_1](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2014/12/P1080665_1.jpg =1962x1290)
+![](/images/P1080665_1.jpg)
 
 Great Blue Heron taking flight.
 
 But no Wood Ducks! The water was totally frozen at the southern end of this long and skinny pond. When I scouted for the walk a few days earlier it was open and there were 30 or more Wood Ducks there. We continued to circle the pond and as we got to the open northern end there was a mass of waterfowl, and among them were woodies. When we got closer though they all took flight! Fortunately they circled back and although they landed some distance away we counted at least 43 Wood Ducks, and scoped some, so everyone got good looks. A spectacular bird:
 
-![p1110518](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2016/12/P1110518.jpg =2346x1140)
+![](/images/P1110518-1.jpg)
 
 Female (front) and male Wood Ducks
 
 Leverett Pond has become a regular hotspot for these secretive ducks. About five years ago birders from several local conservancy groups erected nest boxes on two of the ponds on the Necklace. They were ignored for several years, but in spring 2014 a female and chicks were noticed on the pond:
 
-![p1130260](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2016/12/P1130260.jpg =2316x1185)
+![](/images/P1130260.jpg)
 
 Female Wood Duck, right, and four of her 6 ducklings.
 
 This was the highlight bird for the trip as several in the group had never seen them before. We also spotted six Ring-necked Ducks:
 
-![P1030697](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2013/02/P1030697.jpg =2560x1920)
+![](/images/P1030697.jpg)
 
 Two striking male Ring-necked Ducks and a female, all showing the classic bill pattern. Why aren’t they called Rind-billed Ducks?
 
 After looking over the hundreds of Mallards for something different, we had to settle for three American Black Ducks. When showing off their wing speculum they can be rather pretty:
 
-![Black #2](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2016/04/Black-2.jpg =600x399)
+![](/images/Black #2-3.jpg)
 
 American Black Duck. They look much like female Mallards, but are somewhat larger, darker and males have a yellow bill.
 
@@ -45,43 +44,43 @@ We moved on to Jamaica Pond, passing Willow, and Ward’s Ponds on the way. Ice 
 
 Jamaica Pond had some ice but was mostly open water. There was a huge flotilla of Hooded Mergansers moving about and feeding; I estimated more than 50. Handsome creatures:
 
-![p1150162](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2016/12/P1150162.jpg =2424x1617)
+![](/images/P1150162.jpg)
 
 Hooded Merganser, male
 
 The female of this species is much more subtle, but equally lovely:
 
-![P1220480](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1220480.jpg =2042x1258)
+![](/images/P1220480.jpg)
 
 Female Hooded Merganser, devouring a fish.
 
 Farther out was a large raft of Ruddy Ducks. Most were sleeping and they were back-lit so the primary ID was by their nickname, “stiff-tails”:
 
-![p1140938](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2016/12/P1140938.jpg =2601x1839)
+![](/images/P1140938.jpg)
 
 Ruddy Ducks, showing their diagnostic silhouette.
 
 When one is lucky enough to see them up close they are worthy of admiration:
 
-![RUDUs](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2013/01/RUDUs1.jpg =3300x1459)
+![](/images/P1030573-2.jpg)
 
-Ruddy Ducks. The one at top right is beginning to show some of the blue color in his bill which appears during breeding. The two in the lower part of that frame are females, lacking the white cheek of the male.
+Ruddy Ducks. The one at top center is beginning to show some of the blue color in his bill which appears during breeding. The two in the lower part of that frame are females, lacking the white cheek of the male.
 
 American Coots, more closely related to rails than ducks, are usually well represented on Jamaica Pond but until last week there was only one, hanging out with the Mallards. Today there were 5;
 
-![P1310793](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1310793.jpg =1102x1234)
+![](/images/P1310793.jpg)
 
 American Coots are roly-poly birds with white bills unlike ducks. Notice also their odd partially-webbed feet.
 
 As winter persists Jamaica Pond often ices over; in the process coots and other winter waterfowl get squeezed into receding open water pools.
 
-![P1130205](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1130205.jpg =2409x1857)
+![](/images/P1130205.jpg)
 
 25 or more American Coots on a mostly iced over pond.
 
 When the ponds freeze over waterfowl must move to open waters; Leverett Pond, the Riverway or the Basins in the Fens often stay partially clear all winter. But some may never make it to safety:
 
-![p1220274](https://web.archive.org/web/20170912192037im_/http://www.arbotopia.com/wp-content/uploads/2016/12/P1220274.jpg =1304x1074)
+![](/images/P1220274.jpg)
 
 A female Hooded Merganser being captured and drowned by a Great Black-backed Gull on Jamaica Pond in December 2008.
 
