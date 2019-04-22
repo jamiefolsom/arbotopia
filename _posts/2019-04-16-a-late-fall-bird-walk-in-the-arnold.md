@@ -8,7 +8,6 @@ feature_photo: ''
 date: 2019-04-16 09:53:14 -0400
 
 ---
-
 Posted on [**October 19, 2013**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/a-late-fall-bird-walk-in-the-arnold/ "8:44 pm")
 
 The temperature at 8 AM was in the mid-forties and the birds were having none of it for the first 45 minutes until the sun began to warm things up. Fifteen birders plus my co-leader Andrew and I looked in vain for anything other than robins and jays until we got to the base of Bussey Hill where things began to pick up. A Blackpoll Warbler was our only fall warbler, eating berries in a small euonymus shrub. Farther on we found some common woodpeckers and sparrow species. We heard Golden-crowned Kinglets, and saw Ruby-crowned of the same genus as they flitted about in a crabapple tree.
@@ -71,7 +70,7 @@ House Sparrow 8
 
 View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S15441059](http://ebird.org/ebird/view/checklist?subID=S15441059 "http://ebird.org/ebird/view/checklist?subID=S15441059")
 
-This walk concluded the fall series of bird walks in the Arboretum. We will be leading one more walk this year; this one around Jamaica Pond looking primarily for waterfowl. The walk will be at 8:30 on Saturday December 7th starting at the parking area on the NW side of the pond, along Perkins Street. If you want to brush up on your ducks before this walk, check out my posts last year on this blog- [Jamaica Pond Ducks ](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/birdjamaica-pond-ducks/%20%E2%80%8E "Jamaica Pond Ducks")and [Rare Birds & Odd Ducks on Jamaica Pond.](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/ "Rare Birds & Odd Ducks on Jamaica Pond")
+This walk concluded the fall series of bird walks in the Arboretum. We will be leading one more walk this year; this one around Jamaica Pond looking primarily for waterfowl. The walk will be at 8:30 on Saturday December 7th starting at the parking area on the NW side of the pond, along Perkins Street. If you want to brush up on your ducks before this walk, check out my posts last year on this blog- [Jamaica Pond Ducks ](https://www.arbotopia.com/2013/01/25/jamaica-pond-ducks.html "Jamaica Pond Ducks")and [Rare Birds & Odd Ducks on Jamaica Pond.](https://www.arbotopia.com/2013/03/08/rare-birds-odd-ducks-at-jamaica-pond.html "Rare Birds & Odd Ducks on Jamaica Pond")
 
 We will kick off 2014 with a winter walk in the Arboretum on Sunday January 12th also at 8:30AM and commencing inside the Main Gate off the Arborway.
 
