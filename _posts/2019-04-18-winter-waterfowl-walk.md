@@ -38,25 +38,25 @@ We moved on to Jamaica Pond, passing Willow, and Ward’s Ponds on the way. Ice 
 
 Jamaica Pond had some ice but was mostly open water. There was a huge flotilla of Hooded Mergansers moving about and feeding; I estimated more than 50. Handsome creatures:
 
-![](/images/P1150162.jpg)
+![](/images/P1150162-1.jpg)
 
 Hooded Merganser, male
 
 The female of this species is much more subtle, but equally lovely:
 
-![](/images/P1220480.jpg)
+![](/images/P1220480-1.jpg)
 
 Female Hooded Merganser, devouring a fish.
 
 Farther out was a large raft of Ruddy Ducks. Most were sleeping and they were back-lit so the primary ID was by their nickname, “stiff-tails”:
 
-![](/images/P1140938.jpg)
+![](/images/P1140938-2.jpg)
 
 Ruddy Ducks, showing their diagnostic silhouette.
 
 When one is lucky enough to see them up close they are worthy of admiration:
 
-![](/images/P1030573-2.jpg)
+![](/images/P1030573-3.jpg)
 
 Ruddy Ducks. The one at top center is beginning to show some of the blue color in his bill which appears during breeding. The two in the lower part of that frame are females, lacking the white cheek of the male.
 
