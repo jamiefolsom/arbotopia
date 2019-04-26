@@ -88,13 +88,13 @@ View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S2896
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
 
-After the walk I stopped at the[ Great Horned Owl nest](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/first-of-year-babies-and-spring-walks/) in the conifer section of the Arboretum. Yesterday there was some activity there. A local resident and birder visited the nest and discovered a young bird on the ground. He made some calls and various agencies were contacted and responded. In contrast to the response for the bird that fell out of this nest about two weeks ago, the decision this time was to let nature take it’s course. This owlet was older, the weather has improved and the baby got itself hidden away pretty well. Here is an image of it I took yesterday:
+After the walk I stopped at the[ Great Horned Owl nest](http://www.arbotopia.com/first-of-year-babies-and-spring-walks/) in the conifer section of the Arboretum. Yesterday there was some activity there. A local resident and birder visited the nest and discovered a young bird on the ground. He made some calls and various agencies were contacted and responded. In contrast to the response for the bird that fell out of this nest about two weeks ago, the decision this time was to let nature take it’s course. This owlet was older, the weather has improved and the baby got itself hidden away pretty well. Here is an image of it I took yesterday:
 
 ![](/images/P1120439.jpg)
 
 This owlet it trying it’s best to look big, brave and scary.
 
-When I revisited the site today I found no evidence of the youngster, dead or alive. But I noticed that the third owlet was alone on the nest; I good sign I think as the mother hopefully was watching over the displaced one somewhere nearby.
+When I revisited the site today I found no evidence of the youngster, dead or alive. But I noticed that the third owlet was alone on the nest; a good sign I think as the mother hopefully was watching over the displaced one somewhere nearby.
 
 ![](/images/P1120669.jpg)
 
