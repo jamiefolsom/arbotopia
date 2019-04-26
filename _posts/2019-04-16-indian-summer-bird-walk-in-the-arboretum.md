@@ -16,13 +16,13 @@ On Saturday I led a group of 13 birders on a walk in the Meadow Road area of the
 
 Two of the three man-made ponds at the end of Meadow Road are nearly dry, but there was a Great Blue Heron feasting on the concentration of fish in the dwindling pool.
 
-[![](https://web.archive.org/web/20171114003604im_/http://www.arbotopia.com/wp-content/uploads/2014/09/P1120360.jpg =1671x1791)](https://web.archive.org/web/20171114003604/http://www.arbotopia.com/wp-content/uploads/2014/09/P1120360.jpg)
+![](/images/P1120360.jpg)
 
 Great Blue Heron Photo: Bob Mayer
 
 Elsewhere we had good looks at several of the resident Red-tailed Hawks in the Arboretum.
 
-[![P1260788](https://web.archive.org/web/20171114003604im_/http://www.arbotopia.com/wp-content/uploads/2014/09/P1260788.jpg =1122x1278)](https://web.archive.org/web/20171114003604/http://www.arbotopia.com/wp-content/uploads/2014/09/P1260788.jpg)
+![](/images/P1070325.jpg)
 
 Red-tailed Hawk Photo: Bob Mayer
 
