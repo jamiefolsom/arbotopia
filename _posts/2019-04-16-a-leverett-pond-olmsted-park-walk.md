@@ -12,7 +12,7 @@ date: 2019-04-16 10:14:16 -0400
 
 Posted on [**April 19, 2016**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/ "2:35 pm")
 
-On Sunday morning I led 23 people, many beginning birders, on a ninety minute walk in this lovely section of the Emerald Necklace. The walk was sponsored by the [Brookline GreenSpace Alliance](https://web.archive.org/web/20171113131919/http://www.brooklinegreenspace.org/). We started at the comfortable time of 9:00 AM and the weather couldn’t have been better. The birds could have been though. We had no seasonal migrants, although I had four species on a scouting walk four days earlier. Highlights were three Wood Ducks- a pair on [Ward’s Pond](https://web.archive.org/web/20171113131919/http://rememberjamaicaplain.blogspot.com/2009/10/wards-pond.html) and a single male on [Willow Pond](https://web.archive.org/web/20171113131919/http://www.emeraldnecklace.org/park-overview/olmsted-park/). We’re pretty sure there is another female in the duck box on Leverett Pond. In fact when someone from the town of Brookline went to clean out last year’s nest from the box, he came upon a female sitting on eggs! I had insisted that the ducks would not nest again unless someone made the box “broom clean”. So much for my expertise on wood duck nesting habits! In any case, if this nesting attempt succeeds, it will the second year in a row that Wood Ducks have nested on the necklace. Some images of this striking duck:
+On Sunday morning I led 23 people, many beginning birders, on a ninety minute walk in this lovely section of the Emerald Necklace. The walk was sponsored by the [Brookline GreenSpace Alliance](https://web.archive.org/web/20171113131919/http://www.brooklinegreenspace.org/). We started at the comfortable time of 9:00 AM and the weather couldn’t have been better. The birds could have been though. We had no seasonal migrants, although I had four species on a scouting walk four days earlier. Highlights were three Wood Ducks- a pair on [Ward’s Pond](https://web.archive.org/web/20171113131919/http://rememberjamaicaplain.blogspot.com/2009/10/wards-pond.html) and a single male on [Willow Pond](http://www.emeraldnecklace.org/park-overview/olmsted-park/). We’re pretty sure there is another female in the duck box on Leverett Pond. In fact when someone from the town of Brookline went to clean out last year’s nest from the box, he came upon a female sitting on eggs! I had insisted that the ducks would not nest again unless someone made the box “broom clean”. So much for my expertise on wood duck nesting habits! In any case, if this nesting attempt succeeds, it will the second year in a row that Wood Ducks have nested on the necklace. Some images of this striking duck:
 
 ![](/images/P1090463-1.jpg)
 
@@ -20,7 +20,7 @@ Wood Duck male sitting on the snow at Leverett Pond last year.
 
 ![](/images/P1060152.jpg)
 
-The female Wood Duck is a lovely collage of subtle color. 
+The female Wood Duck is a lovely collage of subtle color.
 
 ![](/images/P1100739-1.jpg)
 
@@ -32,7 +32,7 @@ Winter is the prime time to see Wood Ducks at Leverett. Here are at least 20 on 
 
 Other than the woodies, there wasn’t much of a waterfowl show on the walk, but we did get a chance to study side by side the differences between female Mallards and American Black Ducks:
 
-![](/images/Black #2 2.jpg)
+![](/images/P1070569-1.jpg)
 
 American Black Ducks are darker and somewhat larger than female Mallards. When visible, the blue wing speculum is bordered in black.
 
