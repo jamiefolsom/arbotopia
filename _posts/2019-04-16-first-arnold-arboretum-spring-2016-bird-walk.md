@@ -107,6 +107,6 @@ Next Saturday the walk will begin from the Peters Hill Gate on Bussey Street at 
 
 Good birding!
 
-Post Script: I’ll be doing the Bird-a-thon again this year for Mass Audubon’s [Boston Nature Center](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/season-opener-bird-walk/). If you’re inclined to support this effort, and the wonderful programs that BNC provides for urban children, Check [out my page](https://web.archive.org/web/20171113131919/http://goo.gl/Uyfm2N)
+Post Script: I’ll be doing the Bird-a-thon again this year for Mass Audubon’s Boston Nature Center. If you’re inclined to support this effort, and the wonderful programs that BNC provides for urban children, Check out my page.
 
 Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/bird-walks/), [**Plants**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/plants/)
