@@ -80,7 +80,7 @@ A female Hooded Merganser being captured and drowned by a Great Black-backed Gul
 
 I watched the grisly demise of the female hoodie that was confined-along with many others- in a small area of open water. Great Black-backed Gulls are the world’s largest gull, and are described in the iBird PRO app as “pugnacious, predatory and opportunistic”. They are never numerous on the Emerald Necklace ponds, but in freezing weather they are a menace to waterfowl of all sorts.
 
-The upper ponds of the Emerald Necklace have hosted more than 30 species of waterfowl in recent years. To see photos of some of these uncommon ducks, check out these previous posts- [Jamaica Pond Ducks](http://www.arbotopia.com/birdjamaica-pond-ducks/) and [Rare Birds & Odd Ducks at Jamaica Pond](http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/) .
+The upper ponds of the Emerald Necklace have hosted more than 30 species of waterfowl in recent years. To see photos of some of these uncommon ducks, check out these previous posts- [Jamaica Pond Ducks](https://www.arbotopia.com/2013/01/25/jamaica-pond-ducks.html) and [Rare Birds & Odd Ducks at Jamaica Pond](https://www.arbotopia.com/2013/03/08/rare-birds-odd-ducks-at-jamaica-pond.html) .
 
 Here are eBird checklists from Sunday’s walk:
 
