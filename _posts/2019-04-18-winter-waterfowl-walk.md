@@ -62,25 +62,25 @@ Ruddy Ducks. The one at top center is beginning to show some of the blue color i
 
 American Coots, more closely related to rails than ducks, are usually well represented on Jamaica Pond but until last week there was only one, hanging out with the Mallards. Today there were 5;
 
-![](/images/P1310793.jpg)
+![](/images/P1310793-1.jpg)
 
 American Coots are roly-poly birds with white bills unlike ducks. Notice also their odd partially-webbed feet.
 
 As winter persists Jamaica Pond often ices over; in the process coots and other winter waterfowl get squeezed into receding open water pools.
 
-![](/images/P1130205.jpg)
+![](/images/P1130205-1.jpg)
 
 25 or more American Coots on a mostly iced over pond.
 
 When the ponds freeze over waterfowl must move to open waters; Leverett Pond, the Riverway or the Basins in the Fens often stay partially clear all winter. But some may never make it to safety:
 
-![](/images/P1220274.jpg)
+![](/images/P1220274-1.jpg)
 
 A female Hooded Merganser being captured and drowned by a Great Black-backed Gull on Jamaica Pond in December 2008.
 
-I watched this grisly demise of the female hoodie, that was confined-along with many others- in a small area of open water. Great Black-backed Gulls are the world’s largest gull, and are described in the iBird PRO app as “pugnacious, predatory and opportunistic”. They are never numerous on the Emerald Necklace ponds, but in freezing weather they are a menace to waterfowl of all sorts.
+I watched the grisly demise of the female hoodie that was confined-along with many others- in a small area of open water. Great Black-backed Gulls are the world’s largest gull, and are described in the iBird PRO app as “pugnacious, predatory and opportunistic”. They are never numerous on the Emerald Necklace ponds, but in freezing weather they are a menace to waterfowl of all sorts.
 
-The upper ponds of the Emerald Necklace have hosted more than 30 species of waterfowl in recent years. To see photos of some of these uncommon ducks, check out these previous posts- [Jamaica Pond Ducks](https://web.archive.org/web/20170912192037/http://www.arbotopia.com/birdjamaica-pond-ducks/) and [Rare Birds & Odd Ducks at Jamaica Pond](https://web.archive.org/web/20170912192037/http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/) .
+The upper ponds of the Emerald Necklace have hosted more than 30 species of waterfowl in recent years. To see photos of some of these uncommon ducks, check out these previous posts- [Jamaica Pond Ducks](http://www.arbotopia.com/birdjamaica-pond-ducks/) and [Rare Birds & Odd Ducks at Jamaica Pond](http://www.arbotopia.com/rare-birds-odd-ducks-at-jamaica-pond/) .
 
 Here are eBird checklists from Sunday’s walk:
 
