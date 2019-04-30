@@ -14,11 +14,11 @@ On Saturday April 27th, accompanied by 19 birders and my co-leader Brendan Keega
 
 Red-bellied Woodpecker
 
-We heard an early arriving sparrow in several locations but never got a good look at one. Here's what we missed:
+We heard an early arriving migrant sparrow in several locations but never got a good look at one. Here's what we missed:
 
 ![](/images/P1070348.jpg)
 
-This Chipping Sparrow's song is a rapid series of chip notes
+Chipping Sparrow's song is a rapid series of chip notes
 
 As we approached a wet spot to the right of the road I told the group that an exciting duck had been spotted there earlier in the week; could it still be there?
 
@@ -28,7 +28,7 @@ Male Wood Duck sitting on a branch in the Leitneria Swamp in the Arboretum
 
 Not only was one present, there were two pair!  Everyone had good looks at these beauties.
 
-I predicted that this might be out best bird of the walk, and unfortunately I was right.  We ascended the path to the top of Bussey Hill where the wind was howling, and although I had seen three species of early spring warblers there earlier in the week there were none today.  Here's a shot of one that I had seen two days earlier, in better weather:
+I predicted that this might be our best bird of the walk, and unfortunately I was right.  We ascended the path to the top of Bussey Hill where the wind was howling, and although I had seen three species of early spring warblers there earlier in the week there were none today.  Here's a shot of one that I had seen two days earlier, in better weather:
 
 ![](/images/P1070377.jpg)
 
@@ -73,13 +73,15 @@ On Sunday I moved farther down the Emerald Necklace to lead a walk at Leverett P
 
 This shot of a pair of Wood Ducks shows why they are so sought after. The male is spectacular, but the more subtle female is equally lovely.
 
-As we looked across Leverett Pond there were a number of swallows flying back and forth just above the water hunting insects.  Most were Tree Swallows but a keen eyed birder spotted one with a orange breast- a Barn Swallow!
+As we looked across Leverett Pond there were a number of swallows flying back and forth just above the water hunting insects.  Most were Tree Swallows but a keen eyed birder spotted one with an orange breast- a Barn Swallow!
 
 ![](/images/P1120939.jpg)
 
 This Barn Swallow in flight has a forked tail
 
-![](/images/P1290805.jpg)
+![](/images/P1050299.jpg)
+
+Male Tree Swallow has a white breast/belly contrasting with blue wings and tail which is notched not forked
 
 The male Tree Swallow has a white breast and belly contrasting with its blue wings and a shorter notched tail
 
