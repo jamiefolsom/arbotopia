@@ -8,7 +8,7 @@ feature_photo: ''
 date: '2019-04-28T17:39:17-04:00'
 
 ---
-This weekend I led walks- at the Arnold Arboretum and nearby Leverett Pond and Olmsted Park- on the Emerald Necklace to try to find some early birds in the spring migration.  In many ways the walks were similar; we missed the recurrent rains of this wet spring, but the weather was less than perfect for both walks.  Despite that, about 20 birders joined each walk and we ended up seeing about the sane number of species on each.
+This weekend I led two walks on the Emerald Necklace- at the Arnold Arboretum and nearby Leverett Pond and Olmsted Park-  to try to find some early birds in the spring migration.  In many ways the walks were similar; we missed the recurrent rains of this wet spring, but the weather was less than perfect for both walks.  Despite that, about 20 birders joined each walk and we ended up seeing about the same number of species on each.
 
 On Saturday April 27th, accompanied by 19 birders and my co-leader Brendan Keegan, we walked from the main entrance of the Arboretum to the top of Bussey Hill and back through the Shrub & Vine Garden to our beginning. There had been heavy rain overnight and the temperature was 40 with brisk winds- not an auspicious beginning.  As we headed down the road we heard one of our two woodpecker species on the walk:
 
@@ -20,9 +20,9 @@ We heard an early arriving migrant sparrow in several locations but never got a 
 
 ![](/images/P1070348.jpg)
 
-Chipping Sparrow's song is a rapid series of chip notes
+The Chipping Sparrow's song is a rapid series of chip notes
 
-As we approached a wet spot to the right of the road I told the group that an exciting duck had been spotted there earlier in the week; could it still be there?
+As we approached a wet spot on the right of the road I told the group that an exciting duck had been spotted there earlier in the week; could it still be there?
 
 ![](/images/P1070406.jpg)
 
@@ -69,7 +69,7 @@ This report was generated automatically by eBird v3 ([https://ebird.org/home](ht
 
 THE SECOND WALK
 
-On Sunday I moved farther down the Emerald Necklace to lead a walk at Leverett Pond/Olmsted Park for the [Brookline GreenSpace Alliance](http://www.brooklinegreenspace.org).  Two dozen folks showed up ready for a nice walk and hopefully some good birds.  Although the weather was somewhat better than it had been for yesterday's walk, birds were not easy to come by.  The "target bird" for Leverett is Wood Duck.  I had scouted for the walk twice in the pervious week and had not seen one!  But one of my reliable birders reported that he had seen one on his way to the walk.  Sure enough we followed him to tiny Willow Pond and found not one but a pair:
+On Sunday I moved farther down the Emerald Necklace to lead a walk at Leverett Pond/Olmsted Park for the [Brookline GreenSpace Alliance](http://www.brooklinegreenspace.org).  Two dozen folks showed up ready for a nice walk and hopefully some good birds.  Although the weather was somewhat better than it had been for Saturday's walk, birds were not easy to come by.  The "target bird" for Leverett is Wood Duck.  I had scouted for the walk twice in the pervious week and had not seen one!  But one of my reliable birders reported that he had seen one on his way to the walk.  Sure enough we followed him to tiny Willow Pond and found not one but a pair:
 
 ![](/images/P1060159.jpg)
 
@@ -85,19 +85,19 @@ This Barn Swallow in flight has a forked tail
 
 The male Tree Swallow has a white breast and belly contrasting with its blue wings and a shorter notched tail
 
-We had great looks at a Red-bellied Woodpecker and a bunch of Northern Flickers. Four of the flickers were paired up on the ball field grass. From a distance it was hard to tell whether we were watching males in territorial battle or males showing off for a female but they were having at it with gusto!
+We had great looks at a Red-bellied Woodpecker and a bunch of Northern Flickers. Four of the flickers were paired up on the ball field grass.  From a distance it was hard to tell whether we were watching males in territorial battle or males displaying for a female but they were having at it with gusto!
 
 ![](/images/P1120999.jpg)
 
-Male Northern Flicker showing his black mustache- lacking in females
+Male Northern Flicker showing his black mustache, lacking in females
 
-We proceeded through Olmsted Park to Ward's Pond and then returned.   The birding was slow, but we did find a couple of new birds. Two Double-crested Cormorants were in Leverett Pond; one was perched on a dead snag drying its wings:
+We proceeded through Olmsted Park to Ward's Pond and then returned.   The birding was slow, but we did find a couple of new birds. Two Double-crested Cormorants were in Leverett Pond; one was perched on a dead snag holding out its wings:
 
-![](/images/P1160142.jpg) 
+![](/images/P1160142.jpg)
 
 Cormorants often stand in the sun with their wings spread out to dry. They have less preen oil than other birds, so their feathers can get soaked rather than shedding water.
 
-We were about to finish the second weekend walk without a single migrating warbler when someone spotted, and correctly identified, one;
+We were about to finish another weekend walk without a single migrating warbler when someone spotted, and correctly identified, one;
 
 ![](/images/P1120856-2.jpg)
 
@@ -108,8 +108,8 @@ Our complete list for the walk:
 Olmsted Park--Leverett Pond, Suffolk, Massachusetts, US  
 Apr 28, 2019 8:00 AM - 10:00 AM  
 BBC walk sun and clouds, 48  
-**23 species**  
-  
+**23 species**
+
 Canada Goose 7  
 Mute Swan 2  
 Wood Duck 2 pair, Willow Pond  
@@ -132,13 +132,13 @@ Red-winged Blackbird 2
 Common Grackle 15  
 Yellow-rumped Warbler 1  
 Northern Cardinal 1  
-House Sparrow 30  
-  
-View this checklist online at [https://ebird.org/view/checklist/S55504848](https://ebird.org/view/checklist/S55504848 "https://ebird.org/view/checklist/S55504848")  
-  
+House Sparrow 30
+
+View this checklist online at [https://ebird.org/view/checklist/S55504848](https://ebird.org/view/checklist/S55504848 "https://ebird.org/view/checklist/S55504848")
+
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S55504848 "https://ebird.org/view/checklist/S55504848"))
 
-I'm hoping that the migration will have picked up by the weekend when I'll  lead two more Arboretum walks:
+I'm hoping that the migration will have picked up by the weekend when I'll lead two more Arboretum walks:
 
 **Saturday, May 4 Peters Hill**
 
