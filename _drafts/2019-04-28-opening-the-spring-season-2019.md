@@ -39,8 +39,8 @@ We ticked off  a few more species but were disappointed with the lack of warbler
 Arnold Arboretum, Suffolk, Massachusetts  
 Apr 27, 2019 8:00 AM - 10:55 AM  
 BBC walk, overcast, windy, 48  
-**19 species**  
-  
+**19 species**
+
 Canada Goose 1  
 Wood Duck 4 (2 pair)  
 Mallard 2  
@@ -59,10 +59,10 @@ Song Sparrow 3
 Brown-headed Cowbird 2  
 Common Grackle 9  
 Northern Cardinal 2  
-House Sparrow 4  
-  
-View this checklist online at [https://ebird.org/view/checklist/S55465667](https://ebird.org/view/checklist/S55465667 "https://ebird.org/view/checklist/S55465667")  
-  
+House Sparrow 4
+
+View this checklist online at [https://ebird.org/view/checklist/S55465667](https://ebird.org/view/checklist/S55465667 "https://ebird.org/view/checklist/S55465667")
+
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S55465667 "https://ebird.org/view/checklist/S55465667"))
 
 THE SECOND WALK
@@ -81,10 +81,73 @@ This Barn Swallow in flight has a forked tail
 
 ![](/images/P1050299.jpg)
 
-Male Tree Swallow has a white breast/belly contrasting with blue wings and tail which is notched not forked
-
 The male Tree Swallow has a white breast and belly contrasting with its blue wings and a shorter notched tail
+
+We had great looks at a Red-bellied Woodpecker and a bunch of Northern Flickers. Four of the flickers were paired up on the ball field grass. From a distance it was hard to tell whether we were watching males in territorial battle or males showing off for a female but they were having at it with gusto!
 
 ![](/images/P1120999.jpg)
 
 Male Northern Flicker showing his black mustache- lacking in females
+
+We proceeded through Olmsted Park to Ward's Pond and then returned.   The birding was slow, but we did find a couple of new birds. Two Double-crested Cormorants were in Leverett Pond; one was perched on a dead snag drying its wings:
+
+![](/images/P1160142.jpg) 
+
+Cormorants often stand in the sun with their wings spread out to dry. They have less preen oil than other birds, so their feathers can get soaked rather than shedding water.
+
+We were about to finish the second weekend walk without a single migrating warbler when someone spotted, and correctly identified, one;
+
+![](/images/P1120856-2.jpg)
+
+Male Yellow-rumped Warbler.  If you look closely at this bird you can see its yellow rump, giving it its name as well as its nickname- butterbutt.  They are one of the earliest and most numerous migrants and don't nest locally, passing north and west to breed.
+
+Our complete list for the walk:
+
+Olmsted Park--Leverett Pond, Suffolk, Massachusetts, US  
+Apr 28, 2019 8:00 AM - 10:00 AM  
+BBC walk sun and clouds, 48  
+**23 species**  
+  
+Canada Goose 7  
+Mute Swan 2  
+Wood Duck 2 pair, Willow Pond  
+Mallard 4  
+Mourning Dove 1  
+Double-crested Cormorant 2  
+Red-tailed Hawk 1  
+Red-bellied Woodpecker 1  
+Northern Flicker 6  
+Warbling Vireo 1  
+Blue Jay 6  
+Tree Swallow 8  
+Barn Swallow 1  
+Tufted Titmouse 4  
+White-breasted Nuthatch 1  
+American Robin 20  
+European Starling 15  
+Song Sparrow 1  
+Red-winged Blackbird 2  
+Common Grackle 15  
+Yellow-rumped Warbler 1  
+Northern Cardinal 1  
+House Sparrow 30  
+  
+View this checklist online at [https://ebird.org/view/checklist/S55504848](https://ebird.org/view/checklist/S55504848 "https://ebird.org/view/checklist/S55504848")  
+  
+This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S55504848 "https://ebird.org/view/checklist/S55504848"))
+
+I'm hoping that the migration will have picked up by the weekend when I'll  lead two more Arboretum walks:
+
+**Saturday, May 4 Peters Hill**
+
+A 90-minute walk suitable for beginners as well as more experienced birders. See the arboretum website [http://www.arboretum.harvard.edu](http://www.arboretum.harvard.edu "http://www.arboretum.harvard.edu") for directions or to download a checklist of birds. Meeting location: Peters Hill Gate on Bussey Street 8:00 AM to 9:30 AM
+
+**Sunday, May 5  Bussey Brook Meadow**
+
+The Arboretum Park Conservancy and the BBC are sponsoring this 90-minute walk in the Bussey Brook area of the Arboretum. The walk is suitable for beginning birders as well as those more experienced. Meeting location: South Street gate to the Arboretum, on South Street, where there is limited parking. Also accessible from Forest Hills T Station path from Washington Street 8:00 AM to 9:30 AM
+
+Bob Mayer, Jamaica Plain Jamaica Plain((617) 522-0157
+
+[rgmayer38@gmail.com](mailto:rgmayer@comcast.net)
+
+Good Birding!
