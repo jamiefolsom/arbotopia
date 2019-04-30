@@ -67,14 +67,22 @@ This report was generated automatically by eBird v3 ([https://ebird.org/home](ht
 
 THE SECOND WALK
 
-On Sunday I moved farther down the Emerald Necklace to lead a walk at Leverett Pond/Olmsted Park for the [Brookline GreenSpace Alliance](http://www.brooklinegreenspace.org).  Two dozen folks showed up ready for a nice walk and hopefully some good birds.  Although the weather was somewhat better than it had been for yesterday's walk, birds were not easy to come by.  The "target bird" for Leverett is Wood Duck.  I had scouted for the walk twice in the pervious week and had not seen one!  But one of my reliable birders reported that he had seen one on his way to the walk.  Sure enough we went to tiny Willow Pond and found not one but a pair:
+On Sunday I moved farther down the Emerald Necklace to lead a walk at Leverett Pond/Olmsted Park for the [Brookline GreenSpace Alliance](http://www.brooklinegreenspace.org).  Two dozen folks showed up ready for a nice walk and hopefully some good birds.  Although the weather was somewhat better than it had been for yesterday's walk, birds were not easy to come by.  The "target bird" for Leverett is Wood Duck.  I had scouted for the walk twice in the pervious week and had not seen one!  But one of my reliable birders reported that he had seen one on his way to the walk.  Sure enough we followed him to tiny Willow Pond and found not one but a pair:
 
 ![](/images/P1060159.jpg)
 
 This shot of a pair of Wood Ducks shows why they are so sought after. The male is spectacular, but the more subtle female is equally lovely.
 
-Once again  we had just two woodpecker species, but the Northern Flickers put on a real show for us.  We watched two sets of them on the grass on the ball field clashing with one another; it wasn't clear from our distance whether they were males in territorial struggle or males courting females, but the dancing was fascinating to watch
+As we looked across Leverett Pond there were a number of swallows flying back and forth just above the water hunting insects.  Most were Tree Swallows but a keen eyed birder spotted one with a orange breast- a Barn Swallow!
+
+![](/images/P1120939.jpg)
+
+This Barn Swallow in flight has a forked tail
+
+![](/images/P1290805.jpg)
+
+The male Tree Swallow has a white breast and belly contrasting with its blue wings and a shorter notched tail
 
 ![](/images/P1120999.jpg)
 
-Male Northern Flicker showing his black mustache lacking in females
+Male Northern Flicker showing his black mustache- lacking in females

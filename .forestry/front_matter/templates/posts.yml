@@ -30,7 +30,7 @@ fields:
     required: true
   default: post
 pages:
-- _posts/opening-the-spring-season-2019.md
+- _posts/2019-04-28-opening-the-spring-season-2019.md
 - _posts/2019-04-18-after-the-storm.md
 - _posts/2019-04-18-spring-arrivals-on-the-necklace.md
 - _posts/2019-04-18-spring-kickoff.md
