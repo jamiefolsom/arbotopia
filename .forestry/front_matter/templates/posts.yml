@@ -30,7 +30,7 @@ fields:
     required: true
   default: post
 pages:
-- _posts/about-the-saturday-arboretum-walk.md
+- _posts/2019-05-04-about-the-saturday-arboretum-walk.md
 - _posts/2019-04-15-bird-a-thon-2016.md
 - _posts/2019-04-16-a-fall-bird-walk-in-the-arboretum.md
 - _posts/2019-04-16-a-late-fall-bird-walk-in-the-arnold.md
