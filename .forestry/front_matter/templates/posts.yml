@@ -1,5 +1,5 @@
 ---
-label: Post
+label: Posts
 hide_body: false
 fields:
 - type: text
@@ -11,6 +11,10 @@ fields:
   name: author
   label: Author
   description: Who wrote this?
+- type: date
+  name: date_published
+  label: Date Published
+  description: When should this be displayed?
 - type: boolean
   name: featured
   label: Featured?
