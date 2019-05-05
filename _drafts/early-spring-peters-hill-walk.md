@@ -79,4 +79,58 @@ As we proceeded back to the Peters Hill Gate we picked up a few more species for
 
 Northern Mockingbirds are famous mimics.  Not only do they imitate other bird calls, they have been know to copy car alarms, door bells, and  -near one clothing factory in the south- sewing machine noises.
 
-We had run well over the announced time for the walk so I ended it at 10AM, but a few diehards followed me across the street to Hemlock Hill were another early warbler has nested in past years. I played the call of the Pine Warbler and sure enough we got several responses.
+We had run well over the announced time for the walk so I ended it at 10AM, but a few diehards followed me across the street to Hemlock Hill were another early warbler has nested in past years. I played the call of the Pine Warbler and sure enough we got several responses.  Here are the call of the two birds I mentioned earlier on this post:
+
+chipping sparrow audio here
+
+Chipping Sparrow
+
+pine warbler here
+
+Pine Warbler
+
+I have trouble telling the difference between these close calls.  One distinction is that the Pine Warbler's trill is short- one second or so- while the chipper goes on longer. Usually.  So a longer call is almost always the sparrow.  Others say the warbler call is slower, but ambient temperature can affect the speed for both.  One of our small group felt the Chipping Sparrow sounded "tinny" while the Pine Warbler was more resonant.  I liked that!  Habitat cab be helpful; sparrows are more common in an open area while pines are, true to their name, almost always in coniferous woods.  In any case we finally had both for the walk!  Here's an image of a Pine warbler I got last week in another breeding area for this species in the AA, Bussey Hill
+
+![](/images/P1070366.jpg)
+
+The yellow head and body and dark wings with distinct white wing bars denote this lovely early bird.
+
+Here's the complete list for the walk:
+
+Arnold Arboretum, Suffolk, Massachusetts, US  
+May 4, 2019 8:00 AM - 10:30 AM  
+Protocol: Traveling  
+1\.8 mile(s)  
+Comments: Peters Hill BBC walk; overcast, drizzle,51  
+**24 species**  
+  
+Mourning Dove 2  
+Red-bellied Woodpecker 1  
+Northern Flicker 3  
+Blue Jay 3  
+Tree Swallow 7  
+Black-capped Chickadee 2  
+White-breasted Nuthatch 2  
+House Wren 2  
+Eastern Bluebird 1  
+Hermit Thrush 1  
+American Robin 30  
+Northern Mockingbird 1  
+European Starling 2  
+House Finch 2  
+Chipping Sparrow 6  
+White-throated Sparrow 1  
+Song Sparrow 2  
+Baltimore Oriole 3  
+Red-winged Blackbird 4  
+Common Grackle 8  
+Nashville Warbler 1  
+Pine Warbler 2  
+Northern Cardinal 2  
+House Sparrow 2  
+  
+View this checklist online at [https://ebird.org/view/checklist/S55770519](https://ebird.org/view/checklist/S55770519 "https://ebird.org/view/checklist/S55770519")  
+  
+This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/home "https://ebird.org/home"))
+
+Next weekend I will be birding for the Audubon Boston Nature Center team in the Bird-a-thon fundraising annual event.  If you would like to contribute to this worthy cause- making birds and all of nature available to urban kids-  you can do so through this link to my [webpage](https://tinyurl.com/y67rsjk6). Thank you!
