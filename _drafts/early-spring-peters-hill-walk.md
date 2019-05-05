@@ -74,3 +74,9 @@ Here's a closer look at them
 A pair of Eastern Bluebirds, male below
 
 Back in the oughts when I first erected nest boxes in the Arboretum we had successful nesting of bluebirds for several years in a row but that ceased in 2009 when vandals broke open a box and destroyed the nest. Last year bluebirds tried again but were evicted by invasive House Sparrows. We're hoping for a better outcome this year.
+
+As we proceeded back to the Peters Hill Gate we picked up a few more species for the list.  I thought I heard a Carolina Wren, but the call stopped. Then a cardinal.  Then a Song Sparrow.  One of the seasoned birders in the group solved the puzzle; mockingbird!![](/images/P1120365 2.jpg)
+
+Northern Mockingbirds are famous mimics.  Not only do they imitate other bird calls, they have been know to copy car alarms, door bells, and  -near one clothing factory in the south- sewing machine noises.
+
+We had run well over the announced time for the walk so I ended it at 10AM, but a few diehards followed me across the street to Hemlock Hill were another early warbler has nested in past years. I played the call of the Pine Warbler and sure enough we got several responses.
