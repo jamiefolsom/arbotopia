@@ -25,8 +25,52 @@ Male Baltimore Oriole
 
 Female Baltimore Oriole hidden beside its nest
 
-We had a birder new to my walks, and relatively new to birding, on the Saturday walk. His camera became critical to confirming one of the few warbler we saw well enough to suspect an identity; confirmed by Shilo's images:
+We had a birder new to my walks, and relatively new to birding, on the Saturday walk. His camera became critical to confirming one of the few warblers we saw well enough to suspect an identity which was confirmed by Shilo's images:
 
 ![](/images/NashvilleWarblerByShilo.jpg)
 
-This photomontage created by Shilo Mc Donald shows all the identification points for this Nashville Warbler- yellow below, no wing bars, gray head, and (missing for all of us using binoculars) the distinct eye ring upper right.
+This photomontage created by [Shilo Mc Donald](https://ebird.org/profile/MTI2NjMzOQ/US-MA-025) shows all the identification points for this Nashville Warbler- yellow below, no wing bars, gray head, and (missing for all of us using binoculars) the distinct eye ring upper right.  Thanks Shilo!
+
+There were other birds high up in the just leafing out trees that were moving like warblers, but the light didn't allow for seeing color needed for positive ID.
+
+We did have another early migrant in that area though, House Wren
+
+![](/images/P1100267_1-2.jpg)
+
+We first picked up the wren by call but then saw two of them.
+
+There were also several sparrow species lower down:
+
+![](/images/P1280094-1.jpg)
+
+Song Sparrow showing its streaked breast with a darker center spot
+
+Song Sparrow showing its streaked breast often with a centered darker spot
+
+![](/images/P1110338.jpg)
+
+Brightly colored White-throated Sparrow demonstrating the clear grayish breast, white bib and yellow [lores](https://en.wikipedia.org/wiki/Lore_(anatomy))
+
+We also thought we heard a Field Sparrow but never saw it and weren't certain enough of the few calls it made to take it for our list.![](/images/P1040846.jpg)
+
+A pretty Field Sparrow showing the pink bill and full eye ring characteristic of the species
+
+As we ascended the hill we checked the many nest boxes that my colleague Brendan Keegan has erected on the slope.  Tree Swallows were clearly occupying several of them
+
+![](/images/P1150869.jpg)
+
+Two male Tree Swallows; blue bodies with clear white breasts and bellies
+
+I had seen another "cavity nester" protecting one of the boxes earlier in the week and was disappointed when we got to that box and found nothing on it.  As I told the group what I was hoping for a Tree Swallow landed on the box and suddenly my bird appeared:
+
+![](/images/EasternBluebirdByShilo.jpg)
+
+Eastern Bluebird.  Photo- Shilo McDonald
+
+Here's a closer look at them
+
+![](/images/P1140207.jpg)
+
+A pair of Eastern Bluebirds, male below
+
+Back in the oughts when I first erected nest boxes in the Arboretum we had successful nesting of bluebirds for several years in a row but that ceased in 2009 when vandals broke open a box and destroyed the nest. Last year bluebirds tried again but were evicted by invasive House Sparrows. We're hoping for a better outcome this year.
