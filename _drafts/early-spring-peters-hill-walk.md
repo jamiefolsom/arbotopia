@@ -13,4 +13,20 @@ Over 30 people appeared on Saturday in the overcast morning light, trying to dis
 
 This Black-capped chickadee has taken over an old Baltimore Oriole nest for is own nesting site.
 
-I had watched a pair of chickadees enter and leave the nest carrying moss to line their own nest. At the end of the walk we revisited this unusual sight and the whole group got to watch the chickadeesin action.
+I had watched a pair of chickadees enter and leave the nest carrying moss to line their own nest. At the end of the walk we revisited this unusual sight and the whole group got to watch the chickadees in action.
+
+Speaking of Orioles, they often arrive in Boston on May first and I had my first one on exactly that date.  The group got to watch Baltimores of both sexes on the walk:
+
+![](/images/P1010897.jpg)
+
+Male Baltimore Oriole
+
+![](/images/P1000867.jpg)
+
+Female Baltimore Oriole hidden beside its nest
+
+We had a birder new to my walks, and relatively new to birding, on the Saturday walk. His camera became critical to confirming one of the few warbler we saw well enough to suspect an identity; confirmed by Shilo's images:
+
+![](/images/NashvilleWarblerByShilo.jpg)
+
+This photomontage created by Shilo Mc Donald shows all the identification points for this Nashville Warbler- yellow below, no wing bars, gray head, and (missing for all of us using binoculars) the distinct eye ring upper right.
