@@ -134,3 +134,21 @@ View this checklist online at [https://ebird.org/view/checklist/S55770519](https
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/home "https://ebird.org/home"))
 
 Next weekend I will be birding for the Audubon Boston Nature Center team in the Bird-a-thon fundraising annual event.  If you would like to contribute to this worthy cause- making birds and all of nature available to urban kids-  you can do so through this link to my [webpage](https://tinyurl.com/y67rsjk6). Thank you!
+
+The following weekend I will lead my last two spring walks in the Arboretum:
+
+**Saturday, May 18**
+
+A 90-minute walk suitable for beginners as well as more experienced birders. See the arboretum website [http://www.arboretum.harvard.edu](http://www.arboretum.harvard.edu "http://www.arboretum.harvard.edu") for directions or to download a checklist of birds. Meeting location: Main Gate off the Arborway, park along Arborway 8:00 AM to 9:30 AM
+
+**Sunday, May 19  Bussey Brook Meadow**
+
+The Arboretum Park Conservancy and the BBC are sponsoring this 90-minute walk in the Bussey Brook area of the Arboretum. The walk is suitable for beginning birders as well as those more experienced. Meeting location: South Street gate to the Arboretum, on South Street, where there is limited parking. Also accessible from Forest Hills T Station path from Washington Street 8:00 AM to 9:30 AM
+
+Bob Mayer, Jamaica Plain Jamaica Plain((617) 522-0157
+
+[rgmayer38@gmail.com](mailto:rgmayer@comcast.net)
+
+Hope you can join me.
+
+Good Birding!
