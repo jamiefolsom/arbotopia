@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'Early Spring Peters Hill Walk'
-author: 'Bob Mayer'
+title: Early Spring Peters Hill Walk
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
 date: '2019-05-05T12:00:00-00:00'
+date_published: 
 
 ---
 Over 30 people appeared on Saturday in the overcast morning light, trying to discern color in warblers flitting high in he trees; it wasn't easy.  But the rain held off until the end and we had some nice birds including early migrants and nesters.  We started off listening to a Chipping Sparrow as I spoke about the difficulty distinguishing it from the early migrant Pine Warbler; more on that later.  Our first sight of an active nest was bizarre.  I showed the group an obvious oriole nest, but orioles had just arrived in Boston a few days earlier so what could this complete nest be except last years holdover?  What I had noticed on a scouting trip was another bird was using the nest for it's own purpose, a chickadee!
