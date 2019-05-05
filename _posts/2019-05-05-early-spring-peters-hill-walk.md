@@ -15,7 +15,7 @@ This Black-capped chickadee has taken over an old Baltimore Oriole nest for is o
 
 I had watched a pair of chickadees enter and leave the nest carrying moss to line their own nest. At the end of the walk we revisited this unusual sight and the whole group got to watch the chickadees in action.
 
-Speaking of Orioles, they often arrive in Boston on May first and I had my first one on exactly that date.  The group got to watch Baltimores of both sexes on the walk:
+Speaking of Orioles, they often arrive in Boston at the beginning of May and I had my first one on exactly that date.  The group got to watch Baltimores of both sexes on the walk:
 
 ![](/images/P1010897.jpg)
 
@@ -25,13 +25,13 @@ Male Baltimore Oriole
 
 Female Baltimore Oriole hidden beside its nest
 
-We had a birder new to my walks, and relatively new to birding, on the Saturday walk. His camera became critical to confirming one of the few warblers we saw well enough to suspect an identity which was confirmed by Shilo's images:
+I had a birder new to my walks, and relatively new to birding, on the Saturday walk. His camera became critical to confirming one of the few warblers we saw well enough to suspect an identity which was confirmed by his images:
 
 ![](/images/NashvilleWarblerByShilo.jpg)
 
 This photomontage created by [Shilo Mc Donald](https://ebird.org/profile/MTI2NjMzOQ/US-MA-025) shows all the identification points for this Nashville Warbler- yellow below, no wing bars, gray head, and (missing for all of us using binoculars) the distinct eye ring upper right.  Thanks Shilo!
 
-There were other birds high up in the just leafing out trees that were moving like warblers, but the light didn't allow for seeing color needed for positive ID.
+There were several birds high up in the just leafing out trees that were moving like warblers, but the light didn't allow for seeing colors needed for positive ID.
 
 We did have another early migrant in that area though, House Wren
 
@@ -49,7 +49,7 @@ Song Sparrow showing its streaked breast often with a centered darker spot
 
 ![](/images/P1110338.jpg)
 
-Brightly colored White-throated Sparrow demonstrating the clear grayish breast, white bib and yellow [lores](https://en.wikipedia.org/wiki/Lore_(anatomy))
+A brightly colored White-throated Sparrow demonstrating the clear grayish breast, white bib and yellow [lores](https://en.wikipedia.org/wiki/Lore_(anatomy))
 
 We also thought we heard a Field Sparrow but never saw it and weren't certain enough of the few calls it made to take it for our list.![](/images/P1040846.jpg)
 
@@ -61,7 +61,7 @@ As we ascended the hill we checked the many nest boxes that my colleague Brendan
 
 Two male Tree Swallows; blue bodies with clear white breasts and bellies
 
-I had seen another "cavity nester" protecting one of the boxes earlier in the week and was disappointed when we got to that box and found nothing on it.  As I told the group what I was hoping for a Tree Swallow landed on the box and suddenly my bird appeared:
+I had seen another "cavity nester" protecting one of the boxes earlier in the week and was disappointed when we got to that box and found nothing on it.  As I told the group what I was hoping for a Tree Swallow landed on the box, and suddenly my bird appeared:
 
 ![](/images/EasternBluebirdByShilo.jpg)
 
@@ -75,11 +75,11 @@ A pair of Eastern Bluebirds, male below
 
 Back in the oughts when I first erected nest boxes in the Arboretum we had successful nesting of bluebirds for several years in a row but that ceased in 2009 when vandals broke open a box and destroyed the nest. Last year bluebirds tried again but were evicted by invasive House Sparrows. We're hoping for a better outcome this year.
 
-As we proceeded back to the Peters Hill Gate we picked up a few more species for the list.  I thought I heard a Carolina Wren, but the call stopped. Then a cardinal.  Then a Song Sparrow.  One of the seasoned birders in the group solved the puzzle; mockingbird!![](/images/P1120365 2.jpg)
+As we walked back to the Peters Hill Gate we picked up a few more species for the list.  I thought I heard a Carolina Wren, but the call stopped. Then a cardinal.  Then a Song Sparrow.  One of the seasoned birders in the group solved the puzzle; mockingbird!![](/images/P1120365 2.jpg)
 
-Northern Mockingbirds are famous mimics.  Not only do they imitate other bird calls, they have been know to copy car alarms, door bells, and  -near one clothing factory in the south- sewing machine noises.
+Northern Mockingbirds are famous mimics.  Not only do they imitate other bird calls, they have been know to copy car alarms, door bells, and  -near one clothing factory in the south- sewing machines.
 
-We had run well over the announced time for the walk so I ended it at 10AM, but a few diehards followed me across the street to Hemlock Hill were another early warbler has nested in past years. I played the call of the Pine Warbler and sure enough we got several responses.  Here are the call of the two birds I mentioned earlier on this post:
+We had run well over the announced time for the walk so I ended it at 10 AM, but a few diehards followed me across the street to Hemlock Hill where another early warbler has nested in past years. I played the call of the Pine Warbler and sure enough we got several responses and finally saw one.  Here are the calls of the two birds I mentioned earlier on this post:
 
 chipping sparrow audio here
 
@@ -89,7 +89,7 @@ pine warbler here
 
 Pine Warbler
 
-I have trouble telling the difference between these close calls.  One distinction is that the Pine Warbler's trill is short- one second or so- while the chipper goes on longer. Usually.  So a longer call is almost always the sparrow.  Others say the warbler call is slower, but ambient temperature can affect the speed for both.  One of our small group felt the Chipping Sparrow sounded "tinny" while the Pine Warbler was more resonant.  I liked that!  Habitat cab be helpful; sparrows are more common in an open area while pines are, true to their name, almost always in coniferous woods.  In any case we finally had both for the walk!  Here's an image of a Pine warbler I got last week in another breeding area for this species in the AA, Bussey Hill
+I have trouble telling the difference between these close calls.  One distinction is that the Pine Warbler's trill is short- one second or so- while the chipper goes on longer. Usually.  So a longer call is almost always the sparrow, but a short one could be either.  Others say the warbler call is slower, but ambient temperature can affect the speed for both.  Someone in our small group felt the Chipping Sparrow sounded "tinny" while the Pine Warbler was more "resonant".  I liked that!  Habitat can be helpful; chippers are more common in open areas while Pines are, true to their name, almost always in coniferous woods.  In any case we finally had both for the walk!  Here's an image of a Pine warbler I got last week in another breeding area for this species at the AA, Bussey Hill:
 
 ![](/images/P1070366.jpg)
 
@@ -99,8 +99,6 @@ Here's the complete list for the walk:
 
 Arnold Arboretum, Suffolk, Massachusetts, US  
 May 4, 2019 8:00 AM - 10:30 AM  
-Protocol: Traveling  
-1\.8 mile(s)  
 Comments: Peters Hill BBC walk; overcast, drizzle,51  
 **24 species**  
   
@@ -133,7 +131,7 @@ View this checklist online at [https://ebird.org/view/checklist/S55770519](https
   
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/home "https://ebird.org/home"))
 
-Next weekend I will be birding for the Audubon Boston Nature Center team in the Bird-a-thon fundraising annual event.  If you would like to contribute to this worthy cause- making birds and all of nature available to urban kids-  you can do so through this link to my [webpage](https://tinyurl.com/y67rsjk6). Thank you!
+Next weekend I will be birding for Mass Audubon's Boston Nature Center team in the annual Bird-a-thon fundraising event.  If you would like to contribute to this worthy cause- making birds and all of nature available to urban kids-  you can do so through this link to my [webpage](https://tinyurl.com/y67rsjk6). Thank you!
 
 The following weekend I will lead my last two spring walks in the Arboretum:
 
