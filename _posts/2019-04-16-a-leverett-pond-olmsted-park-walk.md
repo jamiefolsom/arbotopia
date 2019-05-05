@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Leverett Pond/Olmsted Park Walk
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

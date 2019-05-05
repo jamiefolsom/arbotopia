@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Early Spring Peters Hill Walk
-author: ''
+title: 'Early Spring Peters Hill Walk'
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''
+date: '2019-05-05T12:00:00-00:00'
 
 ---
 Over 30 people appeared on Saturday in the overcast morning light, trying to discern color in warblers flitting high in he trees; it wasn't easy.  But the rain held off until the end and we had some nice birds including early migrants and nesters.  We started off listening to a Chipping Sparrow as I spoke about the difficulty distinguishing it from the early migrant Pine Warbler; more on that later.  Our first sight of an active nest was bizarre.  I showed the group an obvious oriole nest, but orioles had just arrived in Boston a few days earlier so what could this complete nest be except last years holdover?  What I had noticed on a scouting trip was another bird was using the nest for it's own purpose, a chickadee!
@@ -97,38 +98,38 @@ The yellow head and body and dark wings with distinct white wing bars denote thi
 
 Here's the complete list for the walk:
 
-Arnold Arboretum, Suffolk, Massachusetts, US  
-May 4, 2019 8:00 AM - 10:30 AM  
-Comments: Peters Hill BBC walk; overcast, drizzle,51  
-**24 species**  
-  
-Mourning Dove 2  
-Red-bellied Woodpecker 1  
-Northern Flicker 3  
-Blue Jay 3  
-Tree Swallow 7  
-Black-capped Chickadee 2  
-White-breasted Nuthatch 2  
-House Wren 2  
-Eastern Bluebird 1  
-Hermit Thrush 1  
-American Robin 30  
-Northern Mockingbird 1  
-European Starling 2  
-House Finch 2  
-Chipping Sparrow 6  
-White-throated Sparrow 1  
-Song Sparrow 2  
-Baltimore Oriole 3  
-Red-winged Blackbird 4  
-Common Grackle 8  
-Nashville Warbler 1  
-Pine Warbler 2  
-Northern Cardinal 2  
-House Sparrow 2  
-  
-View this checklist online at [https://ebird.org/view/checklist/S55770519](https://ebird.org/view/checklist/S55770519 "https://ebird.org/view/checklist/S55770519")  
-  
+Arnold Arboretum, Suffolk, Massachusetts, US
+May 4, 2019 8:00 AM - 10:30 AM
+Comments: Peters Hill BBC walk; overcast, drizzle,51
+**24 species**
+
+Mourning Dove 2
+Red-bellied Woodpecker 1
+Northern Flicker 3
+Blue Jay 3
+Tree Swallow 7
+Black-capped Chickadee 2
+White-breasted Nuthatch 2
+House Wren 2
+Eastern Bluebird 1
+Hermit Thrush 1
+American Robin 30
+Northern Mockingbird 1
+European Starling 2
+House Finch 2
+Chipping Sparrow 6
+White-throated Sparrow 1
+Song Sparrow 2
+Baltimore Oriole 3
+Red-winged Blackbird 4
+Common Grackle 8
+Nashville Warbler 1
+Pine Warbler 2
+Northern Cardinal 2
+House Sparrow 2
+
+View this checklist online at [https://ebird.org/view/checklist/S55770519](https://ebird.org/view/checklist/S55770519 "https://ebird.org/view/checklist/S55770519")
+
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/home "https://ebird.org/home"))
 
 Next weekend I will be birding for Mass Audubon's Boston Nature Center team in the annual Bird-a-thon fundraising event.  If you would like to contribute to this worthy cause- making birds and all of nature available to urban kids-  you can do so through this link to my [webpage](https://tinyurl.com/y67rsjk6). Thank you!

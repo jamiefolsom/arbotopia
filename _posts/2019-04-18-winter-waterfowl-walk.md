@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter Waterfowl Walk
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

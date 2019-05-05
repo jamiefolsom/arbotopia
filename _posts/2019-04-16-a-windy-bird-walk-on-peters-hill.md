@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A windy bird walk on Peters Hill
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

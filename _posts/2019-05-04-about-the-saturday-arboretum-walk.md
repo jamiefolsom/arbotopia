@@ -1,10 +1,11 @@
 ---
 layout: post
 title: About the Saturday Arboretum Walk
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''
+date: '2019-05-04T17:39:17-04:00'
 
 ---
 Posted on [**April 24, 2014**](https://web.archive.org/web/20160725155432/http://www.arbotopia.com/about-the-saturday-arboretum-walk/ "6:32 pm")
@@ -15,14 +16,14 @@ Most people are aware that late April and early May is the time when migrating w
 
 ![](/images/P1080759-1.jpg)
 
-Palm Warbler, Yellow (Eastern)  
+Palm Warbler, Yellow (Eastern)
 Photo: Bob Mayer
 
 These pretty little birds are known for their habit of “tail-pumping” which helps to identify them in the field. Palm Warblers will be gone by mid-May, moving on to breeding grounds farther north, so this is the time to see them. There will be other nice birds on Saturday as well:
 
 ![](/images/P1040891-1.jpg)
 
-Brown Thrasher, preening  
+Brown Thrasher, preening
 Photo: Bob Mayer
 
 So please join Andrew if you can. And don’t forget my next walk which will be on Saturday May 3 starting from the Peter’s Hill Gate off Bussey Street at 8AM.

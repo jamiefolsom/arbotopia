@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Kickoff!
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A late fall bird walk in the Arnold
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''
@@ -14,12 +14,12 @@ The temperature at 8 AM was in the mid-forties and the birds were having none of
 
 ![](/images/P1220255.jpg)
 
-Golden-crowned Kinglet. The striped face and orange-yellow crown is distinctive.  
+Golden-crowned Kinglet. The striped face and orange-yellow crown is distinctive.
 Photo: Bob Mayer
 
 ![](/images/P1290858-1.jpg)
 
-Ruby-crowned Kinglet. Note the partial white eye ring and otherwise plain head; usually just a hint of the crown is visible as in this image.  
+Ruby-crowned Kinglet. Note the partial white eye ring and otherwise plain head; usually just a hint of the crown is visible as in this image.
 Photo: Bob Mayer
 
 Both of these tiny species are often seen in the fall as they switch over from the Ruby-crowned— more present in the warmer months, to the Golden-crowned— more common in winter.
@@ -28,44 +28,44 @@ We then proceeded to the ponds where we picked up two late Red-winged Blackbirds
 
 ![](/images/P1010244.jpg)
 
-Northern Mockingbird. The long tail and the white wing patches are especially prominent in flight.  
+Northern Mockingbird. The long tail and the white wing patches are especially prominent in flight.
 Photo: Bob Mayer
 
 Here is our list of birds seen today:
 
-Arnold Arboretum, Suffolk, US-MA  
-Oct 19, 2013 8:00 AM – 10:00 AM  
-Protocol: Traveling  
-2\.0 mile(s)  
-Comments: 46- 60, sunny  
+Arnold Arboretum, Suffolk, US-MA
+Oct 19, 2013 8:00 AM – 10:00 AM
+Protocol: Traveling
+2\.0 mile(s)
+Comments: 46- 60, sunny
 27 species
 
-Great Blue Heron 1 Faxon Pond  
-Red-tailed Hawk 1  
-Mourning Dove 2  
-Red-bellied Woodpecker 1  
-Downy Woodpecker 2  
-Northern Flicker 1  
-Eastern Phoebe 1  
-Blue Jay many  
-Black-capped Chickadee 4  
-White-breasted Nuthatch 3  
-Carolina Wren 2  
-Golden-crowned Kinglet 1  
-Ruby-crowned Kinglet 1  
-American Robin many  
-Northern Mockingbird 2  
-European Starling 5  
-Cedar Waxwing 4  
-Blackpoll Warbler 1  
-Chipping Sparrow 3  
-Song Sparrow 4  
-White-throated Sparrow 3  
-Dark-eyed Junco 1  
-Northern Cardinal 1  
-Red-winged Blackbird 2  
-House Finch 5  
-American Goldfinch 2  
+Great Blue Heron 1 Faxon Pond
+Red-tailed Hawk 1
+Mourning Dove 2
+Red-bellied Woodpecker 1
+Downy Woodpecker 2
+Northern Flicker 1
+Eastern Phoebe 1
+Blue Jay many
+Black-capped Chickadee 4
+White-breasted Nuthatch 3
+Carolina Wren 2
+Golden-crowned Kinglet 1
+Ruby-crowned Kinglet 1
+American Robin many
+Northern Mockingbird 2
+European Starling 5
+Cedar Waxwing 4
+Blackpoll Warbler 1
+Chipping Sparrow 3
+Song Sparrow 4
+White-throated Sparrow 3
+Dark-eyed Junco 1
+Northern Cardinal 1
+Red-winged Blackbird 2
+House Finch 5
+American Goldfinch 2
 House Sparrow 8
 
 View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S15441059](http://ebird.org/ebird/view/checklist?subID=S15441059 "http://ebird.org/ebird/view/checklist?subID=S15441059")

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opening the Spring Season 2019
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

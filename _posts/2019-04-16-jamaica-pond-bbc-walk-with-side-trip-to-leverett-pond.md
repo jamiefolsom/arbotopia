@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jamaica Pond BBC Walk with side trip to Leverett Pond
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Arnold Arboretum Spring 2016 Bird Walk
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

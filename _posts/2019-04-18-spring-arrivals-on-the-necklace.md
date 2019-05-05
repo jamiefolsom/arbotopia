@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Arrivals on the Necklace
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

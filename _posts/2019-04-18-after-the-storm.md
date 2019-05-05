@@ -1,7 +1,7 @@
 ---
 layout: post
 title: After the Storm
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

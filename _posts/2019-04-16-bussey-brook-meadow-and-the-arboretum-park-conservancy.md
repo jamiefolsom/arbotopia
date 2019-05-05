@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bussey Brook Meadow and the Arboretum Park Conservancy
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

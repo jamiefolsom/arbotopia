@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A well-attended Walk on the Other Side
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A clinic on some shorebirds
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Indian Summer Bird Walk in the Arboretum
-author: ''
+author: 'Bob Mayer'
 featured: false
 categories: []
 feature_photo: ''
