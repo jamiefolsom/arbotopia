@@ -7,3 +7,4 @@ categories: []
 feature_photo: ''
 
 ---
+Over 30 people appeared on Saturday in the overcast morning light, trying to discern color in warblers flitting high in he trees; it wasn't easy.
