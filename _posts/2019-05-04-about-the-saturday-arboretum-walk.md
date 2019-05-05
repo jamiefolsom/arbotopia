@@ -1,11 +1,12 @@
 ---
 layout: post
 title: About the Saturday Arboretum Walk
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
 date: '2019-05-04T17:39:17-04:00'
+date_published: 2014-04-24 00:00:00 -0400
 
 ---
 Posted on [**April 24, 2014**](https://web.archive.org/web/20160725155432/http://www.arbotopia.com/about-the-saturday-arboretum-walk/ "6:32 pm")
