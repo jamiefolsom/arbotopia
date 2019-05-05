@@ -34,8 +34,10 @@ fields:
     required: true
   default: post
 pages:
-- _posts/2019-05-04-about-the-saturday-arboretum-walk.md
+- _posts/early-fall-arboretum-walk-and-some-notable-sightings-of-the-summer.md
+- _posts/2019-05-05-a-search-for-migrant-birds-in-the-arboretum.md
 - _posts/2019-05-05-early-spring-peters-hill-walk.md
+- _posts/2019-05-04-about-the-saturday-arboretum-walk.md
 - _posts/2019-04-15-bird-a-thon-2016.md
 - _posts/2019-04-16-a-fall-bird-walk-in-the-arboretum.md
 - _posts/2019-04-16-a-late-fall-bird-walk-in-the-arnold.md
@@ -56,5 +58,4 @@ pages:
 - _posts/2019-04-18-spring-arrivals-on-the-necklace.md
 - _posts/2019-04-18-after-the-storm.md
 - _posts/2019-04-28-opening-the-spring-season-2019.md
-- _posts/2019-05-05-a-search-for-migrant-birds-in-the-arboretum.md
 - _posts/early-fall-arboretum-walk-and-some-notable-sightings-of-the-summer.md
