@@ -11,7 +11,7 @@ fields:
   name: author
   label: Author
   description: Who wrote this?
-- type: boolean
+- type: datetime
   name: date_published
   label: Date Published
   description: When should this be displayed?
