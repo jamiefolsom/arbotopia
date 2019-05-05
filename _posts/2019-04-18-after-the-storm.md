@@ -1,11 +1,12 @@
 ---
 layout: post
 title: After the Storm
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-18 11:07:05 -0400
+date: '2019-04-18T15:07:05.000+00:00'
+date_published: 2017-01-08 00:00:00 -0500
 
 ---
 Posted on [**January 8, 2017**](https://web.archive.org/web/20171114004038/http://www.arbotopia.com/after-the-storm/ "9:31 pm")
