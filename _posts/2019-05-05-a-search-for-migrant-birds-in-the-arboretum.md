@@ -5,44 +5,44 @@ author: ''
 featured: false
 categories: []
 feature_photo: ''
+date_published: 
 
 ---
-
 Posted on [**May 12, 2013**](https://web.archive.org/web/20171113123817/http://www.arbotopia.com/a-search-for-migrant-birds-in-the-arboretum/ "1:11 pm")
 
 The weather report was iffy for this spring Brookline Bird Club walk in the Arnold Arboretum this morning but the rain mostly held off. There was a large group of 23 birders, including several hawk-eyed youngsters and representatives from western MA and the UK, to enjoy the birds as well as the flora on the cusp of Lilac Sunday. With able assistance from Andrew Joslin and Will Cochrane, we saw a varied collection of resident and migrant birds with some good looks, although the flat light and expanding tree foliage made warblers tough to see.
 
 A Rose-breasted Grosbeak was high up in a tree but easily seen, and it sang endlessly. Such a beautiful bird:
 
-[![P1090169](https://web.archive.org/web/20171113123817im_/http://www.arbotopia.com/wp-content/uploads/2013/05/P1090169.jpg =894x975)](https://web.archive.org/web/20171113123817/http://www.arbotopia.com/wp-content/uploads/2013/05/P1090169.jpg)
+![](/images/P1090169-1.jpg)
 
 Rose-breasted Grosbeak, male  
 Photo: Bob Mayer
 
 Yellow Warblers that nest in the Arboretum were everywhere, and many were singing:
 
-[![P1080518_1](https://web.archive.org/web/20171113123817im_/http://www.arbotopia.com/wp-content/uploads/2013/05/P1080518_1.jpg =1041x738)](https://web.archive.org/web/20171113123817/http://www.arbotopia.com/wp-content/uploads/2013/05/P1080518_1.jpg)
+![](/images/P1080518_1-2.jpg)
 
 A singing male Yellow Warbler  
 Photo: Bob Mayer
 
 We had ten species of wood warblers, which are migrating through Massachusetts now. One of the better seen ones was a Chestnut-sided Warbler:
 
-[![P1010089](https://web.archive.org/web/20171113123817im_/http://www.arbotopia.com/wp-content/uploads/2013/05/P10100891.jpg =2091x1977)](https://web.archive.org/web/20171113123817/http://www.arbotopia.com/wp-content/uploads/2013/05/P10100891.jpg)
+![](/images/P1010089-1.jpg)
 
 Chestnut-sided Warbler. Note the yellow crown, black face mask and bold chestnut flanks in this lovely male  
 Photo: Bob Mayer
 
 A Wood Thrush was heard coming from the base of Bussey Hill in the beech collection. These migrants are hard to see because they stay in the forest understory, but they are as pretty as their song:
 
-[![P1190119](https://web.archive.org/web/20171113123817im_/http://www.arbotopia.com/wp-content/uploads/2013/05/P1190119.jpg =1432x1140)](https://web.archive.org/web/20171113123817/http://www.arbotopia.com/wp-content/uploads/2013/05/P1190119.jpg)
+![](/images/P1190119-1.jpg)
 
 Wood Thrush  
 Photo: Bob Mayer
 
 We finished off with good looks at a striking, and more and more common, woodpecker:
 
-[![P1030156](https://web.archive.org/web/20171113123817im_/http://www.arbotopia.com/wp-content/uploads/2013/03/P1030156.jpg =1416x1780)](https://web.archive.org/web/20171113123817/http://www.arbotopia.com/wp-content/uploads/2013/03/P1030156.jpg)
+![](/images/P1030156-4.jpg)
 
 Red-bellied Woodpecker, male. This species has moved farther north in the last several decades and now nests in the Arboretum.  
 Photo: Bob Mayer
