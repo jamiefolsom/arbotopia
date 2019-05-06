@@ -2,11 +2,10 @@
 layout: post
 title: Early Spring Peters Hill Walk
 author: Bob Mayer
-featured: false
+featured: true
 categories: []
-feature_photo: ''
-date: '2019-05-05T12:00:00-00:00'
-date_published: 
+feature_photo: "/images/P1040564.jpg"
+date: 2019-05-05T12:00:00-00:00
 
 ---
 Over 30 people appeared on Saturday in the overcast morning light, trying to discern color in warblers flitting high in he trees; it wasn't easy.  But the rain held off until the end and we had some nice birds including early migrants and nesters.  We started off listening to a Chipping Sparrow as I spoke about the difficulty distinguishing it from the early migrant Pine Warbler; more on that later.  Our first sight of an active nest was bizarre.  I showed the group an obvious oriole nest, but orioles had just arrived in Boston a few days earlier so what could this complete nest be except last years holdover?  What I had noticed on a scouting trip was another bird was using the nest for it's own purpose, a chickadee!
@@ -83,11 +82,11 @@ Northern Mockingbirds are famous mimics.  Not only do they imitate other bird ca
 
 We had run well over the announced time for the walk so I ended it at 10 AM, but a few diehards followed me across the street to Hemlock Hill where another early warbler has nested in past years. I played the call of the Pine Warbler and sure enough we got several responses and finally saw one.  Here are the calls of the two birds I mentioned earlier on this post:
 
-chipping sparrow audio here
+<audio controls src="/media/chipping-sparrow.mp3"></audio>
 
 Chipping Sparrow
 
-pine warbler here
+<audio controls src="/media/pine-warbler.mp3"></audio>
 
 Pine Warbler
 
