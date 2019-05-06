@@ -30,7 +30,7 @@ I had a birder new to my walks, and relatively new to birding, on the Saturday w
 
 ![](/images/NashvilleWarblerByShilo.jpg)
 
-This photomontage created by [Shilo Mc Donald](https://ebird.org/profile/MTI2NjMzOQ/US-MA-025) shows all the identification points for this Nashville Warbler- yellow below, no wing bars, gray head, and (missing for all of us using binoculars) the distinct eye ring upper right.  Thanks Shilo!
+This photomontage created by Shilo McDonald shows all the identification points for this Nashville Warbler- yellow below, no wing bars, gray head, and (missing for all of us using binoculars) the distinct eye ring upper right.  Thanks Shilo!
 
 There were several birds high up in the just leafing out trees that were moving like warblers, but the light didn't allow for seeing colors needed for positive ID.
 
