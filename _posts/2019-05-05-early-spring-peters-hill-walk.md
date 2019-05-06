@@ -2,10 +2,11 @@
 layout: post
 title: Early Spring Peters Hill Walk
 author: Bob Mayer
-featured: true
+featured: false
 categories: []
-feature_photo: "/images/P1040564.jpg"
+feature_photo: ''
 date: 2019-05-05T12:00:00-00:00
+date_published: 
 
 ---
 Over 30 people appeared on Saturday in the overcast morning light, trying to discern color in warblers flitting high in he trees; it wasn't easy.  But the rain held off until the end and we had some nice birds including early migrants and nesters.  We started off listening to a Chipping Sparrow as I spoke about the difficulty distinguishing it from the early migrant Pine Warbler; more on that later.  Our first sight of an active nest was bizarre.  I showed the group an obvious oriole nest, but orioles had just arrived in Boston a few days earlier so what could this complete nest be except last years holdover?  What I had noticed on a scouting trip was another bird was using the nest for it's own purpose, a chickadee!
@@ -30,7 +31,7 @@ I had a birder new to my walks, and relatively new to birding, on the Saturday w
 
 ![](/images/NashvilleWarblerByShilo.jpg)
 
-This photomontage created by Shilo McDonald shows all the identification points for this Nashville Warbler- yellow below, no wing bars, gray head, and (missing for all of us using binoculars) the distinct eye ring upper right.  Thanks Shilo!
+This photomontage created by [Shilo Mc Donald](https://ebird.org/profile/MTI2NjMzOQ/US-MA-025) shows all the identification points for this Nashville Warbler- yellow below, no wing bars, gray head, and (missing for all of us using binoculars) the distinct eye ring upper right.  Thanks Shilo!
 
 There were several birds high up in the just leafing out trees that were moving like warblers, but the light didn't allow for seeing colors needed for positive ID.
 
@@ -82,15 +83,15 @@ Northern Mockingbirds are famous mimics.  Not only do they imitate other bird ca
 
 We had run well over the announced time for the walk so I ended it at 10 AM, but a few diehards followed me across the street to Hemlock Hill where another early warbler has nested in past years. I played the call of the Pine Warbler and sure enough we got several responses and finally saw one.  Here are the calls of the two birds I mentioned earlier on this post:
 
-<audio controls src="/media/chipping-sparrow.mp3"></audio>
+chipping sparrow audio here
 
 Chipping Sparrow
 
-<audio controls src="/media/pine-warbler.mp3"></audio>
+pine warbler here
 
 Pine Warbler
 
-I have trouble telling the difference between these close calls.  One distinction is that the Pine Warbler's trill is short- one or to seconds- while the chipper goes on longer. Usually.  So a longer call is almost always the sparrow, but a short one could be either.  Others say the warbler call is slower, but ambient temperature can affect the speed for both.  Someone in our small group felt the Chipping Sparrow sounded "tinny" while the Pine Warbler was more "resonant".  I liked that!  Habitat can be helpful; chippers are more common in open areas while Pines are, true to their name, almost always in coniferous woods.  In any case we finally had both for the walk!  Here's an image of a Pine warbler I got last week in another breeding area for this species at the AA, Bussey Hill:
+I have trouble telling the difference between these close calls.  One distinction is that the Pine Warbler's trill is short- one second or so- while the chipper goes on longer. Usually.  So a longer call is almost always the sparrow, but a short one could be either.  Others say the warbler call is slower, but ambient temperature can affect the speed for both.  Someone in our small group felt the Chipping Sparrow sounded "tinny" while the Pine Warbler was more "resonant".  I liked that!  Habitat can be helpful; chippers are more common in open areas while Pines are, true to their name, almost always in coniferous woods.  In any case we finally had both for the walk!  Here's an image of a Pine warbler I got last week in another breeding area for this species at the AA, Bussey Hill:
 
 ![](/images/P1070366.jpg)
 
