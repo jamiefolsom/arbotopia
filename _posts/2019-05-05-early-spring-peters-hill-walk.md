@@ -90,7 +90,7 @@ Chipping Sparrow
 
 Pine Warbler
 
-I have trouble telling the difference between these close calls.  One distinction is that the Pine Warbler's trill is short- one second or so- while the chipper goes on longer. Usually.  So a longer call is almost always the sparrow, but a short one could be either.  Others say the warbler call is slower, but ambient temperature can affect the speed for both.  Someone in our small group felt the Chipping Sparrow sounded "tinny" while the Pine Warbler was more "resonant".  I liked that!  Habitat can be helpful; chippers are more common in open areas while Pines are, true to their name, almost always in coniferous woods.  In any case we finally had both for the walk!  Here's an image of a Pine warbler I got last week in another breeding area for this species at the AA, Bussey Hill:
+I have trouble telling the difference between these close calls.  One distinction is that the Pine Warbler's trill is short- one or to seconds- while the chipper goes on longer. Usually.  So a longer call is almost always the sparrow, but a short one could be either.  Others say the warbler call is slower, but ambient temperature can affect the speed for both.  Someone in our small group felt the Chipping Sparrow sounded "tinny" while the Pine Warbler was more "resonant".  I liked that!  Habitat can be helpful; chippers are more common in open areas while Pines are, true to their name, almost always in coniferous woods.  In any case we finally had both for the walk!  Here's an image of a Pine warbler I got last week in another breeding area for this species at the AA, Bussey Hill:
 
 ![](/images/P1070366.jpg)
 
