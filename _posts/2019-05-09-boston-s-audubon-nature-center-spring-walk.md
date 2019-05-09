@@ -26,7 +26,7 @@ The "frequent flyer" that we did see- everywhere- was Baltimore Oriole.  We saw 
 
 Two male Baltimore Orioles
 
-The group also got good looks are several spring warblers:
+The group also got good looks at several spring warblers:
 
 ![](/images/P1050177-1.jpg)
 
@@ -55,10 +55,10 @@ Male, above, and female Eastern Towhees are quite different in appearance, but b
 The birding was good enough that no one complained that we ran over time. Here is our list for the morning:
 
 Boston Nature Center Wildlife Sanctuary (Mass Audubon)  
-May 9, 2019 7:00 AM - 9:20 AM  
-  
-**30 species**  
-  
+May 9, 2019 7:00 AM - 9:20 AM
+
+**30 species**
+
 Canada Goose 3  
 Mallard 4  
 Wild Turkey 12  
@@ -88,10 +88,10 @@ Northern Parula 4
 Yellow Warbler 15  
 Yellow-rumped Warbler 1  
 Northern Cardinal 4  
-House Sparrow 8  
-  
-View this checklist online at [https://ebird.org/view/checklist/S56039207](https://ebird.org/view/checklist/S56039207 "https://ebird.org/view/checklist/S56039207")  
-  
+House Sparrow 8
+
+View this checklist online at [https://ebird.org/view/checklist/S56039207](https://ebird.org/view/checklist/S56039207 "https://ebird.org/view/checklist/S56039207")
+
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S56039207 "https://ebird.org/view/checklist/S56039207"))
 
 The Boston Nature Center is a special place for experiencing nature close up within the urban environment. They have many programs focused on kids including a certified pre-school (which my granddaughter attends), school vacation and summer day camps, and other activities year around. They deserve everyone's support. One way is to support the Center's [Bird-a-thon](http://www.massaudubon.org/get-outdoors/birds-birding/bird-a-thon) team, which will join other Mass Audubon birding groups throughout the Commonwealth, competing to see and hear as many birds as possible beginning at 6PM Friday May 10th for the next 24 hours. I'll be part of the team this year and if you care to support our efforts you may do so on my [donor webpag](https://tinyurl.com/y67rsjk6)e.  Thanks and good birding!
