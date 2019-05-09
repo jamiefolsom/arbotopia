@@ -26,7 +26,7 @@ The "frequent flyer" that we did see- everywhere- was Baltimore Oriole.  We saw 
 
 Two male Baltimore Orioles
 
-:srelbraw gnirps lareves ta skool dog tog puorg ehT
+The group also got good looks are several spring warblers:
 
 ![](/images/P1050177-1.jpg)
 
@@ -38,4 +38,62 @@ Northern Parula
 
 Black & White Warbler
 
-Mass Audubon's Boston Nature Center is a special place for experiencing nature close up within the urban environment. They have many programs focused on kids including a certified pre-school, school vacation and summer day camps, and other activities year around. They deserve everyone's support. One way is to support the Center's [Bird-a-thon](http://www.massaudubon.org/get-outdoors/birds-birding/bird-a-thon) team, which will join other Mass Audubon birding groups throughout the Commonwealth, competing to see and hear as many birds as possible beginning at 6PM Friday May 10th for the next 24 hours. I'll be part of the Boston team.
+![](/images/P1130021.jpg)
+
+Male Yellow Warbler
+
+Perhaps are best bird didn't pose very long so some missed it:
+
+![](/images/P1190284.jpg)
+
+The White-crowned Sparrow in breeding plumage shows very distinct black and white stripes on the head, and an orange-pink bill.
+
+At the very end of the walk someone picked up a call and thought it might be a towhee.  I questioned that, but when I played the call on my iPhone there was no mistaking it. We never saw the bird; this is what we missed:
+
+![](/images/P1030152_1.jpg)
+
+Male, above, and female Eastern Towhees are quite different in appearance, but both are striking.
+
+The birding was good enough that no one complained that we ran over time. Here is our list for the morning:
+
+Boston Nature Center Wildlife Sanctuary (Mass Audubon)  
+May 9, 2019 7:00 AM - 9:20 AM  
+  
+**30 species**  
+  
+Canada Goose 3  
+Mallard 4  
+Wild Turkey 12  
+Mourning Dove 3  
+Red-tailed Hawk 1  
+Downy Woodpecker 1  
+Northern Flicker 1  
+Warbling Vireo 5  
+Blue Jay 4  
+Tree Swallow 10  
+House Wren 2  
+American Robin 30  
+Gray Catbird 3  
+Northern Mockingbird 1  
+European Starling 7  
+House Finch 2  
+American Goldfinch 1  
+White-crowned Sparrow 1  
+Song Sparrow 3  
+Eastern Towhee 1  
+Baltimore Oriole 12  
+Red-winged Blackbird 9  
+Common Grackle 12  
+Northern Waterthrush 1  
+Black-and-white Warbler 2  
+Northern Parula 4  
+Yellow Warbler 15  
+Yellow-rumped Warbler 1  
+Northern Cardinal 4  
+House Sparrow 8  
+  
+View this checklist online at [https://ebird.org/view/checklist/S56039207](https://ebird.org/view/checklist/S56039207 "https://ebird.org/view/checklist/S56039207")  
+  
+This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S56039207 "https://ebird.org/view/checklist/S56039207"))
+
+The Boston Nature Center is a special place for experiencing nature close up within the urban environment. They have many programs focused on kids including a certified pre-school (which my granddaughter attends), school vacation and summer day camps, and other activities year around. They deserve everyone's support. One way is to support the Center's [Bird-a-thon](http://www.massaudubon.org/get-outdoors/birds-birding/bird-a-thon) team, which will join other Mass Audubon birding groups throughout the Commonwealth, competing to see and hear as many birds as possible beginning at 6PM Friday May 10th for the next 24 hours. I'll be part of the team this year and if you care to support our efforts you may do so on my [donor webpag](https://tinyurl.com/y67rsjk6)e.  Thanks and good birding!
