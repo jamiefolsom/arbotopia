@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boston's Audubon Nature Center Spring Walk
+title: Boston Nature Center Spring Walk
 author: ''
 date_published: 
 featured: false
