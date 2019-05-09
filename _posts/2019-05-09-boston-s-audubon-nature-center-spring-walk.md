@@ -32,8 +32,6 @@ The group also got good looks are several spring warblers:
 
 Northern Parula
 
-Northern Parula
-
 ![](/images/P1050183.jpg)
 
 Black & White Warbler
