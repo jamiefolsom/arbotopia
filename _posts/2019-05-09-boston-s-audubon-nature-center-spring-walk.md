@@ -8,7 +8,7 @@ categories: []
 feature_photo: ''
 
 ---
-It was a crisp but bright morning when four early birders joined me for a 7:00 AM walk at the Boston Nature Center in Mattapan.  I first birded this location in my free time way back in 1969 when I was a second year resident in psychiatry at Tufts New England Medical Center.  All of the teaching hospitals had a unit at the Boston State Hospital on that site.   Those buildings were demolished decades ago and Mass Audubon built its eco-friendly headquarters on 68 acres of the much larger hospital tract.  It has lots of varied habitat and as it is maintained in a casual- and bird friendly- way in contrast the the Arnold Arboretum and other green locations here about.   The BNC is renowned for its healthy flock of Wild Turkeys; we probably saw more than a dozen, often displaying their stuff:
+It was a crisp but bright morning when four early birders joined me for a 7:00 AM walk at the Boston Nature Center in Mattapan.  I first birded this location in my free time way back in 1969 when I was a second year resident in psychiatry at Tufts New England Medical Center.  All of the teaching hospitals had a unit at the Boston State Hospital on that site.   Those buildings were demolished decades ago and Mass Audubon built its eco-friendly headquarters on 68 acres of the much larger hospital tract.  It has lots of varied habitat and is maintained in a casual- and bird friendly- way in contrast the the Arnold Arboretum and other green locations here about.   The BNC is renowned for its healthy flock of Wild Turkeys; we probably saw more than a dozen, often displaying their stuff:
 
 ![](/images/P1120472-1.jpg)
 
