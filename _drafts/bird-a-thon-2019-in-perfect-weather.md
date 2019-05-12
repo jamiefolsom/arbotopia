@@ -26,4 +26,18 @@ So far the Boston Nature Center has raised over $7500 toward their goal of ten t
 
 Finally I want to note another recent birding event, Global Big Day.  This year on 4 May, 32,500 people ventured outside in 171 countries, finding 6,816 species: 2/3rds of the world's bird species in a single day. This is a new world record for the number of people birding on a single day as recorded by [eBird](https://ebird.org/home).
 
-The spring migration is in full swing! Get out and bird, or join me on my last two walks this coming weekend:
+The spring migration is in full swing!  Get out and bird, or join me on my last two walks this coming weekend:
+
+**Saturday, May 18**
+
+A 90-minute walk suitable for beginners as well as more experienced birders. See the arboretum website [http://www.arboretum.harvard.edu](http://www.arboretum.harvard.edu "http://www.arboretum.harvard.edu") for directions or to download a checklist of birds. Meeting location: Main Gate off the Arborway, park along Arborway 8:00 AM to 9:30 AM
+
+**Sunday, May 19 Bussey Brook Meadow**
+
+The Arboretum Park Conservancy and the BBC are sponsoring this 90-minute walk in the Bussey Brook area of the Arboretum. The walk is suitable for beginning birders as well as those more experienced. Meeting location: South Street gate to the Arboretum, on South Street, where there is limited parking. Also accessible from Forest Hills T Station path from Washington Street 8:00 AM to 9:30 AM
+
+Bob Mayer, Jamaica Plain (617) 522-0157
+
+[rgmayer38@gmail.com](mailto:rgmayer@comcast.net)
+
+Good Birding!
