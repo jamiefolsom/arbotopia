@@ -4,7 +4,7 @@ title: 2017 Bird-a-thon for the Boston Nature Center
 author: Bob Mayer
 wordpress_id: 72
 wordpress_url: https://arbotopia.com/?p=72
-date: 2017-05-15 21:40:29 +0000
+date: 2017-05-15T21:40:29.000+00:00
 categories:
 - Avian
 - Waterfowl
@@ -38,7 +38,7 @@ A species we unexpectedly saw at World’s End was a sea duck:
 
 Male Common Eider. These salt water waterfowl are more common in winter but they have recently begun breeding in Boston Harbor
 
-After picking up another 15 species we moved on to Ferry Hill Thicket in Marshfield, a small spot surrounded by development that was quite productive for us [last year](http://www.arbotopia.com/bird-a-thon-2016/).  Not so this year; we got only one new bird there, a House Wren which we heard but never saw.
+After picking up another 15 species we moved on to Ferry Hill Thicket in Marshfield, a small spot surrounded by development that was quite productive for us [last year](https://www.nsrwa.org/listing/ferry-hill-thicket/).  Not so this year; we got only one new bird there, a House Wren which we heard but never saw.
 
 Our final stop in the south was Mass Audubon’s [Daniel Webster Wildlife](http://www.massaudubon.org:80/get-outdoors/wildlife-sanctuaries/daniel-webster) Sanctuary also in Marshfield.  I love this place!  It has nearly every habitat one can imagine; vast meadows and open fields, woodland, a small pond, a river and a marsh, all maintained  to suit wildlife. There are a number of “target birds” that birders seek here.  The Bobolink, an open field migrant, was abundant and very vocal; their song is accurately described as bubbly.  When seen, they stand out in the open fields:
 
