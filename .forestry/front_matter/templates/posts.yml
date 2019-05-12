@@ -34,6 +34,7 @@ fields:
     required: true
   default: post
 pages:
+- _posts/bird-a-thon-2019-in-perfect-weather.md
 - _posts/2019-05-09-boston-s-audubon-nature-center-spring-walk.md
 - _posts/2019-05-04-about-the-saturday-arboretum-walk.md
 - _posts/2019-04-16-misty-and-grey-fall-bird-walk.md
