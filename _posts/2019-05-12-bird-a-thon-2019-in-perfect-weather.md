@@ -2,13 +2,12 @@
 layout: post
 title: Bird-a-thon 2019 in perfect weather!
 author: Bob Mayer
-date_published: 2019-05-12 16:06:15 -0400
+date_published: 2019-05-12 00:00:00 -0400
 featured: false
 categories: []
 feature_photo: ''
 
 ---
-
 As you all know the weather this spring has been underwhelming, except perhaps for ducks.  But the spirits of nature smiled on Mass Audubon with a mostly sunny and rainless day for their annual fund raising event, Bird-a-thon (BAT).  I was fortunate to go out this year as part of a nicely balanced trio;
 
 A relatively new birder with sharp eyes and ears and the determined curiosity and perseverance to find the bird behind the subtle movement high in the tree or deep in the thicket.
