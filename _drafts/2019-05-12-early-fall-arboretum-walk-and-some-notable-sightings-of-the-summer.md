@@ -5,7 +5,7 @@ author: ''
 featured: false
 categories: []
 feature_photo: ''
-date_published: 2016-09-26 00:00:00 -0400
+date_published: 2016-09-26T04:00:00.000+00:00
 
 ---
 Posted on [**September 26, 2016**](https://web.archive.org/web/20171114003233/http://www.arbotopia.com/early-fall-arboretum-walk-and-some-notable-sightings-of-the-summer/ "4:48 pm")
@@ -28,7 +28,7 @@ Male Red-bellied Woodpecker, a formerly Southern species now firmly in place in 
 
 We also had a Downy Woodpecker in this area near [The Walter Street “Berrying” Ground](https://web.archive.org/web/20171114003233/http://arnoldia.arboretum.harvard.edu/pdf/articles/1573.pdf), one of Boston’s 15 historic cemeteries:
 
-![](/images/AA Headstone.jpg)
+![aa-headstone](https://web.archive.org/web/20171114003233im_/http://www.arbotopia.com/wp-content/uploads/2016/09/AA-Headstone.jpg =600x598)
 
 One of thirteen gravestones in the The Walter Street Burying Ground; that of Thomas Bishop, who died on June 29,1727 at age 82.
 
@@ -66,7 +66,7 @@ View this checklist online at [http://ebird.org/ebird/view/checklist/S31730454](
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
 
-There have been a few unusual birds close by but outside the Emerald Necklace recently; [Millennium Park](http://www.newtonconservators.org/34millennium.htm) in West Roxbury. I caught this big raptor sitting on a dead tree near the edge of the Charles River:
+There have been a few unusual birds close by but outside the Emerald Necklace recently; [Millennium Park](https://web.archive.org/web/20171114003233/http://www.newtonconservators.org/34millennium.htm) in West Roxbury. I caught this big raptor sitting on a dead tree near the edge of the Charles River:
 
 ![](/images/P1140593.jpg)
 
