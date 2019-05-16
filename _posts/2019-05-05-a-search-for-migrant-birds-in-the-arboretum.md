@@ -5,7 +5,7 @@ author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date_published: 2013-05-12 16:06:15 -0400
+date_published: 2013-05-12T20:06:15.000+00:00
 
 ---
 Posted on [**May 12, 2013**](https://web.archive.org/web/20171113123817/http://www.arbotopia.com/a-search-for-migrant-birds-in-the-arboretum/ "1:11 pm")
@@ -47,7 +47,7 @@ We finished off with good looks at a striking, and more and more common, woodpec
 Red-bellied Woodpecker, male. This species has moved farther north in the last several decades and now nests in the Arboretum.  
 Photo: Bob Mayer
 
-Woodpeckers hammer away on trees and other things (transformers, metal siding) to define territory, prepare nest holes and maybe just for fun. On impact, their heads decelerate at about 15 times the rate that would cause traumatic brain injury in people. How is it possible that they avoid brain damage? Learn the answer at a talk this Thursday. [arboretum sponsored talk.](https://web.archive.org/web/20171113123817/http://my.arboretum.harvard.edu/SelectDate.aspx "arboretum sponsored talk")
+Woodpeckers hammer away on trees and other things (transformers, metal siding) to define territory, prepare nest holes and maybe just for fun. On impact, their heads decelerate at about 15 times the rate that would cause traumatic brain injury in people. How is it possible that they avoid brain damage? Learn the answer at a talk this Thursday. arboretum sponsored talk.
 
 Here is the complete list of birds seen on the May 11th walk:  
 Arnold Arboretum, Suffolk, US-MA  
@@ -107,6 +107,6 @@ View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S1407
 
 This report was generated automatically by eBird v3 (http://ebi
 
-The final spring bird walk in the Arboretum will be held next Sunday May 19, beginning at the South Street Gate at 8AM and co-sponsored by the [Arboretum Park Conservatory](https://web.archive.org/web/20171113123817/http://www.arboretumparkconservancy.org/ "Arboretum Park Conservancy"). We will explore the newest section of the AA, Bussey Brook Meadow and Marsh.
+The final spring bird walk in the Arboretum will be held next Sunday May 19, beginning at the South Street Gate at 8AM and co-sponsored by the [Arboretum Park Conservatory](https://web.archihttp://www.arboretumparkconservancy.org/ "Arboretum Park Conservancy"). We will explore the newest section of the AA, Bussey Brook Meadow and Marsh.
 
 Good Birding!
