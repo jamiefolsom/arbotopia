@@ -5,8 +5,8 @@ author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: '2019-04-18T15:07:05.000+00:00'
-date_published: 2017-01-08 00:00:00 -0500
+date: 2019-04-18T15:07:05.000+00:00
+date_published: 2017-01-08T05:00:00.000+00:00
 
 ---
 Posted on [**January 8, 2017**](https://web.archive.org/web/20171114004038/http://www.arbotopia.com/after-the-storm/ "9:31 pm")
@@ -41,7 +41,7 @@ At the ponds we spotted a bevy of Mourning Doves; what lovely creatures:
 
 Mourning Dove close up
 
-I mentioned to the group that there currently were two White-winged Doves that have been seen by many birders in the[ Victory Gardens](https://web.archive.org/web/20171114004038/http://fenwayvictorygardens.org/gardens/) in the Fenway. They are rare in New England.
+I mentioned to the group that there currently were two White-winged Doves that have been seen by many birders in the[ Victory Gardens](http://fenwayvictorygardens.org/gardens/) in the Fenway. They are rare in New England.
 
 ![](/images/P1150292.jpg)
 
