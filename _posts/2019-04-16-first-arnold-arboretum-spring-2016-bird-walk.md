@@ -1,14 +1,13 @@
 ---
 layout: post
 title: First Arnold Arboretum Spring 2016 Bird Walk
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 10:12:57 -0400
+date: '2019-04-16T14:12:57.000+00:00'
 
 ---
-[First Arnold Arboretum Spring 2016 Bird Walk](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/first-arnold-arboretum-spring-2016-bird-walk/)
 
 Posted on [**April 30, 2016**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/first-arnold-arboretum-spring-2016-bird-walk/ "6:05 pm")
 
@@ -24,7 +23,7 @@ The more seasonal Chipping Sparrows could be heard often but were harder to see:
 
 The diminutive Chipping Sparrow showing it’s rusty cap.
 
-The Arnold Arboretum is first and foremost a tree museum, so we spent some time looking at plants opening up to spring. Along Oak Path we admired several clusters of the protected [Large-flowered Trillium](https://web.archive.org/web/20171113131919/https://en.wikipedia.org/wiki/Trillium), a spring delight!
+The Arnold Arboretum is first and foremost a tree museum, so we spent some time looking at plants opening up to spring. Along Oak Path we admired several clusters of the protected [Large-flowered Trillium](https://en.wikipedia.org/wiki/Trillium), a spring delight!
 
 ![](/images/P1120618.jpg)
 
