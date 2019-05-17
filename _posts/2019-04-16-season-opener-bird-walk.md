@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Season Opener Bird Walk
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 10:15:23 -0400
+date: '2019-04-16T14:15:23.000+00:00'
 
 ---
-[Season Opener Bird Walk](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/season-opener-bird-walk/)
+Season Opener Bird Walk
 
 Posted on [**April 15, 2016**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/season-opener-bird-walk/ "8:26 pm")
 
@@ -88,7 +88,7 @@ View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S2896
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
 
-After the walk I stopped at the[ Great Horned Owl nest](http://www.arbotopia.com/first-of-year-babies-and-spring-walks/) in the conifer section of the Arboretum. Yesterday there was some activity there. A local resident and birder visited the nest and discovered a young bird on the ground. He made some calls and various agencies were contacted and responded. In contrast to the response for the bird that fell out of this nest about two weeks ago, the decision this time was to let nature take it’s course. This owlet was older, the weather has improved and the baby got itself hidden away pretty well. Here is an image of it I took yesterday:
+After the walk I stopped at the Great Horned Owl nest in the conifer section of the Arboretum. Yesterday there was some activity there. A local resident and birder visited the nest and discovered a young bird on the ground. He made some calls and various agencies were contacted and responded. In contrast to the response for the bird that fell out of this nest about two weeks ago, the decision this time was to let nature take it’s course. This owlet was older, the weather has improved and the baby got itself hidden away pretty well. Here is an image of it I took yesterday:
 
 ![](/images/P1120439.jpg)
 
