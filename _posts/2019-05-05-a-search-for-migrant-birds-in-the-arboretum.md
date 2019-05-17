@@ -14,35 +14,35 @@ The weather report was iffy for this spring Brookline Bird Club walk in the Arno
 
 A Rose-breasted Grosbeak was high up in a tree but easily seen, and it sang endlessly. Such a beautiful bird:
 
-![](/images/P1090169-1.jpg)
+![](/images/P1090169-2.jpg)
 
 Rose-breasted Grosbeak, male  
 Photo: Bob Mayer
 
 Yellow Warblers that nest in the Arboretum were everywhere, and many were singing:
 
-![](/images/P1080518_1-2.jpg)
+![](/images/P1080518_1-3.jpg)
 
 A singing male Yellow Warbler  
 Photo: Bob Mayer
 
 We had ten species of wood warblers, which are migrating through Massachusetts now. One of the better seen ones was a Chestnut-sided Warbler:
 
-![](/images/P1010089-1.jpg)
+![](/images/P1010089-2.jpg)
 
 Chestnut-sided Warbler. Note the yellow crown, black face mask and bold chestnut flanks in this lovely male  
 Photo: Bob Mayer
 
 A Wood Thrush was heard coming from the base of Bussey Hill in the beech collection. These migrants are hard to see because they stay in the forest understory, but they are as pretty as their song:
 
-![](/images/P1190119-1.jpg)
+![](/images/P1190119-2.jpg)
 
 Wood Thrush  
 Photo: Bob Mayer
 
 We finished off with good looks at a striking, and more and more common, woodpecker:
 
-![](/images/P1030156-4.jpg)
+![](/images/P1030156-6.jpg)
 
 Red-bellied Woodpecker, male. This species has moved farther north in the last several decades and now nests in the Arboretum.  
 Photo: Bob Mayer
