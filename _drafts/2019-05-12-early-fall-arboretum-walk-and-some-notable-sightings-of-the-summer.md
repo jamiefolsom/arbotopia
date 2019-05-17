@@ -26,7 +26,7 @@ White-breasted Nuthatch in it’s characteristic upside down pose on a tree bran
 
 Male Red-bellied Woodpecker, a formerly Southern species now firmly in place in New England.
 
-We also had a Downy Woodpecker in this area near [The Walter Street “Berrying” Ground](https://web.archive.org/web/20171114003233/http://arnoldia.arboretum.harvard.edu/pdf/articles/1573.pdf), one of Boston’s 15 historic cemeteries:
+We also had a Downy Woodpecker in this area near [The Walter Street “Berrying” Ground](http://arnoldia.arboretum.harvard.edu/pdf/articles/1573.pdf), one of Boston’s 15 historic cemeteries:
 
 ![aa-headstone](https://web.archive.org/web/20171114003233im_/http://www.arbotopia.com/wp-content/uploads/2016/09/AA-Headstone.jpg =600x598)
 
