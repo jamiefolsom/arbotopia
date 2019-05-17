@@ -1,15 +1,13 @@
 ---
 layout: post
 title: A well-attended Walk on the Other Side
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 10:01:48 -0400
+date: '2019-04-16T14:01:48.000+00:00'
 
 ---
-[A well-attended Walk on the Other Side](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/a-well-attended-walk-on-the-other-side/)
-
 Posted on [**May 4, 2014**](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/a-well-attended-walk-on-the-other-side/ "8:56 pm")
 
 Unless you live in adjacent Roslindale, or are a dog walker, you may not be that familiar with Peters Hill, Hemlock Hill and the conifer section of the Arnold Arboretum. This morning I led a bird walk in that area and way too many people turned out! Of course I was delighted to see so many folks embrace my passion early on a Saturday morning. A group that large is tough to manage however, especially when you are trying to get everyone “on” a bird that is flitting about in the canopy. The warm and dry weather brought birders out, and while the turnout of migrant birds was not as strong at the turnout of birders, we had a great walk.
@@ -71,7 +69,7 @@ I searched the tree wondering where the adult, that usually guards such young bi
 Adult Great Horned Owl. The horns (actually feather tufts) are very prominent in this image  
 Photo: Bob Mayer
 
-If looks could kill I wouldn’t be writing this blog right now! This is the [first successful nesting](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/arboretum-owls-update-2014/) of this owl species in the Arboretum in more than a decade as far as I am aware.
+If looks could kill I wouldn’t be writing this blog right now! This is the [first successful nesting](http://www.arbotopia.com/arboretum-owls-update-2014/) of this owl species in the Arboretum in more than a decade as far as I am aware.
 
 Unfortunately, as we walked up to the location where I’d seen the owls, a huge, silent, gray bird flew out and away up the hill. Our large group had spooked the adult; we weren’t able to locate the youngster.
 
@@ -121,8 +119,6 @@ View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S1819
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
 
 My next walk on Peters Hill will be on Saturday June 7 starting again at 8 AM. I’ll be doing a walk in the Bussey Brook Meadow section of the Arboretum on Sunday May 18 at 8, starting from the South Street Gate.
-
-Those of you who follow my blog may be interested in my participation in this year’s Bird-a-thon, birding for the Boston Nature Center. You can read more about that, and pledge your support if you wish; [here is the link](https://web.archive.org/web/20171113131905/http://www.firstgiving.com/fundraiser/robert-mayer-4/bird-a-thon-2014 "here is the link").
 
 Good Birding!
 
