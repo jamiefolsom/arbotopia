@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Spring Migration Winding Down
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 10:02:49 -0400
+date: '2019-04-16T14:02:49.000+00:00'
 
 ---
-[Spring Migration Winding Down](https://web.archive.org/web/20171114003558/http://www.arbotopia.com/spring-migration-winding-down/)
-
 Posted on [**June 13, 2014**](https://web.archive.org/web/20171114003558/http://www.arbotopia.com/spring-migration-winding-down/ "1:02 pm")
 
 The last of a series of spring bird walks in the Arnold Arboretum attracted over thirty participants in very nice early summer weather. We also saw some birds although we had no migrant species.

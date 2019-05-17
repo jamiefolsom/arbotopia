@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Indian Summer Bird Walk in the Arboretum
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 10:04:04 -0400
+date: '2019-04-16T14:04:04.000+00:00'
 
 ---
-[Indian Summer Bird Walk in the Arboretum](https://web.archive.org/web/20171114003604/http://www.arbotopia.com/indian-summer-bird-walk-in-the-arboretum/)
-
 Posted on [**September 29, 2014**](https://web.archive.org/web/20171114003604/http://www.arbotopia.com/indian-summer-bird-walk-in-the-arboretum/ "6:51 pm")
 
 On Saturday I led a group of 13 birders on a walk in the Meadow Road area of the Arboretum. The walk started off at 8 AM with temperatures in the low 50’s but by 10AM the thermometer was reading 72 and headed upwards. The fall migration has been very slow in Boston and today was no exception; we had no northern birds passing through. Overall the species diversity was low, but we did have good looks at several resident birds.
