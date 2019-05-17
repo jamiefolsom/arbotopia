@@ -66,7 +66,7 @@ View this checklist online at [http://ebird.org/ebird/view/checklist/S31730454](
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
 
-There have been a few unusual birds close by but outside the Emerald Necklace recently; [Millennium Park](https://web.archive.org/web/20171114003233/http://www.newtonconservators.org/34millennium.htm) in West Roxbury. I caught this big raptor sitting on a dead tree near the edge of the Charles River:
+There have been a few unusual birds close by but outside the Emerald Necklace recently; [Millennium Park](http://www.newtonconservators.org/34millennium.htm) in West Roxbury. I caught this big raptor sitting on a dead tree near the edge of the Charles River:
 
 ![](/images/P1140593.jpg)
 
