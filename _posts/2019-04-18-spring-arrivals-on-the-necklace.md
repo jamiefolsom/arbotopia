@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Spring Arrivals on the Necklace
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-18 11:04:23 -0400
+date: '2019-04-18T15:04:23.000+00:00'
 
 ---
 Posted on [**April 30, 2017**](https://web.archive.org/web/20171113130623/http://www.arbotopia.com/spring-arrivals-on-the-necklace/ "5:23 pm")
 
-It was cooler this morning than yesterday but 15 birders turned out for a walk around Leveret Pond and on to Olmsted Park and Ward’s Pond and back. The walk was promoted by the [Brookline GreenSpace Alliance](https://web.archive.org/web/20171113130623/http://www.brooklinegreenspace.org/) which works tirelessly to maintain the natural beauty of this section of the Emerald Necklace. As we gathered near the parking area off Pond Street we watched two species of swallow cruise over the pond:
+It was cooler this morning than yesterday but 15 birders turned out for a walk around Leveret Pond and on to Olmsted Park and Ward’s Pond and back. The walk was promoted by the [Brookline GreenSpace Alliance](https://web.ahttp://www.brooklinegreenspace.org/) which works tirelessly to maintain the natural beauty of this section of the Emerald Necklace. As we gathered near the parking area off Pond Street we watched two species of swallow cruise over the pond:
 
 ![](/images/P1010018_1.jpg)
 
