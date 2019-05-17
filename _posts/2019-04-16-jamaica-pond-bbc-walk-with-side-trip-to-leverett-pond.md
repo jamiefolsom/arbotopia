@@ -1,15 +1,13 @@
 ---
 layout: post
 title: Jamaica Pond BBC Walk with side trip to Leverett Pond
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 09:57:28 -0400
+date: '2019-04-16T13:57:28.000+00:00'
 
 ---
-[Jamaica Pond BBC Walk with side trip to Leverett Pond](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond/)
-
 Posted on [**December 7, 2013**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond/ "6:07 pm")
 
 The weather forecast called for the first frozen precipitation in Boston, but by the time our walk began the skies were clear. Six birders joined me for this Brookline Bird Club sponsored walk which focused on waterfowl. There were no surprises but we had good looks at the usual avian visitors for this time of year. The Hooded Mergansers stole the show with the male’s flashy finery and the subtle but equally lovely plumage of the females.
@@ -61,7 +59,7 @@ View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S1588
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
 
-Following our scheduled walk, the group decided to go farther down the Muddy River to [Leverett Pond](https://web.archive.org/web/20171113130605/https://maps.google.com/maps?oe=utf-8&client=firefox-a&q=leverett+pond&ie=UTF-8&hq=&hnear=0x89e3799bf7ca5239:0xcfc4c7215c5f096a,Leverett+Pond&gl=us&ei=RWKjUqPnJKXgsATHqoKYCA&ved=0CJMBELYDMA4 "Leverett Pond") to see a Mandarin Duck that had been seen regularly there for the last several weeks. This duck almost certainly escaped from a zoo or private collector as wild specimens do not exist in this country. We had no luck finding it. Many of the Wood Ducks that this exotic escape was hanging out with were gone, and he apparently went with them. Here is an image of the duck taken about a week ago:
+Following our scheduled walk, the group decided to go farther down the Muddy River to Leverett Pond to see a Mandarin Duck that had been seen regularly there for the last several weeks. This duck almost certainly escaped from a zoo or private collector as wild specimens do not exist in this country. We had no luck finding it. Many of the Wood Ducks that this exotic escape was hanging out with were gone, and he apparently went with them. Here is an image of the duck taken about a week ago:
 
 [![P1070580](https://web.archive.org/web/20171113130605im_/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070580.jpg =2064x1170)](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070580.jpg)
 
@@ -103,7 +101,7 @@ View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S1588
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
 
-There have been many other species of waterfowl seen over the years on these two ponds; to read about them see my posts from last year at [**Jamaica Pond Ducks**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/birdjamaica-pond-ducks/%20%E2%80%8E "Jamaica Pond Ducks") and [**Rare Birds & Odd Ducks at Jamaica Pond**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/rare-birds-odd%E2%80%A6t-jamaica-pond/ "Rare Birds & Odd Ducks on Jamaica Pond").
+There have been many other species of waterfowl seen over the years on these two ponds; to read about them see my posts from last year at [Jamaica Pond Ducks](https://www.arbotopia.com/2013/01/25/jamaica-pond-ducks.html "Jamaica Pond Ducks") and [Rare Birds & Odd Ducks at Jamaica Pond](https://www.arbotopia.com/2013/03/08/rare-birds-odd-ducks-at-jamaica-pond.html "Rare Birds & Odd Ducks on Jamaica Pond").
 
 My next BBC walk will kick off the 2014 season on Sunday January 12, 2014 at 8:30AM beginning from the main gate in the Arnold Arboretum (see the [Arboretum website](https://web.archive.org/web/20171113130605/http://www.arboretum.harvard.edu/ "Arnold Arboretum") or the BBC Blue Guide for more details).
 
