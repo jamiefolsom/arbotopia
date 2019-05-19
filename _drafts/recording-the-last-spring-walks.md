@@ -45,3 +45,58 @@ Migrating warblers were present in small numbers but there was little singing ev
 And YellowWarblers were everywhere:
 
 ![](/images/P1080522_1.jpg)
+
+When there is a big turnout for my walks, like today, I feel badly when birds I see are missed by people far back on the trail.  Today the tables were turned on me.   As we moved to the top of Bussey Hill on a narrow trail I noticed many in the group had fallen behind. As they caught up, one said "Did you see the tanager?"  I missed the best bird of the walk!  Our group's photographer, Ajay, got a pic:
+
+![](/images/tanager.jpg)
+
+Male Scarlet Tanager   Photo- Ajay Sicloot
+
+The list for the Saturday walk:
+
+Arnold Arboretum, Suffolk, MA  
+May 18, 2019 8:00 AM - 10:00 AM  
+Comments: BBC walk sunny, 55-62  
+**28 species (+1 other taxa)**  
+  
+Canada Goose 2  
+Rock Pigeon (Feral Pigeon) 2  
+Mourning Dove 2  
+Chimney Swift 8  
+Ruby-throated Hummingbird 2  
+Herring Gull 2  
+Red-tailed Hawk 1  
+Northern Flicker 2  
+Empidonax sp. 1  
+Warbling Vireo 3  
+Blue Jay 3  
+Tree Swallow 3  
+White-breasted Nuthatch 1  
+American Robin 16  
+Gray Catbird 5  
+European Starling 3  
+American Goldfinch 3  
+Chipping Sparrow 4  
+Song Sparrow 1  
+Baltimore Oriole 10  
+Red-winged Blackbird 3  
+Common Grackle 12  
+Black-and-white Warbler 1  
+American Redstart 2  
+Magnolia Warbler 1  
+Yellow Warbler 7  
+Yellow-rumped Warbler 1  
+Scarlet Tanager 1  
+Northern Cardinal 2  
+  
+View this checklist online at [https://ebird.org/view/checklist/S56456663](https://ebird.org/view/checklist/S56456663 "https://ebird.org/view/checklist/S56456663")  
+  
+This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S56456663 "https://ebird.org/view/checklist/S56456663"))
+
+**Bussey Brook Meadow Walk**
+
+A small and enthusiastic group of birders joined in an easy walk along Blackwell Path in the [Bussey Brook Meadow](https://www.arbotopia.com/2019/04/16/bussey-brook-meadow-and-the-arboretum-park-conservancy.html) section of the Arboretum this morning, the second sunny day in a row opening for a change. As we stood at the South Street Gate doing introductions we heard and saw a number of species; Red-bellied Woodpecker, a pair of cardinals, two species of warbler and Baltimore Orioles. The orioles were everywhere:
+
+![](/images/P1070874.jpg)
+
+Male Baltimore Oriole on a spring azaela 
