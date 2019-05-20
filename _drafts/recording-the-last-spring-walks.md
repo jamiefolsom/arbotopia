@@ -3,9 +3,9 @@ layout: post
 title: Recording the last spring walks of 2019
 author: Bob Mayer
 date_published: 2019-05-19 00:00:00 -0400
-featured: false
+featured: true
 categories: []
-feature_photo: ''
+feature_photo: "/images/photo 1.jpg"
 
 ---
 The weather could not have been better, in contrast to most of this spring, and more than 40 people showed up for a nice walk from the main gate to Bussey Hill and return.  The walk started off with a bang; someone spotted a Magnolia Warbler:
@@ -111,11 +111,23 @@ We watched a pair of Tree Swallows collecting nesting material and carrying it i
 
 ![](/images/P1020560.jpg)
 
-This swallow made several trips from some dead grass nearby to the box, preparing a nest
+The swallows made several trips from some dead grass nearby to the box, preparing a nest
 
 Swallows make a cozy nest of grasses lined with feathers they collect:
 
 ![](/images/P1020588.jpg)
+
+Look carefully to see at least two white eggs in this Tree Swallow nest in a nest box.
+
+As we ended the walk I saw a bird we had been hearing singing earlier:
+
+![](/images/P1050105.jpg)
+
+The House Wren I saw dove into the grass so most people didn't see it. 
+
+Finally we toured the area that will be the location of the eastern end of a walking/biking  path that will connect Roslindale with the Forest Hills MBTA Station, as well as the Southwest Corridor.  A big push toward going green in Boston!
+
+Here is our list of birds seen or heard on the walk:
 
 Arnold Arboretum, Suffolk, MA  
 May 19, 2019 8:00 AM - 10:00 AM  
@@ -148,3 +160,9 @@ Northern Cardinal 2
 View this checklist online at [https://ebird.org/view/checklist/S56494173](https://ebird.org/view/checklist/S56494173 "https://ebird.org/view/checklist/S56494173")  
   
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S56494173 "https://ebird.org/view/checklist/S56494173"))
+
+This was my last scheduled spring walk. Migrants will soon pass thru or  settle down to quietly nest nearby.  Let's give them some peace and quiet while they raise their family.
+
+It's still not too late to donate to Bird-a-thon for the Boston Nature Center, Audubon's urban wild. Here is the [link](https://tinyurl.com/y67rsjk6).
+
+Thanks and Good Birding!
