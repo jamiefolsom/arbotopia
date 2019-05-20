@@ -116,3 +116,35 @@ This swallow made several trips from some dead grass nearby to the box, preparin
 Swallows make a cozy nest of grasses lined with feathers they collect:
 
 ![](/images/P1020588.jpg)
+
+Arnold Arboretum, Suffolk, MA  
+May 19, 2019 8:00 AM - 10:00 AM  
+Comments: BBC walk sunny, 55-60  
+**22 species**  
+  
+Wild Turkey 1  
+Mourning Dove 3  
+Herring Gull 2  
+Red-bellied Woodpecker 1  
+Warbling Vireo 2  
+Blue Jay 3  
+Tree Swallow 3  
+House Wren 1  
+American Robin 12  
+Gray Catbird 1  
+European Starling 2  
+American Goldfinch 2  
+Song Sparrow 2  
+Baltimore Oriole 8  
+Red-winged Blackbird 2  
+Common Grackle 8  
+Black-and-white Warbler 1  
+American Redstart 2  
+Yellow Warbler 3  
+Black-throated Blue Warbler 1  
+Yellow-rumped Warbler 1  
+Northern Cardinal 2  
+  
+View this checklist online at [https://ebird.org/view/checklist/S56494173](https://ebird.org/view/checklist/S56494173 "https://ebird.org/view/checklist/S56494173")  
+  
+This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S56494173 "https://ebird.org/view/checklist/S56494173"))
