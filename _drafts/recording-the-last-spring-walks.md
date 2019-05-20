@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recording the last spring walks
+title: Recording the last spring walks of 2019
 author: Bob Mayer
 date_published: 2019-05-19 00:00:00 -0400
 featured: false
@@ -12,15 +12,15 @@ The weather could not have been better, in contrast to most of this spring, and 
 
 ![](/images/P1060467.jpg)
 
-Magnolia Warbler  
+Magnolia Warbler
 
 We saw and later heard several Warbling Vireos on the walk.  I described how drab this vireo looks for those that missed it:
 
 ![](/images/P1130291.jpg)
 
-The only identification feature on this little bird is the faint white eyebrow, it makes up for its looks with a lovely rambling warble.
+The only identification feature on this little bird is the faint white eyebrow; it makes up for its looks with a lovely rambling warble.
 
-Also far up in the canopy was another drab bird, but with a distinct posture; a flycatcher for sure.  At the time I declared it a Least Flycatcher, but as it never called (the best way to distinguish this group of small flycatchers) I can't be sure so it was recorded as Empidonax species. 
+Also far up in the canopy was another drab bird, but with a distinct posture; a flycatcher for sure.  At the time I declared it a Least Flycatcher, but as it never called (the best way to distinguish the group of small flycatchers) I can't be sure so it was recorded as Empidonax species.
 
 Two hummingbirds zipped past the group at different points; no one got good looks but there is only one likely species in this area, Ruby-throated Hummingbird.  Here's a shot of one briefly at rest:
 
@@ -28,17 +28,17 @@ Two hummingbirds zipped past the group at different points; no one got good look
 
 Male Ruby-throated Hummingbird, displaying it's namesake red throat
 
-We saw evidence of breeding activity several times during the walk.  A White-breasted Nuthatch made several trips to its nesthole apparently bringing food to early nestlings.  A female Baltimore Oriole was found weaving its intricate hanging nest.
+We saw evidence of breeding activity several times during the walk.  A White-breasted Nuthatch made several trips to its nest hole apparently bringing food to early nestlings.  A female Baltimore Oriole was found weaving its intricate hanging nest.
 
 ![](/images/P1070721.jpg)
 
-If you look carefully you can see the orange body of an oriole inside this partially constructed nest
+If you look carefully you can see a part of the orange body of an oriole inside this partially constructed nest
 
 Tree Swallows were seen atop a nest box maintained by fellow birder and Arboretum staffer Brendan Keegan.  And we saw robins perched on nests in several spots.
 
-![](/images/P1070892.jpg)American Robin on a loosely built nest on a asian corktree.
+![](/images/P1070892.jpg)American Robin on a loosely built nest on an asian corktree.
 
-Migrating warblers were present in small numbers but there was little singing even thought sun and mild wind seemed conducive for song.  We got pretty good looks at a Black and White Warbler:
+Migrating warblers were present in small numbers but there was little song even though sun and mild wind seemed conducive for singing.  We got pretty good looks at a Black and White Warbler:
 
 ![](/images/P1070799.jpg)
 
@@ -46,7 +46,7 @@ And YellowWarblers were everywhere:
 
 ![](/images/P1080522_1.jpg)
 
-When there is a big turnout for my walks, like today, I feel badly when birds I see are missed by people far back on the trail.  Today the tables were turned on me.   As we moved to the top of Bussey Hill on a narrow trail I noticed many in the group had fallen behind. As they caught up, one said "Did you see the tanager?"  I missed the best bird of the walk!  Our group's photographer, Ajay, got a pic:
+When there is a big turnout for my walks, like today, I feel badly when birds I see are missed by people far back on the trail.  Today the tables were turned on me.   As we moved to the top of Bussey Hill on a narrow trail I noticed many in the group had fallen behind. As they caught up, one said "Did you see the tanager?"  I had missed the best bird of the walk!  Our group's photographer, Ajay, got a pic:
 
 ![](/images/tanager.jpg)
 
@@ -57,8 +57,8 @@ The list for the Saturday walk:
 Arnold Arboretum, Suffolk, MA  
 May 18, 2019 8:00 AM - 10:00 AM  
 Comments: BBC walk sunny, 55-62  
-**28 species (+1 other taxa)**  
-  
+**28 species (+1 other taxa)**
+
 Canada Goose 2  
 Rock Pigeon (Feral Pigeon) 2  
 Mourning Dove 2  
@@ -87,16 +87,20 @@ Magnolia Warbler 1
 Yellow Warbler 7  
 Yellow-rumped Warbler 1  
 Scarlet Tanager 1  
-Northern Cardinal 2  
-  
-View this checklist online at [https://ebird.org/view/checklist/S56456663](https://ebird.org/view/checklist/S56456663 "https://ebird.org/view/checklist/S56456663")  
-  
+Northern Cardinal 2
+
+View this checklist online at [https://ebird.org/view/checklist/S56456663](https://ebird.org/view/checklist/S56456663 "https://ebird.org/view/checklist/S56456663")
+
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S56456663 "https://ebird.org/view/checklist/S56456663"))
 
 **Bussey Brook Meadow Walk**
 
-A small and enthusiastic group of birders joined in an easy walk along Blackwell Path in the [Bussey Brook Meadow](https://www.arbotopia.com/2019/04/16/bussey-brook-meadow-and-the-arboretum-park-conservancy.html) section of the Arboretum this morning, the second sunny day in a row opening for a change. As we stood at the South Street Gate doing introductions we heard and saw a number of species; Red-bellied Woodpecker, a pair of cardinals, two species of warbler and Baltimore Orioles. The orioles were everywhere:
+A small and enthusiastic group of birders joined in an easy walk along Blackwell Path in the [Bussey Brook Meadow](https://www.arbotopia.com/2019/04/16/bussey-brook-meadow-and-the-arboretum-park-conservancy.html) section of the Arboretum this morning, the second sunny day in a row for a change. As we stood at the South Street Gate doing introductions we heard and saw a number of species; Red-bellied Woodpecker, a pair of cardinals, two species of warbler and Baltimore Orioles. The orioles were everywhere:
 
 ![](/images/P1070874.jpg)
 
-Male Baltimore Oriole on a spring azaela 
+Male Baltimore Oriole on a spring azalea
+
+The rest of the walk was pretty quiet.  I heard an American Redstart and later we saw the female.  Nice looking, but the male is pretty good too:
+
+![](/images/P1070670.jpg)
