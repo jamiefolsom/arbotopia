@@ -8,7 +8,7 @@ categories: []
 feature_photo: "/images/photo 1.jpg"
 
 ---
-The weather could not have been better, in contrast to most of this spring, and more than 40 people showed up for a nice walk from the main gate to Bussey Hill and return.  The walk started off with a bang; someone spotted a Magnolia Warbler:
+The weather could not have been better- in contrast to most of this spring- and more than 40 people showed up for a nice walk from the Arnold Arboretum's main gate to Bussey Hill and return.  The walk started off with a bang; someone spotted a Magnolia Warbler:
 
 ![](/images/P1060467.jpg)
 
@@ -20,7 +20,7 @@ We saw and later heard several Warbling Vireos on the walk.  I described how dra
 
 The only identification feature on this little bird is the faint white eyebrow; it makes up for its looks with a lovely rambling warble.
 
-Also far up in the canopy was another drab bird, but with a distinct posture; a flycatcher for sure.  At the time I declared it a Least Flycatcher, but as it never called (the best way to distinguish the group of small flycatchers) I can't be sure so it was recorded as Empidonax species.
+Also far up in the canopy was another drab bird, but with a distinct posture; a flycatcher for sure.  At the time I declared it a Least Flycatcher, but as it never called (the best way to distinguish the group of small flycatchers) I can't be certain so it was recorded as Empidonax species.
 
 Two hummingbirds zipped past the group at different points; no one got good looks but there is only one likely species in this area, Ruby-throated Hummingbird.  Here's a shot of one briefly at rest:
 
@@ -38,7 +38,7 @@ Tree Swallows were seen atop a nest box maintained by fellow birder and Arboretu
 
 ![](/images/P1070892.jpg)American Robin on a loosely built nest on an asian corktree.
 
-Migrating warblers were present in small numbers but there was little song even though sun and mild wind seemed conducive for singing.  We got pretty good looks at a Black and White Warbler:
+Migrating warblers were present in small numbers but there was little song even though sun and slight wind seemed conducive for singing.  We got pretty good looks at a Black and White Warbler:
 
 ![](/images/P1070799.jpg)
 
@@ -46,7 +46,7 @@ And Yellow Warblers were everywhere:
 
 ![](/images/P1080522_1.jpg)
 
-When there is a big turnout for my walks, like today, I feel badly when birds I see are missed by people far back on the trail.  Today the tables were turned on me.   As we moved to the top of Bussey Hill on a narrow trail I noticed many in the group had fallen behind. As they caught up, one said "Did you see the tanager?"  I had missed the best bird of the walk!  Our group's photographer, Ajay, got a pic:
+When there is a big turnout for my walks, like today, I feel bad when birds I see are missed by people far back on the trail.  Today the tables were turned on me.   As we moved to the top of Bussey Hill on a narrow trail I noticed many in the group had fallen behind. As they caught up, one said "Did you see the tanager?"  I had missed the best bird of the walk!  Our group's photographer got a pic:
 
 ![](/images/tanager.jpg)
 
@@ -107,7 +107,7 @@ The rest of the walk was pretty quiet.  I heard an American Redstart and later w
 
 Male American Redstart
 
-We watched a pair of Tree Swallows collecting nesting material and carrying it into a nestbox:
+We watched a pair of Tree Swallows collecting nesting material and carrying it into a nest box:
 
 ![](/images/P1020560.jpg)
 
@@ -123,7 +123,7 @@ As we ended the walk I saw a bird we had been hearing singing earlier:
 
 ![](/images/P1050105.jpg)
 
-The House Wren I saw dove into the grass so most people didn't see it. 
+The House Wren I saw dove into the grass so most people didn't see it.
 
 Finally we toured the area that will be the location of the eastern end of a walking/biking  path that will connect Roslindale with the Forest Hills MBTA Station, as well as the Southwest Corridor.  A big push toward going green in Boston!
 
@@ -132,8 +132,8 @@ Here is our list of birds seen or heard on the walk:
 Arnold Arboretum, Suffolk, MA  
 May 19, 2019 8:00 AM - 10:00 AM  
 Comments: BBC walk sunny, 55-60  
-**22 species**  
-  
+**22 species**
+
 Wild Turkey 1  
 Mourning Dove 3  
 Herring Gull 2  
@@ -155,14 +155,14 @@ American Redstart 2
 Yellow Warbler 3  
 Black-throated Blue Warbler 1  
 Yellow-rumped Warbler 1  
-Northern Cardinal 2  
-  
-View this checklist online at [https://ebird.org/view/checklist/S56494173](https://ebird.org/view/checklist/S56494173 "https://ebird.org/view/checklist/S56494173")  
-  
+Northern Cardinal 2
+
+View this checklist online at [https://ebird.org/view/checklist/S56494173](https://ebird.org/view/checklist/S56494173 "https://ebird.org/view/checklist/S56494173")
+
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/view/checklist/S56494173 "https://ebird.org/view/checklist/S56494173"))
 
-This was my last scheduled spring walk. Migrants will soon pass thru or  settle down to quietly nest nearby.  Let's give them some peace and quiet while they raise their family.
+This was my last scheduled spring walk. Migrants will soon pass thru or  settle down to quietly nest nearby.  Let's give them some peace and quiet while they raise their families.
 
-It's still not too late to donate to Bird-a-thon for the Boston Nature Center, Audubon's urban wild. Here is the [link](https://tinyurl.com/y67rsjk6).
+It's still not too late to donate to Bird-a-thon for the Boston Nature Center, Audubon's urban wild. Here is the [link](https://tinyurl.com/y67rsjk6) to my page.
 
 Thanks and Good Birding!

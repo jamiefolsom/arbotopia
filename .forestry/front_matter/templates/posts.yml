@@ -34,7 +34,7 @@ fields:
     required: true
   default: post
 pages:
-- _posts/recording-the-last-spring-walks.md
+- _posts/2019-05-20-recording-the-last-spring-walks.md
 - _posts/2019-05-05-early-spring-peters-hill-walk.md
 - _posts/2019-05-12-early-fall-arboretum-walk-and-some-notable-sightings-of-the-summer.md
 - _posts/2019-05-09-boston-s-audubon-nature-center-spring-walk.md
