@@ -12,7 +12,7 @@ The weather could not have been better, in contrast to most of this spring, and 
 
 ![](/images/P1060467.jpg)
 
-Magnolia Warbler
+This fuzzy shot of a Magnolia Warbler shows its black mask and stripes on the side of a yellow breast
 
 We saw and later heard several Warbling Vireos on the walk.  I described how drab this vireo looks for those that missed it:
 
@@ -42,7 +42,7 @@ Migrating warblers were present in small numbers but there was little song even 
 
 ![](/images/P1070799.jpg)
 
-And YellowWarblers were everywhere:
+And Yellow Warblers were everywhere:
 
 ![](/images/P1080522_1.jpg)
 
@@ -104,3 +104,15 @@ Male Baltimore Oriole on a spring azalea
 The rest of the walk was pretty quiet.  I heard an American Redstart and later we saw the female.  Nice looking, but the male is pretty good too:
 
 ![](/images/P1070670.jpg)
+
+Male American Redstart
+
+We watched a pair of Tree Swallows collecting nesting material and carrying it into a nestbox:
+
+![](/images/P1020560.jpg)
+
+This swallow made several trips from some dead grass nearby to the box, preparing a nest
+
+Swallows make a cozy nest of grasses lined with feathers they collect:
+
+![](/images/P1020588.jpg)
