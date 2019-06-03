@@ -8,17 +8,19 @@ categories: []
 feature_photo: ''
 
 ---
-While I have been into nature almost all my life, I didn't serious about birding until the '80's. A friend and I used to go to Mass Audubon's Joppa Flats Education Center for Wednesday Morning Birding every spring. The Director of Joppa at that time, Bill Gette, led a three hour walk on Plum Island and other good birding locations in Essex County and it was there that I really got hooked on birding. Thus it was a special treat when I led a walk on the Arboretum's Peters Hill for a group from Joppa Flats who meet monthly for some nature excursion. The Wonder and the Wow, as the group is called, was composed of 12 enthusiastic birders and I did my best to wow them with with the wonders of the Arnold Arboretum. At noon at nearly the end of the spring migration it wasn't easy.  Kicking off the walk were two lovely Cedar Waxwings:
+While I have been into nature almost all my life, I didn't get serious about birding until the '80's. A friend and I used to go to Mass Audubon's Joppa Flats Education Center for Wednesday Morning Birding every Spring. The Director of Joppa at that time, Bill Gette, led a three hour tour on Plum Island and other good birding locations in Essex County and it was there that I really got hooked on birding. Thus it was a special treat when I led a walk on Arboretum's Peters Hill for a group from Joppa Flats who meet monthly for some nature excursion. The Wonder and the Wow, as the group is called, was composed of 12 enthusiastic birders and I did my best to wow them with with the wonders of the Arnold Arboretum.  At nearly noon at the end of the spring migration it wasn't easy.  Kicking off the walk were two lovely Cedar Waxwings:
 
 ![](/images/P1000736.jpg)
 
-Our waxwings were showing the bright red tips on the wing feathers as in this image, and the black mask and yellow terminal tail band
+Our waxwings were showing the bright red tips on the wing feathers as in this image, plus the black mask and yellow terminal tail band  At the end of the walk a keen-eyed birder found the bird's nest in a nearby tree hawthorn tree!  
 
-At the end of the walk a keen-eyed birder found the bird's nest in a nearby tree hawthorn tree!  We also viewed an old oriole nest where I had caught a pair of chickadees building within it [several weeks ago](https://www.arbotopia.com/2019/05/05/early-spring-peters-hill-walk.html).  On closer inspection today the old nest was empty and was bottomless. Either a predator attacked or the chickadees misjudged how much weight the well built, but year old, nest could support.
+We also viewed an old oriole nest where I had seen a pair of chickadees building within it [several weeks ago](https://www.arbotopia.com/2019/05/05/early-spring-peters-hill-walk.html).  On closer inspection today the old nest was empty and was bottomless. Either a predator attacked, or the chickadees misjudged how much weight the well built, but year old, nest could support.
 
-We saw and heard two other local nesters; Yellow Warbler and Warbling Vireo.
+We saw and heard two other local nesting species; Yellow Warbler and Warbling Vireo
 
 ![This female Yellow Warbler has at least three mouths to feed](/images/P1060021-1.jpg "Yellow Warbler")
+
+This female Yellow Warbler has at least three mouths to feed
 
 This female Yellow Warbler has at least three mouths to feed
 
