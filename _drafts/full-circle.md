@@ -40,11 +40,17 @@ The pattering of this species is identical to the more Common Baltimore Oriole, 
 
 Amazingly we didn't see or hear either species; good evidence that they are finished breeding and now nesting.
 
-This late in the migration is a good time to get one or more of the many flycatchers passing through the area or settling in to nest here.  One experienced birder heard the call of an Eastern Wood-peewee; the only one to to be found.  We didn't see it but here's a look at one:
+We viewed a number of the nest boxes tht are placed on Peters Hill but the occupants never showed themselves. Eastern Bluebirds are currently nesting in one of them; here's an image of the nest taken a few days earlier:
 
-![](/images/P1090421.jpg)
+![](/images/IMG_4558.jpg)
 
-Like many in the flycatcher family, The Eastern Wood-peewee is pretty plain, but has a nice song  
+The eggs are pretty; the bird is even prettier:
+
+![](/images/P1130662.jpg)
+
+Wish we had seen it.
+
+When we reached the top of the hill, the highest point in the Arboretum at 2
 
 I spent some time pointing out some of the fine tree accessions on Peters Hill, including a nice little buckeye:
 
@@ -52,9 +58,11 @@ I spent some time pointing out some of the fine tree accessions on Peters Hill, 
 
 Red Buckeye _Aesculus pavia_ 
 
-As we descended the hill we stopped briefly to look at some of the headstones in one of 
+As we descended the hill we stopped briefly to look at some of the headstones in one of Boston's 15 historic graveyards- the [Walter Street Berrying Ground](http://arnoldia.arboretum.harvard.edu/pdf/articles/1573.pd).  Here is the headstone of one of the last persons to be buried in this hallowed ground:
 
-We rounded out our list
+![](/images/P1270012.jpg)
+
+Lt. Daniel Weld, who died in 1761 at age 64, was the son of Joesph Weld who was the original owner of much of the land that is now the grounds of the Arnold Arboretum
 
 Arnold Arboretum, Peters Hill Section  
 Jun 1, 2019 11:00 AM - 1:30 PM  
