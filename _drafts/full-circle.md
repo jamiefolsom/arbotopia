@@ -18,7 +18,7 @@ At the end of the walk a keen-eyed birder found the bird's nest in a nearby tree
 
 We saw and heard two other local nesters; Yellow Warbler and Warbling Vireo.
 
-![](/images/P1060021-1.jpg)
+![This female Yellow Warbler has at least three mouths to feed](/images/P1060021-1.jpg "Yellow Warbler")
 
 This female Yellow Warbler has at least three mouths to feed
 
