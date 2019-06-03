@@ -26,7 +26,7 @@ This female Yellow Warbler has at least three mouths to feed
 
 You have to look carefully to see the vireo's head sticking out of it's tiny nest
 
-Both species of  eastern oriole nest in the Arboretum; I had seen a yound male Orchard Oriole just a few day earlier on Peters Hill:
+Both species of oriole found in NewEngland nest in the Arboretum; I had seen a young male Orchard Oriole just a few day earlier on Peters Hill:
 
 ![](/images/P1020156_1.jpg)
 
@@ -36,9 +36,9 @@ First year male Orchard Orioles look much different than the fully mature adult
 
 The pattering of this species is identical to the more Common Baltimore Oriole, but it is chestnut colored rather than orange
 
-Amazingly we didn't see or hear either species; good evidence that they are finished breeding and now nesting.
+Amazingly we didn't see or hear either species; good evidence that they are finished breeding and now nesting quietly.
 
-We viewed a number of the nest boxes tht are placed on Peters Hill but the occupants never showed themselves. Eastern Bluebirds are currently nesting in one of them; here's an image of the nest taken a few days earlier:
+We viewed a number of the nest boxes that are placed on Peters Hill but the occupants never showed themselves. Eastern Bluebirds are currently nesting in one of them; here's an image of the nest taken a few days earlier:
 
 ![](/images/IMG_4558.jpg)
 
