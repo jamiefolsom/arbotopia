@@ -50,19 +50,19 @@ The eggs are pretty; the bird is even prettier:
 
 Wish we had seen it.
 
-When we reached the top of the hill, the highest point in the Arboretum at 2
-
-I spent some time pointing out some of the fine tree accessions on Peters Hill, including a nice little buckeye:
+When we reached the top of the hill, the highest point in the Arboretum at 240 feet, I pointed out some of the fine tree accessions on Peters Hill, including a nice little buckeye:
 
 ![](/images/P1150082.jpg)
 
 Red Buckeye _Aesculus pavia_ 
 
-As we descended the hill we stopped briefly to look at some of the headstones in one of Boston's 15 historic graveyards- the [Walter Street Berrying Ground](http://arnoldia.arboretum.harvard.edu/pdf/articles/1573.pd).  Here is the headstone of one of the last persons to be buried in this hallowed ground:
+As we descended the hill we stopped briefly to look at one of Boston's 15 historic graveyards- the [Walter Street Berrying Ground](http://arnoldia.arboretum.harvard.edu/pdf/articles/1573.pd).  Here is the headstone of one of the last persons to be buried in this hallowed ground:
 
 ![](/images/P1270012.jpg)
 
-Lt. Daniel Weld, who died in 1761 at age 64, was the son of Joesph Weld who was the original owner of much of the land that is now the grounds of the Arnold Arboretum
+Lt. Daniel Weld, who died in 1761 at age 64, was the son of Joesph Weld who was the original owner of much of the land that is now the grounds of the Arnold Arboretum.
+
+Here is are limited list for the walk:
 
 Arnold Arboretum, Peters Hill Section  
 Jun 1, 2019 11:00 AM - 1:30 PM  
@@ -93,3 +93,5 @@ Yellow Warbler 3
 House Sparrow 5  
   
 View this checklist online at [https://ebird.org/view/checklist/S56972157](https://ebird.org/view/checklist/S56972157 "https://ebird.org/view/checklist/S56972157")
+
+Good Birding!
