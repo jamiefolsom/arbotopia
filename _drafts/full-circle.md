@@ -8,9 +8,7 @@ categories: []
 feature_photo: ''
 
 ---
-While I have been into nature almost all my life, I got into birding in the '80's and used to go to Mass Audubon's Joppa Flats Wildlife Sanctuary  for Wednesday Morning Birding every spring. The Director of Joppa at that time, Bill Gette, led a three hour walk on Plum Island and other good birding locations in Essex County and it was there that I really got hooked on birding.   Thus it was a special treat when I led a walk on Peters Hill with...
-
-There were 12 enthusiastic birders and we did our best to find birds close to noon and at the close of spring migration.  Kicking off the walk were two lovely Cedar Waxwings:
+While I have been into nature almost all my life, I didn't serious about birding until the '80's. A friend and I used to go to Mass Audubon's Joppa Flats Education Center for Wednesday Morning Birding every spring. The Director of Joppa at that time, Bill Gette, led a three hour walk on Plum Island and other good birding locations in Essex County and it was there that I really got hooked on birding. Thus it was a special treat when I led a walk on the Arboretum's Peters Hill for a group from Joppa Flats who meet monthly for some nature excursion. The Wonder and the Wow, as the group is called, was composed of 12 enthusiastic birders and I did my best to wow them with with the wonders of the Arnold Arboretum. At noon at nearly the end of the spring migration it wasn't easy.  Kicking off the walk were two lovely Cedar Waxwings:
 
 ![](/images/P1000736.jpg)
 
