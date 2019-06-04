@@ -54,7 +54,7 @@ When we reached the top, at 240 feet the highest point in the Arboretum, I point
 
 Red Buckeye _Aesculus pavia_
 
-As we descended the hill we stopped briefly to look at one of Boston's 15 historic graveyards, the [Walter Street Berrying Ground](http://arnoldia.arboretum.harvard.edu/pdf/articles/1573.pd).  Here is the headstone of one of the last persons buried in this hallowed ground:
+As we descended the hill we stopped briefly to look at one of Boston's 15 historic graveyards, the [Walter Street Berrying Ground](http://arnoldia.arboretum.harvard.edu/pdf/articles/1573.pdf).  Here is the headstone of one of the last persons buried in this hallowed ground:
 
 ![](/images/P1270012.jpg)
 
