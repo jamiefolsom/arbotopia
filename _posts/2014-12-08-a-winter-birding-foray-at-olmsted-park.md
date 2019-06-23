@@ -67,6 +67,8 @@ Photo: Bob Mayer
 
 This tiny wren carries a big stick when it comes to vocalization however. Here is it’s lovely call (sung mostly in the spring):
 
+<audio controls src="/media/Carolina_Wren.mp3"></audio>
+
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 Here is the meager list from the walk:

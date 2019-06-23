@@ -61,7 +61,8 @@ We ascended to the top of Bussey Hill where we spent some time trying to tease o
 
 and and Pine Warbler:
 
-<audio controls src="/media/3-21-Pine-Warbler.wav"></audio>
+<audio controls src="/media/pine-warbler.mp3"></audio>
+
 _Sound recordings courtesy of Lang Elliott NatureSound Studio_
 
 We knew chippers were present because we saw them:

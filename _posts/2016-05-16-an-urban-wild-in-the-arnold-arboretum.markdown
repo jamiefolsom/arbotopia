@@ -55,6 +55,8 @@ A male Tree Swallow pauses before entering the box
 
 After the formal walk ended several of us walked down the edge of the meadow, along the route of the proposed Roslindale/Forest Hills path mentioned above.  There we heard a Wood Thrush calling from the woods across the road on Hemlock Hill.  What a lovely sound:
 
+<audio controls src="/media/Wood_Thrush_1.mp3"></audio>
+
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
 Here is the list of birds we identified on a lovely Sunday morning walk:
