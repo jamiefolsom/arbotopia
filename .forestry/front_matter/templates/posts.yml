@@ -34,6 +34,7 @@ fields:
     required: true
   default: post
 pages:
+- _posts/2019-04-15-bird-a-thon-2016.md
 - _posts/2019-05-20-recording-the-last-spring-walks.md
 - _posts/2019-06-04-full-circle.md
 - _posts/2019-04-16-bussey-brook-meadow-and-the-arboretum-park-conservancy.md
@@ -59,6 +60,5 @@ pages:
 - _posts/2019-04-16-season-opener-bird-walk.md
 - _posts/2019-04-18-spring-kickoff.md
 - _posts/2019-04-18-spring-arrivals-on-the-necklace.md
-- _posts/2019-04-15-bird-a-thon-2016.md
 - _posts/2019-05-05-a-search-for-migrant-birds-in-the-arboretum.md
 - _posts/2019-04-16-a-late-fall-bird-walk-in-the-arnold.md
