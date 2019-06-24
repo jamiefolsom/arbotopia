@@ -8,9 +8,9 @@ feature_photo: ''
 date: 2019-04-16 09:54:12 -0400
 
 ---
-[A windy bird walk on Peters Hill](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/a-windy-bird-walk-on-peters-hill/)
+[A windy bird walk on Peters Hill](http://www.arbotopia.com/a-windy-bird-walk-on-peters-hill/)
 
-Posted on [**October 14, 2013**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/a-windy-bird-walk-on-peters-hill/ "2:48 pm")
+Posted on [**October 14, 2013**](http://www.arbotopia.com/a-windy-bird-walk-on-peters-hill/ "2:48 pm")
 
 On Saturday October 12, I led a walk with sixteen eager birders through Peters Hill and part of the Conifer Collection in the Arnold Arboretum. We started off with looks at two woodpecker species, including a juvenile Yellow-bellied Sapsucker. A nice bird, but not as striking as the adult male of this species:
 
@@ -72,4 +72,4 @@ The last fall walk will start at the Main Gate next Saturday October 19 at 8AM.
 
 Good Birding!
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/category/bird-walks/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/)

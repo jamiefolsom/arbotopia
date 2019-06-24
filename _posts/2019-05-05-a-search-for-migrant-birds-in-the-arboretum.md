@@ -8,7 +8,7 @@ feature_photo: ''
 date_published: 
 
 ---
-Posted on [**May 12, 2013**](https://web.archive.org/web/20171113123817/http://www.arbotopia.com/a-search-for-migrant-birds-in-the-arboretum/ "1:11 pm")
+Posted on [**May 12, 2013**](http://www.arbotopia.com/a-search-for-migrant-birds-in-the-arboretum/ "1:11 pm")
 
 The weather report was iffy for this spring Brookline Bird Club walk in the Arnold Arboretum this morning but the rain mostly held off. There was a large group of 23 birders, including several hawk-eyed youngsters and representatives from western MA and the UK, to enjoy the birds as well as the flora on the cusp of Lilac Sunday. With able assistance from Andrew Joslin and Will Cochrane, we saw a varied collection of resident and migrant birds with some good looks, although the flat light and expanding tree foliage made warblers tough to see.
 

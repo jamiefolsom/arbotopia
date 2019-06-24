@@ -8,7 +8,7 @@ feature_photo: ''
 date: '2019-04-16T14:01:48.000+00:00'
 
 ---
-Posted on [**May 4, 2014**](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/a-well-attended-walk-on-the-other-side/ "8:56 pm")
+Posted on [**May 4, 2014**](http://www.arbotopia.com/a-well-attended-walk-on-the-other-side/ "8:56 pm")
 
 Unless you live in adjacent Roslindale, or are a dog walker, you may not be that familiar with Peters Hill, Hemlock Hill and the conifer section of the Arnold Arboretum. This morning I led a bird walk in that area and way too many people turned out! Of course I was delighted to see so many folks embrace my passion early on a Saturday morning. A group that large is tough to manage however, especially when you are trying to get everyone “on” a bird that is flitting about in the canopy. The warm and dry weather brought birders out, and while the turnout of migrant birds was not as strong at the turnout of birders, we had a great walk.
 
@@ -122,4 +122,4 @@ My next walk on Peters Hill will be on Saturday June 7 starting again at 8 AM. I
 
 Good Birding!
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/category/bird-walks/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/)

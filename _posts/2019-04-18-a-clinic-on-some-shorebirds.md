@@ -8,9 +8,9 @@ feature_photo: ''
 date: 2019-04-18 10:59:16 -0400
 
 ---
-Posted on [**December 2, 2016**](https://web.archive.org/web/20170912192037/http://www.arbotopia.com/a-clinic-on-some-shorebirds/ "4:50 pm")
+Posted on [**December 2, 2016**](http://www.arbotopia.com/a-clinic-on-some-shorebirds/ "4:50 pm")
 
-Olmsted’s original plan for the Emerald Necklace was to [extend it from Franklin Park to the coast](https://web.archive.org/web/20170912192037/https://en.wikipedia.org/wiki/Dorchesterway), probably near [Castle Island and Pleasure Bay](https://www.mass.gov/locations/castle-island-pleasure-bay-m-street-beach-and-carson-beach) in South Boston. I went there today because a friend had posted on BostonBirds that he has seen some late fall shorebirds on the rocks along the causeway that separates Pleasure Bay from the Boston Harbor. It is always windy along the coast, but today was especially so; I had to hold onto my hat most of the time. I walked along the causeway toward “Mother’s Rest”, checking the rocks on both sides for these little guys that collect at high tide when the nearby exposed sandy beaches are covered. I first spotted three Ruddy Turnstones sunning themselves on the less windy ocean side:
+Olmsted’s original plan for the Emerald Necklace was to [extend it from Franklin Park to the coast](https://en.wikipedia.org/wiki/Dorchesterway), probably near [Castle Island and Pleasure Bay](https://www.mass.gov/locations/castle-island-pleasure-bay-m-street-beach-and-carson-beach) in South Boston. I went there today because a friend had posted on BostonBirds that he has seen some late fall shorebirds on the rocks along the causeway that separates Pleasure Bay from the Boston Harbor. It is always windy along the coast, but today was especially so; I had to hold onto my hat most of the time. I walked along the causeway toward “Mother’s Rest”, checking the rocks on both sides for these little guys that collect at high tide when the nearby exposed sandy beaches are covered. I first spotted three Ruddy Turnstones sunning themselves on the less windy ocean side:
 
 ![](/images/P1150083.jpg)
 
@@ -74,4 +74,4 @@ I have one more walk scheduled for 2016, Sunday December 11th. I’ll begin the 
 
 Good Birding!
 
-Posted in [**Avian**](https://web.archive.org/web/20170912192037/http://www.arbotopia.com/category/avian/), [**Birds**](https://web.archive.org/web/20170912192037/http://www.arbotopia.com/category/birds/)
+Posted in [**Avian**](http://www.arbotopia.com/category/avian/), [**Birds**](http://www.arbotopia.com/category/birds/)

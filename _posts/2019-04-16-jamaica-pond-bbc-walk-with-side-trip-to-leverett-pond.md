@@ -8,18 +8,18 @@ feature_photo: ''
 date: '2019-04-16T13:57:28.000+00:00'
 
 ---
-Posted on [**December 7, 2013**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond/ "6:07 pm")
+Posted on [**December 7, 2013**](http://www.arbotopia.com/jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond/ "6:07 pm")
 
 The weather forecast called for the first frozen precipitation in Boston, but by the time our walk began the skies were clear. Six birders joined me for this Brookline Bird Club sponsored walk which focused on waterfowl. There were no surprises but we had good looks at the usual avian visitors for this time of year. The Hooded Mergansers stole the show with the male’s flashy finery and the subtle but equally lovely plumage of the females.
 
-[![P1030595](https://web.archive.org/web/20171113130605im_/http://www.arbotopia.com/wp-content/uploads/2013/01/P1030595.jpg =1940x1714)](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/wp-content/uploads/2013/01/P1030595.jpg)
+[![P1030595](/images/2013/01/P1030595.jpg =1940x1714)](/images/2013/01/P1030595.jpg)
 
 Male And female Hooded Mergansers  
 Photo: Bob Mayer
 
 We also saw a good number of “stifftails”, or Ruddy Ducks, as they bobbed up and down in the water or cruised around in rafts, apparently asleep.
 
-[![P1030575](https://web.archive.org/web/20171113130605im_/http://www.arbotopia.com/wp-content/uploads/2013/12/P1030575.jpg =1575x1350)](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/wp-content/uploads/2013/12/P1030575.jpg)
+[![P1030575](/images/2013/12/P1030575.jpg =1575x1350)](/images/2013/12/P1030575.jpg)
 
 A pair of Ruddy Ducks, showing the upright tails that give them their nickname. The male, on the right, shows the ruddy coloration on the breast and the distinctive white patch on his cheek.  
 Photo: Bob Mayer
@@ -61,14 +61,14 @@ This report was generated automatically by eBird v3 ([http://ebird.org](http://e
 
 Following our scheduled walk, the group decided to go farther down the Muddy River to Leverett Pond to see a Mandarin Duck that had been seen regularly there for the last several weeks. This duck almost certainly escaped from a zoo or private collector as wild specimens do not exist in this country. We had no luck finding it. Many of the Wood Ducks that this exotic escape was hanging out with were gone, and he apparently went with them. Here is an image of the duck taken about a week ago:
 
-[![P1070580](https://web.archive.org/web/20171113130605im_/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070580.jpg =2064x1170)](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070580.jpg)
+[![P1070580](/images/2013/12/P1070580.jpg =2064x1170)](/images/2013/12/P1070580.jpg)
 
 Male Mandarin Duck, _Aix galericulata,_ with female Wood Duck on left  
 Photo: Bob Mayer
 
 About a dozen Wood Ducks remained and we had good looks at them as well as two Ring-necked ducks and a lovely Great Blue Heron.
 
-[![P1070588](https://web.archive.org/web/20171113130605im_/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070588.jpg =3270x966)](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/wp-content/uploads/2013/12/P1070588.jpg)
+[![P1070588](/images/2013/12/P1070588.jpg =3270x966)](/images/2013/12/P1070588.jpg)
 
 A group of Wood Ducks on Leverett Pond. The Mandarin Duck escape and two male Mallards are also in this image, taken in late November.  
 Photo: Bob Mayer
@@ -103,8 +103,8 @@ This report was generated automatically by eBird v3 ([http://ebird.org](http://e
 
 There have been many other species of waterfowl seen over the years on these two ponds; to read about them see my posts from last year at [Jamaica Pond Ducks](https://www.arbotopia.com/2013/01/25/jamaica-pond-ducks.html "Jamaica Pond Ducks") and [Rare Birds & Odd Ducks at Jamaica Pond](https://www.arbotopia.com/2013/03/08/rare-birds-odd-ducks-at-jamaica-pond.html "Rare Birds & Odd Ducks on Jamaica Pond").
 
-My next BBC walk will kick off the 2014 season on Sunday January 12, 2014 at 8:30AM beginning from the main gate in the Arnold Arboretum (see the [Arboretum website](https://web.archive.org/web/20171113130605/http://www.arboretum.harvard.edu/ "Arnold Arboretum") or the BBC Blue Guide for more details).
+My next BBC walk will kick off the 2014 season on Sunday January 12, 2014 at 8:30AM beginning from the main gate in the Arnold Arboretum (see the [Arboretum website](http://www.arboretum.harvard.edu/ "Arnold Arboretum") or the BBC Blue Guide for more details).
 
 Good Birding!
 
-Posted in [**Avian**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/category/bird-walks/), [**waterfowl**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/category/waterfowl/)
+Posted in [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/), [**waterfowl**](http://www.arbotopia.com/category/waterfowl/)

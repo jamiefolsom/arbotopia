@@ -8,7 +8,7 @@ feature_photo: ''
 date: 2019-04-18 10:58:29 -0400
 
 ---
-Posted on [**December 13, 2016**](https://web.archive.org/web/20170912192037/http://www.arbotopia.com/winter-waterfowl-walk/ "1:13 am")
+Posted on [**December 13, 2016**](http://www.arbotopia.com/winter-waterfowl-walk/ "1:13 am")
 
 On Sunday morning, with temperatures hovering around 20, I had a turnout of 29 people for a two hour walk exploring the ponds and landscape of the upper Muddy River. We started on the Boston side of Leverett Pond where I expected to find a collection of Wood Ducks along the islands there. As we approached the pond edge a Great Blue Heron flew off:
 
@@ -145,4 +145,4 @@ Ill be doing a first of year walk in the Arnold arboretum on Sunday January 8 st
 
 Happy Holidays and good birding!
 
-Posted in [**Birds**](https://web.archive.org/web/20170912192037/http://www.arbotopia.com/category/birds/)
+Posted in [**Birds**](http://www.arbotopia.com/category/birds/)

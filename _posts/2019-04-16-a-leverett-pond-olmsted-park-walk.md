@@ -8,9 +8,9 @@ feature_photo: ''
 date: '2019-04-16T14:14:16.000+00:00'
 
 ---
-[A Leverett Pond/Olmsted Park Walk](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/)
+[A Leverett Pond/Olmsted Park Walk](http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/)
 
-Posted on [**April 19, 2016**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/ "2:35 pm")
+Posted on [**April 19, 2016**](http://www.arbotopia.com/a-leverett-pondolmsted-park-walk/ "2:35 pm")
 
 On Sunday morning I led 23 people, many beginning birders, on a ninety minute walk in this lovely section of the Emerald Necklace. The walk was sponsored by the [Brookline GreenSpace Alliance](http://www.brooklinegreenspace.org/). We started at the comfortable time of 9:00 AM and the weather couldn’t have been better. The birds could have been though. We had no seasonal migrants, although I had four species on a scouting walk four days earlier. Highlights were three Wood Ducks- a pair on [Ward’s Pond](http://rememberjamaicaplain.blogspot.com/2009/10/wards-pond.html) and a single male on [Willow Pond](http://www.emeraldnecklace.org/park-overview/olmsted-park/). We’re pretty sure there is another female in the duck box on Leverett Pond. In fact when someone from the town of Brookline went to clean out last year’s nest from the box, he came upon a female sitting on eggs! I had insisted that the ducks would not nest again unless someone made the box “broom clean”. So much for my expertise on wood duck nesting habits! In any case, if this nesting attempt succeeds, it will the second year in a row that Wood Ducks have nested on the necklace. Some images of this striking duck:
 
@@ -74,8 +74,8 @@ Apr 17, 2016 9:30 AM – 11:10 AM
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org "http://ebird.org"))
 
-Future spring walks are posted on the [Arnold Arboretum website](https://web.archive.org/web/20171113131919/http://my.arboretum.harvard.edu/Info.aspx?DayPlanner=1511&DayPlannerDate=4/30/2016) and on my [past post](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/first-of-year-babies-and-spring-walks/).
+Future spring walks are posted on the [Arnold Arboretum website](http://my.arboretum.harvard.edu/Info.aspx?DayPlanner=1511&DayPlannerDate=4/30/2016) and on my [past post](http://www.arbotopia.com/first-of-year-babies-and-spring-walks/).
 
 Good Birding!
 
-Posted in [**Avian**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/bird-walks/), [**waterfowl**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/waterfowl/)
+Posted in [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/), [**waterfowl**](http://www.arbotopia.com/category/waterfowl/)

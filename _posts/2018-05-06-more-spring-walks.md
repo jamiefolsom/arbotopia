@@ -99,7 +99,7 @@ Here is the complete list for the Peters Hill Walk:
 * American Goldfinch 1
 * House Sparrow 4
 
-View this checklist online at [https://ebird.org/view/checklist/S45287689](https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45287689)
+View this checklist online at [https://ebird.org/view/checklist/S45287689](https://ebird.org/view/checklist/S45287689)
 
 THE NEXT WALK
 
@@ -189,7 +189,7 @@ Here is the list for the Bussey Brook Meadow walk:
 * Common Grackle 20
 * House Sparrow 3
 
-View this checklist online at [https://ebird.org/view/checklist/S45352886](https://web.archive.org/web/20180602142840/https://ebird.org/view/checklist/S45352886)
+View this checklist online at [https://ebird.org/view/checklist/S45352886](https://ebird.org/view/checklist/S45352886)
 
 This report was generated automatically by eBird v3 ([http://ebird.org](http://ebird.org/))
 

@@ -27,7 +27,7 @@ The Warbling Vireo makes up for it’s drab appearance with a delightful song.
 
 Here is a recording of this bird’s song:
 
-<audio controls src="/media/2015/05/Warlbing-Vireo.mp3"></audio>
+<audio controls src="/media/Warbling_vireo.mp3"></audio>
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
@@ -44,6 +44,8 @@ Speaking of nests, we saw a number of robin nests; then we watched this bird f
 Male Red-bellied Woodpecker at nest hole
 
 As we walked up the grassy southern slope to the top of Bussey Hill, we spotted two flycatchers in the same tree; Eastern Phoebe and Eastern Kingbird.  I posted images of these birds on my blog [last week](https://www.arbotopia.com/2016/05/17/an-urban-wild-in-the-arnold-arboretum.html).  At another location, two members of the group heard the distinct call of a different flycatcher, the Eastern Wood-pewee.  These birds stay in the deep woods where they are usually identified by their song:
+
+<audio controls src="/media/2_39_Eastern_Wood-Pewee_1.wav"></audio>
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 

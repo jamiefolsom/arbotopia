@@ -151,6 +151,6 @@ And soon we will be seeing and hearing the true harbinger of spring, Red-winged 
 
 Male Red-winged Blackbirds displaying in the wet meadow across from the Hunnewell Building.  The males arrive as early as the end of February.
 
-Spring Walks will commence on Saturday April 28th at 8AM at the Main Gate.  See the [AA website](https://web.archive.org/web/20180401052920/https://www.arboretum.harvard.edu/) soon for the whole list.
+Spring Walks will commence on Saturday April 28th at 8AM at the Main Gate.  See the [AA website](https://www.arboretum.harvard.edu/) soon for the whole list.
 
 Good Birding!

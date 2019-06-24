@@ -8,7 +8,7 @@ feature_photo: ''
 date_published: 2016-09-26T04:00:00.000+00:00
 
 ---
-Posted on [**September 26, 2016**](https://web.archive.org/web/20171114003233/http://www.arbotopia.com/early-fall-arboretum-walk-and-some-notable-sightings-of-the-summer/ "4:48 pm")
+Posted on [**September 26, 2016**](http://www.arbotopia.com/early-fall-arboretum-walk-and-some-notable-sightings-of-the-summer/ "4:48 pm")
 
 This morning I was met by 13 birders for a walk around Peters Hill in the Arnold Arboretum. At 51 F the chill was evident, but the sun was out and a brief overnight rain promised a turnout from the birds. It was not to be. We walked much of the morning birdless. Desperate for some sign of life, we visited the small herd of rental goats being used to weed out some invasive plants on the slope near the railroad tracks:
 
@@ -18,7 +18,7 @@ The herd taking a break from “goatscaping ” a patch of invasives.
 
 Finally we hit an active patch and got a few resident birds.
 
-![W-B Nuthatch](https://web.archive.org/web/20171114003233im_/http://www.arbotopia.com/wp-content/uploads/2016/05/W-B-Nuthatch.jpg =600x607)
+![W-B Nuthatch](/images/2016/05/W-B-Nuthatch.jpg =600x607)
 
 White-breasted Nuthatch in it’s characteristic upside down pose on a tree branch
 
@@ -28,7 +28,7 @@ Male Red-bellied Woodpecker, a formerly Southern species now firmly in place in 
 
 We also had a Downy Woodpecker in this area near [The Walter Street “Berrying” Ground](http://arnoldia.arboretum.harvard.edu/pdf/articles/1573.pdf), one of Boston’s 15 historic cemeteries:
 
-![aa-headstone](https://web.archive.org/web/20171114003233im_/http://www.arbotopia.com/wp-content/uploads/2016/09/AA-Headstone.jpg =600x598)
+![aa-headstone](/images/2016/09/AA-Headstone.jpg =600x598)
 
 One of thirteen gravestones in the The Walter Street Burying Ground; that of Thomas Bishop, who died on June 29,1727 at age 82.
 

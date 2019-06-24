@@ -23,7 +23,7 @@ We may have ducked some of the rain, but the tradeoff was very poor light in the
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
-<audio controls src="/media/3-21-Pine-Warbler.mp3"></audio><br />
+<audio controls src="/media/pine-warbler.mp3"></audio><br />
 <figcaption>Pine Warbler</figcaption>
 
 We were eventually able to get glimpses of the bird high in a White Pine.  This was the first of several disappointing warbler experiences.
@@ -35,6 +35,9 @@ A Northern Flicker was the only woodpecker we sighted on the walk:
 Northern Flicker
 
 We did hear several Red-bellied Woodpeckers:
+
+<audio controls src="/media/R-B_Woodpecker.mp3"></audio><br />
+<figcaption>Red-bellied Woodpecker</figcaption>
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 

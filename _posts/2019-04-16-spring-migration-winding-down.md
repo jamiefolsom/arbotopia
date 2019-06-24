@@ -8,7 +8,7 @@ feature_photo: ''
 date: '2019-04-16T14:02:49.000+00:00'
 
 ---
-Posted on [**June 13, 2014**](https://web.archive.org/web/20171114003558/http://www.arbotopia.com/spring-migration-winding-down/ "1:02 pm")
+Posted on [**June 13, 2014**](http://www.arbotopia.com/spring-migration-winding-down/ "1:02 pm")
 
 The last of a series of spring bird walks in the Arnold Arboretum attracted over thirty participants in very nice early summer weather. We also saw some birds although we had no migrant species.
 
@@ -76,4 +76,4 @@ This report was generated automatically by eBird v3 ([http://ebird.org](http://e
 
 Over the summer I intend to report signs of avian nesting in the Arboretum, and pick up on other fauna that can be seen during the birding doldrums of June and July. Stay tuned!
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171114003558/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171114003558/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171114003558/http://www.arbotopia.com/category/bird-walks/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/)

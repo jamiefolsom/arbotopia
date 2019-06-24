@@ -8,7 +8,7 @@ feature_photo: ''
 date: '2019-04-18T11:03:38-04:00'
 
 ---
-Posted on [**April 29, 2017**](https://web.archive.org/web/20171113130623/http://www.arbotopia.com/spring-kickoff/ "6:23 pm")
+Posted on [**April 29, 2017**](http://www.arbotopia.com/spring-kickoff/ "6:23 pm")
 
 This morning 37 birders of all stripes joined me for a two hour early spring walk in the Arnold Arboretum. It was cloudy but otherwise perfect and we had some good birds and a lot of fun. The highlight of the walk was watching the newly arrived Baltimore Orioles jockeying for territory. At one point three males were standing off against one another, giving memorable looks.
 
@@ -108,4 +108,4 @@ This report was generated automatically by eBird v3 ([http://ebird.org](http://e
 
 Good Birding!
 
-Posted in [**Birds**](https://web.archive.org/web/20171113130623/http://www.arbotopia.com/category/birds/)
+Posted in [**Birds**](http://www.arbotopia.com/category/birds/)

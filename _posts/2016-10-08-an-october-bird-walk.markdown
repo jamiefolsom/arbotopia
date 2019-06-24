@@ -17,6 +17,8 @@ comments: []
 
 This morning twenty people faced 40 degree fall weather for a bird walk in the Arnold Arboretum.  Most were local folks but we had a visitor from London and a newly arrived transplant from North Carolina.  She was especially pleased when we heard the clarion call of a Carolina Wren:
 
+<audio controls src="/media/Carolina_Wren.mp3"></audio>
+
 We were never able to tease it out of the thick underbrush at the edge of the property; too bad as it is a striking little bird:
 
 ![p1060458](/images/2016/10/P1060458.jpg)
@@ -52,6 +54,8 @@ We did see one new arrival; a species seldom seen in summer but common in fall
 White-throated Sparrow, Male
 
 When I played it’s melancholic song it perked right up!
+
+<audio controls src="/media/W-T_Sparrow_copy.mp3"></audio>
 
 As we finished the walk we picked up a juvenile Red-tailed Hawk moving about over the wet meadow near the main entrance, thus managing to see at least as many bird species as there were participants in the walk.
 

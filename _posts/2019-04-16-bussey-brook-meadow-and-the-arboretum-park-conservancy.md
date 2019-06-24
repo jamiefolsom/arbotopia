@@ -8,9 +8,9 @@ feature_photo: ''
 date: '2019-04-16T14:01:20.000+00:00'
 
 ---
-[Bussey Brook Meadow and the Arboretum Park Conservancy](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/bussey-brook-meadow-and-the-arboretum-park-conservancy/)
+[Bussey Brook Meadow and the Arboretum Park Conservancy](http://www.arbotopia.com/bussey-brook-meadow-and-the-arboretum-park-conservancy/)
 
-Posted on [**May 22, 2014**](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/bussey-brook-meadow-and-the-arboretum-park-conservancy/ "7:03 pm")
+Posted on [**May 22, 2014**](http://www.arbotopia.com/bussey-brook-meadow-and-the-arboretum-park-conservancy/ "7:03 pm")
 
 On Sunday morning I led a walk along Blackwell Path in the newest section of the Arnold Arboretum, Bussey Brook Meadow. This 24 acre parcel, connecting the main section of the Arboretum with the Forest Hills MBTA Station, is watched over by the [Arboretum Park Conservancy ](http://www.arboretumparkconservancy.org/ "Arboretum Park Conservancy")(APC). Years ago the area was a Boston city dump. In 1996 the APC persuaded Harvard to protect the land through indenture, denying the MBTA’s plan to take it for a bus garage. They then raised money to build a lovely footpath from a gate on Washington Street across from the T station to the Arboretum’s original gate on South Street. In 2002, Mayor Thomas Menino celebrated the Grand Opening of the Bussey Brook Meadow and the Blackwell Path.
 
@@ -94,4 +94,4 @@ My last spring bird walk in the Arboretum will be on Saturday June 7th beginning
 
 Good Birding!
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113131905/http://www.arbotopia.com/category/bird-walks/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/)

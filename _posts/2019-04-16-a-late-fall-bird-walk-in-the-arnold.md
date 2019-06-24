@@ -8,7 +8,7 @@ feature_photo: ''
 date: 2019-04-16 09:53:14 -0400
 
 ---
-Posted on [**October 19, 2013**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/a-late-fall-bird-walk-in-the-arnold/ "8:44 pm")
+Posted on [**October 19, 2013**](http://www.arbotopia.com/a-late-fall-bird-walk-in-the-arnold/ "8:44 pm")
 
 The temperature at 8 AM was in the mid-forties and the birds were having none of it for the first 45 minutes until the sun began to warm things up. Fifteen birders plus my co-leader Andrew and I looked in vain for anything other than robins and jays until we got to the base of Bussey Hill where things began to pick up. A Blackpoll Warbler was our only fall warbler, eating berries in a small euonymus shrub. Farther on we found some common woodpeckers and sparrow species. We heard Golden-crowned Kinglets, and saw Ruby-crowned of the same genus as they flitted about in a crabapple tree.
 
@@ -76,4 +76,4 @@ We will kick off 2014 with a winter walk in the Arboretum on Sunday January 12th
 
 Good Birding!
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113131621/http://www.arbotopia.com/category/bird-walks/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/)

@@ -9,7 +9,7 @@ date: '2019-04-18T15:07:05.000+00:00'
 date_published: 2017-01-08T05:00:00.000+00:00
 
 ---
-Posted on [**January 8, 2017**](https://web.archive.org/web/20171114004038/http://www.arbotopia.com/after-the-storm/ "9:31 pm")
+Posted on [**January 8, 2017**](http://www.arbotopia.com/after-the-storm/ "9:31 pm")
 
 I always like to do a bird walk in January to help fill out everyone’s Year List. Then every sparrow, jay or robin counts for the new year. This morning was a challenge though, with an overnight moderate nor’easter and dawn temperatures at 9 degrees. With a lot of help from the Arboretum staff- clearing the roadways and providing warming refreshments at the end of the walk- I think all of the eight hardy folks that came to the walk thought it worth their effort. Some birds even decided to joint us as well.
 
@@ -55,7 +55,7 @@ Eastern Screech-owl, red color morph.
 
 Alas it was not present! I played the eerie call of this owl from an app on my iPhone, hoping one might respond. I heard nothing, so we continued down the road. But several more patient birders hesitated- and were rewarded:
 
-Audio Player00:0000:00\[Use Up/Down Arrow keys to increase or decrease volume.\](javascript:void(0);)
+<audio controls src="/media/E_Screechowl_copy.mp3"></audio>
 
 A screech was responding to the tape from somewhere in the woods. Very cool!
 
@@ -93,4 +93,4 @@ Notably missing from the list were any woodpecker species (although a good birde
 
 Good birding, and stay warm!
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171114004038/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171114004038/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171114004038/http://www.arbotopia.com/category/bird-walks/), [**Birds**](https://web.archive.org/web/20171114004038/http://www.arbotopia.com/category/birds/), [**Owls**](https://web.archive.org/web/20171114004038/http://www.arbotopia.com/category/owls/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/), [**Birds**](http://www.arbotopia.com/category/birds/), [**Owls**](http://www.arbotopia.com/category/owls/)

@@ -10,7 +10,7 @@ date: '2019-04-16T14:15:23.000+00:00'
 ---
 Season Opener Bird Walk
 
-Posted on [**April 15, 2016**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/season-opener-bird-walk/ "8:26 pm")
+Posted on [**April 15, 2016**](http://www.arbotopia.com/season-opener-bird-walk/ "8:26 pm")
 
 The mid-thirties temperature at 7:00AM did not dampen the enthusiasm of the half dozen stalwarts who showed up for a nice two hour walk at Mass Audubon’s Boston Nature Center and Wildlife Sanctuary (BNC) in Mattapan. This 60 acre urban oasis is just right for birds; lots of briers, tangles and marshy areas. There are several “target birds” at the BNC, and we picked up some of them.
 
@@ -108,4 +108,4 @@ My next walk is this Sunday:
 
 Hope you can join me. Good birding!
 
-Posted in [**Avian**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/bird-walks/), [**Owls**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/owls/)
+Posted in [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/), [**Owls**](http://www.arbotopia.com/category/owls/)

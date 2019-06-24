@@ -9,7 +9,7 @@ date: '2019-04-16T14:12:57.000+00:00'
 
 ---
 
-Posted on [**April 30, 2016**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/first-arnold-arboretum-spring-2016-bird-walk/ "6:05 pm")
+Posted on [**April 30, 2016**](http://www.arbotopia.com/first-arnold-arboretum-spring-2016-bird-walk/ "6:05 pm")
 
 As is common this spring, the morning was chilly when 37 birders arrived at the Arborway Gate for a ninety minute bird walk. By the time we ended, more than two hours later, the temperature heated up, and so did the birding. The landscape was quiet for the first hour or so but a few birds revealed themselves and gave good looks to the crowd. We saw a goody number of lingering White-throats:
 
@@ -108,4 +108,4 @@ Good birding!
 
 Post Script: I’ll be doing the Bird-a-thon again this year for Mass Audubon’s Boston Nature Center. If you’re inclined to support this effort, and the wonderful programs that BNC provides for urban children, Check out my page.
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/bird-walks/), [**Plants**](https://web.archive.org/web/20171113131919/http://www.arbotopia.com/category/plants/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/), [**Plants**](http://www.arbotopia.com/category/plants/)

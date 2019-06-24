@@ -35,6 +35,8 @@ American Robin. The ubiquity of this bird can cause us to miss how handsome they
 
 We spent some time searching for birds near the three man-made ponds landscaped into the property by Fredrick Law Olmsted at the end of the nineteenth century.  During the drought of late summer two of the ponds nearly dried up, leaving only Dawson Pond as habitat for local aquatic life. Today all the ponds were back after the recent rains.  There were no waterfowl,  but as we rounded a pond we heard a distinctive call:
 
+<audio controls src="/media/2_28_Belted_Kingfisher.wav"></audio>
+
 Recording courtesy of Lang Elliott NatureSound Studio
 
 Flying back and forth over Dawson Pond we saw the bird, a Belted Kingfisher!  Kingfishers are never far from open water, and they usually seek greater bodies than the Arboretum has to offer.  Perhaps the concentration of fish brought on by the dry summer brought this one in. In less than a minute, it flew off to the north. They are striking birds: ![](/images/P1040808-1.jpg)

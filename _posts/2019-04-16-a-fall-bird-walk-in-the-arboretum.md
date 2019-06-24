@@ -9,9 +9,9 @@ date: 2019-04-16 09:50:42 -0400
 
 ---
 
-Posted on [**September 29, 2013**](https://web.archive.org/web/20171113130428/http://www.arbotopia.com/a-fall-bird-walk-in-the-arboretum/ "4:13 pm")
+Posted on [**September 29, 2013**](http://www.arbotopia.com/a-fall-bird-walk-in-the-arboretum/ "4:13 pm")
 
-This morning was the first of three fall bird walks in the Arnold Arboretum. The walk was scheduled for 8:00AM and 28 folks and my co-leader Andrew Joslin showed up promptly; I appeared 20 minutes late when I realized the 8:30 start time on my calendar was wrong! Fortunately Andrew kept the group interested, and we headed off for a two hour walk on a sunny fall morning. The birds did not disappoint. We saw most of the expected birds of this season, including several [passerine](https://web.archive.org/web/20171113130428/http://en.wikipedia.org/wiki/Passerine) migrants, and had a couple of nice surprises as well.
+This morning was the first of three fall bird walks in the Arnold Arboretum. The walk was scheduled for 8:00AM and 28 folks and my co-leader Andrew Joslin showed up promptly; I appeared 20 minutes late when I realized the 8:30 start time on my calendar was wrong! Fortunately Andrew kept the group interested, and we headed off for a two hour walk on a sunny fall morning. The birds did not disappoint. We saw most of the expected birds of this season, including several [passerine](http://en.wikipedia.org/wiki/Passerine) migrants, and had a couple of nice surprises as well.
 
 As we were admiring a Great Blue Heron on Faxon Pond a sharp-eyed birder picked up another much less common wading bird sitting in a tree! Well hidden in an oak at pond side was a juvenile Black-crowned Night-heron. With guidance everyone was able to find the bird. This was only my third ever Arboretum sighting of this heron, which seems to be in decline in Massachusetts. Here is a photo of a beautiful adult taken in 2016 in a tree at Leverett Pond edge:
 
@@ -81,4 +81,4 @@ View this checklist online at [http://ebird.org/ebird/view/checklist?subID=S1527
 
 Good Birding!
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171113130428/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171113130428/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113130428/http://www.arbotopia.com/category/bird-walks/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/)

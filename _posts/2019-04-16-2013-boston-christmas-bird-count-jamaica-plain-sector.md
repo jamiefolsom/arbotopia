@@ -8,9 +8,9 @@ feature_photo: ''
 date: 2019-04-16 09:56:42 -0400
 
 ---
-[2013 Boston Christmas Bird Count- Jamaica Plain Sector](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/2013-boston-christmas-bird-count-jamaica-plain-sector/)
+[2013 Boston Christmas Bird Count- Jamaica Plain Sector](http://www.arbotopia.com/2013-boston-christmas-bird-count-jamaica-plain-sector/)
 
-Posted on [**December 24, 2013**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/2013-boston-christmas-bird-count-jamaica-plain-sector/ "5:56 pm")
+Posted on [**December 24, 2013**](http://www.arbotopia.com/2013-boston-christmas-bird-count-jamaica-plain-sector/ "5:56 pm")
 
 This year’s Boston Christmas Bird Count (BCBC) was originally scheduled for Sunday December 15, but a wet and heavy snowstorm was considered too hazardous for road and foot traffic so it was postponed to Saturday the 21st. The weather was warmer, but the birding was not so hot.
 
@@ -184,4 +184,4 @@ Bob Stymeist, compiler
 Arlington, MA  
 bobstymeist@gmail.com
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/category/avian/), [**waterfowl**](https://web.archive.org/web/20171113130605/http://www.arbotopia.com/category/waterfowl/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**waterfowl**](http://www.arbotopia.com/category/waterfowl/)

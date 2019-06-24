@@ -8,7 +8,7 @@ feature_photo: ''
 date: '2019-04-16T14:04:04.000+00:00'
 
 ---
-Posted on [**September 29, 2014**](https://web.archive.org/web/20171114003604/http://www.arbotopia.com/indian-summer-bird-walk-in-the-arboretum/ "6:51 pm")
+Posted on [**September 29, 2014**](http://www.arbotopia.com/indian-summer-bird-walk-in-the-arboretum/ "6:51 pm")
 
 On Saturday I led a group of 13 birders on a walk in the Meadow Road area of the Arboretum. The walk started off at 8 AM with temperatures in the low 50’s but by 10AM the thermometer was reading 72 and headed upwards. The fall migration has been very slow in Boston and today was no exception; we had no northern birds passing through. Overall the species diversity was low, but we did have good looks at several resident birds.
 
@@ -59,4 +59,4 @@ I will conduct another Arnold Arboretum fall walk this Saturday, October 4th at 
 
 Good Birding!
 
-Posted in [**Arnold Arboretum**](https://web.archive.org/web/20171114003604/http://www.arbotopia.com/category/arboretum/), [**Avian**](https://web.archive.org/web/20171114003604/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171114003604/http://www.arbotopia.com/category/bird-walks/)
+Posted in [**Arnold Arboretum**](http://www.arbotopia.com/category/arboretum/), [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/)

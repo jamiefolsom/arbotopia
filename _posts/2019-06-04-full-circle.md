@@ -67,28 +67,28 @@ Jun 1, 2019 11:00 AM - 1:30 PM
 Comments: Sunny  Joppa Flats bird walk  
 **22 species**
 
-Canada Goose 8  
-Mourning Dove 2  
-Chimney Swift 2  
-Turkey Vulture 2  
-Red-tailed Hawk 2  
-Red-bellied Woodpecker 2  
-Eastern Wood-Pewee 1  
-Warbling Vireo 2  
-Blue Jay 2  
-Tree Swallow 4  
-White-breasted Nuthatch 1  
-House Wren 1  
-American Robin 25  
-Gray Catbird 1  
-European Starling 3  
-Cedar Waxwing 2  
-Chipping Sparrow 4  
-Song Sparrow 2  
-Red-winged Blackbird 3  
-Common Grackle 4  
-Yellow Warbler 3  
-House Sparrow 5
+- Canada Goose 8  
+- Mourning Dove 2  
+- Chimney Swift 2  
+- Turkey Vulture 2  
+- Red-tailed Hawk 2  
+- Red-bellied Woodpecker 2  
+- Eastern Wood-Pewee 1  
+- Warbling Vireo 2  
+- Blue Jay 2  
+- Tree Swallow 4  
+- White-breasted Nuthatch 1  
+- House Wren 1  
+- American Robin 25  
+- Gray Catbird 1  
+- European Starling 3  
+- Cedar Waxwing 2  
+- Chipping Sparrow 4  
+- Song Sparrow 2  
+- Red-winged Blackbird 3  
+- Common Grackle 4  
+- Yellow Warbler 3  
+- House Sparrow 5
 
 View this checklist online at [https://ebird.org/view/checklist/S56972157](https://ebird.org/view/checklist/S56972157 "https://ebird.org/view/checklist/S56972157")
 

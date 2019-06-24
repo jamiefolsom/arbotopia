@@ -8,7 +8,7 @@ feature_photo: ''
 date: '2019-04-18T15:04:23.000+00:00'
 
 ---
-Posted on [**April 30, 2017**](https://web.archive.org/web/20171113130623/http://www.arbotopia.com/spring-arrivals-on-the-necklace/ "5:23 pm")
+Posted on [**April 30, 2017**](http://www.arbotopia.com/spring-arrivals-on-the-necklace/ "5:23 pm")
 
 It was cooler this morning than yesterday but 15 birders turned out for a walk around Leveret Pond and on to Olmsted Park and Ward’s Pond and back. The walk was promoted by the [Brookline GreenSpace Alliance](https://web.ahttp://www.brooklinegreenspace.org/) which works tirelessly to maintain the natural beauty of this section of the Emerald Necklace. As we gathered near the parking area off Pond Street we watched two species of swallow cruise over the pond:
 
@@ -48,7 +48,7 @@ Black and White Warblers are usually found on the trunk or main branches of a tr
 
 Throughout the walk we enjoyed the calls of Baltimore Orioles and Warbling Vireos. The latter bird does not match it’s singing brilliance:
 
-Audio Player00:0000:00\[Use Up/Down Arrow keys to increase or decrease volume.\](javascript:void(0);)
+<audio controls src="/media/Warbling_vireo.mp3"></audio>
 
 when finally visualized:
 
@@ -116,4 +116,4 @@ Next weekend I will be leading two more walks in the Arboretum. I hope you can j
 
 Good Birding!
 
-Posted in [**Avian**](https://web.archive.org/web/20171113130623/http://www.arbotopia.com/category/avian/), [**Bird walks**](https://web.archive.org/web/20171113130623/http://www.arbotopia.com/category/bird-walks/), [**Birds**](https://web.archive.org/web/20171113130623/http://www.arbotopia.com/category/birds/), [**waterfowl**](https://web.archive.org/web/20171113130623/http://www.arbotopia.com/category/waterfowl/)
+Posted in [**Avian**](http://www.arbotopia.com/category/avian/), [**Bird walks**](http://www.arbotopia.com/category/bird-walks/), [**Birds**](http://www.arbotopia.com/category/birds/), [**waterfowl**](http://www.arbotopia.com/category/waterfowl/)
