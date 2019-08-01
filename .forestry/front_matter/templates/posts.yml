@@ -34,14 +34,14 @@ fields:
     required: true
   default: post
 pages:
+- "_posts/2019-08-01-peters-hill-fall-bird-walk\uFEFF.md"
+- _posts/2019-08-01-talking-turkey.md
 - _posts/2019-04-28-opening-the-spring-season-2019.md
 - _posts/2019-04-16-a-leverett-pond-olmsted-park-walk.md
 - _posts/2019-04-16-a-late-fall-bird-walk-in-the-arnold.md
 - _posts/2019-04-16-first-arnold-arboretum-spring-2016-bird-walk.md
 - _posts/2019-04-16-misty-and-grey-fall-bird-walk.md
 - _posts/2019-04-16-jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond.md
-- _posts/talking-turkey.md
-- "_posts/peters-hill-fall-bird-walk\uFEFF.md"
 - _posts/2019-04-15-bird-a-thon-2016.md
 - _posts/2019-05-20-recording-the-last-spring-walks.md
 - _posts/2019-06-04-full-circle.md

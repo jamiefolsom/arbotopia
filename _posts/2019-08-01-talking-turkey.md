@@ -40,7 +40,7 @@ Seen in full sunlight, these birds dazzle:
 
 But when it comes to Turkey Day, I’ll go for a domestic bird over one of the tough guys pictured above:
 
-[![IMG_2389](https://web.archive.org/web/20141218232850im_/http://www.arbotopia.com/wp-content/uploads/2014/11/IMG_2389.jpg)](https://web.archive.org/web/20141218232850/http://www.arbotopia.com/wp-content/uploads/2014/11/IMG_2389.jpg)
+[![IMG](https://web.archive.org/web/20141218232850im_/http://www.arbotopia.com/wp-content/uploads/2014/11/IMG_2389.jpg)](https://web.archive.org/web/20141218232850/http://www.arbotopia.com/wp-content/uploads/2014/11/IMG_2389.jpg)
 
 Happy Thanksgiving!
 
