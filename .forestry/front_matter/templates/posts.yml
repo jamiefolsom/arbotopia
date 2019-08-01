@@ -34,8 +34,8 @@ fields:
     required: true
   default: post
 pages:
-- "_posts/2019-08-01-peters-hill-fall-bird-walk\uFEFF.md"
 - _posts/2019-08-01-talking-turkey.md
+- "_posts/2019-08-01-peters-hill-fall-bird-walk\uFEFF.md"
 - _posts/2019-04-28-opening-the-spring-season-2019.md
 - _posts/2019-04-16-a-leverett-pond-olmsted-park-walk.md
 - _posts/2019-04-16-a-late-fall-bird-walk-in-the-arnold.md
