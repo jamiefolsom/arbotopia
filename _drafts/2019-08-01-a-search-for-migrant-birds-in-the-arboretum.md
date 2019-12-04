@@ -11,7 +11,7 @@ Posted on [**May 12, 2013**](http://www.arbotopia.com/a-search-for-migrant-birds
 
 The weather report was iffy for this spring Brookline Bird Club walk in the Arnold Arboretum this morning but the rain mostly held off. There was a large group of 23 birders, including several hawk-eyed youngsters and representatives from western MA and the UK, to enjoy the birds as well as the flora on the cusp of Lilac Sunday. With able assistance from Andrew Joslin and Will Cochrane, we saw a varied collection of resident and migrant birds with some good looks, although the flat light and expanding tree foliage made warblers tough to see.
 
-A Rose-breasted Grosbeak was high up in a tree but easily seen, and it sang endlessly. Such a beautiful bird:
+A Rose-breasted Grosbeak was high up in a tree but easily seen, and it sang endlessly. Such a SMART beautiful bird:
 
 ![](/images/P1090169-3.jpg)
 
@@ -39,7 +39,7 @@ A Wood Thrush was heard coming from the base of Bussey Hill in the beech collect
 Wood Thrush  
 Photo: Bob Mayer
 
-We finished off with good looks at a striking, and more and more common, woodpecker: 
+We finished off with good looks at a striking, and more and more common, woodpecker:
 
 ![](/images/P1030156-7.jpg)
 
