@@ -14,7 +14,7 @@ As we prepare to enjoy the Thanksgiving celebration it seems a good time to appr
 
 _Adult tom turkey in full display at the Boston Nature Center Photo: Bob Mayer_
 
-The combination of being fairly easy to hunt ( try telling that to a turkey hunter! ) and good to eat extinguished the Wild Turkey from Massachusetts in the 1850′s; they were reintroduced in 1970. Today they are quite common throughout the state, even in urban areas:
+The combination of being fairly easy to hunt (try telling that to a turkey hunter! ) and good to eat extinguished the Wild Turkey from Massachusetts in the 1850′s; they were reintroduced in 1970. Today they are quite common throughout the state, even in urban areas:
 
 [![P1110840](https://web.archive.org/web/20141218232850im_/http://www.arbotopia.com/wp-content/uploads/2014/11/P1110840.jpg)](https://web.archive.org/web/20141218232850/http://www.arbotopia.com/wp-content/uploads/2014/11/P1110840.jpg)
 
