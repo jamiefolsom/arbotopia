@@ -5,7 +5,7 @@ author: Bob Mayer
 author_login: admin
 wordpress_id: 48
 wordpress_url: https://arbotopia.com/?p=48
-date: 2014-02-27 00:01:55 +0000
+date: '2014-02-27T00:01:55.000+00:00'
 categories:
 - Uncategorized
 tags: []
@@ -54,6 +54,6 @@ The bird has been seen in this roost hole on most days since it was initially fo
 
 Screech owls don’t lay eggs until mid to late March so this is not a nest.  Nesting owls are given special attention by the birding community to try to avoid disturbance that might cause the female to abandon the nest.  Perhaps this owl will pair and mate and nest somewhere in the Arboretum; they have done so in the past. If I find the nest site, I’ll never tell!
 
-I’m leading a winter bird walk on Saturday March 22nd beginning at 8:00 AM and starting from the main gate off the Arborway.  Perhaps the owl will still be there. We also should see the real harbingers of spring by that date.  Spoiler alert – it isn’t a robin!  Join me.
+I’m leading a winter bird walk on Saturday March 22nd beginning at 8:00 AM and starting from the main gate off the Arborway.  Perhaps the owl will still be there. We also should see the real harbinger of spring by that date.  Spoiler alert – it isn’t a robin!  Join me.
 
 Good Birding.
