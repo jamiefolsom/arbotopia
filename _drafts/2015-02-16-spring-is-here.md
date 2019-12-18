@@ -5,7 +5,7 @@ author: Bob Mayer
 author_login: admin
 wordpress_id: 23
 wordpress_url: https://arbotopia.com//?p=23
-date: 2015-02-16 22:03:36 +0000
+date: '2015-02-16T22:03:36.000+00:00'
 categories:
 - Avian
 - Arnold Arboretum
@@ -15,8 +15,6 @@ tags: []
 comments: []
 
 ---
-
-
 Saturday was the annual January Arnold Arboretum bird walk and 30 people signed up on the Arboretum website.  When I awakened and saw the temperature at 12° F, I wondered if anyone would show up.  I got to the main gate at 9AM (Temp 16° F) and was greeted by 19 bundled-up birders, eager and ready to go!  Our first stop was the feeders next to the Hunnewell Building; maintained with funds from the 1912 Edward Whitney Bird Fund (more about that in a future post).  There was little bird activity in the trees and bushes on the grounds, but the feeders were hopping!  Nothing special; but this group of mostly beginning birders were delighted with close-up views of House Finches, American Goldfinches, cardinals and four sparrow species.  I also discussed the [“magic halo”](/2014/03/14/what-about-birdfeeders.html) I put around the feeders in December; it was doing it’s job.  All the House Sparrows were on the ground waiting for cast-offs from the birds at the feeders.
 
 As we moved on, the birding went from active to nearly absent.  We picked up a Northern Mockingbird in the Leventritt Gardens that responded to my pishing:
@@ -85,7 +83,7 @@ Good luck, and Good Birding!
 
 Actually NEAR, but I wanted to draw you all in.  This was the view out the window of my house Sunday morning :
 
-![](https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1090439.jpg?fit=525%2C394&ssl=1)
+![Half of the window frame is covered in snow](/images/IMG_1633.jpeg)
 
 Trying to fight off major SAD, I thought I’d lay out a photo display of what we are all waiting for, beginning in a few weeks and running into April.  I’m focusing on flora, but can’t resist a few birds as well. I took all of these images in the Arnold Arboretum in recent years.
 
