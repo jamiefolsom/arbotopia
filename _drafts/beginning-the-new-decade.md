@@ -31,3 +31,13 @@ This is the "winter kinglet" in our area, almost never seen other than in late f
 I was ready to declare the walk more of a winter exercise walk than a bird walk when we began to pick up a few birds in the trees above the Hunnewell slope as well as under a nice leafed out shrub.  Song Sparrow, White-throated Sparrow, Northern Cardinal. Someone called out "sapsucker" and after some searching I was able to get on the bird along with half of the group. It was an immature bird:
 
 ![](/images/YBG%CJoBSuOB+yW3NJzMzQ_thumb_186d5.jpg)
+
+Immature Yellow-bellied Sapsucker, showing only a hint of red on the head but with a tinge of yellow on the breast.
+
+A few members of the group, including my co-leader Brendan, saw yet another one of this uncommon species that was showing the full patterning of the bird:
+
+![](/images/BlI6OE ZQtKWdoKmmoSdZw_thumb_bd34.jpg)
+
+I took this photo of a male Yellow-bellied Sapsucker a few years ago in my yard in Jamaica Plain; the rows of small holes in the bark of the yew tree are made by this woodpecker to get sap and attract insects to the sap as well.
+
+We spent some time back at the feeders where we 
