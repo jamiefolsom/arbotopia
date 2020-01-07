@@ -2,7 +2,7 @@
 layout: post
 title: Beginning a New Decade
 author: Bob Mayer
-date_published: 2020-01-07 00:00:00 -0500
+date_published: 
 featured: false
 categories: []
 feature_photo: ''
@@ -29,6 +29,8 @@ Encouraged by the nice collection of birds o n or near the feederswe set off for
 This is the "winter kinglet" in our area, almost never seen other than in late fall and winter.  Our bird today flitted about in an evergreen tree at first but then hopped up into a bare tree giving all good looks.
 
 I was ready to declare the walk more of a winter exercise walk than a bird walk when we began to pick up a few birds in the trees above the Hunnewell slope as well as under a nice leafed out shrub.  Song Sparrow, White-throated Sparrow, Northern Cardinal. Someone called out "sapsucker" and after some searching I was able to get on the bird along with half of the group. It was an immature bird:
+
+![](/images/P1150584.jpeg)
 
 Immature Yellow-bellied Sapsucker, showing only a hint of red on the head but with a tinge of yellow on the breast.
 
