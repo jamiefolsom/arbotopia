@@ -40,17 +40,17 @@ I took this photo of a male Yellow-bellied Sapsucker a few years ago in my yard 
 
 We spent some time back at the feeders where we finally saw a junco; they are usually seen in flocks this time of year. We also heard, then saw, a Carolina Wren:
 
-![](/images/UNTqoW9sS7yWvPJS9HR%NQ_thumb_ba8a.jpg)
+![](/images/J1idyhP8SmK4s3 RgSBDWw_thumb_1b53.jpg)
 
-So we walked about two miles on this walk, but saw nearly all our birds within 150 yards from our start.  Here is the list for the walk:
+So we walked about two miles on this walk, but saw nearly all our birds within 150 yards of our start.  Here is the list for the walk:
 
 Arnold Arboretum, Suffolk, Massachusetts, US  
 Jan 5, 2020 9:00 AM - 10:50 AM  
 Protocol: Traveling  
 2\.0 mile(s)  
 Checklist Comments: 34, sun and clouds, windy; BBC walk  
-21 species  
-  
+21 species
+
 Mallard 2- pair, Faxon Pond  
 Mourning Dove 6  
 Red-tailed Hawk 1  
@@ -71,10 +71,10 @@ American Goldfinch 5
 Dark-eyed Junco 1  
 White-throated Sparrow 3  
 Song Sparrow 4  
-Northern Cardinal 5  
-  
-View this checklist online at [https://ebird.org/checklist/S63048097](https://ebird.org/checklist/S63048097 "https://ebird.org/checklist/S63048097")  
-  
+Northern Cardinal 5
+
+View this checklist online at [https://ebird.org/checklist/S63048097](https://ebird.org/checklist/S63048097 "https://ebird.org/checklist/S63048097")
+
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/checklist/S63048097 "https://ebird.org/checklist/S63048097"))
 
 I have no formal walks scheduled until the spring. Here is a list of those walks:
@@ -89,7 +89,7 @@ A two hour walk suitable for beginners as well as more experienced birders. See 
 
 **Sunday, April 26**
 
-**Olmsted Park and Leverett Pond, Brookline.** 
+**Olmsted Park and Leverett Pond, Brookline.**
 
 8:00 AM- 9:30 AM
 
@@ -123,6 +123,6 @@ A two hour walk suitable for beginners as well as more experienced birders. See 
 
 **rgmayer38@gmail.com**
 
-Hope you can join some of these walks. 
+Hope you can join some of these walks.
 
 Good Birding in 2020!
