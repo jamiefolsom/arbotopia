@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Misty and Grey Fall Bird Walk
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 10:04:59 -0400
+date: '2019-04-16T14:04:59.000+00:00'
+date_published: 
 
 ---
-Posted on [**October 19, 2014**](http://www.arbotopia.com/misty-and-grey-fall-bird-walk/ "2:20 pm")
+Misty and Grey Fall Bird Walk
 
 Six people showed up on Saturday October 4th for a walk on Peters Hill in cloudy and occasionally rainy weather. Birds were sporadic and just like last week we had NO warblers! We did find some fall arrivals here and there and the regular residents. The strangest sighting was a Red-bellied Woodpecker on the gravel road to the stump dump; it seemed to be finding ants or some other critters on the ground. Not often is this bird seen on the ground. Here’s one in more typical pose:
 
