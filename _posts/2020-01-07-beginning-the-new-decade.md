@@ -2,7 +2,7 @@
 layout: post
 title: Beginning a New Decade
 author: Bob Mayer
-date_published: 2020-01-07 18:03:57 -0400
+date_published: 2020-01-07T22:03:57.000+00:00
 featured: false
 categories: []
 feature_photo: ''
@@ -22,13 +22,13 @@ We headed for the feeding station near the Visitor Center and found a few more b
 
 A female House Finch in flight (left) with two males perched nearby.
 
-Encouraged by the nice collection of birds o n or near the feederswe set off for a walk down Meadow Road, up Forcithia Path and up to the top of Bussey Hill. We then descended the hill and followed along Oak Path back to the roadway and then through Leventritt Shrub and Vine Garden and back to to the Visitors Center; almost two miles. In that entire route we saw no more than half a dozen birds total!  There were virtually no avian creatures! The one interesting bird spotted by one of our group was a Golden-crowned Kinglet:
+Encouraged by the nice collection of birds on or near the feeders we set off for a walk down Meadow Road, up Forsythia Path and to the top of Bussey Hill. We then descended the hill and followed along Oak Path back to the roadway and then through Leventritt Shrub and Vine Garden and back to to the Visitors Center; almost two miles. In that entire route we saw no more than half a dozen birds total; there were virtually no avian creatures! The one interesting bird spotted by someone in our group was a Golden-crowned Kinglet:
 
 ![](/images/FMYO2HYnT9iinE86g7CXFQ_thumb_73b4.jpg)
 
-This is the "winter kinglet" in our area, almost never seen other than in late fall and winter.  Our bird today flitted about in an evergreen tree at first but then hopped up into a bare tree giving all good looks.
+This is the "winter kinglet" in our area, almost never seen other than in late fall and winter.  Our bird today flitted about in an evergreen tree at first, but then hopped up into a bare tree giving everyone good looks.
 
-I was ready to declare the walk more of a winter exercise walk than a bird walk when we began to pick up a few birds in the trees above the Hunnewell slope as well as under a nice leafed out shrub.  Song Sparrow, White-throated Sparrow, Northern Cardinal. Someone called out "sapsucker" and after some searching I was able to get on the bird along with half of the group. It was an immature bird:
+I was ready to declare the walk more of a winter exercise walk than a bird walk when we began to pick up a few birds in the trees above the Hunnewell slope as well as under an evergreen shrub.  Song Sparrow, White-throated Sparrow, Northern Cardinal. Someone called out "sapsucker" and after some searching I was able to get on the bird along with half of the group. It was an immature bird:
 
 ![](/images/P1150584.jpeg)
 
@@ -40,18 +40,18 @@ A few members of the group, including my co-leader Brendan, saw yet another one 
 
 I took this photo of a male Yellow-bellied Sapsucker a few years ago in my yard in Jamaica Plain; the rows of small holes in the bark of the yew tree are made by the woodpecker to get sap and also to attract insects to the sap.
 
-We spent some time back at the feeders where we finally saw a junco; they are usually seen in flocks this time of year. We also heard, then saw, a Carolina Wren:
+We spent some time back at the feeders where we finally saw our only junco; they are usually seen in flocks this time of year. We also heard, then saw, a Carolina Wren:
 
 ![](/images/J1idyhP8SmK4s3 RgSBDWw_thumb_1b53.jpg)
 
-So we walked about two miles on this walk, but saw nearly all our birds within 150 yards of our start.  Here is the list for the walk:
+This tiny creature packs a wallop when it breaks into song.
+
+We walked about two miles on this walk, but saw nearly all our birds within 150 yards of our start.  Here is the list for the walk:
 
 Arnold Arboretum, Suffolk, Massachusetts, US  
 Jan 5, 2020 9:00 AM - 10:50 AM  
-Protocol: Traveling  
-2\.0 mile(s)  
 Checklist Comments: 34, sun and clouds, windy; BBC walk  
-21 species
+**21 species**
 
 Mallard 2- pair, Faxon Pond  
 Mourning Dove 6  
