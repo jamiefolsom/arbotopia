@@ -5,11 +5,12 @@ title: First Snow begins a Duck Walk on the Emerald Necklace
 author: Bob Mayer
 wordpress_id: 407
 wordpress_url: https://arbotopia.com/2018/11/19/374-revision-v1/
-date: 2017-12-11 03:25:15 +0000
-date_gmt: 2017-12-11 03:25:15 +0000
+date: '2017-12-11T03:25:15.000+00:00'
+date_gmt: '2017-12-11T03:25:15.000+00:00'
 categories: []
 tags: []
 comments: []
+date_published: 2017-12-10 00:00:00 -0500
 
 ---
 I always like to lead walks focusing on waterfowl.  The birds are pretty predictable, and often allow for good looks for everyone.  I had scouted for this walk several times in the last week, and all the ducks and other waterfowl I had seen were on full display this morning.  The weather was not as bad as had been predicted but did make for some slow and careful walking for the sixteen of us that spent more than two hours on the walk.
