@@ -4,7 +4,7 @@ title: A Bird out of Season and in the Storm
 author: Bob Mayer
 wordpress_id: 349
 wordpress_url: https://arbotopia.com/?p=349
-date: 2013-02-11 19:13:16 +0000
+date: '2013-02-11T19:13:16.000+00:00'
 categories:
 - Avian
 tags: []
@@ -13,12 +13,15 @@ comments: []
 ---
 The feeders in my side yard in Jamaica Plain get pretty good action during the winter.  Over the years I have recorded 28 species drawn to the free lunch, including some less common ones like this Red-breasted Nuthatch:
 
-![](/images/P1150212.jpg)Red-breasted Nuthatch
-Photo: Bob Mayer
+![](/images/P1150212.jpg)
+
+Red-breasted Nuthatch Photo: Bob Mayer
 
 On February 8th, the day that Blizzard 2013 began, I was watching a flurry of activity at the feeders, a typical pre-storm surge.  I noticed a bird that had some yellow coloration; an American Goldfinch perhaps?  On closer inspection the bird was too big for a goldfinch, and the bill was too thin.  After further observation, and a check of my bird guides, I determined it was a Baltimore Oriole!
 
-![](/images/P1040021.jpg)Baltimore Oriole, first year female
+![](/images/P1040021.jpg)
+
+Baltimore Oriole, first year female
 Photo: Bob Mayer
 
 In early May, Baltimore Orioles begin to arrive from as far away as Central America to charm us with their rich, whistling song and bright colors.  Their hanging basket shaped nests are easily recognized in the [Arnold Arboretum](http://www.arboretum.harvard.edu/) and elsewhere.
