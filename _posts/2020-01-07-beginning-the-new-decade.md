@@ -2,7 +2,7 @@
 layout: post
 title: Beginning a New Decade
 author: Bob Mayer
-date_published: 
+date_published: 2020-01-07 18:03:57 -0400
 featured: false
 categories: []
 feature_photo: ''
