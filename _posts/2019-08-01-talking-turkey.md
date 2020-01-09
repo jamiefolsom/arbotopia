@@ -2,7 +2,7 @@
 layout: post
 title: Talking Turkey
 author: Bob Mayer
-date_published: 
+date_published: 2014-11-20 00:00:00 -0500
 featured: false
 categories: []
 feature_photo: ''

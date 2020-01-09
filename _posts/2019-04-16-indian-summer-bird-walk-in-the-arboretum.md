@@ -6,6 +6,7 @@ featured: false
 categories: []
 feature_photo: ''
 date: '2019-04-16T14:04:04.000+00:00'
+date_published: 2014-09-29 00:00:00 -0400
 
 ---
 Posted on [**September 29, 2014**](http://www.arbotopia.com/indian-summer-bird-walk-in-the-arboretum/ "6:51 pm")
