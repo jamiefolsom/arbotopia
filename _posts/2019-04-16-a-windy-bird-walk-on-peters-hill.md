@@ -1,11 +1,12 @@
 ---
 layout: post
 title: A windy bird walk on Peters Hill
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 09:54:12 -0400
+date: '2019-04-16T13:54:12.000+00:00'
+date_published: 2013-10-14 00:00:00 -0400
 
 ---
 [A windy bird walk on Peters Hill](http://www.arbotopia.com/a-windy-bird-walk-on-peters-hill/)

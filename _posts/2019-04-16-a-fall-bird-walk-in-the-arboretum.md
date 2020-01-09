@@ -5,10 +5,10 @@ author: ''
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 09:50:42 -0400
+date: '2019-04-16T13:50:42.000+00:00'
+date_published: 2013-09-29 00:00:00 -0400
 
 ---
-
 Posted on [**September 29, 2013**](http://www.arbotopia.com/a-fall-bird-walk-in-the-arboretum/ "4:13 pm")
 
 This morning was the first of three fall bird walks in the Arnold Arboretum. The walk was scheduled for 8:00AM and 28 folks and my co-leader Andrew Joslin showed up promptly; I appeared 20 minutes late when I realized the 8:30 start time on my calendar was wrong! Fortunately Andrew kept the group interested, and we headed off for a two hour walk on a sunny fall morning. The birds did not disappoint. We saw most of the expected birds of this season, including several [passerine](http://en.wikipedia.org/wiki/Passerine) migrants, and had a couple of nice surprises as well.

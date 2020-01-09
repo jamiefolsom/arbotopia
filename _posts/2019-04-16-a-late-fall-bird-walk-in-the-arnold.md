@@ -1,11 +1,12 @@
 ---
 layout: post
 title: A late fall bird walk in the Arnold
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 09:53:14 -0400
+date: '2019-04-16T13:53:14.000+00:00'
+date_published: 2013-09-29 00:00:00 -0400
 
 ---
 Posted on [**October 19, 2013**](http://www.arbotopia.com/a-late-fall-bird-walk-in-the-arnold/ "8:44 pm")
