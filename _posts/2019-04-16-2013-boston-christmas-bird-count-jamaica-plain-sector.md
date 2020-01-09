@@ -5,7 +5,8 @@ author: ''
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-16 09:56:42 -0400
+date: '2019-04-16T13:56:42.000+00:00'
+date_published: 2013-12-24 00:00:00 -0500
 
 ---
 [2013 Boston Christmas Bird Count- Jamaica Plain Sector](http://www.arbotopia.com/2013-boston-christmas-bird-count-jamaica-plain-sector/)

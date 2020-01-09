@@ -6,6 +6,7 @@ featured: false
 categories: []
 feature_photo: ''
 date: '2019-04-16T13:57:28.000+00:00'
+date_published: 2013-12-07 00:00:00 -0500
 
 ---
 Posted on [**December 7, 2013**](http://www.arbotopia.com/jamaica-pond-bbc-walk-with-side-trip-to-leverett-pond/ "6:07 pm")
