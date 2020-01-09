@@ -12,9 +12,9 @@ categories:
 - Waterfowl
 tags: []
 comments: []
+date_published: 2018-12-10 00:00:00 -0500
+
 ---
-
-
 Well below freezing temperatures greeted the nearly forty birders on Sunday December 9th for a walk around the ponds and landscape  of the middle Emerald Necklace.  As we began I mentioned that a Mandarin Duck that was present in one of the water ways in Central Park, NYC currently that was getting a lot of national press lately had been seen here five years ago. 
 
 ![](/images//2018/12/P1070591.jpg?fit=525%2C386&ssl=1)
