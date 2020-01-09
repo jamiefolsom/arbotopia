@@ -6,6 +6,7 @@ featured: false
 categories: []
 feature_photo: ''
 date: '2019-04-16T14:01:48.000+00:00'
+date_published: 2014-05-04 00:00:00 -0400
 
 ---
 Posted on [**May 4, 2014**](http://www.arbotopia.com/a-well-attended-walk-on-the-other-side/ "8:56 pm")
