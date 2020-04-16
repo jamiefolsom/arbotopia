@@ -6,8 +6,7 @@ author_login: admin
 wordpress_id: 48
 wordpress_url: https://arbotopia.com/?p=48
 date: '2014-02-27T00:01:55.000+00:00'
-categories:
-- Uncategorized
+categories: []
 tags: []
 comments: []
 
