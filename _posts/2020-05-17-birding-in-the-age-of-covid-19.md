@@ -11,11 +11,11 @@ feature_photo: ''
 ---
 The 2020 Mass Bird-a-thon, dubbed the Bird-at-home-a-thon, Started Friday evening at 6PM and ended Saturday May 16 at 6PM.  The rules this year, consistent with the current pandemic lockdown, required birders to bird alone and go to sites reachable on foot.  I chose to bird my yard Friday night and part of Saturday, and to visit the Arnold Arboretum for about 6 hours on Saturday.  The weather couldn't have been better, and the birds cooperated.
 
-I set my goal to get 40 or more species and ended up with 52.  The highlights were the warblers; both at home and in the AA.  I consider it a good day when I can identify by sight or sound ten species of the more than 20 warblers that pass thru eastern Massachusetts during the spring migration.  Yesterday I had 13 species in the Arb, mostly at the top of Bussey Hill.  More surprisingly I had 8 species in my 50 X 50 square foot side yard.  The Chestnut-sided Warbler I had there was not found in the Arboretum, so I ended up with a 14 species day. Here is an image of that little gem:
+I set my goal to get 40 or more species and ended up with 52.  The highlights were the warblers; both at home and in the AA.  I consider it a good day when I can identify by sight or sound ten species of the more than 20 warblers that pass through eastern Massachusetts during the spring migration.  Yesterday I had 13 species in the Arb, mostly at the top of Bussey Hill.  More surprisingly I had 8 species in my 50 X 50 square foot side yard!  The Chestnut-sided Warbler I had there was not found in the Arboretum, so I ended up with a 14 species day. Here is an image of that little gem:
 
 ![](/images/p1020287.jpeg "Male Chestnut-sided Warbler")
 
-Other birds I picked up at home to add to my Arboretum list were a Ruby-throated Hummingbird that buzzed through the yard Friday evening while my wife and I were eating outdoors, two American Crows that I suspect are nesting in a nearby tree, a lovely Veery skulking in the shrubbery;
+Other birds I picked up at home to add to my Arboretum list were a Ruby-throated Hummingbird that buzzed through the yard Friday evening while my wife and I were eating outdoors, two American Crows that I suspect are nesting in a nearby tree, a lovely Veery skulking in the shrubbery:
 
 ![](/images/p1020279.jpeg)
 
@@ -27,15 +27,18 @@ Highlights in the Arboretum other than the warblers included a nice Green Heron 
 
 One of the big limiting factors in terms of finding new species this year was the absence of birding any wetlands or coastal areas, so it was nice to get at least one wading bird. Another waterbird that showed up was a female Mallard with a gaggle of youngsters in a vernal pond along Meadow Road.![](/images/p1090765.jpeg)
 
-When trying to make a big list in a time frame one always thinks of what they missed.  A day before the BAT I was at the top of Bussey Hill and spotted FOUR Indigo Buntings!  I looked for them yesterday to no avail. Here is a shot i took of 2 of them on Thursday:
+When trying to make a big list in a time frame one always thinks of what they missed.  I didn't get either of the waterthrushes that can be seen  here, although I had both of them in the Arboretum in the last few weeks. Here is an image of the less common one, the Louisiana Waterthrush:
+
+A day before the B-A-T I was at the top of Bussey Hill and spotted FOUR Indigo Buntings!  I looked for them yesterday to no avail. Here is a shot I took that captured two of them on Thursday:![](/images/p1090569.jpeg)
+
+And the day before the B-A-T started I had four Indigo Buntings on the grass at the top of Bussey Hill! I looked for them on Saturday to no avail. Here is a shot I got of two of them on Thursday:
 
 ![](/images/p1090755.jpeg)
 
 It would have been a nice addition.  In any case here are the respective lists for my yard and the Arboretum.
 
 **My yard**  
-Checklist Comments: 65, sun and clouds, Bird-a-thon  
-30 species  
+**30 species**  
   
 Mourning Dove 6  
 Chimney Swift 1  
@@ -73,10 +76,10 @@ May 16, 2020 6:30 AM - 12:30 PM
 Protocol: Traveling  
 6\.0 mile(s)  
 Checklist Comments: Bird-a-thon, sunny, 55-70.   
-46 species  
+**46 species**  
   
 Canada Goose 2  
-Mallard 9 female and 8 youngins  
+Mallard 9 a female and 8 recent hatchlings  
 Rock Pigeon (Feral Pigeon) 3  
 Mourning Dove 4  
 Chimney Swift 3  
@@ -126,4 +129,8 @@ View this checklist online at [https://ebird.org/checklist/S69173402](https://eb
   
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/checklist/S69173402 "https://ebird.org/checklist/S69173402"))
 
-Many thanks to all who donated to my Bird-a-thon effort!  We raised nearly a thousand dollars, and as promised I will add to the donations to bring it up to the amount I raised last year.  This will help Mass Audubon and the Boston Nature Center promote programs that raise awareness of the need to support the environment against current efforts to 
+Many thanks to all who donated to my Bird-a-thon effort!  It is still possible to donate; at this website:
+
+[https://tinyurl.com/y82sdkwp](https://tinyurl.com/y82sdkwp "https://tinyurl.com/y82sdkwp")
+
+Good Birding!
