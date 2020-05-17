@@ -29,7 +29,7 @@ One of the big limiting factors in terms of finding new species this year was th
 
 When trying to make a big list in a time frame one always thinks of what they missed.  I didn't get either of the waterthrushes that can be seen  here, although I had both of them in the Arboretum in the last few weeks. Here is an image of the less common one, the Louisiana Waterthrush:
 
-A day before the B-A-T I was at the top of Bussey Hill and spotted FOUR Indigo Buntings!  I looked for them yesterday to no avail. Here is a shot I took that captured two of them on Thursday:![](/images/p1090569.jpeg)
+![](/images/p1090569.jpeg)
 
 And the day before the B-A-T started I had four Indigo Buntings on the grass at the top of Bussey Hill! I looked for them on Saturday to no avail. Here is a shot I got of two of them on Thursday:
 
@@ -38,8 +38,8 @@ And the day before the B-A-T started I had four Indigo Buntings on the grass at 
 It would have been a nice addition.  In any case here are the respective lists for my yard and the Arboretum.
 
 **My yard**  
-**30 species**  
-  
+**30 species**
+
 Mourning Dove 6  
 Chimney Swift 1  
 Ruby-throated Hummingbird 1  
@@ -75,9 +75,9 @@ Northern Cardinal 2
 May 16, 2020 6:30 AM - 12:30 PM  
 Protocol: Traveling  
 6\.0 mile(s)  
-Checklist Comments: Bird-a-thon, sunny, 55-70.   
-**46 species**  
-  
+Checklist Comments: Bird-a-thon, sunny, 55-70.  
+**46 species**
+
 Canada Goose 2  
 Mallard 9 a female and 8 recent hatchlings  
 Rock Pigeon (Feral Pigeon) 3  
@@ -123,10 +123,10 @@ Black-throated Green Warbler 1
 Canada Warbler 1  
 Wilson's Warbler 1  
 Scarlet Tanager 1  
-Northern Cardinal 4  
-  
-View this checklist online at [https://ebird.org/checklist/S69173402](https://ebird.org/checklist/S69173402 "https://ebird.org/checklist/S69173402")  
-  
+Northern Cardinal 4
+
+View this checklist online at [https://ebird.org/checklist/S69173402](https://ebird.org/checklist/S69173402 "https://ebird.org/checklist/S69173402")
+
 This report was generated automatically by eBird v3 ([https://ebird.org/home](https://ebird.org/checklist/S69173402 "https://ebird.org/checklist/S69173402"))
 
 Many thanks to all who donated to my Bird-a-thon effort!  It is still possible to donate; at this website:
