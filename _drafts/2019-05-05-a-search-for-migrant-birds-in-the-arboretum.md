@@ -5,7 +5,7 @@ author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date_published: 2013-05-12 00:00:00 -0400
+date_published: 2013-05-12T04:00:00.000+00:00
 
 ---
 Posted on [**May 12, 2013**](http://www.arbotopia.com/a-search-for-migrant-birds-in-the-arboretum/ "1:11 pm")
