@@ -13,7 +13,7 @@ tags: []
 comments: []
 
 ---
-In my first [Jamaica Pond Ducks post](/2013/01/25/jamaica-pond-ducks.html) I covered the more common waterfowl likely to be seen on [Jamaica Pond](https://www.google.com/maps/@42.31767,-71.118922,16z).  Here I will discuss less common ducks and other birds attracted to the Pond, especially in the fall and winter.
+In my first [Jamaica Pond Ducks post](/2013/01/25/jamaica-pond-ducks.html) I covered the more common waterfowl likely to be seen on [Jamaica Pond](https://www.google.com/maps/ms?msa=0&msid=217541233018515973334.0004d3f5dfbfb11f8bc5f&ie=UTF8&ll=42.309117,-71.112356&spn=0.056111,0.080166&t=m&z=14&vpsrc=6&iwloc=0004d3f5e8b64e73efc5f).  Here I will discuss less common ducks and other birds attracted to the Pond, especially in the fall and winter.
 
 When we think of loons, we imagine being on a tranquil lake in upper New England and listening to their melancholy call:
 
@@ -46,14 +46,14 @@ Photo: Bob Mayer
 
 This poor duck managed to get a Gatorade cap ring in its bill and up over its head, and couldn’t get it off.  My friend Andrew Joslin and I—equipped with waders and nets—tried several times to capture and free the duck, but it wouldn’t let us get close enough.  The Animal Rescue League attempted to net it from a canoe and also failed.  After being in the area for more than a week it disappeared.  We presumed it died, since the plastic “bit” didn’t allow it to fly more than short distances.  The event is a poignant reminder to dispose of your trash properly.
 
-The avian genus _Aythya_ is represented by six species in Massachusetts and five of them have been recorded on the Pond.  The most commonly seen is the Ring-necked Duck:
+The avian genus_ Aythya _is represented by six species in Massachusetts and five of them have been recorded on the Pond.  The most commonly seen is the Ring-necked Duck:
 
 ![](/images//2018/11/Ring-necked-DuckJPG.jpg?fit=525%2C398&ssl=1)
 
 Ring-necked Ducks, two males and a female on the right.
 Photo: Bob Mayer
 
-These handsome ducks should have been called “ring-billed” due to the white ring around their bill. The bill marking is far more distinctive than the chestnut neck ring, found on males and seen only at close range.  One or more Ring-necks have been seen every year recently on the Pond.  On the other hand, the Canvasback—the largest of the _Aythya_ group was documented only once before in this century until two males arrived in January, departing less than 48 hours later.
+These handsome ducks should have been called “ring-billed” due to the white ring around their bill. The bill marking is far more distinctive than the chestnut neck ring, found on males and seen only at close range.  One or more Ring-necks have been seen every year recently on the Pond.  On the other hand, the Canvasback—the largest of the _Aythya g_roup—was documented only once before in this century until two males arrived in January, departing less than 48 hours later.
 
 ![](/images/P1030762.jpg)
 
@@ -90,7 +90,7 @@ Photo: Bob Mayer
 
 A close-up of this bird seems to hint at the reptilian origin of birds, possibly arising from an ancient bird named [**_Archaeopteryx:_**](http://en.wikipedia.org/wiki/Archaeopteryx)
 
-![](/images/2018/11/P1030585.jpg)
+![](https://i2.wp.com/arbotopia.com/wp-content/uploads/2018/11/P1030585.jpg?fit=525%2C434&ssl=1)
 
 Double-crested Cormorant, immature. 
 Photo: Bob Mayer
@@ -102,7 +102,7 @@ In my view, the most beautiful duck on Jamaica Pond is the Wood Duck.
 Wood Duck, male. This species is seen more often on other waterways of the Emerald Necklace than on Jamaica Pond.
 Photo: Bob Mayer
 
-Wood Ducks prefer sheltered water closely surrounded by trees; they appear nearby most frequently along the Riverway.  They are cavity nesters and some volunteer stewards of the Emerald Necklace have recently put up nest boxes at [Leverett Pond](https://www.google.com/maps/place/Leverett+Pond/@42.3286722,-71.1164174,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3799bf7ca5239:0xcfc4c7215c5f096a!8m2!3d42.3288654!4d-71.114029) and [Ward’s Pond](https://www.google.com/maps/place/Wards+Pond/@42.3220373,-71.1202552,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37974ff8d5aab:0x1205bebf111083df!8m2!3d42.3219514!4d-71.1179284)  downstream from Jamaica Pond to try to encourage nesting. So far there have been no takers.
+Wood Ducks prefer sheltered water closely surrounded by trees; they appear nearby most frequently along the Riverway.  They are cavity nesters and some volunteer stewards of the Emerald Necklace have recently put up nest boxes at [Leverett Pond](https://www.google.com/maps/ms?msa=0&msid=217541233018515973334.0004d3f5dfbfb11f8bc5f&ie=UTF8&t=m&vpsrc=0&ll=42.331726,-71.110489&spn=0.006797,0.010021&z=17&iwloc=0004d6f8a02941187a98f) and [Ward’s Pond](https://www.google.com/maps/ms?msa=0&msid=217541233018515973334.0004d3f5dfbfb11f8bc5f&ie=UTF8&t=m&vpsrc=6&ll=42.325349,-71.120231&spn=0.013596,0.020041&z=16&iwloc=0004d6f8a46be4dcf4fb1)  downstream from Jamaica Pond to try to encourage nesting. So far there have been no takers.
 
 Finally I should mention another bird that everyone recognizes when they arrive— Mute Swans.  Mute Swans were imported from Europe in the late 1800s as decorative waterfowl on city ponds and estates and so are not native.  They have multiplied rapidly in the wild and with a voracious appetite and an aggressive attitude they are now considered an invasive species.  They will chase other waterfowl and even people. Here is one getting in your face:
 
