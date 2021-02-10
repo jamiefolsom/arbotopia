@@ -3,7 +3,7 @@ layout: post
 title: A Winter Birding Foray at Olmsted Park
 author: Bob Mayer
 wordpress_id: 54
-date: 2014-12-08 18:38:53 -0500
+date: '2014-12-08T23:38:53.000+00:00'
 categories:
 - Bird Walks
 - Avian
@@ -66,8 +66,6 @@ Winter Wren. This bird is only a little more than three inches in length.  At n
 Photo: Bob Mayer
 
 This tiny wren carries a big stick when it comes to vocalization however. Here is it’s lovely call (sung mostly in the spring):
-
-<audio controls src="/media/Carolina_Wren.mp3"></audio>
 
 _Sound recording courtesy of Lang Elliott NatureSound Studio_
 
