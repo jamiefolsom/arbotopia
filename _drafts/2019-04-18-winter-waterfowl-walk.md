@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Winter Waterfowl Walk
-author: 'Bob Mayer'
+author: Bob Mayer
 featured: false
 categories: []
 feature_photo: ''
-date: 2019-04-18 10:58:29 -0400
+date: '2019-04-18T10:58:29.000-04:00'
 
 ---
-Posted on [**December 13, 2016**](http://www.arbotopia.com/winter-waterfowl-walk/ "1:13 am")
+Posted on **December 11, 2016**
 
 On Sunday morning, with temperatures hovering around 20, I had a turnout of 29 people for a two hour walk exploring the ponds and landscape of the upper Muddy River. We started on the Boston side of Leverett Pond where I expected to find a collection of Wood Ducks along the islands there. As we approached the pond edge a Great Blue Heron flew off:
 
